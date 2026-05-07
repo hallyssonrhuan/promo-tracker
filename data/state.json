@@ -1,11 +1,94 @@
 {
   "_next_id": {
-    "oferta": 1,
-    "produto": 1
+    "oferta": 3,
+    "produto": 3
   },
-  "fontes": {},
-  "historico_preco": [],
-  "notificacoes": [],
-  "ofertas": {},
-  "produtos": {}
+  "fontes": {
+    "promobit": {
+      "ativa": true,
+      "nome": "promobit",
+      "ultima_coleta_em": "2026-05-07T01:26:58.079212-03:00",
+      "ultima_coleta_erro": null,
+      "ultima_coleta_qtd": 2,
+      "ultima_coleta_status": "ok"
+    }
+  },
+  "historico_preco": [
+    {
+      "oferta_id": 1,
+      "preco": 17.4,
+      "registrado_em": "2026-05-07T01:26:49.654032-03:00"
+    },
+    {
+      "oferta_id": 2,
+      "preco": 19.71,
+      "registrado_em": "2026-05-07T01:26:49.654032-03:00"
+    }
+  ],
+  "notificacoes": [
+    {
+      "enviada_em": "2026-05-07T01:26:53.873328-03:00",
+      "erro": null,
+      "oferta_id": 2,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-05-07T01:26:58.078977-03:00",
+      "erro": null,
+      "oferta_id": 1,
+      "sucesso": true,
+      "tipo": "nova"
+    }
+  ],
+  "ofertas": {
+    "1": {
+      "ativa": true,
+      "atualizada_em": "2026-05-07T01:26:49.654032-03:00",
+      "coletada_em": "2026-05-07T01:26:49.654032-03:00",
+      "desconto_pct": 56,
+      "fonte": "promobit",
+      "hash_unico": "6995a5dbbac659f93a79805390f1fbc2",
+      "id": 1,
+      "loja": "Amazon",
+      "preco_atual": 17.4,
+      "preco_de": 39.9,
+      "produto_id": 1,
+      "url": "https://www.promobit.com.br/oferta/shampoo-ghee-de-hidratacao-banana-250-ml-lola-cosmetics-2811680/"
+    },
+    "2": {
+      "ativa": true,
+      "atualizada_em": "2026-05-07T01:26:49.654032-03:00",
+      "coletada_em": "2026-05-07T01:26:49.654032-03:00",
+      "desconto_pct": 67,
+      "fonte": "promobit",
+      "hash_unico": "1cc8933e72365e466fa47f5870607976",
+      "id": 2,
+      "loja": "Amazon",
+      "preco_atual": 19.71,
+      "preco_de": 59.9,
+      "produto_id": 2,
+      "url": "https://www.promobit.com.br/oferta/rapunzel-milk-leave-in-spray-250ml-lola-cosmetics-2812308/"
+    }
+  },
+  "produtos": {
+    "1": {
+      "categoria": "cabelo",
+      "criado_em": "2026-05-07T01:26:49.654058-03:00",
+      "id": 1,
+      "imagem_url": "https://i.promobit.com.br/268/140167172717780984616900487561.jpg",
+      "marca": "Lola Cosmetics",
+      "titulo_normalizado": "shampoo ghee de hidratacao banana 250 ml lola cosmetics",
+      "titulo_original": "Shampoo Ghee De Hidratação Banana 250 ml, Lola Cosmetics"
+    },
+    "2": {
+      "categoria": "cabelo",
+      "criado_em": "2026-05-07T01:26:49.654151-03:00",
+      "id": 2,
+      "imagem_url": "https://i.promobit.com.br/268/951350848217781262993836950348.jpg",
+      "marca": "Lola Cosmetics",
+      "titulo_normalizado": "rapunzel milk leave-in spray 250ml lola cosmetics",
+      "titulo_original": "Rapunzel Milk Leave-in Spray 250ml, Lola Cosmetics"
+    }
+  }
 }
