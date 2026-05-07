@@ -1,15 +1,15 @@
 {
   "_next_id": {
-    "oferta": 5,
-    "produto": 4
+    "oferta": 6,
+    "produto": 5
   },
   "fontes": {
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-05-07T14:23:41.381881-03:00",
+      "ultima_coleta_em": "2026-05-07T16:13:13.046721-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 4,
+      "ultima_coleta_qtd": 5,
       "ultima_coleta_status": "ok"
     }
   },
@@ -108,6 +108,31 @@
       "oferta_id": 2,
       "preco": 19.71,
       "registrado_em": "2026-05-07T14:23:41.381599-03:00"
+    },
+    {
+      "oferta_id": 3,
+      "preco": 195.49,
+      "registrado_em": "2026-05-07T16:13:08.434816-03:00"
+    },
+    {
+      "oferta_id": 1,
+      "preco": 17.4,
+      "registrado_em": "2026-05-07T16:13:08.434816-03:00"
+    },
+    {
+      "oferta_id": 5,
+      "preco": 14.16,
+      "registrado_em": "2026-05-07T16:13:08.434816-03:00"
+    },
+    {
+      "oferta_id": 4,
+      "preco": 20.8,
+      "registrado_em": "2026-05-07T16:13:08.434816-03:00"
+    },
+    {
+      "oferta_id": 2,
+      "preco": 19.71,
+      "registrado_em": "2026-05-07T16:13:08.434816-03:00"
     }
   ],
   "notificacoes": [
@@ -131,12 +156,19 @@
       "oferta_id": 3,
       "sucesso": true,
       "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-05-07T16:13:13.046512-03:00",
+      "erro": null,
+      "oferta_id": 5,
+      "sucesso": true,
+      "tipo": "nova"
     }
   ],
   "ofertas": {
     "1": {
       "ativa": true,
-      "atualizada_em": "2026-05-07T14:23:41.381599-03:00",
+      "atualizada_em": "2026-05-07T16:13:08.434816-03:00",
       "coletada_em": "2026-05-07T01:26:49.654032-03:00",
       "desconto_pct": 56,
       "fonte": "promobit",
@@ -150,7 +182,7 @@
     },
     "2": {
       "ativa": true,
-      "atualizada_em": "2026-05-07T14:23:41.381599-03:00",
+      "atualizada_em": "2026-05-07T16:13:08.434816-03:00",
       "coletada_em": "2026-05-07T01:26:49.654032-03:00",
       "desconto_pct": 67,
       "fonte": "promobit",
@@ -164,7 +196,7 @@
     },
     "3": {
       "ativa": true,
-      "atualizada_em": "2026-05-07T14:23:41.381599-03:00",
+      "atualizada_em": "2026-05-07T16:13:08.434816-03:00",
       "coletada_em": "2026-05-07T08:30:32.276929-03:00",
       "desconto_pct": 44,
       "fonte": "promobit",
@@ -178,7 +210,7 @@
     },
     "4": {
       "ativa": false,
-      "atualizada_em": "2026-05-07T14:23:41.381599-03:00",
+      "atualizada_em": "2026-05-07T16:13:08.434816-03:00",
       "coletada_em": "2026-05-07T14:23:41.381599-03:00",
       "desconto_pct": 65,
       "fonte": "promobit",
@@ -189,6 +221,20 @@
       "preco_de": 59.9,
       "produto_id": 2,
       "url": "https://www.promobit.com.br/oferta/rapunzel-milk-leave-in-spray-250ml-lola-cosmetics-2813095/"
+    },
+    "5": {
+      "ativa": true,
+      "atualizada_em": "2026-05-07T16:13:08.434816-03:00",
+      "coletada_em": "2026-05-07T16:13:08.434816-03:00",
+      "desconto_pct": 59,
+      "fonte": "promobit",
+      "hash_unico": "0935ddc1b27971f87f80a609182051bc",
+      "id": 5,
+      "loja": "Amazon",
+      "preco_atual": 14.16,
+      "preco_de": 34.9,
+      "produto_id": 4,
+      "url": "https://www.promobit.com.br/oferta/lola-cosmetics-xapadinha-mascara-disciplinante-100g-2813529/"
     }
   },
   "produtos": {
@@ -218,6 +264,15 @@
       "marca": "Mizuno",
       "titulo_normalizado": "tenis de corrida feminino mizuno atlantis 2",
       "titulo_original": "Tênis de Corrida Feminino Mizuno Atlantis 2"
+    },
+    "4": {
+      "categoria": "cabelo",
+      "criado_em": "2026-05-07T16:13:08.434950-03:00",
+      "id": 4,
+      "imagem_url": "https://i.promobit.com.br/268/312514175517781810255782595328.jpg",
+      "marca": "Lola Cosmetics",
+      "titulo_normalizado": "lola cosmetics xapadinha mascara disciplinante 100g",
+      "titulo_original": "Lola Cosmetics Xapadinha Máscara Disciplinante 100G"
     }
   }
 }
