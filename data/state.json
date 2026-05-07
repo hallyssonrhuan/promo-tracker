@@ -1,15 +1,15 @@
 {
   "_next_id": {
-    "oferta": 4,
+    "oferta": 5,
     "produto": 4
   },
   "fontes": {
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-05-07T12:39:47.914308-03:00",
+      "ultima_coleta_em": "2026-05-07T14:23:41.381881-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 3,
+      "ultima_coleta_qtd": 4,
       "ultima_coleta_status": "ok"
     }
   },
@@ -88,6 +88,26 @@
       "oferta_id": 2,
       "preco": 19.71,
       "registrado_em": "2026-05-07T12:39:47.914058-03:00"
+    },
+    {
+      "oferta_id": 3,
+      "preco": 195.49,
+      "registrado_em": "2026-05-07T14:23:41.381599-03:00"
+    },
+    {
+      "oferta_id": 1,
+      "preco": 17.4,
+      "registrado_em": "2026-05-07T14:23:41.381599-03:00"
+    },
+    {
+      "oferta_id": 4,
+      "preco": 20.8,
+      "registrado_em": "2026-05-07T14:23:41.381599-03:00"
+    },
+    {
+      "oferta_id": 2,
+      "preco": 19.71,
+      "registrado_em": "2026-05-07T14:23:41.381599-03:00"
     }
   ],
   "notificacoes": [
@@ -116,7 +136,7 @@
   "ofertas": {
     "1": {
       "ativa": true,
-      "atualizada_em": "2026-05-07T12:39:47.914058-03:00",
+      "atualizada_em": "2026-05-07T14:23:41.381599-03:00",
       "coletada_em": "2026-05-07T01:26:49.654032-03:00",
       "desconto_pct": 56,
       "fonte": "promobit",
@@ -130,7 +150,7 @@
     },
     "2": {
       "ativa": true,
-      "atualizada_em": "2026-05-07T12:39:47.914058-03:00",
+      "atualizada_em": "2026-05-07T14:23:41.381599-03:00",
       "coletada_em": "2026-05-07T01:26:49.654032-03:00",
       "desconto_pct": 67,
       "fonte": "promobit",
@@ -144,7 +164,7 @@
     },
     "3": {
       "ativa": true,
-      "atualizada_em": "2026-05-07T12:39:47.914058-03:00",
+      "atualizada_em": "2026-05-07T14:23:41.381599-03:00",
       "coletada_em": "2026-05-07T08:30:32.276929-03:00",
       "desconto_pct": 44,
       "fonte": "promobit",
@@ -155,6 +175,20 @@
       "preco_de": 349.99,
       "produto_id": 3,
       "url": "https://www.promobit.com.br/oferta/tenis-de-corrida-feminino-mizuno-atlantis-2-2812427/"
+    },
+    "4": {
+      "ativa": false,
+      "atualizada_em": "2026-05-07T14:23:41.381599-03:00",
+      "coletada_em": "2026-05-07T14:23:41.381599-03:00",
+      "desconto_pct": 65,
+      "fonte": "promobit",
+      "hash_unico": "dae01b7fd13251e9ad7a70f771889a0d",
+      "id": 4,
+      "loja": "Amazon",
+      "preco_atual": 20.8,
+      "preco_de": 59.9,
+      "produto_id": 2,
+      "url": "https://www.promobit.com.br/oferta/rapunzel-milk-leave-in-spray-250ml-lola-cosmetics-2813095/"
     }
   },
   "produtos": {
