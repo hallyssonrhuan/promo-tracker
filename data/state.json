@@ -1,15 +1,15 @@
 {
   "_next_id": {
-    "oferta": 3,
-    "produto": 3
+    "oferta": 4,
+    "produto": 4
   },
   "fontes": {
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-05-07T06:48:17.639029-03:00",
+      "ultima_coleta_em": "2026-05-07T08:30:37.729466-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 2,
+      "ultima_coleta_qtd": 3,
       "ultima_coleta_status": "ok"
     }
   },
@@ -43,6 +43,21 @@
       "oferta_id": 2,
       "preco": 19.71,
       "registrado_em": "2026-05-07T06:48:17.638841-03:00"
+    },
+    {
+      "oferta_id": 3,
+      "preco": 195.49,
+      "registrado_em": "2026-05-07T08:30:32.276929-03:00"
+    },
+    {
+      "oferta_id": 1,
+      "preco": 17.4,
+      "registrado_em": "2026-05-07T08:30:32.276929-03:00"
+    },
+    {
+      "oferta_id": 2,
+      "preco": 19.71,
+      "registrado_em": "2026-05-07T08:30:32.276929-03:00"
     }
   ],
   "notificacoes": [
@@ -59,12 +74,19 @@
       "oferta_id": 1,
       "sucesso": true,
       "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-05-07T08:30:37.729255-03:00",
+      "erro": null,
+      "oferta_id": 3,
+      "sucesso": true,
+      "tipo": "nova"
     }
   ],
   "ofertas": {
     "1": {
       "ativa": true,
-      "atualizada_em": "2026-05-07T06:48:17.638841-03:00",
+      "atualizada_em": "2026-05-07T08:30:32.276929-03:00",
       "coletada_em": "2026-05-07T01:26:49.654032-03:00",
       "desconto_pct": 56,
       "fonte": "promobit",
@@ -78,7 +100,7 @@
     },
     "2": {
       "ativa": true,
-      "atualizada_em": "2026-05-07T06:48:17.638841-03:00",
+      "atualizada_em": "2026-05-07T08:30:32.276929-03:00",
       "coletada_em": "2026-05-07T01:26:49.654032-03:00",
       "desconto_pct": 67,
       "fonte": "promobit",
@@ -89,6 +111,20 @@
       "preco_de": 59.9,
       "produto_id": 2,
       "url": "https://www.promobit.com.br/oferta/rapunzel-milk-leave-in-spray-250ml-lola-cosmetics-2812308/"
+    },
+    "3": {
+      "ativa": true,
+      "atualizada_em": "2026-05-07T08:30:32.276929-03:00",
+      "coletada_em": "2026-05-07T08:30:32.276929-03:00",
+      "desconto_pct": 44,
+      "fonte": "promobit",
+      "hash_unico": "e086cdb229b92d706182dd9f13cea233",
+      "id": 3,
+      "loja": "Netshoes",
+      "preco_atual": 195.49,
+      "preco_de": 349.99,
+      "produto_id": 3,
+      "url": "https://www.promobit.com.br/oferta/tenis-de-corrida-feminino-mizuno-atlantis-2-2812427/"
     }
   },
   "produtos": {
@@ -109,6 +145,15 @@
       "marca": "Lola Cosmetics",
       "titulo_normalizado": "rapunzel milk leave-in spray 250ml lola cosmetics",
       "titulo_original": "Rapunzel Milk Leave-in Spray 250ml, Lola Cosmetics"
+    },
+    "3": {
+      "categoria": "corrida",
+      "criado_em": "2026-05-07T08:30:32.276967-03:00",
+      "id": 3,
+      "imagem_url": "https://i.promobit.com.br/268/940996381717781526303986390381.png",
+      "marca": "Mizuno",
+      "titulo_normalizado": "tenis de corrida feminino mizuno atlantis 2",
+      "titulo_original": "Tênis de Corrida Feminino Mizuno Atlantis 2"
     }
   }
 }
