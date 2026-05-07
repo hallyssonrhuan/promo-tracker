@@ -7,7 +7,7 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-05-07T08:30:37.729466-03:00",
+      "ultima_coleta_em": "2026-05-07T10:16:51.703246-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 3,
       "ultima_coleta_status": "ok"
@@ -58,6 +58,21 @@
       "oferta_id": 2,
       "preco": 19.71,
       "registrado_em": "2026-05-07T08:30:32.276929-03:00"
+    },
+    {
+      "oferta_id": 3,
+      "preco": 195.49,
+      "registrado_em": "2026-05-07T10:16:51.703021-03:00"
+    },
+    {
+      "oferta_id": 1,
+      "preco": 17.4,
+      "registrado_em": "2026-05-07T10:16:51.703021-03:00"
+    },
+    {
+      "oferta_id": 2,
+      "preco": 19.71,
+      "registrado_em": "2026-05-07T10:16:51.703021-03:00"
     }
   ],
   "notificacoes": [
@@ -86,7 +101,7 @@
   "ofertas": {
     "1": {
       "ativa": true,
-      "atualizada_em": "2026-05-07T08:30:32.276929-03:00",
+      "atualizada_em": "2026-05-07T10:16:51.703021-03:00",
       "coletada_em": "2026-05-07T01:26:49.654032-03:00",
       "desconto_pct": 56,
       "fonte": "promobit",
@@ -100,7 +115,7 @@
     },
     "2": {
       "ativa": true,
-      "atualizada_em": "2026-05-07T08:30:32.276929-03:00",
+      "atualizada_em": "2026-05-07T10:16:51.703021-03:00",
       "coletada_em": "2026-05-07T01:26:49.654032-03:00",
       "desconto_pct": 67,
       "fonte": "promobit",
@@ -114,7 +129,7 @@
     },
     "3": {
       "ativa": true,
-      "atualizada_em": "2026-05-07T08:30:32.276929-03:00",
+      "atualizada_em": "2026-05-07T10:16:51.703021-03:00",
       "coletada_em": "2026-05-07T08:30:32.276929-03:00",
       "desconto_pct": 44,
       "fonte": "promobit",
