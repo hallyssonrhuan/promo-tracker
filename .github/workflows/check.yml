@@ -1,0 +1,61 @@
+name: PromoTracker check
+
+on:
+  # Roda a cada 5 min — GitHub Actions: granularidade min de 5 min em repos publicos.
+  schedule:
+    - cron: "*/5 * * * *"
+  # Permite rodar manualmente pela UI / API
+  workflow_dispatch:
+
+# Apenas 1 run por vez. Se ainda esta rodando quando o cron dispara, o novo
+# fica esperando (ou cancela o anterior — aqui escolhemos esperar).
+concurrency:
+  group: promo-tracker-check
+  cancel-in-progress: false
+
+permissions:
+  contents: write   # precisa pra commit do state.json de volta no repo
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 7   # job inteiro nao pode passar disso (cron e a cada 5min)
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Run check
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          WHATSAPP_PHONE: ${{ secrets.WHATSAPP_PHONE }}
+          WHATSAPP_APIKEY: ${{ secrets.WHATSAPP_APIKEY }}
+          MIN_DESCONTO_PCT: "20"
+          MAX_NOTIFICACOES_POR_JOB: "10"
+          THROTTLE_SEGUNDOS: "3"
+          DEV_MODE: "false"
+          STATE_PATH: "data/state.json"
+        run: python -m scripts.run_check
+
+      - name: Commit state.json se mudou
+        run: |
+          git config user.name "promo-tracker-bot"
+          git config user.email "promo-tracker-bot@users.noreply.github.com"
+          if [[ -n $(git status --porcelain data/state.json) ]]; then
+            git add data/state.json
+            git commit -m "state: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            # Pull-rebase pra evitar conflito caso o run anterior tenha commitado
+            # (acontece se 2 runs rodam quase juntos).
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          else
+            echo "state.json sem mudancas — nada pra commitar"
+          fi

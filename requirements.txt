@@ -1,0 +1,7 @@
+httpx==0.28.1
+hishel==0.1.1
+pydantic-settings==2.7.1
+
+# dev
+pytest==8.3.4
+pytest-asyncio==0.25.2
