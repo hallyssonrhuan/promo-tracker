@@ -7,9 +7,9 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-05-10T01:15:27.263085-03:00",
+      "ultima_coleta_em": "2026-05-10T03:45:37.114709-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 7,
+      "ultima_coleta_qtd": 5,
       "ultima_coleta_status": "ok"
     }
   },
@@ -1298,6 +1298,31 @@
       "oferta_id": 2,
       "preco": 19.71,
       "registrado_em": "2026-05-10T01:15:27.262750-03:00"
+    },
+    {
+      "oferta_id": 8,
+      "preco": 242.99,
+      "registrado_em": "2026-05-10T03:45:37.114477-03:00"
+    },
+    {
+      "oferta_id": 6,
+      "preco": 26.66,
+      "registrado_em": "2026-05-10T03:45:37.114477-03:00"
+    },
+    {
+      "oferta_id": 7,
+      "preco": 10.0,
+      "registrado_em": "2026-05-10T03:45:37.114477-03:00"
+    },
+    {
+      "oferta_id": 5,
+      "preco": 14.16,
+      "registrado_em": "2026-05-10T03:45:37.114477-03:00"
+    },
+    {
+      "oferta_id": 4,
+      "preco": 20.8,
+      "registrado_em": "2026-05-10T03:45:37.114477-03:00"
     }
   ],
   "notificacoes": [
@@ -1353,8 +1378,8 @@
   ],
   "ofertas": {
     "1": {
-      "ativa": true,
-      "atualizada_em": "2026-05-10T01:15:27.262750-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-05-10T03:45:41.810570-03:00",
       "coletada_em": "2026-05-07T01:26:49.654032-03:00",
       "desconto_pct": 56,
       "fonte": "promobit",
@@ -1367,8 +1392,8 @@
       "url": "https://www.promobit.com.br/oferta/shampoo-ghee-de-hidratacao-banana-250-ml-lola-cosmetics-2811680/"
     },
     "2": {
-      "ativa": true,
-      "atualizada_em": "2026-05-10T01:15:27.262750-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-05-10T03:45:45.502160-03:00",
       "coletada_em": "2026-05-07T01:26:49.654032-03:00",
       "desconto_pct": 67,
       "fonte": "promobit",
@@ -1396,7 +1421,7 @@
     },
     "4": {
       "ativa": false,
-      "atualizada_em": "2026-05-10T01:15:27.262750-03:00",
+      "atualizada_em": "2026-05-10T03:45:37.114477-03:00",
       "coletada_em": "2026-05-07T14:23:41.381599-03:00",
       "desconto_pct": 65,
       "fonte": "promobit",
@@ -1410,7 +1435,7 @@
     },
     "5": {
       "ativa": true,
-      "atualizada_em": "2026-05-10T01:15:27.262750-03:00",
+      "atualizada_em": "2026-05-10T03:45:37.114477-03:00",
       "coletada_em": "2026-05-07T16:13:08.434816-03:00",
       "desconto_pct": 59,
       "fonte": "promobit",
@@ -1424,7 +1449,7 @@
     },
     "6": {
       "ativa": true,
-      "atualizada_em": "2026-05-10T01:15:27.262750-03:00",
+      "atualizada_em": "2026-05-10T03:45:37.114477-03:00",
       "coletada_em": "2026-05-07T22:19:19.578658-03:00",
       "desconto_pct": 47,
       "fonte": "promobit",
@@ -1438,7 +1463,7 @@
     },
     "7": {
       "ativa": true,
-      "atualizada_em": "2026-05-10T01:15:27.262750-03:00",
+      "atualizada_em": "2026-05-10T03:45:37.114477-03:00",
       "coletada_em": "2026-05-08T19:34:37.929929-03:00",
       "desconto_pct": 86,
       "fonte": "promobit",
@@ -1452,7 +1477,7 @@
     },
     "8": {
       "ativa": true,
-      "atualizada_em": "2026-05-10T01:15:27.262750-03:00",
+      "atualizada_em": "2026-05-10T03:45:37.114477-03:00",
       "coletada_em": "2026-05-09T20:30:34.079621-03:00",
       "desconto_pct": 39,
       "fonte": "promobit",
