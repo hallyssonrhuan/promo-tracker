@@ -1,15 +1,15 @@
 {
   "_next_id": {
-    "oferta": 15,
-    "produto": 14
+    "oferta": 16,
+    "produto": 15
   },
   "fontes": {
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-05-14T17:02:28.129499-03:00",
+      "ultima_coleta_em": "2026-05-14T18:17:54.885049-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 3,
+      "ultima_coleta_qtd": 4,
       "ultima_coleta_status": "ok"
     }
   },
@@ -2568,6 +2568,26 @@
       "oferta_id": 5,
       "preco": 14.16,
       "registrado_em": "2026-05-14T17:02:28.129217-03:00"
+    },
+    {
+      "oferta_id": 6,
+      "preco": 26.66,
+      "registrado_em": "2026-05-14T18:17:49.901974-03:00"
+    },
+    {
+      "oferta_id": 15,
+      "preco": 28.99,
+      "registrado_em": "2026-05-14T18:17:49.901974-03:00"
+    },
+    {
+      "oferta_id": 7,
+      "preco": 10.0,
+      "registrado_em": "2026-05-14T18:17:49.901974-03:00"
+    },
+    {
+      "oferta_id": 5,
+      "preco": 14.16,
+      "registrado_em": "2026-05-14T18:17:49.901974-03:00"
     }
   ],
   "notificacoes": [
@@ -2661,6 +2681,13 @@
       "oferta_id": 14,
       "sucesso": true,
       "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-05-14T18:17:54.884833-03:00",
+      "erro": null,
+      "oferta_id": 15,
+      "sucesso": true,
+      "tipo": "nova"
     }
   ],
   "ofertas": {
@@ -2748,6 +2775,20 @@
       "produto_id": 13,
       "url": "https://www.promobit.com.br/oferta/tenis-de-corrida-feminino-mizuno-wave-falcon-5-2820874/"
     },
+    "15": {
+      "ativa": true,
+      "atualizada_em": "2026-05-14T18:17:49.901974-03:00",
+      "coletada_em": "2026-05-14T18:17:49.901974-03:00",
+      "desconto_pct": 55,
+      "fonte": "promobit",
+      "hash_unico": "f9ad25998b601093d751a9586fa405b4",
+      "id": 15,
+      "loja": "Amazon",
+      "preco_atual": 28.99,
+      "preco_de": 64.9,
+      "produto_id": 14,
+      "url": "https://www.promobit.com.br/oferta/milagre-creme-para-pentear-450g-lola-cosmetics-2825122/"
+    },
     "2": {
       "ativa": false,
       "atualizada_em": "2026-05-10T03:45:45.502160-03:00",
@@ -2792,7 +2833,7 @@
     },
     "5": {
       "ativa": true,
-      "atualizada_em": "2026-05-14T17:02:28.129217-03:00",
+      "atualizada_em": "2026-05-14T18:17:49.901974-03:00",
       "coletada_em": "2026-05-07T16:13:08.434816-03:00",
       "desconto_pct": 59,
       "fonte": "promobit",
@@ -2806,7 +2847,7 @@
     },
     "6": {
       "ativa": true,
-      "atualizada_em": "2026-05-14T17:02:28.129217-03:00",
+      "atualizada_em": "2026-05-14T18:17:49.901974-03:00",
       "coletada_em": "2026-05-07T22:19:19.578658-03:00",
       "desconto_pct": 47,
       "fonte": "promobit",
@@ -2820,7 +2861,7 @@
     },
     "7": {
       "ativa": true,
-      "atualizada_em": "2026-05-14T17:02:28.129217-03:00",
+      "atualizada_em": "2026-05-14T18:17:49.901974-03:00",
       "coletada_em": "2026-05-08T19:34:37.929929-03:00",
       "desconto_pct": 86,
       "fonte": "promobit",
@@ -2906,6 +2947,15 @@
       "marca": "Mizuno",
       "titulo_normalizado": "tenis de corrida feminino mizuno wave falcon 5",
       "titulo_original": "Tênis de Corrida Feminino Mizuno Wave Falcon 5"
+    },
+    "14": {
+      "categoria": "cabelo",
+      "criado_em": "2026-05-14T18:17:49.902069-03:00",
+      "id": 14,
+      "imagem_url": "https://i.promobit.com.br/268/783742412817787933839661343845.jpg",
+      "marca": "Lola Cosmetics",
+      "titulo_normalizado": "milagre creme para pentear 450g lola cosmetics",
+      "titulo_original": "Milagre Creme para Pentear 450g , Lola Cosmetics"
     },
     "2": {
       "categoria": "cabelo",
