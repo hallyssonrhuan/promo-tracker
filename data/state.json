@@ -1,15 +1,15 @@
 {
   "_next_id": {
-    "oferta": 20,
-    "produto": 18
+    "oferta": 21,
+    "produto": 19
   },
   "fontes": {
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-05-15T14:57:27.577511-03:00",
+      "ultima_coleta_em": "2026-05-15T16:25:22.939580-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 8,
+      "ultima_coleta_qtd": 9,
       "ultima_coleta_status": "ok"
     }
   },
@@ -2898,6 +2898,51 @@
       "oferta_id": 19,
       "preco": 25.93,
       "registrado_em": "2026-05-15T14:57:27.576531-03:00"
+    },
+    {
+      "oferta_id": 20,
+      "preco": 16.66,
+      "registrado_em": "2026-05-15T16:25:17.247783-03:00"
+    },
+    {
+      "oferta_id": 16,
+      "preco": 24.88,
+      "registrado_em": "2026-05-15T16:25:17.247783-03:00"
+    },
+    {
+      "oferta_id": 6,
+      "preco": 26.66,
+      "registrado_em": "2026-05-15T16:25:17.247783-03:00"
+    },
+    {
+      "oferta_id": 18,
+      "preco": 19.71,
+      "registrado_em": "2026-05-15T16:25:17.247783-03:00"
+    },
+    {
+      "oferta_id": 17,
+      "preco": 17.52,
+      "registrado_em": "2026-05-15T16:25:17.247783-03:00"
+    },
+    {
+      "oferta_id": 15,
+      "preco": 28.99,
+      "registrado_em": "2026-05-15T16:25:17.247783-03:00"
+    },
+    {
+      "oferta_id": 7,
+      "preco": 10.0,
+      "registrado_em": "2026-05-15T16:25:17.247783-03:00"
+    },
+    {
+      "oferta_id": 5,
+      "preco": 14.16,
+      "registrado_em": "2026-05-15T16:25:17.247783-03:00"
+    },
+    {
+      "oferta_id": 19,
+      "preco": 25.93,
+      "registrado_em": "2026-05-15T16:25:17.247783-03:00"
     }
   ],
   "notificacoes": [
@@ -3019,6 +3064,13 @@
       "oferta_id": 19,
       "sucesso": true,
       "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-05-15T16:25:22.939203-03:00",
+      "erro": null,
+      "oferta_id": 20,
+      "sucesso": true,
+      "tipo": "nova"
     }
   ],
   "ofertas": {
@@ -3108,7 +3160,7 @@
     },
     "15": {
       "ativa": true,
-      "atualizada_em": "2026-05-15T14:57:27.576531-03:00",
+      "atualizada_em": "2026-05-15T16:25:17.247783-03:00",
       "coletada_em": "2026-05-14T18:17:49.901974-03:00",
       "desconto_pct": 55,
       "fonte": "promobit",
@@ -3122,7 +3174,7 @@
     },
     "16": {
       "ativa": true,
-      "atualizada_em": "2026-05-15T14:57:27.576531-03:00",
+      "atualizada_em": "2026-05-15T16:25:17.247783-03:00",
       "coletada_em": "2026-05-14T22:22:18.190078-03:00",
       "desconto_pct": 62,
       "fonte": "promobit",
@@ -3136,7 +3188,7 @@
     },
     "17": {
       "ativa": true,
-      "atualizada_em": "2026-05-15T14:57:27.576531-03:00",
+      "atualizada_em": "2026-05-15T16:25:17.247783-03:00",
       "coletada_em": "2026-05-15T02:02:54.953502-03:00",
       "desconto_pct": 68,
       "fonte": "promobit",
@@ -3150,7 +3202,7 @@
     },
     "18": {
       "ativa": false,
-      "atualizada_em": "2026-05-15T14:57:27.576531-03:00",
+      "atualizada_em": "2026-05-15T16:25:17.247783-03:00",
       "coletada_em": "2026-05-15T09:20:06.761093-03:00",
       "desconto_pct": 64,
       "fonte": "promobit",
@@ -3164,7 +3216,7 @@
     },
     "19": {
       "ativa": true,
-      "atualizada_em": "2026-05-15T14:57:27.576531-03:00",
+      "atualizada_em": "2026-05-15T16:25:17.247783-03:00",
       "coletada_em": "2026-05-15T11:40:38.826468-03:00",
       "desconto_pct": 34,
       "fonte": "promobit",
@@ -3189,6 +3241,20 @@
       "preco_de": 59.9,
       "produto_id": 2,
       "url": "https://www.promobit.com.br/oferta/rapunzel-milk-leave-in-spray-250ml-lola-cosmetics-2812308/"
+    },
+    "20": {
+      "ativa": true,
+      "atualizada_em": "2026-05-15T16:25:17.247783-03:00",
+      "coletada_em": "2026-05-15T16:25:17.247783-03:00",
+      "desconto_pct": 63,
+      "fonte": "promobit",
+      "hash_unico": "4609d6dfb23bc69711165cc531a1609d",
+      "id": 20,
+      "loja": "Amazon",
+      "preco_atual": 16.66,
+      "preco_de": 44.9,
+      "produto_id": 18,
+      "url": "https://www.promobit.com.br/oferta/xapadinha-shampoo-antiquebra-250ml-lola-cosmetics-2826428/"
     },
     "3": {
       "ativa": true,
@@ -3220,7 +3286,7 @@
     },
     "5": {
       "ativa": true,
-      "atualizada_em": "2026-05-15T14:57:27.576531-03:00",
+      "atualizada_em": "2026-05-15T16:25:17.247783-03:00",
       "coletada_em": "2026-05-07T16:13:08.434816-03:00",
       "desconto_pct": 59,
       "fonte": "promobit",
@@ -3234,7 +3300,7 @@
     },
     "6": {
       "ativa": true,
-      "atualizada_em": "2026-05-15T14:57:27.576531-03:00",
+      "atualizada_em": "2026-05-15T16:25:17.247783-03:00",
       "coletada_em": "2026-05-07T22:19:19.578658-03:00",
       "desconto_pct": 47,
       "fonte": "promobit",
@@ -3248,7 +3314,7 @@
     },
     "7": {
       "ativa": true,
-      "atualizada_em": "2026-05-15T14:57:27.576531-03:00",
+      "atualizada_em": "2026-05-15T16:25:17.247783-03:00",
       "coletada_em": "2026-05-08T19:34:37.929929-03:00",
       "desconto_pct": 86,
       "fonte": "promobit",
@@ -3370,6 +3436,15 @@
       "marca": "Roupa infantil masc",
       "titulo_normalizado": "pijama infantil baby doll camisa alcinha estampa stitch (tam 4 a 12 anos 2 estampas)",
       "titulo_original": "Pijama Infantil Baby Doll Camisa Alcinha Estampa Stitch (Tam. 4 a 12 Anos, 2 Estampas)"
+    },
+    "18": {
+      "categoria": "cabelo",
+      "criado_em": "2026-05-15T16:25:17.247816-03:00",
+      "id": 18,
+      "imagem_url": "https://i.promobit.com.br/268/527733995117788677799027600843.jpg",
+      "marca": "Lola Cosmetics",
+      "titulo_normalizado": "xapadinha shampoo antiquebra 250ml lola cosmetics",
+      "titulo_original": "Xapadinha Shampoo Antiquebra 250ml , Lola Cosmetics"
     },
     "2": {
       "categoria": "cabelo",
