@@ -7,9 +7,9 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-05-18T01:39:33.815238-03:00",
+      "ultima_coleta_em": "2026-05-18T05:35:14.120946-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 10,
+      "ultima_coleta_qtd": 6,
       "ultima_coleta_status": "ok"
     }
   },
@@ -4913,6 +4913,36 @@
       "oferta_id": 19,
       "preco": 25.93,
       "registrado_em": "2026-05-18T01:39:33.814837-03:00"
+    },
+    {
+      "oferta_id": 20,
+      "preco": 16.66,
+      "registrado_em": "2026-05-18T05:35:14.120625-03:00"
+    },
+    {
+      "oferta_id": 21,
+      "preco": 21.5,
+      "registrado_em": "2026-05-18T05:35:14.120625-03:00"
+    },
+    {
+      "oferta_id": 18,
+      "preco": 19.71,
+      "registrado_em": "2026-05-18T05:35:14.120625-03:00"
+    },
+    {
+      "oferta_id": 17,
+      "preco": 17.52,
+      "registrado_em": "2026-05-18T05:35:14.120625-03:00"
+    },
+    {
+      "oferta_id": 7,
+      "preco": 10.0,
+      "registrado_em": "2026-05-18T05:35:14.120625-03:00"
+    },
+    {
+      "oferta_id": 19,
+      "preco": 25.93,
+      "registrado_em": "2026-05-18T05:35:14.120625-03:00"
     }
   ],
   "notificacoes": [
@@ -5136,8 +5166,8 @@
       "url": "https://www.promobit.com.br/oferta/tenis-de-corrida-feminino-mizuno-wave-falcon-5-2820874/"
     },
     "15": {
-      "ativa": true,
-      "atualizada_em": "2026-05-18T01:39:33.814837-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-05-18T05:35:22.925333-03:00",
       "coletada_em": "2026-05-14T18:17:49.901974-03:00",
       "desconto_pct": 55,
       "fonte": "promobit",
@@ -5150,8 +5180,8 @@
       "url": "https://www.promobit.com.br/oferta/milagre-creme-para-pentear-450g-lola-cosmetics-2825122/"
     },
     "16": {
-      "ativa": true,
-      "atualizada_em": "2026-05-18T01:39:33.814837-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-05-18T05:35:26.537082-03:00",
       "coletada_em": "2026-05-14T22:22:18.190078-03:00",
       "desconto_pct": 62,
       "fonte": "promobit",
@@ -5165,7 +5195,7 @@
     },
     "17": {
       "ativa": true,
-      "atualizada_em": "2026-05-18T01:39:33.814837-03:00",
+      "atualizada_em": "2026-05-18T05:35:14.120625-03:00",
       "coletada_em": "2026-05-15T02:02:54.953502-03:00",
       "desconto_pct": 68,
       "fonte": "promobit",
@@ -5179,7 +5209,7 @@
     },
     "18": {
       "ativa": false,
-      "atualizada_em": "2026-05-18T01:39:33.814837-03:00",
+      "atualizada_em": "2026-05-18T05:35:14.120625-03:00",
       "coletada_em": "2026-05-15T09:20:06.761093-03:00",
       "desconto_pct": 64,
       "fonte": "promobit",
@@ -5193,7 +5223,7 @@
     },
     "19": {
       "ativa": true,
-      "atualizada_em": "2026-05-18T01:39:33.814837-03:00",
+      "atualizada_em": "2026-05-18T05:35:14.120625-03:00",
       "coletada_em": "2026-05-15T11:40:38.826468-03:00",
       "desconto_pct": 34,
       "fonte": "promobit",
@@ -5221,7 +5251,7 @@
     },
     "20": {
       "ativa": true,
-      "atualizada_em": "2026-05-18T01:39:33.814837-03:00",
+      "atualizada_em": "2026-05-18T05:35:14.120625-03:00",
       "coletada_em": "2026-05-15T16:25:17.247783-03:00",
       "desconto_pct": 63,
       "fonte": "promobit",
@@ -5235,7 +5265,7 @@
     },
     "21": {
       "ativa": true,
-      "atualizada_em": "2026-05-18T01:39:33.814837-03:00",
+      "atualizada_em": "2026-05-18T05:35:14.120625-03:00",
       "coletada_em": "2026-05-16T15:35:14.236736-03:00",
       "desconto_pct": 64,
       "fonte": "promobit",
@@ -5248,8 +5278,8 @@
       "url": "https://www.promobit.com.br/oferta/rapunzel-milk-leave-in-spray-250ml-lola-cosmetics-2827557/"
     },
     "3": {
-      "ativa": true,
-      "atualizada_em": "2026-05-07T17:39:04.070951-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-05-18T05:35:45.392921-03:00",
       "coletada_em": "2026-05-07T08:30:32.276929-03:00",
       "desconto_pct": 44,
       "fonte": "promobit",
@@ -5276,8 +5306,8 @@
       "url": "https://www.promobit.com.br/oferta/rapunzel-milk-leave-in-spray-250ml-lola-cosmetics-2813095/"
     },
     "5": {
-      "ativa": true,
-      "atualizada_em": "2026-05-18T01:39:33.814837-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-05-18T05:35:49.017984-03:00",
       "coletada_em": "2026-05-07T16:13:08.434816-03:00",
       "desconto_pct": 59,
       "fonte": "promobit",
@@ -5290,8 +5320,8 @@
       "url": "https://www.promobit.com.br/oferta/lola-cosmetics-xapadinha-mascara-disciplinante-100g-2813529/"
     },
     "6": {
-      "ativa": true,
-      "atualizada_em": "2026-05-18T01:39:33.814837-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-05-18T05:35:52.628111-03:00",
       "coletada_em": "2026-05-07T22:19:19.578658-03:00",
       "desconto_pct": 47,
       "fonte": "promobit",
@@ -5305,7 +5335,7 @@
     },
     "7": {
       "ativa": true,
-      "atualizada_em": "2026-05-18T01:39:33.814837-03:00",
+      "atualizada_em": "2026-05-18T05:35:14.120625-03:00",
       "coletada_em": "2026-05-08T19:34:37.929929-03:00",
       "desconto_pct": 86,
       "fonte": "promobit",
