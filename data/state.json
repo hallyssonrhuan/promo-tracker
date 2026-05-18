@@ -7,7 +7,7 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-05-18T16:18:49.073976-03:00",
+      "ultima_coleta_em": "2026-05-18T17:49:12.578236-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 5,
       "ultima_coleta_status": "ok"
@@ -5048,6 +5048,31 @@
       "oferta_id": 7,
       "preco": 10.0,
       "registrado_em": "2026-05-18T16:18:49.073679-03:00"
+    },
+    {
+      "oferta_id": 20,
+      "preco": 16.66,
+      "registrado_em": "2026-05-18T17:49:12.577933-03:00"
+    },
+    {
+      "oferta_id": 21,
+      "preco": 21.5,
+      "registrado_em": "2026-05-18T17:49:12.577933-03:00"
+    },
+    {
+      "oferta_id": 18,
+      "preco": 19.71,
+      "registrado_em": "2026-05-18T17:49:12.577933-03:00"
+    },
+    {
+      "oferta_id": 17,
+      "preco": 17.52,
+      "registrado_em": "2026-05-18T17:49:12.577933-03:00"
+    },
+    {
+      "oferta_id": 7,
+      "preco": 10.0,
+      "registrado_em": "2026-05-18T17:49:12.577933-03:00"
     }
   ],
   "notificacoes": [
@@ -5300,7 +5325,7 @@
     },
     "17": {
       "ativa": true,
-      "atualizada_em": "2026-05-18T16:18:49.073679-03:00",
+      "atualizada_em": "2026-05-18T17:49:12.577933-03:00",
       "coletada_em": "2026-05-15T02:02:54.953502-03:00",
       "desconto_pct": 68,
       "fonte": "promobit",
@@ -5314,7 +5339,7 @@
     },
     "18": {
       "ativa": false,
-      "atualizada_em": "2026-05-18T16:18:49.073679-03:00",
+      "atualizada_em": "2026-05-18T17:49:12.577933-03:00",
       "coletada_em": "2026-05-15T09:20:06.761093-03:00",
       "desconto_pct": 64,
       "fonte": "promobit",
@@ -5356,7 +5381,7 @@
     },
     "20": {
       "ativa": true,
-      "atualizada_em": "2026-05-18T16:18:49.073679-03:00",
+      "atualizada_em": "2026-05-18T17:49:12.577933-03:00",
       "coletada_em": "2026-05-15T16:25:17.247783-03:00",
       "desconto_pct": 63,
       "fonte": "promobit",
@@ -5370,7 +5395,7 @@
     },
     "21": {
       "ativa": true,
-      "atualizada_em": "2026-05-18T16:18:49.073679-03:00",
+      "atualizada_em": "2026-05-18T17:49:12.577933-03:00",
       "coletada_em": "2026-05-16T15:35:14.236736-03:00",
       "desconto_pct": 64,
       "fonte": "promobit",
@@ -5440,7 +5465,7 @@
     },
     "7": {
       "ativa": true,
-      "atualizada_em": "2026-05-18T16:18:49.073679-03:00",
+      "atualizada_em": "2026-05-18T17:49:12.577933-03:00",
       "coletada_em": "2026-05-08T19:34:37.929929-03:00",
       "desconto_pct": 86,
       "fonte": "promobit",
