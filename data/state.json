@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 23,
-    "produto": 20
+    "oferta": 24,
+    "produto": 21
   },
   "fontes": {
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-05-19T08:50:28.197004-03:00",
+      "ultima_coleta_em": "2026-05-19T11:21:21.344327-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 4,
       "ultima_coleta_status": "ok"
@@ -5233,6 +5233,26 @@
       "oferta_id": 17,
       "preco": 17.52,
       "registrado_em": "2026-05-19T08:50:28.196725-03:00"
+    },
+    {
+      "oferta_id": 20,
+      "preco": 16.66,
+      "registrado_em": "2026-05-19T11:21:16.026371-03:00"
+    },
+    {
+      "oferta_id": 23,
+      "preco": 15.9,
+      "registrado_em": "2026-05-19T11:21:16.026371-03:00"
+    },
+    {
+      "oferta_id": 21,
+      "preco": 21.5,
+      "registrado_em": "2026-05-19T11:21:16.026371-03:00"
+    },
+    {
+      "oferta_id": 17,
+      "preco": 17.52,
+      "registrado_em": "2026-05-19T11:21:16.026371-03:00"
     }
   ],
   "notificacoes": [
@@ -5375,6 +5395,13 @@
       "oferta_id": 22,
       "sucesso": true,
       "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-05-19T11:21:21.344124-03:00",
+      "erro": null,
+      "oferta_id": 23,
+      "sucesso": true,
+      "tipo": "nova"
     }
   ],
   "ofertas": {
@@ -5492,7 +5519,7 @@
     },
     "17": {
       "ativa": true,
-      "atualizada_em": "2026-05-19T08:50:28.196725-03:00",
+      "atualizada_em": "2026-05-19T11:21:16.026371-03:00",
       "coletada_em": "2026-05-15T02:02:54.953502-03:00",
       "desconto_pct": 68,
       "fonte": "promobit",
@@ -5548,7 +5575,7 @@
     },
     "20": {
       "ativa": true,
-      "atualizada_em": "2026-05-19T08:50:28.196725-03:00",
+      "atualizada_em": "2026-05-19T11:21:16.026371-03:00",
       "coletada_em": "2026-05-15T16:25:17.247783-03:00",
       "desconto_pct": 63,
       "fonte": "promobit",
@@ -5562,7 +5589,7 @@
     },
     "21": {
       "ativa": true,
-      "atualizada_em": "2026-05-19T08:50:28.196725-03:00",
+      "atualizada_em": "2026-05-19T11:21:16.026371-03:00",
       "coletada_em": "2026-05-16T15:35:14.236736-03:00",
       "desconto_pct": 64,
       "fonte": "promobit",
@@ -5587,6 +5614,20 @@
       "preco_de": 1099.99,
       "produto_id": 19,
       "url": "https://www.promobit.com.br/oferta/tenis-unissex-mizuno-wave-rider-10millennium-2831164/"
+    },
+    "23": {
+      "ativa": true,
+      "atualizada_em": "2026-05-19T11:21:16.026371-03:00",
+      "coletada_em": "2026-05-19T11:21:16.026371-03:00",
+      "desconto_pct": 68,
+      "fonte": "promobit",
+      "hash_unico": "e4a5ace5ccc050c65ced690cb4cea759",
+      "id": 23,
+      "loja": "Amazon",
+      "preco_atual": 15.9,
+      "preco_de": 49.9,
+      "produto_id": 20,
+      "url": "https://www.promobit.com.br/oferta/dream-cream-mascara-de-hidratacao-200g-lola-cosmetics-2831493/"
     },
     "3": {
       "ativa": false,
@@ -5795,6 +5836,15 @@
       "marca": "Lola Cosmetics",
       "titulo_normalizado": "rapunzel milk leave-in spray 250ml lola cosmetics",
       "titulo_original": "Rapunzel Milk Leave-in Spray 250ml, Lola Cosmetics"
+    },
+    "20": {
+      "categoria": "cabelo",
+      "criado_em": "2026-05-19T11:21:16.026482-03:00",
+      "id": 20,
+      "imagem_url": "https://i.promobit.com.br/268/172440783417791957488081564089.jpg",
+      "marca": "Lola Cosmetics",
+      "titulo_normalizado": "dream cream mascara de hidratacao 200g lola cosmetics",
+      "titulo_original": "Dream Cream Máscara de Hidratação 200g Lola Cosmetics"
     },
     "3": {
       "categoria": "corrida",
