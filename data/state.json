@@ -1,15 +1,15 @@
 {
   "_next_id": {
-    "oferta": 22,
-    "produto": 19
+    "oferta": 23,
+    "produto": 20
   },
   "fontes": {
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-05-18T22:51:12.243707-03:00",
+      "ultima_coleta_em": "2026-05-19T02:53:48.145420-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 5,
+      "ultima_coleta_qtd": 4,
       "ultima_coleta_status": "ok"
     }
   },
@@ -5173,6 +5173,26 @@
       "oferta_id": 7,
       "preco": 10.0,
       "registrado_em": "2026-05-18T22:51:12.243433-03:00"
+    },
+    {
+      "oferta_id": 22,
+      "preco": 639.99,
+      "registrado_em": "2026-05-19T02:53:42.884535-03:00"
+    },
+    {
+      "oferta_id": 20,
+      "preco": 16.66,
+      "registrado_em": "2026-05-19T02:53:42.884535-03:00"
+    },
+    {
+      "oferta_id": 21,
+      "preco": 21.5,
+      "registrado_em": "2026-05-19T02:53:42.884535-03:00"
+    },
+    {
+      "oferta_id": 17,
+      "preco": 17.52,
+      "registrado_em": "2026-05-19T02:53:42.884535-03:00"
     }
   ],
   "notificacoes": [
@@ -5308,6 +5328,13 @@
       "oferta_id": 21,
       "sucesso": true,
       "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-05-19T02:53:48.145223-03:00",
+      "erro": null,
+      "oferta_id": 22,
+      "sucesso": true,
+      "tipo": "nova"
     }
   ],
   "ofertas": {
@@ -5425,7 +5452,7 @@
     },
     "17": {
       "ativa": true,
-      "atualizada_em": "2026-05-18T22:51:12.243433-03:00",
+      "atualizada_em": "2026-05-19T02:53:42.884535-03:00",
       "coletada_em": "2026-05-15T02:02:54.953502-03:00",
       "desconto_pct": 68,
       "fonte": "promobit",
@@ -5452,8 +5479,8 @@
       "url": "https://www.promobit.com.br/oferta/danos-vorazes-leave-in-200ml-lola-cosmetics-2825561/"
     },
     "19": {
-      "ativa": true,
-      "atualizada_em": "2026-05-18T09:03:07.597257-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-05-19T02:54:00.193496-03:00",
       "coletada_em": "2026-05-15T11:40:38.826468-03:00",
       "desconto_pct": 34,
       "fonte": "promobit",
@@ -5481,7 +5508,7 @@
     },
     "20": {
       "ativa": true,
-      "atualizada_em": "2026-05-18T22:51:12.243433-03:00",
+      "atualizada_em": "2026-05-19T02:53:42.884535-03:00",
       "coletada_em": "2026-05-15T16:25:17.247783-03:00",
       "desconto_pct": 63,
       "fonte": "promobit",
@@ -5495,7 +5522,7 @@
     },
     "21": {
       "ativa": true,
-      "atualizada_em": "2026-05-18T22:51:12.243433-03:00",
+      "atualizada_em": "2026-05-19T02:53:42.884535-03:00",
       "coletada_em": "2026-05-16T15:35:14.236736-03:00",
       "desconto_pct": 64,
       "fonte": "promobit",
@@ -5506,6 +5533,20 @@
       "preco_de": 59.9,
       "produto_id": 2,
       "url": "https://www.promobit.com.br/oferta/rapunzel-milk-leave-in-spray-250ml-lola-cosmetics-2827557/"
+    },
+    "22": {
+      "ativa": true,
+      "atualizada_em": "2026-05-19T02:53:42.884535-03:00",
+      "coletada_em": "2026-05-19T02:53:42.884535-03:00",
+      "desconto_pct": 42,
+      "fonte": "promobit",
+      "hash_unico": "5b8e2472d2961e07b11a86e430160bcb",
+      "id": 22,
+      "loja": "Centauro",
+      "preco_atual": 639.99,
+      "preco_de": 1099.99,
+      "produto_id": 19,
+      "url": "https://www.promobit.com.br/oferta/tenis-unissex-mizuno-wave-rider-10millennium-2831164/"
     },
     "3": {
       "ativa": false,
@@ -5564,8 +5605,8 @@
       "url": "https://www.promobit.com.br/oferta/meu-cacho-minha-vida-condicionador-500g-lola-cosmetics-2813902/"
     },
     "7": {
-      "ativa": true,
-      "atualizada_em": "2026-05-18T22:51:12.243433-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-05-19T02:54:11.855265-03:00",
       "coletada_em": "2026-05-08T19:34:37.929929-03:00",
       "desconto_pct": 86,
       "fonte": "promobit",
@@ -5696,6 +5737,15 @@
       "marca": "Lola Cosmetics",
       "titulo_normalizado": "xapadinha shampoo antiquebra 250ml lola cosmetics",
       "titulo_original": "Xapadinha Shampoo Antiquebra 250ml , Lola Cosmetics"
+    },
+    "19": {
+      "categoria": "corrida",
+      "criado_em": "2026-05-19T02:53:42.884566-03:00",
+      "id": 19,
+      "imagem_url": "https://i.promobit.com.br/268/360287262417791594998253731549.png",
+      "marca": "Mizuno",
+      "titulo_normalizado": "tenis unissex mizuno wave rider 10 millennium",
+      "titulo_original": "Tênis Unissex Mizuno Wave Rider 10 Millennium"
     },
     "2": {
       "categoria": "cabelo",
