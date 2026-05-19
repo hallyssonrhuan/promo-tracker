@@ -1,15 +1,15 @@
 {
   "_next_id": {
-    "oferta": 24,
-    "produto": 21
+    "oferta": 25,
+    "produto": 22
   },
   "fontes": {
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-05-19T14:21:52.893606-03:00",
+      "ultima_coleta_em": "2026-05-19T16:22:02.708130-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 4,
+      "ultima_coleta_qtd": 5,
       "ultima_coleta_status": "ok"
     }
   },
@@ -5273,6 +5273,31 @@
       "oferta_id": 17,
       "preco": 17.52,
       "registrado_em": "2026-05-19T14:21:52.893320-03:00"
+    },
+    {
+      "oferta_id": 20,
+      "preco": 16.66,
+      "registrado_em": "2026-05-19T16:21:57.604260-03:00"
+    },
+    {
+      "oferta_id": 24,
+      "preco": 31.22,
+      "registrado_em": "2026-05-19T16:21:57.604260-03:00"
+    },
+    {
+      "oferta_id": 23,
+      "preco": 15.9,
+      "registrado_em": "2026-05-19T16:21:57.604260-03:00"
+    },
+    {
+      "oferta_id": 21,
+      "preco": 21.5,
+      "registrado_em": "2026-05-19T16:21:57.604260-03:00"
+    },
+    {
+      "oferta_id": 17,
+      "preco": 17.52,
+      "registrado_em": "2026-05-19T16:21:57.604260-03:00"
     }
   ],
   "notificacoes": [
@@ -5422,6 +5447,13 @@
       "oferta_id": 23,
       "sucesso": true,
       "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-05-19T16:22:02.707901-03:00",
+      "erro": null,
+      "oferta_id": 24,
+      "sucesso": true,
+      "tipo": "nova"
     }
   ],
   "ofertas": {
@@ -5539,7 +5571,7 @@
     },
     "17": {
       "ativa": true,
-      "atualizada_em": "2026-05-19T14:21:52.893320-03:00",
+      "atualizada_em": "2026-05-19T16:21:57.604260-03:00",
       "coletada_em": "2026-05-15T02:02:54.953502-03:00",
       "desconto_pct": 68,
       "fonte": "promobit",
@@ -5595,7 +5627,7 @@
     },
     "20": {
       "ativa": true,
-      "atualizada_em": "2026-05-19T14:21:52.893320-03:00",
+      "atualizada_em": "2026-05-19T16:21:57.604260-03:00",
       "coletada_em": "2026-05-15T16:25:17.247783-03:00",
       "desconto_pct": 63,
       "fonte": "promobit",
@@ -5609,7 +5641,7 @@
     },
     "21": {
       "ativa": true,
-      "atualizada_em": "2026-05-19T14:21:52.893320-03:00",
+      "atualizada_em": "2026-05-19T16:21:57.604260-03:00",
       "coletada_em": "2026-05-16T15:35:14.236736-03:00",
       "desconto_pct": 64,
       "fonte": "promobit",
@@ -5637,7 +5669,7 @@
     },
     "23": {
       "ativa": true,
-      "atualizada_em": "2026-05-19T14:21:52.893320-03:00",
+      "atualizada_em": "2026-05-19T16:21:57.604260-03:00",
       "coletada_em": "2026-05-19T11:21:16.026371-03:00",
       "desconto_pct": 68,
       "fonte": "promobit",
@@ -5648,6 +5680,20 @@
       "preco_de": 49.9,
       "produto_id": 20,
       "url": "https://www.promobit.com.br/oferta/dream-cream-mascara-de-hidratacao-200g-lola-cosmetics-2831493/"
+    },
+    "24": {
+      "ativa": true,
+      "atualizada_em": "2026-05-19T16:21:57.604260-03:00",
+      "coletada_em": "2026-05-19T16:21:57.604260-03:00",
+      "desconto_pct": 55,
+      "fonte": "promobit",
+      "hash_unico": "53c644788eda7f01daa8d66fc3ca402d",
+      "id": 24,
+      "loja": "Amazon",
+      "preco_atual": 31.22,
+      "preco_de": 69.9,
+      "produto_id": 21,
+      "url": "https://www.promobit.com.br/oferta/bemdita-ghee-mascara-reconstrucao-mamao-350g-lola-cosmetics-2832205/"
     },
     "3": {
       "ativa": false,
@@ -5865,6 +5911,15 @@
       "marca": "Lola Cosmetics",
       "titulo_normalizado": "dream cream mascara de hidratacao 200g lola cosmetics",
       "titulo_original": "Dream Cream Máscara de Hidratação 200g Lola Cosmetics"
+    },
+    "21": {
+      "categoria": "cabelo",
+      "criado_em": "2026-05-19T16:21:57.604380-03:00",
+      "id": 21,
+      "imagem_url": "https://i.promobit.com.br/268/510949765117792173642804547917.jpg",
+      "marca": "Lola Cosmetics",
+      "titulo_normalizado": "bemdita ghee mascara reconstrucao mamao 350g lola cosmetics",
+      "titulo_original": "Bemdita Ghee Máscara Reconstrução Mamão 350g, Lola Cosmetics"
     },
     "3": {
       "categoria": "corrida",
