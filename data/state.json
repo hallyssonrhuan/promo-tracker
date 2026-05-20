@@ -1,15 +1,15 @@
 {
   "_next_id": {
-    "oferta": 25,
-    "produto": 22
+    "oferta": 26,
+    "produto": 23
   },
   "fontes": {
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-05-20T08:34:03.470671-03:00",
+      "ultima_coleta_em": "2026-05-20T11:09:18.210221-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 4,
+      "ultima_coleta_qtd": 5,
       "ultima_coleta_status": "ok"
     }
   },
@@ -5458,6 +5458,31 @@
       "oferta_id": 17,
       "preco": 17.52,
       "registrado_em": "2026-05-20T08:34:03.470436-03:00"
+    },
+    {
+      "oferta_id": 25,
+      "preco": 227.99,
+      "registrado_em": "2026-05-20T11:09:13.417486-03:00"
+    },
+    {
+      "oferta_id": 20,
+      "preco": 16.66,
+      "registrado_em": "2026-05-20T11:09:13.417486-03:00"
+    },
+    {
+      "oferta_id": 24,
+      "preco": 31.22,
+      "registrado_em": "2026-05-20T11:09:13.417486-03:00"
+    },
+    {
+      "oferta_id": 23,
+      "preco": 15.9,
+      "registrado_em": "2026-05-20T11:09:13.417486-03:00"
+    },
+    {
+      "oferta_id": 17,
+      "preco": 17.52,
+      "registrado_em": "2026-05-20T11:09:13.417486-03:00"
     }
   ],
   "notificacoes": [
@@ -5614,6 +5639,13 @@
       "oferta_id": 24,
       "sucesso": true,
       "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-05-20T11:09:18.210046-03:00",
+      "erro": null,
+      "oferta_id": 25,
+      "sucesso": true,
+      "tipo": "nova"
     }
   ],
   "ofertas": {
@@ -5731,7 +5763,7 @@
     },
     "17": {
       "ativa": true,
-      "atualizada_em": "2026-05-20T08:34:03.470436-03:00",
+      "atualizada_em": "2026-05-20T11:09:13.417486-03:00",
       "coletada_em": "2026-05-15T02:02:54.953502-03:00",
       "desconto_pct": 68,
       "fonte": "promobit",
@@ -5787,7 +5819,7 @@
     },
     "20": {
       "ativa": true,
-      "atualizada_em": "2026-05-20T08:34:03.470436-03:00",
+      "atualizada_em": "2026-05-20T11:09:13.417486-03:00",
       "coletada_em": "2026-05-15T16:25:17.247783-03:00",
       "desconto_pct": 63,
       "fonte": "promobit",
@@ -5829,7 +5861,7 @@
     },
     "23": {
       "ativa": true,
-      "atualizada_em": "2026-05-20T08:34:03.470436-03:00",
+      "atualizada_em": "2026-05-20T11:09:13.417486-03:00",
       "coletada_em": "2026-05-19T11:21:16.026371-03:00",
       "desconto_pct": 68,
       "fonte": "promobit",
@@ -5843,7 +5875,7 @@
     },
     "24": {
       "ativa": true,
-      "atualizada_em": "2026-05-20T08:34:03.470436-03:00",
+      "atualizada_em": "2026-05-20T11:09:13.417486-03:00",
       "coletada_em": "2026-05-19T16:21:57.604260-03:00",
       "desconto_pct": 55,
       "fonte": "promobit",
@@ -5854,6 +5886,20 @@
       "preco_de": 69.9,
       "produto_id": 21,
       "url": "https://www.promobit.com.br/oferta/bemdita-ghee-mascara-reconstrucao-mamao-350g-lola-cosmetics-2832205/"
+    },
+    "25": {
+      "ativa": true,
+      "atualizada_em": "2026-05-20T11:09:13.417486-03:00",
+      "coletada_em": "2026-05-20T11:09:13.417486-03:00",
+      "desconto_pct": 54,
+      "fonte": "promobit",
+      "hash_unico": "9ef0aa820746e63bbb42f6609fd8ec66",
+      "id": 25,
+      "loja": "Netshoes",
+      "preco_atual": 227.99,
+      "preco_de": 499.99,
+      "produto_id": 22,
+      "url": "https://www.promobit.com.br/oferta/tenis-asics-gel-excite-11-feminino-2833356/"
     },
     "3": {
       "ativa": false,
@@ -6080,6 +6126,15 @@
       "marca": "Lola Cosmetics",
       "titulo_normalizado": "bemdita ghee mascara reconstrucao mamao 350g lola cosmetics",
       "titulo_original": "Bemdita Ghee Máscara Reconstrução Mamão 350g, Lola Cosmetics"
+    },
+    "22": {
+      "categoria": "corrida",
+      "criado_em": "2026-05-20T11:09:13.417518-03:00",
+      "id": 22,
+      "imagem_url": "https://i.promobit.com.br/268/111630712317792829721228992529.png",
+      "marca": "Asics",
+      "titulo_normalizado": "tenis asics gel-excite 11 feminino",
+      "titulo_original": "Tênis Asics Gel-Excite 11 Feminino"
     },
     "3": {
       "categoria": "corrida",
