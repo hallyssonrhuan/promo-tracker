@@ -7,9 +7,9 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-05-20T23:36:01.613090-03:00",
+      "ultima_coleta_em": "2026-05-21T03:36:42.731072-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 3,
+      "ultima_coleta_qtd": 4,
       "ultima_coleta_status": "ok"
     }
   },
@@ -5598,6 +5598,26 @@
       "oferta_id": 17,
       "preco": 17.52,
       "registrado_em": "2026-05-20T23:36:01.612853-03:00"
+    },
+    {
+      "oferta_id": 20,
+      "preco": 16.66,
+      "registrado_em": "2026-05-21T03:36:42.730804-03:00"
+    },
+    {
+      "oferta_id": 24,
+      "preco": 31.22,
+      "registrado_em": "2026-05-21T03:36:42.730804-03:00"
+    },
+    {
+      "oferta_id": 23,
+      "preco": 15.9,
+      "registrado_em": "2026-05-21T03:36:42.730804-03:00"
+    },
+    {
+      "oferta_id": 17,
+      "preco": 17.52,
+      "registrado_em": "2026-05-21T03:36:42.730804-03:00"
     }
   ],
   "notificacoes": [
@@ -5878,7 +5898,7 @@
     },
     "17": {
       "ativa": true,
-      "atualizada_em": "2026-05-20T23:36:01.612853-03:00",
+      "atualizada_em": "2026-05-21T03:36:42.730804-03:00",
       "coletada_em": "2026-05-15T02:02:54.953502-03:00",
       "desconto_pct": 68,
       "fonte": "promobit",
@@ -5934,7 +5954,7 @@
     },
     "20": {
       "ativa": true,
-      "atualizada_em": "2026-05-20T18:21:49.929284-03:00",
+      "atualizada_em": "2026-05-21T03:36:42.730804-03:00",
       "coletada_em": "2026-05-15T16:25:17.247783-03:00",
       "desconto_pct": 63,
       "fonte": "promobit",
@@ -5976,7 +5996,7 @@
     },
     "23": {
       "ativa": true,
-      "atualizada_em": "2026-05-20T23:36:01.612853-03:00",
+      "atualizada_em": "2026-05-21T03:36:42.730804-03:00",
       "coletada_em": "2026-05-19T11:21:16.026371-03:00",
       "desconto_pct": 68,
       "fonte": "promobit",
@@ -5990,7 +6010,7 @@
     },
     "24": {
       "ativa": true,
-      "atualizada_em": "2026-05-20T23:36:01.612853-03:00",
+      "atualizada_em": "2026-05-21T03:36:42.730804-03:00",
       "coletada_em": "2026-05-19T16:21:57.604260-03:00",
       "desconto_pct": 55,
       "fonte": "promobit",
@@ -6101,8 +6121,8 @@
       "url": "https://www.promobit.com.br/oferta/tenis-asics-feminino-gel-sparta-2-corrida-salmao-2816965/"
     },
     "9": {
-      "ativa": true,
-      "atualizada_em": "2026-05-10T17:05:54.631563-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-05-21T03:37:11.412311-03:00",
       "coletada_em": "2026-05-10T11:07:48.266165-03:00",
       "desconto_pct": 39,
       "fonte": "promobit",
