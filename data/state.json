@@ -1,15 +1,15 @@
 {
   "_next_id": {
-    "oferta": 27,
-    "produto": 23
+    "oferta": 28,
+    "produto": 24
   },
   "fontes": {
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-05-21T15:19:41.187309-03:00",
+      "ultima_coleta_em": "2026-05-21T17:14:21.606123-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 4,
+      "ultima_coleta_qtd": 5,
       "ultima_coleta_status": "ok"
     }
   },
@@ -5688,6 +5688,31 @@
       "oferta_id": 17,
       "preco": 17.52,
       "registrado_em": "2026-05-21T15:19:35.160805-03:00"
+    },
+    {
+      "oferta_id": 27,
+      "preco": 600.99,
+      "registrado_em": "2026-05-21T17:14:15.251334-03:00"
+    },
+    {
+      "oferta_id": 26,
+      "preco": 16.9,
+      "registrado_em": "2026-05-21T17:14:15.251334-03:00"
+    },
+    {
+      "oferta_id": 24,
+      "preco": 31.22,
+      "registrado_em": "2026-05-21T17:14:15.251334-03:00"
+    },
+    {
+      "oferta_id": 23,
+      "preco": 15.9,
+      "registrado_em": "2026-05-21T17:14:15.251334-03:00"
+    },
+    {
+      "oferta_id": 17,
+      "preco": 17.52,
+      "registrado_em": "2026-05-21T17:14:15.251334-03:00"
     }
   ],
   "notificacoes": [
@@ -5858,6 +5883,13 @@
       "oferta_id": 26,
       "sucesso": true,
       "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-05-21T17:14:21.605915-03:00",
+      "erro": null,
+      "oferta_id": 27,
+      "sucesso": true,
+      "tipo": "nova"
     }
   ],
   "ofertas": {
@@ -5975,7 +6007,7 @@
     },
     "17": {
       "ativa": true,
-      "atualizada_em": "2026-05-21T15:19:35.160805-03:00",
+      "atualizada_em": "2026-05-21T17:14:15.251334-03:00",
       "coletada_em": "2026-05-15T02:02:54.953502-03:00",
       "desconto_pct": 68,
       "fonte": "promobit",
@@ -6073,7 +6105,7 @@
     },
     "23": {
       "ativa": true,
-      "atualizada_em": "2026-05-21T15:19:35.160805-03:00",
+      "atualizada_em": "2026-05-21T17:14:15.251334-03:00",
       "coletada_em": "2026-05-19T11:21:16.026371-03:00",
       "desconto_pct": 68,
       "fonte": "promobit",
@@ -6087,7 +6119,7 @@
     },
     "24": {
       "ativa": true,
-      "atualizada_em": "2026-05-21T15:19:35.160805-03:00",
+      "atualizada_em": "2026-05-21T17:14:15.251334-03:00",
       "coletada_em": "2026-05-19T16:21:57.604260-03:00",
       "desconto_pct": 55,
       "fonte": "promobit",
@@ -6115,7 +6147,7 @@
     },
     "26": {
       "ativa": true,
-      "atualizada_em": "2026-05-21T15:19:35.160805-03:00",
+      "atualizada_em": "2026-05-21T17:14:15.251334-03:00",
       "coletada_em": "2026-05-21T15:19:35.160805-03:00",
       "desconto_pct": 76,
       "fonte": "promobit",
@@ -6126,6 +6158,20 @@
       "preco_de": 69.9,
       "produto_id": 6,
       "url": "https://www.promobit.com.br/oferta/tonico-de-crescimento-rapunzel-lola-cosmetics-250ml-2835638/"
+    },
+    "27": {
+      "ativa": true,
+      "atualizada_em": "2026-05-21T17:14:15.251334-03:00",
+      "coletada_em": "2026-05-21T17:14:15.251334-03:00",
+      "desconto_pct": 33,
+      "fonte": "promobit",
+      "hash_unico": "4d31f1bd7f447c84a7834d212d822527",
+      "id": 27,
+      "loja": "Mercado Livre",
+      "preco_atual": 600.99,
+      "preco_de": 899.99,
+      "produto_id": 23,
+      "url": "https://www.promobit.com.br/oferta/tenis-adidas-adizero-drive-rc-corrida-leve-energy-rods-neon-2835958/"
     },
     "3": {
       "ativa": false,
@@ -6361,6 +6407,15 @@
       "marca": "Asics",
       "titulo_normalizado": "tenis asics gel-excite 11 feminino",
       "titulo_original": "Tênis Asics Gel-Excite 11 Feminino"
+    },
+    "23": {
+      "categoria": "corrida",
+      "criado_em": "2026-05-21T17:14:15.251366-03:00",
+      "id": 23,
+      "imagem_url": "https://i.promobit.com.br/268/125649445417793933967385829512.png",
+      "marca": "Adidas",
+      "titulo_normalizado": "tenis adidas adizero drive rc corrida leve energy rods neon",
+      "titulo_original": "Tênis Adidas Adizero Drive Rc Corrida Leve Energy Rods Neon"
     },
     "3": {
       "categoria": "corrida",
