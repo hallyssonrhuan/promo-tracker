@@ -1,15 +1,15 @@
 {
   "_next_id": {
-    "oferta": 26,
+    "oferta": 27,
     "produto": 23
   },
   "fontes": {
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-05-21T13:28:36.857715-03:00",
+      "ultima_coleta_em": "2026-05-21T15:19:41.187309-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 3,
+      "ultima_coleta_qtd": 4,
       "ultima_coleta_status": "ok"
     }
   },
@@ -5668,6 +5668,26 @@
       "oferta_id": 17,
       "preco": 17.52,
       "registrado_em": "2026-05-21T13:28:36.857472-03:00"
+    },
+    {
+      "oferta_id": 26,
+      "preco": 16.9,
+      "registrado_em": "2026-05-21T15:19:35.160805-03:00"
+    },
+    {
+      "oferta_id": 24,
+      "preco": 31.22,
+      "registrado_em": "2026-05-21T15:19:35.160805-03:00"
+    },
+    {
+      "oferta_id": 23,
+      "preco": 15.9,
+      "registrado_em": "2026-05-21T15:19:35.160805-03:00"
+    },
+    {
+      "oferta_id": 17,
+      "preco": 17.52,
+      "registrado_em": "2026-05-21T15:19:35.160805-03:00"
     }
   ],
   "notificacoes": [
@@ -5831,6 +5851,13 @@
       "oferta_id": 25,
       "sucesso": true,
       "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-05-21T15:19:41.187093-03:00",
+      "erro": null,
+      "oferta_id": 26,
+      "sucesso": true,
+      "tipo": "nova"
     }
   ],
   "ofertas": {
@@ -5948,7 +5975,7 @@
     },
     "17": {
       "ativa": true,
-      "atualizada_em": "2026-05-21T13:28:36.857472-03:00",
+      "atualizada_em": "2026-05-21T15:19:35.160805-03:00",
       "coletada_em": "2026-05-15T02:02:54.953502-03:00",
       "desconto_pct": 68,
       "fonte": "promobit",
@@ -6046,7 +6073,7 @@
     },
     "23": {
       "ativa": true,
-      "atualizada_em": "2026-05-21T13:28:36.857472-03:00",
+      "atualizada_em": "2026-05-21T15:19:35.160805-03:00",
       "coletada_em": "2026-05-19T11:21:16.026371-03:00",
       "desconto_pct": 68,
       "fonte": "promobit",
@@ -6060,7 +6087,7 @@
     },
     "24": {
       "ativa": true,
-      "atualizada_em": "2026-05-21T13:28:36.857472-03:00",
+      "atualizada_em": "2026-05-21T15:19:35.160805-03:00",
       "coletada_em": "2026-05-19T16:21:57.604260-03:00",
       "desconto_pct": 55,
       "fonte": "promobit",
@@ -6085,6 +6112,20 @@
       "preco_de": 499.99,
       "produto_id": 22,
       "url": "https://www.promobit.com.br/oferta/tenis-asics-gel-excite-11-feminino-2833356/"
+    },
+    "26": {
+      "ativa": true,
+      "atualizada_em": "2026-05-21T15:19:35.160805-03:00",
+      "coletada_em": "2026-05-21T15:19:35.160805-03:00",
+      "desconto_pct": 76,
+      "fonte": "promobit",
+      "hash_unico": "5d3f465d966ea00be13080cab279f472",
+      "id": 26,
+      "loja": "Amazon",
+      "preco_atual": 16.9,
+      "preco_de": 69.9,
+      "produto_id": 6,
+      "url": "https://www.promobit.com.br/oferta/tonico-de-crescimento-rapunzel-lola-cosmetics-250ml-2835638/"
     },
     "3": {
       "ativa": false,
