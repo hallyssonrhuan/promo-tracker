@@ -7,7 +7,7 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-05-21T19:54:44.174410-03:00",
+      "ultima_coleta_em": "2026-05-21T20:47:30.872567-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 4,
       "ultima_coleta_status": "ok"
@@ -5753,6 +5753,26 @@
       "oferta_id": 17,
       "preco": 17.52,
       "registrado_em": "2026-05-21T19:54:44.174196-03:00"
+    },
+    {
+      "oferta_id": 27,
+      "preco": 600.99,
+      "registrado_em": "2026-05-21T20:47:30.872320-03:00"
+    },
+    {
+      "oferta_id": 24,
+      "preco": 31.22,
+      "registrado_em": "2026-05-21T20:47:30.872320-03:00"
+    },
+    {
+      "oferta_id": 23,
+      "preco": 15.9,
+      "registrado_em": "2026-05-21T20:47:30.872320-03:00"
+    },
+    {
+      "oferta_id": 17,
+      "preco": 17.52,
+      "registrado_em": "2026-05-21T20:47:30.872320-03:00"
     }
   ],
   "notificacoes": [
@@ -6047,7 +6067,7 @@
     },
     "17": {
       "ativa": true,
-      "atualizada_em": "2026-05-21T19:54:44.174196-03:00",
+      "atualizada_em": "2026-05-21T20:47:30.872320-03:00",
       "coletada_em": "2026-05-15T02:02:54.953502-03:00",
       "desconto_pct": 68,
       "fonte": "promobit",
@@ -6145,7 +6165,7 @@
     },
     "23": {
       "ativa": true,
-      "atualizada_em": "2026-05-21T19:54:44.174196-03:00",
+      "atualizada_em": "2026-05-21T20:47:30.872320-03:00",
       "coletada_em": "2026-05-19T11:21:16.026371-03:00",
       "desconto_pct": 68,
       "fonte": "promobit",
@@ -6159,7 +6179,7 @@
     },
     "24": {
       "ativa": true,
-      "atualizada_em": "2026-05-21T19:54:44.174196-03:00",
+      "atualizada_em": "2026-05-21T20:47:30.872320-03:00",
       "coletada_em": "2026-05-19T16:21:57.604260-03:00",
       "desconto_pct": 55,
       "fonte": "promobit",
@@ -6201,7 +6221,7 @@
     },
     "27": {
       "ativa": true,
-      "atualizada_em": "2026-05-21T19:54:44.174196-03:00",
+      "atualizada_em": "2026-05-21T20:47:30.872320-03:00",
       "coletada_em": "2026-05-21T17:14:15.251334-03:00",
       "desconto_pct": 33,
       "fonte": "promobit",
