@@ -7,7 +7,7 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-05-21T22:50:23.621396-03:00",
+      "ultima_coleta_em": "2026-05-22T02:53:08.810248-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 3,
       "ultima_coleta_status": "ok"
@@ -5788,6 +5788,21 @@
       "oferta_id": 17,
       "preco": 17.52,
       "registrado_em": "2026-05-21T22:50:23.621149-03:00"
+    },
+    {
+      "oferta_id": 24,
+      "preco": 31.22,
+      "registrado_em": "2026-05-22T02:53:08.809995-03:00"
+    },
+    {
+      "oferta_id": 23,
+      "preco": 15.9,
+      "registrado_em": "2026-05-22T02:53:08.809995-03:00"
+    },
+    {
+      "oferta_id": 17,
+      "preco": 17.52,
+      "registrado_em": "2026-05-22T02:53:08.809995-03:00"
     }
   ],
   "notificacoes": [
@@ -6011,8 +6026,8 @@
       "url": "https://www.promobit.com.br/oferta/tenis-asics-gel-nimbus-27-feminino-2818175/"
     },
     "12": {
-      "ativa": true,
-      "atualizada_em": "2026-05-12T11:49:35.881410-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-05-22T02:53:13.905274-03:00",
       "coletada_em": "2026-05-11T13:45:38.796117-03:00",
       "desconto_pct": 41,
       "fonte": "promobit",
@@ -6082,7 +6097,7 @@
     },
     "17": {
       "ativa": true,
-      "atualizada_em": "2026-05-21T22:50:23.621149-03:00",
+      "atualizada_em": "2026-05-22T02:53:08.809995-03:00",
       "coletada_em": "2026-05-15T02:02:54.953502-03:00",
       "desconto_pct": 68,
       "fonte": "promobit",
@@ -6180,7 +6195,7 @@
     },
     "23": {
       "ativa": true,
-      "atualizada_em": "2026-05-21T22:50:23.621149-03:00",
+      "atualizada_em": "2026-05-22T02:53:08.809995-03:00",
       "coletada_em": "2026-05-19T11:21:16.026371-03:00",
       "desconto_pct": 68,
       "fonte": "promobit",
@@ -6194,7 +6209,7 @@
     },
     "24": {
       "ativa": true,
-      "atualizada_em": "2026-05-21T22:50:23.621149-03:00",
+      "atualizada_em": "2026-05-22T02:53:08.809995-03:00",
       "coletada_em": "2026-05-19T16:21:57.604260-03:00",
       "desconto_pct": 55,
       "fonte": "promobit",
