@@ -1,15 +1,15 @@
 {
   "_next_id": {
-    "oferta": 29,
+    "oferta": 30,
     "produto": 25
   },
   "fontes": {
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-05-23T08:47:52.596734-03:00",
+      "ultima_coleta_em": "2026-05-23T09:45:19.472120-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 2,
+      "ultima_coleta_qtd": 3,
       "ultima_coleta_status": "ok"
     }
   },
@@ -6018,6 +6018,21 @@
       "oferta_id": 17,
       "preco": 17.52,
       "registrado_em": "2026-05-23T08:47:52.596529-03:00"
+    },
+    {
+      "oferta_id": 29,
+      "preco": 15.75,
+      "registrado_em": "2026-05-23T09:45:14.654502-03:00"
+    },
+    {
+      "oferta_id": 23,
+      "preco": 15.9,
+      "registrado_em": "2026-05-23T09:45:14.654502-03:00"
+    },
+    {
+      "oferta_id": 17,
+      "preco": 17.52,
+      "registrado_em": "2026-05-23T09:45:14.654502-03:00"
     }
   ],
   "notificacoes": [
@@ -6202,6 +6217,13 @@
       "oferta_id": 28,
       "sucesso": true,
       "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-05-23T09:45:19.471840-03:00",
+      "erro": null,
+      "oferta_id": 29,
+      "sucesso": true,
+      "tipo": "nova"
     }
   ],
   "ofertas": {
@@ -6319,7 +6341,7 @@
     },
     "17": {
       "ativa": true,
-      "atualizada_em": "2026-05-23T08:47:52.596529-03:00",
+      "atualizada_em": "2026-05-23T09:45:14.654502-03:00",
       "coletada_em": "2026-05-15T02:02:54.953502-03:00",
       "desconto_pct": 68,
       "fonte": "promobit",
@@ -6417,7 +6439,7 @@
     },
     "23": {
       "ativa": true,
-      "atualizada_em": "2026-05-23T08:47:52.596529-03:00",
+      "atualizada_em": "2026-05-23T09:45:14.654502-03:00",
       "coletada_em": "2026-05-19T11:21:16.026371-03:00",
       "desconto_pct": 68,
       "fonte": "promobit",
@@ -6498,6 +6520,20 @@
       "preco_de": 399.9,
       "produto_id": 24,
       "url": "https://www.promobit.com.br/oferta/tenis-adidas-response-runner-2-unissex-corrida-treino-2836689/"
+    },
+    "29": {
+      "ativa": true,
+      "atualizada_em": "2026-05-23T09:45:14.654502-03:00",
+      "coletada_em": "2026-05-23T09:45:14.654502-03:00",
+      "desconto_pct": 61,
+      "fonte": "promobit",
+      "hash_unico": "93d582e8214e036851c47fd61532aae1",
+      "id": 29,
+      "loja": "Amazon",
+      "preco_atual": 15.75,
+      "preco_de": 39.9,
+      "produto_id": 1,
+      "url": "https://www.promobit.com.br/oferta/shampoo-ghee-de-hidratacao-banana-250-ml-lola-cosmetics-2838395/"
     },
     "3": {
       "ativa": false,
