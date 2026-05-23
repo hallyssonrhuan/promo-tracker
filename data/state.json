@@ -7,9 +7,9 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-05-23T01:55:48.010134-03:00",
+      "ultima_coleta_em": "2026-05-23T06:18:58.712885-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 3,
+      "ultima_coleta_qtd": 2,
       "ultima_coleta_status": "ok"
     }
   },
@@ -5988,6 +5988,16 @@
       "oferta_id": 17,
       "preco": 17.52,
       "registrado_em": "2026-05-23T01:55:48.009851-03:00"
+    },
+    {
+      "oferta_id": 23,
+      "preco": 15.9,
+      "registrado_em": "2026-05-23T06:18:58.712698-03:00"
+    },
+    {
+      "oferta_id": 17,
+      "preco": 17.52,
+      "registrado_em": "2026-05-23T06:18:58.712698-03:00"
     }
   ],
   "notificacoes": [
@@ -6289,7 +6299,7 @@
     },
     "17": {
       "ativa": true,
-      "atualizada_em": "2026-05-23T01:55:48.009851-03:00",
+      "atualizada_em": "2026-05-23T06:18:58.712698-03:00",
       "coletada_em": "2026-05-15T02:02:54.953502-03:00",
       "desconto_pct": 68,
       "fonte": "promobit",
@@ -6387,7 +6397,7 @@
     },
     "23": {
       "ativa": true,
-      "atualizada_em": "2026-05-23T01:55:48.009851-03:00",
+      "atualizada_em": "2026-05-23T06:18:58.712698-03:00",
       "coletada_em": "2026-05-19T11:21:16.026371-03:00",
       "desconto_pct": 68,
       "fonte": "promobit",
@@ -6400,8 +6410,8 @@
       "url": "https://www.promobit.com.br/oferta/dream-cream-mascara-de-hidratacao-200g-lola-cosmetics-2831493/"
     },
     "24": {
-      "ativa": true,
-      "atualizada_em": "2026-05-23T01:55:48.009851-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-05-23T06:19:18.851300-03:00",
       "coletada_em": "2026-05-19T16:21:57.604260-03:00",
       "desconto_pct": 55,
       "fonte": "promobit",
