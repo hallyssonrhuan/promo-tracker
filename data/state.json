@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 31,
-    "produto": 26
+    "oferta": 32,
+    "produto": 27
   },
   "fontes": {
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-05-24T22:35:31.670834-03:00",
+      "ultima_coleta_em": "2026-05-25T03:06:37.194275-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 4,
       "ultima_coleta_status": "ok"
@@ -6443,6 +6443,26 @@
       "oferta_id": 17,
       "preco": 17.52,
       "registrado_em": "2026-05-24T22:35:26.716580-03:00"
+    },
+    {
+      "oferta_id": 31,
+      "preco": 549.99,
+      "registrado_em": "2026-05-25T03:06:32.716350-03:00"
+    },
+    {
+      "oferta_id": 30,
+      "preco": 527.24,
+      "registrado_em": "2026-05-25T03:06:32.716350-03:00"
+    },
+    {
+      "oferta_id": 29,
+      "preco": 15.75,
+      "registrado_em": "2026-05-25T03:06:32.716350-03:00"
+    },
+    {
+      "oferta_id": 23,
+      "preco": 15.9,
+      "registrado_em": "2026-05-25T03:06:32.716350-03:00"
     }
   ],
   "notificacoes": [
@@ -6641,6 +6661,13 @@
       "oferta_id": 30,
       "sucesso": true,
       "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-05-25T03:06:37.193993-03:00",
+      "erro": null,
+      "oferta_id": 31,
+      "sucesso": true,
+      "tipo": "nova"
     }
   ],
   "ofertas": {
@@ -6757,8 +6784,8 @@
       "url": "https://www.promobit.com.br/oferta/comigo-ninguem-pode-condicionador-limpante-450g-lola-cosmetics-2825409/"
     },
     "17": {
-      "ativa": true,
-      "atualizada_em": "2026-05-24T22:35:26.716580-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-05-25T03:06:42.046884-03:00",
       "coletada_em": "2026-05-15T02:02:54.953502-03:00",
       "desconto_pct": 68,
       "fonte": "promobit",
@@ -6856,7 +6883,7 @@
     },
     "23": {
       "ativa": true,
-      "atualizada_em": "2026-05-24T22:35:26.716580-03:00",
+      "atualizada_em": "2026-05-25T03:06:32.716350-03:00",
       "coletada_em": "2026-05-19T11:21:16.026371-03:00",
       "desconto_pct": 68,
       "fonte": "promobit",
@@ -6940,7 +6967,7 @@
     },
     "29": {
       "ativa": true,
-      "atualizada_em": "2026-05-24T22:35:26.716580-03:00",
+      "atualizada_em": "2026-05-25T03:06:32.716350-03:00",
       "coletada_em": "2026-05-23T09:45:14.654502-03:00",
       "desconto_pct": 61,
       "fonte": "promobit",
@@ -6968,7 +6995,7 @@
     },
     "30": {
       "ativa": true,
-      "atualizada_em": "2026-05-24T22:35:26.716580-03:00",
+      "atualizada_em": "2026-05-25T03:06:32.716350-03:00",
       "coletada_em": "2026-05-24T22:35:26.716580-03:00",
       "desconto_pct": 65,
       "fonte": "promobit",
@@ -6979,6 +7006,20 @@
       "preco_de": 1499.99,
       "produto_id": 25,
       "url": "https://www.promobit.com.br/oferta/tenis-mizuno-wave-creation-24-wk-feminino-2839875/"
+    },
+    "31": {
+      "ativa": true,
+      "atualizada_em": "2026-05-25T03:06:32.716350-03:00",
+      "coletada_em": "2026-05-25T03:06:32.716350-03:00",
+      "desconto_pct": 69,
+      "fonte": "promobit",
+      "hash_unico": "0d896837245470e29ed3ca30ab4d15ad",
+      "id": 31,
+      "loja": "Netshoes",
+      "preco_atual": 549.99,
+      "preco_de": 1799.99,
+      "produto_id": 26,
+      "url": "https://www.promobit.com.br/oferta/tenis-mizuno-wave-prophecy-13-feminino-2839906/"
     },
     "4": {
       "ativa": false,
@@ -7227,6 +7268,15 @@
       "marca": "Mizuno",
       "titulo_normalizado": "tenis mizuno wave creation 24 wk feminino",
       "titulo_original": "Tênis Mizuno Wave Creation 24 Wk Feminino"
+    },
+    "26": {
+      "categoria": "corrida",
+      "criado_em": "2026-05-25T03:06:32.716395-03:00",
+      "id": 26,
+      "imagem_url": "https://i.promobit.com.br/268/564126459417796740491869150801.png",
+      "marca": "Mizuno",
+      "titulo_normalizado": "tenis mizuno wave prophecy 13 feminino",
+      "titulo_original": "Tênis Mizuno Wave Prophecy 13 Feminino"
     },
     "3": {
       "categoria": "corrida",
