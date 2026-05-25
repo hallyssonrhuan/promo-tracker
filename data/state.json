@@ -1,15 +1,15 @@
 {
   "_next_id": {
-    "oferta": 30,
-    "produto": 25
+    "oferta": 31,
+    "produto": 26
   },
   "fontes": {
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-05-24T20:36:45.863878-03:00",
+      "ultima_coleta_em": "2026-05-24T22:35:31.670834-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 3,
+      "ultima_coleta_qtd": 4,
       "ultima_coleta_status": "ok"
     }
   },
@@ -6423,6 +6423,26 @@
       "oferta_id": 17,
       "preco": 17.52,
       "registrado_em": "2026-05-24T20:36:45.863619-03:00"
+    },
+    {
+      "oferta_id": 30,
+      "preco": 527.24,
+      "registrado_em": "2026-05-24T22:35:26.716580-03:00"
+    },
+    {
+      "oferta_id": 29,
+      "preco": 15.75,
+      "registrado_em": "2026-05-24T22:35:26.716580-03:00"
+    },
+    {
+      "oferta_id": 23,
+      "preco": 15.9,
+      "registrado_em": "2026-05-24T22:35:26.716580-03:00"
+    },
+    {
+      "oferta_id": 17,
+      "preco": 17.52,
+      "registrado_em": "2026-05-24T22:35:26.716580-03:00"
     }
   ],
   "notificacoes": [
@@ -6614,6 +6634,13 @@
       "oferta_id": 29,
       "sucesso": true,
       "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-05-24T22:35:31.670566-03:00",
+      "erro": null,
+      "oferta_id": 30,
+      "sucesso": true,
+      "tipo": "nova"
     }
   ],
   "ofertas": {
@@ -6731,7 +6758,7 @@
     },
     "17": {
       "ativa": true,
-      "atualizada_em": "2026-05-24T20:36:45.863619-03:00",
+      "atualizada_em": "2026-05-24T22:35:26.716580-03:00",
       "coletada_em": "2026-05-15T02:02:54.953502-03:00",
       "desconto_pct": 68,
       "fonte": "promobit",
@@ -6829,7 +6856,7 @@
     },
     "23": {
       "ativa": true,
-      "atualizada_em": "2026-05-24T20:36:45.863619-03:00",
+      "atualizada_em": "2026-05-24T22:35:26.716580-03:00",
       "coletada_em": "2026-05-19T11:21:16.026371-03:00",
       "desconto_pct": 68,
       "fonte": "promobit",
@@ -6913,7 +6940,7 @@
     },
     "29": {
       "ativa": true,
-      "atualizada_em": "2026-05-24T20:36:45.863619-03:00",
+      "atualizada_em": "2026-05-24T22:35:26.716580-03:00",
       "coletada_em": "2026-05-23T09:45:14.654502-03:00",
       "desconto_pct": 61,
       "fonte": "promobit",
@@ -6938,6 +6965,20 @@
       "preco_de": 349.99,
       "produto_id": 3,
       "url": "https://www.promobit.com.br/oferta/tenis-de-corrida-feminino-mizuno-atlantis-2-2812427/"
+    },
+    "30": {
+      "ativa": true,
+      "atualizada_em": "2026-05-24T22:35:26.716580-03:00",
+      "coletada_em": "2026-05-24T22:35:26.716580-03:00",
+      "desconto_pct": 65,
+      "fonte": "promobit",
+      "hash_unico": "1fd6ef0065c932bae75e29725ac168a8",
+      "id": 30,
+      "loja": "Netshoes",
+      "preco_atual": 527.24,
+      "preco_de": 1499.99,
+      "produto_id": 25,
+      "url": "https://www.promobit.com.br/oferta/tenis-mizuno-wave-creation-24-wk-feminino-2839875/"
     },
     "4": {
       "ativa": false,
@@ -7177,6 +7218,15 @@
       "marca": "Adidas",
       "titulo_normalizado": "tenis adidas response runner 2 unissex corrida treino",
       "titulo_original": "Tênis adidas Response Runner 2 Unissex Corrida Treino"
+    },
+    "25": {
+      "categoria": "corrida",
+      "criado_em": "2026-05-24T22:35:26.716623-03:00",
+      "id": 25,
+      "imagem_url": "https://i.promobit.com.br/268/444135701317796712414391851464.png",
+      "marca": "Mizuno",
+      "titulo_normalizado": "tenis mizuno wave creation 24 wk feminino",
+      "titulo_original": "Tênis Mizuno Wave Creation 24 Wk Feminino"
     },
     "3": {
       "categoria": "corrida",
