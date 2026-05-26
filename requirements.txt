@@ -1,6 +1,8 @@
 httpx==0.28.1
 hishel==0.1.1
 pydantic-settings==2.7.1
+tzdata>=2024.1
+playwright>=1.44.0
 
 # dev
 pytest==8.3.4
