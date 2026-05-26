@@ -19,7 +19,7 @@ permissions:
 jobs:
   check:
     runs-on: ubuntu-latest
-    timeout-minutes: 7   # job inteiro nao pode passar disso (cron e a cada 5min)
+    timeout-minutes: 20  # 10 sources incluindo Playwright — precisa de mais tempo
 
     steps:
       - uses: actions/checkout@v4

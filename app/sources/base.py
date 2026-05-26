@@ -85,9 +85,8 @@ class Source(ABC):
             except (httpx.ConnectError, httpx.TimeoutException, httpx.RemoteProtocolError) as e:
                 raise RuntimeError(f"rede: {type(e).__name__}: {e}") from e
             await asyncio.sleep(settings.throttle_segundos)
-        # 403/429/5xx — Promobit pode ter rate-limitado o IP da Fly
         if resp.status_code in (403, 429):
-            raise RuntimeError(f"rate-limit (HTTP {resp.status_code}) — provavel bloqueio do Promobit")
+            raise RuntimeError(f"rate-limit (HTTP {resp.status_code}) — IP bloqueado ou quota excedida")
         if resp.status_code >= 500:
             raise RuntimeError(f"upstream HTTP {resp.status_code}")
         resp.raise_for_status()

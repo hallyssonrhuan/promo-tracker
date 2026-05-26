@@ -8,11 +8,13 @@ Estratégia de extração (em ordem de prioridade):
   1. page.evaluate() para variáveis JS conhecidas (__NEXT_DATA__, __PRELOADED_STATE__, etc.)
   2. Busca heurística em qualquer estado JS encontrado
   3. JSON-LD (schema.org Product/ItemList) no HTML renderizado
+  4. DOM scraping direto via Playwright evaluate() — detecta cards de produto por CSS
 """
 
 import asyncio
 import json
 import logging
+import re
 from typing import Any, Optional
 
 from app.config import settings
@@ -129,23 +131,33 @@ class PlaywrightSource(Source):
             return []
         pages = await self._fetch_pages(self.URLS)
         ofertas: list[OfertaRaw] = []
-        for slug, (html, js_state) in pages.items():
-            items = self.parse_pagina(html, js_state)
-            ofertas.extend(items)
+        for slug, (html, js_state, dom_products) in pages.items():
+            items = self.parse_pagina(html, js_state, dom_products)
             logger.info("[%s] %s: %d ofertas", self.nome, slug, len(items))
+            ofertas.extend(items)
         return ofertas
 
-    def parse_pagina(self, html: str, js_state: dict) -> list[OfertaRaw]:
+    def parse_pagina(self, html: str, js_state: dict,
+                     dom_products: Optional[list] = None) -> list[OfertaRaw]:
+        # 1. JS state (__NEXT_DATA__, Redux, Apollo…)
         result = self._parse_from_js_state(js_state)
         if result:
             return result
-        return self._parse_jsonld_from_html(html)
+        # 2. JSON-LD no HTML renderizado
+        result = self._parse_jsonld_from_html(html)
+        if result:
+            return result
+        # 3. DOM scraping direto (fallback final)
+        if dom_products:
+            return self._parse_dom_products(dom_products)
+        return []
 
     # ------------------------------------------------------------------ #
     #  Playwright: lança browser, visita URLs, extrai estado JS           #
     # ------------------------------------------------------------------ #
 
     async def _fetch_pages(self, urls: dict[str, str]) -> dict[str, tuple]:
+        """Retorna {slug: (html, js_state, dom_products)}."""
         result: dict[str, tuple] = {}
         async with async_playwright() as pw:
             browser = await pw.chromium.launch(
@@ -193,9 +205,18 @@ class PlaywrightSource(Source):
                                     )
                                 except Exception:
                                     pass
+                            # Aguarda renderização React extra
+                            await page.wait_for_timeout(1500)
                             html = await page.content()
                             js_state = await self._extract_js_state(page)
-                            result[slug] = (html, js_state)
+                            dom_products = await self._scrape_dom_products(page)
+                            if js_state:
+                                logger.debug("[%s] %s: JS vars=%s", self.nome, slug,
+                                             list(js_state.keys()))
+                            if dom_products:
+                                logger.debug("[%s] %s: dom cards=%d", self.nome, slug,
+                                             len(dom_products))
+                            result[slug] = (html, js_state, dom_products)
                             self._save_last_html(slug, html)
                         except Exception as e:
                             logger.warning("[%s] %s: %s", self.nome, slug, e)
@@ -469,3 +490,119 @@ class PlaywrightSource(Source):
             fonte=self.nome,
             imagem_url=imagem_url,
         )
+
+    # ------------------------------------------------------------------ #
+    #  DOM scraping via page.evaluate() — fallback final                  #
+    # ------------------------------------------------------------------ #
+
+    async def _scrape_dom_products(self, page) -> list[dict]:
+        """Extrai cards de produto via JavaScript evaluate no browser."""
+        try:
+            return await page.evaluate("""() => {
+                const CARD_SELECTORS = [
+                    '[data-testid*="product"]',
+                    '[class*="ProductCard"]',
+                    '[class*="product-card"]',
+                    '[class*="productCard"]',
+                    '[class*="product-item"]',
+                    '[class*="shelf-item"]',
+                    'li[class*="product"]',
+                    'article[class*="product"]',
+                    '[class*="CardProduct"]',
+                    '[class*="item-product"]',
+                ];
+                const PRICE_SELECTORS = [
+                    '[class*="price"]', '[class*="Price"]',
+                    '[class*="valor"]', '[data-testid*="price"]',
+                ];
+                const TITLE_SELECTORS = [
+                    '[data-testid*="title"]', '[data-testid*="name"]',
+                    'h2', 'h3',
+                    '[class*="title"]', '[class*="name"]',
+                    '[class*="Title"]', '[class*="Name"]',
+                ];
+
+                let cards = [];
+                for (const sel of CARD_SELECTORS) {
+                    const found = Array.from(document.querySelectorAll(sel));
+                    if (found.length > 2) { cards = found; break; }
+                }
+
+                const results = [];
+                for (const card of cards.slice(0, 60)) {
+                    try {
+                        let titulo = '';
+                        for (const sel of TITLE_SELECTORS) {
+                            const el = card.querySelector(sel);
+                            if (el && el.innerText && el.innerText.trim().length > 5) {
+                                titulo = el.innerText.trim(); break;
+                            }
+                        }
+                        if (!titulo) {
+                            titulo = card.getAttribute('data-product-name') ||
+                                     card.getAttribute('aria-label') || '';
+                        }
+                        if (!titulo || titulo.length < 5) continue;
+
+                        const priceTexts = [];
+                        for (const sel of PRICE_SELECTORS) {
+                            for (const el of Array.from(card.querySelectorAll(sel))) {
+                                const t = (el.innerText || '').trim();
+                                if (t && (t.includes('R$') || /\d+[,\.]\d{2}/.test(t))) {
+                                    priceTexts.push(t);
+                                }
+                            }
+                        }
+
+                        const anchor = card.querySelector('a[href]') || card.closest('a[href]');
+                        const url = anchor ? anchor.href : '';
+                        const img = card.querySelector('img');
+                        const imageUrl = img ? (img.dataset.src || img.src || '') : '';
+
+                        results.push({ titulo, priceTexts, url, imageUrl });
+                    } catch (e) {}
+                }
+                return results;
+            }""")
+        except Exception as e:
+            logger.debug("[%s] DOM scrape error: %s", self.nome, e)
+            return []
+
+    def _parse_dom_products(self, dom_products: list) -> list[OfertaRaw]:
+        out: list[OfertaRaw] = []
+        for item in dom_products:
+            try:
+                titulo = (item.get("titulo") or "").strip()
+                url = (item.get("url") or "").strip()
+                if not titulo or not url or not url.startswith("http"):
+                    continue
+
+                prices: list[float] = []
+                for text in (item.get("priceTexts") or []):
+                    for match in re.finditer(r"[\d][\d\.\,]*", text):
+                        p = parse_preco_br(match.group(0))
+                        if p and p > 0:
+                            prices.append(p)
+
+                prices = sorted(set(prices))
+                if not prices:
+                    continue
+
+                preco_atual = prices[0]
+                preco_de = prices[-1] if len(prices) > 1 and prices[-1] > preco_atual else None
+                if not preco_de:
+                    continue
+
+                out.append(OfertaRaw(
+                    titulo=titulo,
+                    preco_atual=preco_atual,
+                    preco_de=preco_de,
+                    desconto_pct=round((1 - preco_atual / preco_de) * 100),
+                    url=url,
+                    loja=self._default_loja,
+                    fonte=self.nome,
+                    imagem_url=item.get("imageUrl") or None,
+                ))
+            except Exception as e:
+                logger.debug("[%s] _parse_dom item error: %s", self.nome, e)
+        return out
