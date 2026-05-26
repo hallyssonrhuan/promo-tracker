@@ -1,15 +1,15 @@
 {
   "_next_id": {
-    "oferta": 33,
-    "produto": 27
+    "oferta": 35,
+    "produto": 29
   },
   "fontes": {
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-05-26T05:58:28.089636-03:00",
+      "ultima_coleta_em": "2026-05-26T13:07:07.622581-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 4,
+      "ultima_coleta_qtd": 5,
       "ultima_coleta_status": "ok"
     }
   },
@@ -6748,6 +6748,31 @@
       "oferta_id": 23,
       "preco": 15.9,
       "registrado_em": "2026-05-26T05:58:28.089341-03:00"
+    },
+    {
+      "oferta_id": 33,
+      "preco": 93.0,
+      "registrado_em": "2026-05-26T13:06:58.913105-03:00"
+    },
+    {
+      "oferta_id": 29,
+      "preco": 15.75,
+      "registrado_em": "2026-05-26T13:06:58.913105-03:00"
+    },
+    {
+      "oferta_id": 32,
+      "preco": 23.89,
+      "registrado_em": "2026-05-26T13:06:58.913105-03:00"
+    },
+    {
+      "oferta_id": 23,
+      "preco": 15.9,
+      "registrado_em": "2026-05-26T13:06:58.913105-03:00"
+    },
+    {
+      "oferta_id": 34,
+      "preco": 36.0,
+      "registrado_em": "2026-05-26T13:06:58.913105-03:00"
     }
   ],
   "notificacoes": [
@@ -6958,6 +6983,20 @@
       "enviada_em": "2026-05-25T10:50:30.701149-03:00",
       "erro": null,
       "oferta_id": 32,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-05-26T13:07:03.239393-03:00",
+      "erro": null,
+      "oferta_id": 33,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-05-26T13:07:07.622354-03:00",
+      "erro": null,
+      "oferta_id": 34,
       "sucesso": true,
       "tipo": "nova"
     }
@@ -7175,7 +7214,7 @@
     },
     "23": {
       "ativa": true,
-      "atualizada_em": "2026-05-26T05:58:28.089341-03:00",
+      "atualizada_em": "2026-05-26T13:06:58.913105-03:00",
       "coletada_em": "2026-05-19T11:21:16.026371-03:00",
       "desconto_pct": 68,
       "fonte": "promobit",
@@ -7259,7 +7298,7 @@
     },
     "29": {
       "ativa": true,
-      "atualizada_em": "2026-05-26T05:58:28.089341-03:00",
+      "atualizada_em": "2026-05-26T13:06:58.913105-03:00",
       "coletada_em": "2026-05-23T09:45:14.654502-03:00",
       "desconto_pct": 61,
       "fonte": "promobit",
@@ -7315,7 +7354,7 @@
     },
     "32": {
       "ativa": true,
-      "atualizada_em": "2026-05-26T05:58:28.089341-03:00",
+      "atualizada_em": "2026-05-26T13:06:58.913105-03:00",
       "coletada_em": "2026-05-25T10:50:24.832825-03:00",
       "desconto_pct": 63,
       "fonte": "promobit",
@@ -7326,6 +7365,34 @@
       "preco_de": 64.9,
       "produto_id": 14,
       "url": "https://www.promobit.com.br/oferta/milagre-creme-para-pentear-450g-lola-cosmetics-2840223/"
+    },
+    "33": {
+      "ativa": true,
+      "atualizada_em": "2026-05-26T13:06:58.913105-03:00",
+      "coletada_em": "2026-05-26T13:06:58.913105-03:00",
+      "desconto_pct": 87,
+      "fonte": "promobit",
+      "hash_unico": "b9125f0900398e0eea6e0b4b1f86e545",
+      "id": 33,
+      "loja": "Amazon",
+      "preco_atual": 93.0,
+      "preco_de": 699.99,
+      "produto_id": 27,
+      "url": "https://www.promobit.com.br/oferta/tenis-de-corrida-mizuno-neo-vortex-2842284/"
+    },
+    "34": {
+      "ativa": true,
+      "atualizada_em": "2026-05-26T13:06:58.913105-03:00",
+      "coletada_em": "2026-05-26T13:06:58.913105-03:00",
+      "desconto_pct": 48,
+      "fonte": "promobit",
+      "hash_unico": "e9fbcadcf201d7a99cbf9b8b508d608b",
+      "id": 34,
+      "loja": "Shopee",
+      "preco_atual": 36.0,
+      "preco_de": 69.23,
+      "produto_id": 28,
+      "url": "https://www.promobit.com.br/oferta/blusa-infantil-de-frio-stitch-tam-2-a-12-anos-2842251/"
     },
     "4": {
       "ativa": false,
@@ -7583,6 +7650,24 @@
       "marca": "Mizuno",
       "titulo_normalizado": "tenis mizuno wave prophecy 13 feminino",
       "titulo_original": "Tênis Mizuno Wave Prophecy 13 Feminino"
+    },
+    "27": {
+      "categoria": "corrida",
+      "criado_em": "2026-05-26T13:06:58.913147-03:00",
+      "id": 27,
+      "imagem_url": "https://i.promobit.com.br/268/625789377517798009692935041736.jpg",
+      "marca": "Mizuno",
+      "titulo_normalizado": "tenis de corrida mizuno neo vortex",
+      "titulo_original": "Tênis de Corrida Mizuno Neo Vortex"
+    },
+    "28": {
+      "categoria": "infantil",
+      "criado_em": "2026-05-26T13:06:58.913346-03:00",
+      "id": 28,
+      "imagem_url": "https://i.promobit.com.br/268/512378398717798001857078281417.jpg",
+      "marca": "Roupa infantil masc",
+      "titulo_normalizado": "blusa infantil de frio stitch (tam 2 a 12 anos)",
+      "titulo_original": "Blusa Infantil de Frio Stitch (Tam. 2 a 12 anos)"
     },
     "3": {
       "categoria": "corrida",
