@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 35,
-    "produto": 29
+    "oferta": 36,
+    "produto": 30
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-05-26T15:42:42.097897-03:00",
+      "ultima_coleta_em": "2026-05-26T17:39:32.873789-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-05-26T15:41:12.366233-03:00",
+      "ultima_coleta_em": "2026-05-26T17:38:14.796917-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-05-26T15:41:38.483355-03:00",
+      "ultima_coleta_em": "2026-05-26T17:38:40.770966-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-05-26T15:38:52.074427-03:00",
+      "ultima_coleta_em": "2026-05-26T17:35:57.809278-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-05-26T15:39:34.483176-03:00",
+      "ultima_coleta_em": "2026-05-26T17:36:40.154387-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-05-26T15:37:10.780117-03:00",
+      "ultima_coleta_em": "2026-05-26T17:34:17.901111-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-05-26T15:38:20.677341-03:00",
+      "ultima_coleta_em": "2026-05-26T17:35:26.595538-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-05-26T15:35:48.891132-03:00",
+      "ultima_coleta_em": "2026-05-26T17:32:56.116906-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-05-26T15:35:27.517363-03:00",
+      "ultima_coleta_em": "2026-05-26T17:32:34.807453-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 3,
+      "ultima_coleta_qtd": 4,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-05-26T15:36:22.294748-03:00",
+      "ultima_coleta_em": "2026-05-26T17:33:29.439491-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -6875,6 +6875,26 @@
       "oferta_id": 23,
       "preco": 15.9,
       "registrado_em": "2026-05-26T15:35:27.517074-03:00"
+    },
+    {
+      "oferta_id": 29,
+      "preco": 15.75,
+      "registrado_em": "2026-05-26T17:32:29.897788-03:00"
+    },
+    {
+      "oferta_id": 35,
+      "preco": 13.9,
+      "registrado_em": "2026-05-26T17:32:29.897788-03:00"
+    },
+    {
+      "oferta_id": 32,
+      "preco": 23.89,
+      "registrado_em": "2026-05-26T17:32:29.897788-03:00"
+    },
+    {
+      "oferta_id": 23,
+      "preco": 15.9,
+      "registrado_em": "2026-05-26T17:32:29.897788-03:00"
     }
   ],
   "notificacoes": [
@@ -7101,6 +7121,13 @@
       "oferta_id": 34,
       "sucesso": true,
       "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-05-26T17:32:34.807244-03:00",
+      "erro": null,
+      "oferta_id": 35,
+      "sucesso": true,
+      "tipo": "nova"
     }
   ],
   "ofertas": {
@@ -7316,7 +7343,7 @@
     },
     "23": {
       "ativa": true,
-      "atualizada_em": "2026-05-26T15:35:27.517074-03:00",
+      "atualizada_em": "2026-05-26T17:32:29.897788-03:00",
       "coletada_em": "2026-05-19T11:21:16.026371-03:00",
       "desconto_pct": 68,
       "fonte": "promobit",
@@ -7400,7 +7427,7 @@
     },
     "29": {
       "ativa": true,
-      "atualizada_em": "2026-05-26T15:35:27.517074-03:00",
+      "atualizada_em": "2026-05-26T17:32:29.897788-03:00",
       "coletada_em": "2026-05-23T09:45:14.654502-03:00",
       "desconto_pct": 61,
       "fonte": "promobit",
@@ -7456,7 +7483,7 @@
     },
     "32": {
       "ativa": true,
-      "atualizada_em": "2026-05-26T15:35:27.517074-03:00",
+      "atualizada_em": "2026-05-26T17:32:29.897788-03:00",
       "coletada_em": "2026-05-25T10:50:24.832825-03:00",
       "desconto_pct": 63,
       "fonte": "promobit",
@@ -7495,6 +7522,20 @@
       "preco_de": 69.23,
       "produto_id": 28,
       "url": "https://www.promobit.com.br/oferta/blusa-infantil-de-frio-stitch-tam-2-a-12-anos-2842251/"
+    },
+    "35": {
+      "ativa": true,
+      "atualizada_em": "2026-05-26T17:32:29.897788-03:00",
+      "coletada_em": "2026-05-26T17:32:29.897788-03:00",
+      "desconto_pct": 60,
+      "fonte": "promobit",
+      "hash_unico": "f7b38463ee99e8e60ecaedda09f58e5e",
+      "id": 35,
+      "loja": "Amazon",
+      "preco_atual": 13.9,
+      "preco_de": 34.9,
+      "produto_id": 29,
+      "url": "https://www.promobit.com.br/oferta/bemdita-ghee-nutricao-abacaxi-100g-lola-cosmetics-2843175/"
     },
     "4": {
       "ativa": false,
@@ -7770,6 +7811,15 @@
       "marca": "Roupa infantil masc",
       "titulo_normalizado": "blusa infantil de frio stitch (tam 2 a 12 anos)",
       "titulo_original": "Blusa Infantil de Frio Stitch (Tam. 2 a 12 anos)"
+    },
+    "29": {
+      "categoria": "cabelo",
+      "criado_em": "2026-05-26T17:32:29.897901-03:00",
+      "id": 29,
+      "imagem_url": "https://i.promobit.com.br/268/730864325017798273025320229371.jpg",
+      "marca": "Lola Cosmetics",
+      "titulo_normalizado": "bemdita ghee nutricao abacaxi 100g lola cosmetics",
+      "titulo_original": "Bemdita Ghee Nutrição Abacaxi 100g , Lola Cosmetics"
     },
     "3": {
       "categoria": "corrida",
