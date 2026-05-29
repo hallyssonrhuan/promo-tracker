@@ -7,7 +7,7 @@
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-05-29T00:06:03.925586-03:00",
+      "ultima_coleta_em": "2026-05-29T04:02:12.439684-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-05-29T00:04:44.064387-03:00",
+      "ultima_coleta_em": "2026-05-29T04:00:31.916121-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-05-29T00:05:10.181541-03:00",
+      "ultima_coleta_em": "2026-05-29T04:00:58.168339-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-05-29T00:02:31.924311-03:00",
+      "ultima_coleta_em": "2026-05-29T03:58:32.034307-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-05-29T00:03:13.739895-03:00",
+      "ultima_coleta_em": "2026-05-29T03:59:19.004534-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-05-29T00:00:49.053460-03:00",
+      "ultima_coleta_em": "2026-05-29T03:56:49.411130-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-05-29T00:02:00.614229-03:00",
+      "ultima_coleta_em": "2026-05-29T03:58:00.611400-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-05-28T23:59:25.403392-03:00",
+      "ultima_coleta_em": "2026-05-29T03:55:26.213536-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,7 +71,7 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-05-28T23:59:04.037090-03:00",
+      "ultima_coleta_em": "2026-05-29T03:55:04.534143-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 5,
       "ultima_coleta_status": "ok"
@@ -79,7 +79,7 @@
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-05-28T23:59:59.766497-03:00",
+      "ultima_coleta_em": "2026-05-29T03:56:00.281195-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -7395,6 +7395,31 @@
       "oferta_id": 23,
       "preco": 15.9,
       "registrado_em": "2026-05-28T23:59:04.036727-03:00"
+    },
+    {
+      "oferta_id": 29,
+      "preco": 15.75,
+      "registrado_em": "2026-05-29T03:55:04.533832-03:00"
+    },
+    {
+      "oferta_id": 36,
+      "preco": 21.5,
+      "registrado_em": "2026-05-29T03:55:04.533832-03:00"
+    },
+    {
+      "oferta_id": 35,
+      "preco": 13.9,
+      "registrado_em": "2026-05-29T03:55:04.533832-03:00"
+    },
+    {
+      "oferta_id": 32,
+      "preco": 23.89,
+      "registrado_em": "2026-05-29T03:55:04.533832-03:00"
+    },
+    {
+      "oferta_id": 23,
+      "preco": 15.9,
+      "registrado_em": "2026-05-29T03:55:04.533832-03:00"
     }
   ],
   "notificacoes": [
@@ -7835,8 +7860,8 @@
       "url": "https://www.promobit.com.br/oferta/rapunzel-milk-leave-in-spray-250ml-lola-cosmetics-2827557/"
     },
     "22": {
-      "ativa": true,
-      "atualizada_em": "2026-05-19T08:50:28.196725-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-05-29T04:02:17.380773-03:00",
       "coletada_em": "2026-05-19T02:53:42.884535-03:00",
       "desconto_pct": 42,
       "fonte": "promobit",
@@ -7850,7 +7875,7 @@
     },
     "23": {
       "ativa": true,
-      "atualizada_em": "2026-05-28T23:59:04.036727-03:00",
+      "atualizada_em": "2026-05-29T03:55:04.533832-03:00",
       "coletada_em": "2026-05-19T11:21:16.026371-03:00",
       "desconto_pct": 68,
       "fonte": "promobit",
@@ -7934,7 +7959,7 @@
     },
     "29": {
       "ativa": true,
-      "atualizada_em": "2026-05-28T23:59:04.036727-03:00",
+      "atualizada_em": "2026-05-29T03:55:04.533832-03:00",
       "coletada_em": "2026-05-23T09:45:14.654502-03:00",
       "desconto_pct": 61,
       "fonte": "promobit",
@@ -7990,7 +8015,7 @@
     },
     "32": {
       "ativa": false,
-      "atualizada_em": "2026-05-28T23:59:04.036727-03:00",
+      "atualizada_em": "2026-05-29T03:55:04.533832-03:00",
       "coletada_em": "2026-05-25T10:50:24.832825-03:00",
       "desconto_pct": 63,
       "fonte": "promobit",
@@ -8032,7 +8057,7 @@
     },
     "35": {
       "ativa": true,
-      "atualizada_em": "2026-05-28T23:59:04.036727-03:00",
+      "atualizada_em": "2026-05-29T03:55:04.533832-03:00",
       "coletada_em": "2026-05-26T17:32:29.897788-03:00",
       "desconto_pct": 60,
       "fonte": "promobit",
@@ -8046,7 +8071,7 @@
     },
     "36": {
       "ativa": true,
-      "atualizada_em": "2026-05-28T23:59:04.036727-03:00",
+      "atualizada_em": "2026-05-29T03:55:04.533832-03:00",
       "coletada_em": "2026-05-27T09:12:09.608089-03:00",
       "desconto_pct": 67,
       "fonte": "promobit",
