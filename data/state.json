@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 37,
+    "oferta": 38,
     "produto": 30
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-05-29T04:02:12.439684-03:00",
+      "ultima_coleta_em": "2026-05-29T07:45:20.242774-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-05-29T04:00:31.916121-03:00",
+      "ultima_coleta_em": "2026-05-29T07:43:38.692184-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-05-29T04:00:58.168339-03:00",
+      "ultima_coleta_em": "2026-05-29T07:44:04.718513-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-05-29T03:58:32.034307-03:00",
+      "ultima_coleta_em": "2026-05-29T07:41:39.026770-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-05-29T03:59:19.004534-03:00",
+      "ultima_coleta_em": "2026-05-29T07:42:21.346410-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-05-29T03:56:49.411130-03:00",
+      "ultima_coleta_em": "2026-05-29T07:39:59.229448-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-05-29T03:58:00.611400-03:00",
+      "ultima_coleta_em": "2026-05-29T07:41:07.915987-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-05-29T03:55:26.213536-03:00",
+      "ultima_coleta_em": "2026-05-29T07:38:36.776655-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-05-29T03:55:04.534143-03:00",
+      "ultima_coleta_em": "2026-05-29T07:38:15.462235-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 5,
+      "ultima_coleta_qtd": 6,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-05-29T03:56:00.281195-03:00",
+      "ultima_coleta_em": "2026-05-29T07:39:10.558432-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -7420,6 +7420,36 @@
       "oferta_id": 23,
       "preco": 15.9,
       "registrado_em": "2026-05-29T03:55:04.533832-03:00"
+    },
+    {
+      "oferta_id": 37,
+      "preco": 384.74,
+      "registrado_em": "2026-05-29T07:38:10.361962-03:00"
+    },
+    {
+      "oferta_id": 29,
+      "preco": 15.75,
+      "registrado_em": "2026-05-29T07:38:10.361962-03:00"
+    },
+    {
+      "oferta_id": 36,
+      "preco": 21.5,
+      "registrado_em": "2026-05-29T07:38:10.361962-03:00"
+    },
+    {
+      "oferta_id": 35,
+      "preco": 13.9,
+      "registrado_em": "2026-05-29T07:38:10.361962-03:00"
+    },
+    {
+      "oferta_id": 32,
+      "preco": 23.89,
+      "registrado_em": "2026-05-29T07:38:10.361962-03:00"
+    },
+    {
+      "oferta_id": 23,
+      "preco": 15.9,
+      "registrado_em": "2026-05-29T07:38:10.361962-03:00"
     }
   ],
   "notificacoes": [
@@ -7660,6 +7690,13 @@
       "oferta_id": 36,
       "sucesso": true,
       "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-05-29T07:38:15.462025-03:00",
+      "erro": null,
+      "oferta_id": 37,
+      "sucesso": true,
+      "tipo": "nova"
     }
   ],
   "ofertas": {
@@ -7875,7 +7912,7 @@
     },
     "23": {
       "ativa": true,
-      "atualizada_em": "2026-05-29T03:55:04.533832-03:00",
+      "atualizada_em": "2026-05-29T07:38:10.361962-03:00",
       "coletada_em": "2026-05-19T11:21:16.026371-03:00",
       "desconto_pct": 68,
       "fonte": "promobit",
@@ -7959,7 +7996,7 @@
     },
     "29": {
       "ativa": true,
-      "atualizada_em": "2026-05-29T03:55:04.533832-03:00",
+      "atualizada_em": "2026-05-29T07:38:10.361962-03:00",
       "coletada_em": "2026-05-23T09:45:14.654502-03:00",
       "desconto_pct": 61,
       "fonte": "promobit",
@@ -8015,7 +8052,7 @@
     },
     "32": {
       "ativa": false,
-      "atualizada_em": "2026-05-29T03:55:04.533832-03:00",
+      "atualizada_em": "2026-05-29T07:38:10.361962-03:00",
       "coletada_em": "2026-05-25T10:50:24.832825-03:00",
       "desconto_pct": 63,
       "fonte": "promobit",
@@ -8057,7 +8094,7 @@
     },
     "35": {
       "ativa": true,
-      "atualizada_em": "2026-05-29T03:55:04.533832-03:00",
+      "atualizada_em": "2026-05-29T07:38:10.361962-03:00",
       "coletada_em": "2026-05-26T17:32:29.897788-03:00",
       "desconto_pct": 60,
       "fonte": "promobit",
@@ -8071,7 +8108,7 @@
     },
     "36": {
       "ativa": true,
-      "atualizada_em": "2026-05-29T03:55:04.533832-03:00",
+      "atualizada_em": "2026-05-29T07:38:10.361962-03:00",
       "coletada_em": "2026-05-27T09:12:09.608089-03:00",
       "desconto_pct": 67,
       "fonte": "promobit",
@@ -8082,6 +8119,20 @@
       "preco_de": 64.9,
       "produto_id": 14,
       "url": "https://www.promobit.com.br/oferta/milagre-creme-para-pentear-450g-lola-cosmetics-2843869/"
+    },
+    "37": {
+      "ativa": true,
+      "atualizada_em": "2026-05-29T07:38:10.361962-03:00",
+      "coletada_em": "2026-05-29T07:38:10.361962-03:00",
+      "desconto_pct": 45,
+      "fonte": "promobit",
+      "hash_unico": "6ff4bf1b5435f1d28978171b62dfabb4",
+      "id": 37,
+      "loja": "Amazon",
+      "preco_atual": 384.74,
+      "preco_de": 699.99,
+      "produto_id": 27,
+      "url": "https://www.promobit.com.br/oferta/tenis-de-corrida-mizuno-neo-vortex-2846419/"
     },
     "4": {
       "ativa": false,
