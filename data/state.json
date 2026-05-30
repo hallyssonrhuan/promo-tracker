@@ -7,7 +7,7 @@
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-05-29T23:42:30.230319-03:00",
+      "ultima_coleta_em": "2026-05-30T03:09:51.802119-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-05-29T23:40:59.098843-03:00",
+      "ultima_coleta_em": "2026-05-30T03:08:22.325328-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-05-29T23:41:25.714807-03:00",
+      "ultima_coleta_em": "2026-05-30T03:08:48.335242-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-05-29T23:38:50.426772-03:00",
+      "ultima_coleta_em": "2026-05-30T03:06:22.198411-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-05-29T23:39:33.491424-03:00",
+      "ultima_coleta_em": "2026-05-30T03:07:04.320612-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-05-29T23:37:07.774636-03:00",
+      "ultima_coleta_em": "2026-05-30T03:04:31.155577-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-05-29T23:38:18.890594-03:00",
+      "ultima_coleta_em": "2026-05-30T03:05:50.611566-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-05-29T23:35:44.621034-03:00",
+      "ultima_coleta_em": "2026-05-30T03:03:08.617085-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-05-29T23:35:22.907911-03:00",
+      "ultima_coleta_em": "2026-05-30T03:02:47.302460-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 6,
+      "ultima_coleta_qtd": 5,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-05-29T23:36:18.622352-03:00",
+      "ultima_coleta_em": "2026-05-30T03:03:42.439692-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -7645,6 +7645,31 @@
       "oferta_id": 23,
       "preco": 15.9,
       "registrado_em": "2026-05-29T23:35:22.907509-03:00"
+    },
+    {
+      "oferta_id": 38,
+      "preco": 639.99,
+      "registrado_em": "2026-05-30T03:02:47.302204-03:00"
+    },
+    {
+      "oferta_id": 29,
+      "preco": 15.75,
+      "registrado_em": "2026-05-30T03:02:47.302204-03:00"
+    },
+    {
+      "oferta_id": 36,
+      "preco": 21.5,
+      "registrado_em": "2026-05-30T03:02:47.302204-03:00"
+    },
+    {
+      "oferta_id": 35,
+      "preco": 13.9,
+      "registrado_em": "2026-05-30T03:02:47.302204-03:00"
+    },
+    {
+      "oferta_id": 32,
+      "preco": 23.89,
+      "registrado_em": "2026-05-30T03:02:47.302204-03:00"
     }
   ],
   "notificacoes": [
@@ -8113,8 +8138,8 @@
       "url": "https://www.promobit.com.br/oferta/tenis-unissex-mizuno-wave-rider-10millennium-2831164/"
     },
     "23": {
-      "ativa": true,
-      "atualizada_em": "2026-05-29T23:35:22.907509-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-05-30T03:09:56.333335-03:00",
       "coletada_em": "2026-05-19T11:21:16.026371-03:00",
       "desconto_pct": 68,
       "fonte": "promobit",
@@ -8198,7 +8223,7 @@
     },
     "29": {
       "ativa": true,
-      "atualizada_em": "2026-05-29T23:35:22.907509-03:00",
+      "atualizada_em": "2026-05-30T03:02:47.302204-03:00",
       "coletada_em": "2026-05-23T09:45:14.654502-03:00",
       "desconto_pct": 61,
       "fonte": "promobit",
@@ -8254,7 +8279,7 @@
     },
     "32": {
       "ativa": false,
-      "atualizada_em": "2026-05-29T23:35:22.907509-03:00",
+      "atualizada_em": "2026-05-30T03:02:47.302204-03:00",
       "coletada_em": "2026-05-25T10:50:24.832825-03:00",
       "desconto_pct": 63,
       "fonte": "promobit",
@@ -8281,8 +8306,8 @@
       "url": "https://www.promobit.com.br/oferta/tenis-de-corrida-mizuno-neo-vortex-2842284/"
     },
     "34": {
-      "ativa": true,
-      "atualizada_em": "2026-05-26T13:06:58.913105-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-05-30T03:10:11.973038-03:00",
       "coletada_em": "2026-05-26T13:06:58.913105-03:00",
       "desconto_pct": 48,
       "fonte": "promobit",
@@ -8296,7 +8321,7 @@
     },
     "35": {
       "ativa": true,
-      "atualizada_em": "2026-05-29T23:35:22.907509-03:00",
+      "atualizada_em": "2026-05-30T03:02:47.302204-03:00",
       "coletada_em": "2026-05-26T17:32:29.897788-03:00",
       "desconto_pct": 60,
       "fonte": "promobit",
@@ -8310,7 +8335,7 @@
     },
     "36": {
       "ativa": true,
-      "atualizada_em": "2026-05-29T23:35:22.907509-03:00",
+      "atualizada_em": "2026-05-30T03:02:47.302204-03:00",
       "coletada_em": "2026-05-27T09:12:09.608089-03:00",
       "desconto_pct": 67,
       "fonte": "promobit",
@@ -8338,7 +8363,7 @@
     },
     "38": {
       "ativa": true,
-      "atualizada_em": "2026-05-29T23:35:22.907509-03:00",
+      "atualizada_em": "2026-05-30T03:02:47.302204-03:00",
       "coletada_em": "2026-05-29T19:48:07.725605-03:00",
       "desconto_pct": 42,
       "fonte": "promobit",
