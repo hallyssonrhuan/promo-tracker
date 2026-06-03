@@ -7,7 +7,7 @@
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-06-02T21:17:52.237277-03:00",
+      "ultima_coleta_em": "2026-06-03T02:19:13.242333-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-06-02T21:16:34.031738-03:00",
+      "ultima_coleta_em": "2026-06-03T02:17:54.868559-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-06-02T21:17:00.089791-03:00",
+      "ultima_coleta_em": "2026-06-03T02:18:21.104978-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-06-02T21:14:21.150541-03:00",
+      "ultima_coleta_em": "2026-06-03T02:16:30.928658-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-06-02T21:15:03.455782-03:00",
+      "ultima_coleta_em": "2026-06-03T02:17:13.462551-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-06-02T21:12:42.056990-03:00",
+      "ultima_coleta_em": "2026-06-03T02:14:49.507784-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-06-02T21:13:49.754106-03:00",
+      "ultima_coleta_em": "2026-06-03T02:15:59.632870-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-06-02T21:11:20.221825-03:00",
+      "ultima_coleta_em": "2026-06-03T02:13:27.304862-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-06-02T21:10:58.788542-03:00",
+      "ultima_coleta_em": "2026-06-03T02:13:05.554148-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 5,
+      "ultima_coleta_qtd": 4,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-06-02T21:11:53.534046-03:00",
+      "ultima_coleta_em": "2026-06-03T02:14:00.718047-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -8645,6 +8645,26 @@
       "oferta_id": 32,
       "preco": 23.89,
       "registrado_em": "2026-06-02T21:10:58.788191-03:00"
+    },
+    {
+      "oferta_id": 39,
+      "preco": 14.9,
+      "registrado_em": "2026-06-03T02:13:05.553855-03:00"
+    },
+    {
+      "oferta_id": 36,
+      "preco": 21.5,
+      "registrado_em": "2026-06-03T02:13:05.553855-03:00"
+    },
+    {
+      "oferta_id": 35,
+      "preco": 13.9,
+      "registrado_em": "2026-06-03T02:13:05.553855-03:00"
+    },
+    {
+      "oferta_id": 32,
+      "preco": 23.89,
+      "registrado_em": "2026-06-03T02:13:05.553855-03:00"
     }
   ],
   "notificacoes": [
@@ -9225,8 +9245,8 @@
       "url": "https://www.promobit.com.br/oferta/tenis-adidas-response-runner-2-unissex-corrida-treino-2836689/"
     },
     "29": {
-      "ativa": true,
-      "atualizada_em": "2026-06-02T21:10:58.788191-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-06-03T02:19:17.971123-03:00",
       "coletada_em": "2026-05-23T09:45:14.654502-03:00",
       "desconto_pct": 61,
       "fonte": "promobit",
@@ -9282,7 +9302,7 @@
     },
     "32": {
       "ativa": false,
-      "atualizada_em": "2026-06-02T21:10:58.788191-03:00",
+      "atualizada_em": "2026-06-03T02:13:05.553855-03:00",
       "coletada_em": "2026-05-25T10:50:24.832825-03:00",
       "desconto_pct": 63,
       "fonte": "promobit",
@@ -9324,7 +9344,7 @@
     },
     "35": {
       "ativa": true,
-      "atualizada_em": "2026-06-02T21:10:58.788191-03:00",
+      "atualizada_em": "2026-06-03T02:13:05.553855-03:00",
       "coletada_em": "2026-05-26T17:32:29.897788-03:00",
       "desconto_pct": 60,
       "fonte": "promobit",
@@ -9338,7 +9358,7 @@
     },
     "36": {
       "ativa": true,
-      "atualizada_em": "2026-06-02T21:10:58.788191-03:00",
+      "atualizada_em": "2026-06-03T02:13:05.553855-03:00",
       "coletada_em": "2026-05-27T09:12:09.608089-03:00",
       "desconto_pct": 67,
       "fonte": "promobit",
@@ -9380,7 +9400,7 @@
     },
     "39": {
       "ativa": true,
-      "atualizada_em": "2026-06-02T21:10:58.788191-03:00",
+      "atualizada_em": "2026-06-03T02:13:05.553855-03:00",
       "coletada_em": "2026-06-01T19:50:38.255323-03:00",
       "desconto_pct": 57,
       "fonte": "promobit",
