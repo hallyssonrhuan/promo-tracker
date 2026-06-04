@@ -7,7 +7,7 @@
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-06-03T23:07:42.002638-03:00",
+      "ultima_coleta_em": "2026-06-04T03:54:38.953500-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-06-03T23:06:21.913912-03:00",
+      "ultima_coleta_em": "2026-06-04T03:53:20.145253-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-06-03T23:06:47.997145-03:00",
+      "ultima_coleta_em": "2026-06-04T03:53:46.302729-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-06-03T23:04:58.995307-03:00",
+      "ultima_coleta_em": "2026-06-04T03:51:56.285864-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-06-03T23:05:40.795138-03:00",
+      "ultima_coleta_em": "2026-06-04T03:52:38.867015-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-06-03T23:03:18.664377-03:00",
+      "ultima_coleta_em": "2026-06-04T03:50:13.785153-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-06-03T23:04:27.823197-03:00",
+      "ultima_coleta_em": "2026-06-04T03:51:25.065356-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-06-03T23:01:56.076960-03:00",
+      "ultima_coleta_em": "2026-06-04T03:48:50.921465-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,7 +71,7 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-06-03T23:01:34.684800-03:00",
+      "ultima_coleta_em": "2026-06-04T03:48:29.415940-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 4,
       "ultima_coleta_status": "ok"
@@ -79,7 +79,7 @@
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-06-03T23:02:29.360672-03:00",
+      "ultima_coleta_em": "2026-06-04T03:49:24.298126-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -8785,6 +8785,26 @@
       "oferta_id": 32,
       "preco": 23.89,
       "registrado_em": "2026-06-03T23:01:34.684522-03:00"
+    },
+    {
+      "oferta_id": 39,
+      "preco": 14.9,
+      "registrado_em": "2026-06-04T03:48:29.415686-03:00"
+    },
+    {
+      "oferta_id": 36,
+      "preco": 21.5,
+      "registrado_em": "2026-06-04T03:48:29.415686-03:00"
+    },
+    {
+      "oferta_id": 35,
+      "preco": 13.9,
+      "registrado_em": "2026-06-04T03:48:29.415686-03:00"
+    },
+    {
+      "oferta_id": 32,
+      "preco": 23.89,
+      "registrado_em": "2026-06-04T03:48:29.415686-03:00"
     }
   ],
   "notificacoes": [
@@ -9393,8 +9413,8 @@
       "url": "https://www.promobit.com.br/oferta/tenis-de-corrida-feminino-mizuno-atlantis-2-2812427/"
     },
     "30": {
-      "ativa": true,
-      "atualizada_em": "2026-05-25T22:33:28.859894-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-06-04T03:54:43.904586-03:00",
       "coletada_em": "2026-05-24T22:35:26.716580-03:00",
       "desconto_pct": 65,
       "fonte": "promobit",
@@ -9407,8 +9427,8 @@
       "url": "https://www.promobit.com.br/oferta/tenis-mizuno-wave-creation-24-wk-feminino-2839875/"
     },
     "31": {
-      "ativa": true,
-      "atualizada_em": "2026-05-26T05:58:28.089341-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-06-04T03:54:48.018244-03:00",
       "coletada_em": "2026-05-25T03:06:32.716350-03:00",
       "desconto_pct": 69,
       "fonte": "promobit",
@@ -9422,7 +9442,7 @@
     },
     "32": {
       "ativa": false,
-      "atualizada_em": "2026-06-03T23:01:34.684522-03:00",
+      "atualizada_em": "2026-06-04T03:48:29.415686-03:00",
       "coletada_em": "2026-05-25T10:50:24.832825-03:00",
       "desconto_pct": 63,
       "fonte": "promobit",
@@ -9464,7 +9484,7 @@
     },
     "35": {
       "ativa": true,
-      "atualizada_em": "2026-06-03T23:01:34.684522-03:00",
+      "atualizada_em": "2026-06-04T03:48:29.415686-03:00",
       "coletada_em": "2026-05-26T17:32:29.897788-03:00",
       "desconto_pct": 60,
       "fonte": "promobit",
@@ -9478,7 +9498,7 @@
     },
     "36": {
       "ativa": true,
-      "atualizada_em": "2026-06-03T23:01:34.684522-03:00",
+      "atualizada_em": "2026-06-04T03:48:29.415686-03:00",
       "coletada_em": "2026-05-27T09:12:09.608089-03:00",
       "desconto_pct": 67,
       "fonte": "promobit",
@@ -9520,7 +9540,7 @@
     },
     "39": {
       "ativa": true,
-      "atualizada_em": "2026-06-03T23:01:34.684522-03:00",
+      "atualizada_em": "2026-06-04T03:48:29.415686-03:00",
       "coletada_em": "2026-06-01T19:50:38.255323-03:00",
       "desconto_pct": 57,
       "fonte": "promobit",
