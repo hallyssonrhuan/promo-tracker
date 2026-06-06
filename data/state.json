@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 45,
-    "produto": 35
+    "oferta": 46,
+    "produto": 36
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-06-06T17:26:37.088017-03:00",
+      "ultima_coleta_em": "2026-06-06T18:38:43.149848-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-06-06T17:25:18.954914-03:00",
+      "ultima_coleta_em": "2026-06-06T18:37:24.387496-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-06-06T17:25:44.985223-03:00",
+      "ultima_coleta_em": "2026-06-06T18:37:50.551691-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-06-06T17:23:23.758713-03:00",
+      "ultima_coleta_em": "2026-06-06T18:36:00.927511-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-06-06T17:24:05.744847-03:00",
+      "ultima_coleta_em": "2026-06-06T18:36:43.021748-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-06-06T17:21:45.194131-03:00",
+      "ultima_coleta_em": "2026-06-06T18:34:19.532764-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-06-06T17:22:52.548178-03:00",
+      "ultima_coleta_em": "2026-06-06T18:35:29.746325-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-06-06T17:20:23.419003-03:00",
+      "ultima_coleta_em": "2026-06-06T18:32:57.660768-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-06-06T17:20:02.104704-03:00",
+      "ultima_coleta_em": "2026-06-06T18:32:36.247564-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 2,
+      "ultima_coleta_qtd": 3,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-06-06T17:20:56.714644-03:00",
+      "ultima_coleta_em": "2026-06-06T18:33:31.034550-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -9145,6 +9145,21 @@
       "oferta_id": 44,
       "preco": 79.46,
       "registrado_em": "2026-06-06T17:20:02.104482-03:00"
+    },
+    {
+      "oferta_id": 45,
+      "preco": 52.0,
+      "registrado_em": "2026-06-06T18:32:31.483758-03:00"
+    },
+    {
+      "oferta_id": 36,
+      "preco": 21.5,
+      "registrado_em": "2026-06-06T18:32:31.483758-03:00"
+    },
+    {
+      "oferta_id": 44,
+      "preco": 79.46,
+      "registrado_em": "2026-06-06T18:32:31.483758-03:00"
     }
   ],
   "notificacoes": [
@@ -9439,6 +9454,13 @@
       "enviada_em": "2026-06-06T13:52:44.028244-03:00",
       "erro": null,
       "oferta_id": 44,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-06-06T18:32:36.247359-03:00",
+      "erro": null,
+      "oferta_id": 45,
       "sucesso": true,
       "tipo": "nova"
     }
@@ -9852,7 +9874,7 @@
     },
     "36": {
       "ativa": true,
-      "atualizada_em": "2026-06-06T17:20:02.104482-03:00",
+      "atualizada_em": "2026-06-06T18:32:31.483758-03:00",
       "coletada_em": "2026-05-27T09:12:09.608089-03:00",
       "desconto_pct": 67,
       "fonte": "promobit",
@@ -9978,7 +10000,7 @@
     },
     "44": {
       "ativa": true,
-      "atualizada_em": "2026-06-06T17:20:02.104482-03:00",
+      "atualizada_em": "2026-06-06T18:32:31.483758-03:00",
       "coletada_em": "2026-06-06T13:52:39.403690-03:00",
       "desconto_pct": 61,
       "fonte": "promobit",
@@ -9989,6 +10011,20 @@
       "preco_de": 202.05,
       "produto_id": 34,
       "url": "https://www.promobit.com.br/oferta/tenis-infantil-led-aranha-tam23-ao-34-2857876/"
+    },
+    "45": {
+      "ativa": true,
+      "atualizada_em": "2026-06-06T18:32:31.483758-03:00",
+      "coletada_em": "2026-06-06T18:32:31.483758-03:00",
+      "desconto_pct": 57,
+      "fonte": "promobit",
+      "hash_unico": "182c399ac29ccf4183a0804a0340a348",
+      "id": 45,
+      "loja": "Amazon",
+      "preco_atual": 52.0,
+      "preco_de": 119.9,
+      "produto_id": 35,
+      "url": "https://www.promobit.com.br/oferta/kit-rapunzel-lola-shampoo-250ml-tonico-de-crescimento-250ml-leave-in-250ml-2858507/"
     },
     "5": {
       "ativa": false,
@@ -10313,6 +10349,15 @@
       "marca": "Tenis infantil masc",
       "titulo_normalizado": "tenis infantil led aranha (tam 23 ao 34)",
       "titulo_original": "Tênis Infantil Led Aranha (Tam.23 ao 34)"
+    },
+    "35": {
+      "categoria": "cabelo",
+      "criado_em": "2026-06-06T18:32:31.483806-03:00",
+      "id": 35,
+      "imagem_url": "https://i.promobit.com.br/268/391329252617807782888168290748.jpg",
+      "marca": "Lola Cosmetics",
+      "titulo_normalizado": "kit rapunzel lola - shampoo 250ml tonico de crescimento 250ml leave-in 250ml",
+      "titulo_original": "Kit Rapunzel Lola - Shampoo 250ml, Tônico de Crescimento 250ml, Leave-in 250ml"
     },
     "4": {
       "categoria": "cabelo",
