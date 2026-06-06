@@ -7,7 +7,7 @@
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-06-05T22:39:59.043426-03:00",
+      "ultima_coleta_em": "2026-06-06T02:40:41.147103-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-06-05T22:38:40.222153-03:00",
+      "ultima_coleta_em": "2026-06-06T02:39:21.596631-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-06-05T22:39:06.835754-03:00",
+      "ultima_coleta_em": "2026-06-06T02:39:48.060182-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-06-05T22:36:20.507168-03:00",
+      "ultima_coleta_em": "2026-06-06T02:37:22.003784-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-06-05T22:37:03.548376-03:00",
+      "ultima_coleta_em": "2026-06-06T02:38:03.948563-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-06-05T22:34:19.310294-03:00",
+      "ultima_coleta_em": "2026-06-06T02:35:43.019949-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-06-05T22:35:49.060203-03:00",
+      "ultima_coleta_em": "2026-06-06T02:36:50.804480-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-06-05T22:32:56.153652-03:00",
+      "ultima_coleta_em": "2026-06-06T02:34:21.273154-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-06-05T22:32:34.433047-03:00",
+      "ultima_coleta_em": "2026-06-06T02:33:59.984426-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 2,
+      "ultima_coleta_qtd": 1,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-06-05T22:33:30.203596-03:00",
+      "ultima_coleta_em": "2026-06-06T02:34:54.615260-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -9070,6 +9070,11 @@
       "oferta_id": 35,
       "preco": 13.9,
       "registrado_em": "2026-06-05T22:32:34.432824-03:00"
+    },
+    {
+      "oferta_id": 36,
+      "preco": 21.5,
+      "registrado_em": "2026-06-06T02:33:59.984235-03:00"
     }
   ],
   "notificacoes": [
@@ -9755,8 +9760,8 @@
       "url": "https://www.promobit.com.br/oferta/blusa-infantil-de-frio-stitch-tam-2-a-12-anos-2842251/"
     },
     "35": {
-      "ativa": true,
-      "atualizada_em": "2026-06-05T22:32:34.432824-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-06-06T02:40:45.475498-03:00",
       "coletada_em": "2026-05-26T17:32:29.897788-03:00",
       "desconto_pct": 60,
       "fonte": "promobit",
@@ -9770,7 +9775,7 @@
     },
     "36": {
       "ativa": true,
-      "atualizada_em": "2026-06-05T22:32:34.432824-03:00",
+      "atualizada_em": "2026-06-06T02:33:59.984235-03:00",
       "coletada_em": "2026-05-27T09:12:09.608089-03:00",
       "desconto_pct": 67,
       "fonte": "promobit",
