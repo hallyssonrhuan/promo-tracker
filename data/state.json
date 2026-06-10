@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 48,
-    "produto": 37
+    "oferta": 49,
+    "produto": 38
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-06-10T07:28:21.552267-03:00",
+      "ultima_coleta_em": "2026-06-10T10:59:32.986699-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-06-10T07:26:58.627438-03:00",
+      "ultima_coleta_em": "2026-06-10T10:58:14.563977-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-06-10T07:27:24.724150-03:00",
+      "ultima_coleta_em": "2026-06-10T10:58:40.569197-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-06-10T07:24:45.057187-03:00",
+      "ultima_coleta_em": "2026-06-10T10:55:57.380177-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-06-10T07:25:27.557758-03:00",
+      "ultima_coleta_em": "2026-06-10T10:56:39.317202-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-06-10T07:23:03.149315-03:00",
+      "ultima_coleta_em": "2026-06-10T10:54:12.367992-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-06-10T07:24:13.852045-03:00",
+      "ultima_coleta_em": "2026-06-10T10:55:26.219110-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-06-10T07:21:39.637046-03:00",
+      "ultima_coleta_em": "2026-06-10T10:52:50.589541-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-06-10T07:21:18.297270-03:00",
+      "ultima_coleta_em": "2026-06-10T10:52:29.251400-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 0,
+      "ultima_coleta_qtd": 1,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-06-10T07:22:13.872832-03:00",
+      "ultima_coleta_em": "2026-06-10T10:53:23.969690-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -9490,6 +9490,11 @@
       "oferta_id": 45,
       "preco": 52.0,
       "registrado_em": "2026-06-09T22:51:36.679159-03:00"
+    },
+    {
+      "oferta_id": 48,
+      "preco": 737.91,
+      "registrado_em": "2026-06-10T10:52:29.251214-03:00"
     }
   ],
   "notificacoes": [
@@ -10398,6 +10403,20 @@
       "produto_id": 36,
       "url": "https://www.promobit.com.br/oferta/tenis-de-corrida-asics-gel-cumulus-28-2862973/"
     },
+    "48": {
+      "ativa": true,
+      "atualizada_em": "2026-06-10T10:52:29.251214-03:00",
+      "coletada_em": "2026-06-10T10:52:29.251214-03:00",
+      "desconto_pct": 18,
+      "fonte": "promobit",
+      "hash_unico": "57edf261eb7d05aff17ee60da8592a42",
+      "id": 48,
+      "loja": "Netshoes",
+      "preco_atual": 737.91,
+      "preco_de": 899.9,
+      "produto_id": 37,
+      "url": "https://www.promobit.com.br/oferta/tenis-adidas-adizero-drive-rc-feminino-2863516/"
+    },
     "5": {
       "ativa": false,
       "atualizada_em": "2026-05-18T05:35:49.017984-03:00",
@@ -10739,6 +10758,15 @@
       "marca": "Asics",
       "titulo_normalizado": "tenis de corrida asics gel cumulus 28",
       "titulo_original": "Tênis de Corrida Asics Gel Cumulus 28"
+    },
+    "37": {
+      "categoria": "corrida",
+      "criado_em": "2026-06-10T10:52:29.251242-03:00",
+      "id": 37,
+      "imagem_url": "https://i.promobit.com.br/268/658070861517810908355827841759.png",
+      "marca": "Adidas",
+      "titulo_normalizado": "tenis adidas adizero drive rc feminino",
+      "titulo_original": "Tênis Adidas Adizero Drive Rc Feminino"
     },
     "4": {
       "categoria": "cabelo",
