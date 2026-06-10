@@ -7,7 +7,7 @@
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-06-09T22:58:45.032097-03:00",
+      "ultima_coleta_em": "2026-06-10T03:16:04.507487-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-06-09T22:57:24.564751-03:00",
+      "ultima_coleta_em": "2026-06-10T03:14:45.786200-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-06-09T22:57:50.866133-03:00",
+      "ultima_coleta_em": "2026-06-10T03:15:11.915525-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-06-09T22:55:01.488826-03:00",
+      "ultima_coleta_em": "2026-06-10T03:12:49.007948-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-06-09T22:55:43.593548-03:00",
+      "ultima_coleta_em": "2026-06-10T03:13:31.533463-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-06-09T22:53:20.680221-03:00",
+      "ultima_coleta_em": "2026-06-10T03:11:10.271071-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-06-09T22:54:30.229781-03:00",
+      "ultima_coleta_em": "2026-06-10T03:12:17.879396-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-06-09T22:51:58.003146-03:00",
+      "ultima_coleta_em": "2026-06-10T03:09:47.975531-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-06-09T22:51:36.679401-03:00",
+      "ultima_coleta_em": "2026-06-10T03:09:26.633696-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 2,
+      "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-06-09T22:52:31.673068-03:00",
+      "ultima_coleta_em": "2026-06-10T03:10:21.553300-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -10357,8 +10357,8 @@
       "url": "https://www.promobit.com.br/oferta/tenis-infantil-led-aranha-tam23-ao-34-2857876/"
     },
     "45": {
-      "ativa": true,
-      "atualizada_em": "2026-06-09T22:51:36.679159-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-06-10T03:16:16.762152-03:00",
       "coletada_em": "2026-06-06T18:32:31.483758-03:00",
       "desconto_pct": 57,
       "fonte": "promobit",
