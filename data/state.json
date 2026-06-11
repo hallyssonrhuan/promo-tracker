@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 49,
+    "oferta": 50,
     "produto": 38
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-06-11T08:11:33.599922-03:00",
+      "ultima_coleta_em": "2026-06-11T11:57:01.847307-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-06-11T08:09:09.250396-03:00",
+      "ultima_coleta_em": "2026-06-11T11:55:40.741348-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-06-11T08:09:35.384768-03:00",
+      "ultima_coleta_em": "2026-06-11T11:56:06.875177-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-06-11T08:06:52.234525-03:00",
+      "ultima_coleta_em": "2026-06-11T11:53:20.307227-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-06-11T08:07:34.950535-03:00",
+      "ultima_coleta_em": "2026-06-11T11:54:02.364382-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-06-11T08:05:07.209876-03:00",
+      "ultima_coleta_em": "2026-06-11T11:51:39.264473-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-06-11T08:06:20.852352-03:00",
+      "ultima_coleta_em": "2026-06-11T11:52:48.897395-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-06-11T08:03:44.672373-03:00",
+      "ultima_coleta_em": "2026-06-11T11:50:15.385332-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-06-11T08:03:23.094864-03:00",
+      "ultima_coleta_em": "2026-06-11T11:49:54.023436-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 0,
+      "ultima_coleta_qtd": 1,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-06-11T08:04:18.365077-03:00",
+      "ultima_coleta_em": "2026-06-11T11:50:49.949139-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -9500,6 +9500,11 @@
       "oferta_id": 48,
       "preco": 737.91,
       "registrado_em": "2026-06-10T13:52:32.475707-03:00"
+    },
+    {
+      "oferta_id": 49,
+      "preco": 52.0,
+      "registrado_em": "2026-06-11T11:49:48.042873-03:00"
     }
   ],
   "notificacoes": [
@@ -9815,6 +9820,13 @@
       "enviada_em": "2026-06-09T20:40:12.565564-03:00",
       "erro": null,
       "oferta_id": 47,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-06-11T11:49:54.023209-03:00",
+      "erro": null,
+      "oferta_id": 49,
       "sucesso": true,
       "tipo": "nova"
     }
@@ -10421,6 +10433,20 @@
       "preco_de": 899.9,
       "produto_id": 37,
       "url": "https://www.promobit.com.br/oferta/tenis-adidas-adizero-drive-rc-feminino-2863516/"
+    },
+    "49": {
+      "ativa": true,
+      "atualizada_em": "2026-06-11T11:49:48.042873-03:00",
+      "coletada_em": "2026-06-11T11:49:48.042873-03:00",
+      "desconto_pct": 57,
+      "fonte": "promobit",
+      "hash_unico": "86e01eba5ed5826315844534f432ee2c",
+      "id": 49,
+      "loja": "Amazon",
+      "preco_atual": 52.0,
+      "preco_de": 119.9,
+      "produto_id": 35,
+      "url": "https://www.promobit.com.br/oferta/kit-rapunzel-lola-shampoo-250ml-tonico-de-crescimento-250ml-leave-in-250ml-2865543/"
     },
     "5": {
       "ativa": false,
