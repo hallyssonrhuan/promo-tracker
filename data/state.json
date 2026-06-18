@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 58,
-    "produto": 42
+    "oferta": 59,
+    "produto": 43
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-06-17T23:13:35.326566-03:00",
+      "ultima_coleta_em": "2026-06-18T04:11:00.861742-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-06-17T23:12:16.821326-03:00",
+      "ultima_coleta_em": "2026-06-18T04:09:41.115499-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-06-17T23:12:42.854039-03:00",
+      "ultima_coleta_em": "2026-06-18T04:10:07.237095-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-06-17T23:10:53.551690-03:00",
+      "ultima_coleta_em": "2026-06-18T04:07:31.046899-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-06-17T23:11:35.505360-03:00",
+      "ultima_coleta_em": "2026-06-18T04:08:13.223312-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-06-17T23:09:13.239551-03:00",
+      "ultima_coleta_em": "2026-06-18T04:05:47.346393-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-06-17T23:10:22.180227-03:00",
+      "ultima_coleta_em": "2026-06-18T04:06:59.792699-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-06-17T23:07:51.611025-03:00",
+      "ultima_coleta_em": "2026-06-18T04:04:22.700990-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-06-17T23:07:30.311076-03:00",
+      "ultima_coleta_em": "2026-06-18T04:04:00.953382-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 3,
+      "ultima_coleta_qtd": 4,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-06-17T23:08:24.809145-03:00",
+      "ultima_coleta_em": "2026-06-18T04:04:57.858675-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -10290,6 +10290,26 @@
       "oferta_id": 55,
       "preco": 20.61,
       "registrado_em": "2026-06-17T23:07:30.310781-03:00"
+    },
+    {
+      "oferta_id": 57,
+      "preco": 271.99,
+      "registrado_em": "2026-06-18T04:03:55.507480-03:00"
+    },
+    {
+      "oferta_id": 58,
+      "preco": 449.99,
+      "registrado_em": "2026-06-18T04:03:55.507480-03:00"
+    },
+    {
+      "oferta_id": 49,
+      "preco": 52.0,
+      "registrado_em": "2026-06-18T04:03:55.507480-03:00"
+    },
+    {
+      "oferta_id": 55,
+      "preco": 20.61,
+      "registrado_em": "2026-06-18T04:03:55.507480-03:00"
     }
   ],
   "notificacoes": [
@@ -10661,6 +10681,13 @@
       "enviada_em": "2026-06-17T12:57:42.213902-03:00",
       "erro": null,
       "oferta_id": 57,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-06-18T04:04:00.953116-03:00",
+      "erro": null,
+      "oferta_id": 58,
       "sucesso": true,
       "tipo": "nova"
     }
@@ -11270,7 +11297,7 @@
     },
     "49": {
       "ativa": true,
-      "atualizada_em": "2026-06-17T23:07:30.310781-03:00",
+      "atualizada_em": "2026-06-18T04:03:55.507480-03:00",
       "coletada_em": "2026-06-11T11:49:48.042873-03:00",
       "desconto_pct": 57,
       "fonte": "promobit",
@@ -11368,7 +11395,7 @@
     },
     "55": {
       "ativa": true,
-      "atualizada_em": "2026-06-17T23:07:30.310781-03:00",
+      "atualizada_em": "2026-06-18T04:03:55.507480-03:00",
       "coletada_em": "2026-06-16T04:08:47.357223-03:00",
       "desconto_pct": 66,
       "fonte": "promobit",
@@ -11396,7 +11423,7 @@
     },
     "57": {
       "ativa": true,
-      "atualizada_em": "2026-06-17T23:07:30.310781-03:00",
+      "atualizada_em": "2026-06-18T04:03:55.507480-03:00",
       "coletada_em": "2026-06-17T12:57:36.691896-03:00",
       "desconto_pct": 40,
       "fonte": "promobit",
@@ -11407,6 +11434,20 @@
       "preco_de": 449.99,
       "produto_id": 41,
       "url": "https://www.promobit.com.br/oferta/tenis-adidas-run-72-feminino-2874199/"
+    },
+    "58": {
+      "ativa": true,
+      "atualizada_em": "2026-06-18T04:03:55.507480-03:00",
+      "coletada_em": "2026-06-18T04:03:55.507480-03:00",
+      "desconto_pct": 25,
+      "fonte": "promobit",
+      "hash_unico": "903bd6a6428b1a747b88bab302dc2119",
+      "id": 58,
+      "loja": "Centauro",
+      "preco_atual": 449.99,
+      "preco_de": 599.9,
+      "produto_id": 42,
+      "url": "https://www.promobit.com.br/oferta/tenis-de-corrida-unissex-olympikus-corre-4-2875612/"
     },
     "6": {
       "ativa": false,
@@ -11789,6 +11830,15 @@
       "marca": "Adidas",
       "titulo_normalizado": "tenis adidas run 72 feminino",
       "titulo_original": "Tênis Adidas Run 72 Feminino"
+    },
+    "42": {
+      "categoria": "corrida",
+      "criado_em": "2026-06-18T04:03:55.507566-03:00",
+      "id": 42,
+      "imagem_url": "https://i.promobit.com.br/268/469297818417817514378083777854.png",
+      "marca": "Olympikus",
+      "titulo_normalizado": "tenis de corrida unissex olympikus corre 4",
+      "titulo_original": "Tênis de Corrida Unissex Olympikus Corre 4"
     },
     "5": {
       "categoria": "cabelo",
