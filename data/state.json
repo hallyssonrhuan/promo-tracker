@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 62,
-    "produto": 44
+    "oferta": 63,
+    "produto": 45
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-06-19T19:42:51.814105-03:00",
+      "ultima_coleta_em": "2026-06-19T20:52:04.328567-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-06-19T19:41:02.050855-03:00",
+      "ultima_coleta_em": "2026-06-19T20:49:40.510426-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-06-19T19:41:28.130005-03:00",
+      "ultima_coleta_em": "2026-06-19T20:50:06.642270-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-06-19T19:39:05.752511-03:00",
+      "ultima_coleta_em": "2026-06-19T20:47:29.182486-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-06-19T19:39:47.812604-03:00",
+      "ultima_coleta_em": "2026-06-19T20:48:11.869622-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-06-19T19:37:25.602336-03:00",
+      "ultima_coleta_em": "2026-06-19T20:45:44.102556-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-06-19T19:38:34.382839-03:00",
+      "ultima_coleta_em": "2026-06-19T20:46:57.733432-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-06-19T19:36:02.928851-03:00",
+      "ultima_coleta_em": "2026-06-19T20:44:20.615676-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-06-19T19:35:41.605311-03:00",
+      "ultima_coleta_em": "2026-06-19T20:43:58.874620-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 2,
+      "ultima_coleta_qtd": 3,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-06-19T19:36:36.837426-03:00",
+      "ultima_coleta_em": "2026-06-19T20:44:54.934325-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -10510,6 +10510,21 @@
       "oferta_id": 49,
       "preco": 52.0,
       "registrado_em": "2026-06-19T19:35:41.605052-03:00"
+    },
+    {
+      "oferta_id": 61,
+      "preco": 258.39,
+      "registrado_em": "2026-06-19T20:43:53.421213-03:00"
+    },
+    {
+      "oferta_id": 62,
+      "preco": 358.19,
+      "registrado_em": "2026-06-19T20:43:53.421213-03:00"
+    },
+    {
+      "oferta_id": 49,
+      "preco": 52.0,
+      "registrado_em": "2026-06-19T20:43:53.421213-03:00"
     }
   ],
   "notificacoes": [
@@ -10909,6 +10924,13 @@
       "enviada_em": "2026-06-19T14:00:19.510447-03:00",
       "erro": null,
       "oferta_id": 61,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-06-19T20:43:58.874314-03:00",
+      "erro": null,
+      "oferta_id": 62,
       "sucesso": true,
       "tipo": "nova"
     }
@@ -11518,7 +11540,7 @@
     },
     "49": {
       "ativa": true,
-      "atualizada_em": "2026-06-19T19:35:41.605052-03:00",
+      "atualizada_em": "2026-06-19T20:43:53.421213-03:00",
       "coletada_em": "2026-06-11T11:49:48.042873-03:00",
       "desconto_pct": 57,
       "fonte": "promobit",
@@ -11714,7 +11736,7 @@
     },
     "61": {
       "ativa": true,
-      "atualizada_em": "2026-06-19T19:35:41.605052-03:00",
+      "atualizada_em": "2026-06-19T20:43:53.421213-03:00",
       "coletada_em": "2026-06-19T14:00:14.119832-03:00",
       "desconto_pct": 48,
       "fonte": "promobit",
@@ -11725,6 +11747,20 @@
       "preco_de": 499.99,
       "produto_id": 22,
       "url": "https://www.promobit.com.br/oferta/tenis-asics-gel-excite-11-feminino-2878037/"
+    },
+    "62": {
+      "ativa": true,
+      "atualizada_em": "2026-06-19T20:43:53.421213-03:00",
+      "coletada_em": "2026-06-19T20:43:53.421213-03:00",
+      "desconto_pct": 49,
+      "fonte": "promobit",
+      "hash_unico": "d4ec174c8595039f038d1ef57b04d1c2",
+      "id": 62,
+      "loja": "Amazon",
+      "preco_atual": 358.19,
+      "preco_de": 699.99,
+      "produto_id": 44,
+      "url": "https://www.promobit.com.br/oferta/tenis-de-corrida-mizuno-neo-vortex-todas-as-cores-2878717/"
     },
     "7": {
       "ativa": false,
@@ -12111,6 +12147,15 @@
       "marca": "Asics",
       "titulo_normalizado": "tenis asics gel-pulse 16 se feminino",
       "titulo_original": "Tênis Asics Gel-Pulse 16 SE Feminino"
+    },
+    "44": {
+      "categoria": "corrida",
+      "criado_em": "2026-06-19T20:43:53.421339-03:00",
+      "id": 44,
+      "imagem_url": "https://i.promobit.com.br/268/339655310117819092431323734804.jpg",
+      "marca": "Mizuno",
+      "titulo_normalizado": "tenis de corrida mizuno neo vortex - todas as cores",
+      "titulo_original": "Tênis de Corrida Mizuno Neo Vortex - Todas as cores"
     },
     "5": {
       "categoria": "cabelo",
