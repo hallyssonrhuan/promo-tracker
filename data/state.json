@@ -7,7 +7,7 @@
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-06-19T22:59:00.373790-03:00",
+      "ultima_coleta_em": "2026-06-20T03:13:15.095631-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-06-19T22:56:57.951220-03:00",
+      "ultima_coleta_em": "2026-06-20T03:11:34.420374-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-06-19T22:57:24.448198-03:00",
+      "ultima_coleta_em": "2026-06-20T03:12:00.540518-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-06-19T22:55:04.487488-03:00",
+      "ultima_coleta_em": "2026-06-20T03:09:40.753187-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-06-19T22:55:47.098524-03:00",
+      "ultima_coleta_em": "2026-06-20T03:10:22.776919-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-06-19T22:53:21.660039-03:00",
+      "ultima_coleta_em": "2026-06-20T03:07:57.224682-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-06-19T22:54:33.182034-03:00",
+      "ultima_coleta_em": "2026-06-20T03:09:09.545915-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-06-19T22:51:58.347518-03:00",
+      "ultima_coleta_em": "2026-06-20T03:06:35.382252-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,7 +71,7 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-06-19T22:51:36.642249-03:00",
+      "ultima_coleta_em": "2026-06-20T03:06:13.983053-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 3,
       "ultima_coleta_status": "ok"
@@ -79,7 +79,7 @@
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-06-19T22:52:32.509222-03:00",
+      "ultima_coleta_em": "2026-06-20T03:07:08.745555-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -10540,6 +10540,21 @@
       "oferta_id": 49,
       "preco": 52.0,
       "registrado_em": "2026-06-19T22:51:36.641952-03:00"
+    },
+    {
+      "oferta_id": 61,
+      "preco": 258.39,
+      "registrado_em": "2026-06-20T03:06:13.982767-03:00"
+    },
+    {
+      "oferta_id": 62,
+      "preco": 358.19,
+      "registrado_em": "2026-06-20T03:06:13.982767-03:00"
+    },
+    {
+      "oferta_id": 49,
+      "preco": 52.0,
+      "registrado_em": "2026-06-20T03:06:13.982767-03:00"
     }
   ],
   "notificacoes": [
@@ -11526,8 +11541,8 @@
       "url": "https://www.promobit.com.br/oferta/tenis-asics-gel-excite-11-feminino-2861414/"
     },
     "47": {
-      "ativa": true,
-      "atualizada_em": "2026-06-09T22:51:36.679159-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-06-20T03:13:20.190954-03:00",
       "coletada_em": "2026-06-09T20:40:07.334954-03:00",
       "desconto_pct": 46,
       "fonte": "promobit",
@@ -11555,7 +11570,7 @@
     },
     "49": {
       "ativa": true,
-      "atualizada_em": "2026-06-19T22:51:36.641952-03:00",
+      "atualizada_em": "2026-06-20T03:06:13.982767-03:00",
       "coletada_em": "2026-06-11T11:49:48.042873-03:00",
       "desconto_pct": 57,
       "fonte": "promobit",
@@ -11751,7 +11766,7 @@
     },
     "61": {
       "ativa": true,
-      "atualizada_em": "2026-06-19T22:51:36.641952-03:00",
+      "atualizada_em": "2026-06-20T03:06:13.982767-03:00",
       "coletada_em": "2026-06-19T14:00:14.119832-03:00",
       "desconto_pct": 48,
       "fonte": "promobit",
@@ -11765,7 +11780,7 @@
     },
     "62": {
       "ativa": true,
-      "atualizada_em": "2026-06-19T22:51:36.641952-03:00",
+      "atualizada_em": "2026-06-20T03:06:13.982767-03:00",
       "coletada_em": "2026-06-19T20:43:53.421213-03:00",
       "desconto_pct": 49,
       "fonte": "promobit",
