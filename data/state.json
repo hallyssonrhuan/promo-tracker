@@ -7,7 +7,7 @@
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-06-21T22:52:30.580672-03:00",
+      "ultima_coleta_em": "2026-06-22T04:13:53.312542-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-06-21T22:51:10.507140-03:00",
+      "ultima_coleta_em": "2026-06-22T04:11:51.040824-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-06-21T22:51:36.891854-03:00",
+      "ultima_coleta_em": "2026-06-22T04:12:17.326708-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-06-21T22:49:13.687625-03:00",
+      "ultima_coleta_em": "2026-06-22T04:09:55.351838-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-06-21T22:49:56.531470-03:00",
+      "ultima_coleta_em": "2026-06-22T04:10:37.786238-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-06-21T22:47:32.143836-03:00",
+      "ultima_coleta_em": "2026-06-22T04:08:12.773815-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-06-21T22:48:42.142534-03:00",
+      "ultima_coleta_em": "2026-06-22T04:09:23.960990-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-06-21T22:46:09.436124-03:00",
+      "ultima_coleta_em": "2026-06-22T04:06:49.566800-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-06-21T22:45:47.814692-03:00",
+      "ultima_coleta_em": "2026-06-22T04:06:27.897050-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 1,
+      "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-06-21T22:46:43.291001-03:00",
+      "ultima_coleta_em": "2026-06-22T04:07:23.681424-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -11729,8 +11729,8 @@
       "url": "https://www.promobit.com.br/oferta/tenis-adidas-adizero-drive-rc-feminino-2863516/"
     },
     "49": {
-      "ativa": true,
-      "atualizada_em": "2026-06-21T22:45:47.814527-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-06-22T04:13:57.871732-03:00",
       "coletada_em": "2026-06-11T11:49:48.042873-03:00",
       "desconto_pct": 57,
       "fonte": "promobit",
