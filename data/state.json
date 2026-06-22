@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 63,
-    "produto": 45
+    "oferta": 64,
+    "produto": 46
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-06-22T14:37:02.686427-03:00",
+      "ultima_coleta_em": "2026-06-22T17:28:03.281811-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-06-22T14:35:00.320512-03:00",
+      "ultima_coleta_em": "2026-06-22T17:26:20.844098-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-06-22T14:35:26.334975-03:00",
+      "ultima_coleta_em": "2026-06-22T17:26:47.103319-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-06-22T14:32:40.395929-03:00",
+      "ultima_coleta_em": "2026-06-22T17:24:13.025696-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-06-22T14:33:22.026203-03:00",
+      "ultima_coleta_em": "2026-06-22T17:24:55.209438-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-06-22T14:30:56.085452-03:00",
+      "ultima_coleta_em": "2026-06-22T17:22:31.654713-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-06-22T14:32:08.984041-03:00",
+      "ultima_coleta_em": "2026-06-22T17:23:41.646435-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-06-22T14:29:31.969058-03:00",
+      "ultima_coleta_em": "2026-06-22T17:21:08.969939-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-06-22T14:29:10.560137-03:00",
+      "ultima_coleta_em": "2026-06-22T17:20:47.595293-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 0,
+      "ultima_coleta_qtd": 1,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-06-22T14:30:06.762925-03:00",
+      "ultima_coleta_em": "2026-06-22T17:21:42.831897-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -10715,6 +10715,11 @@
       "oferta_id": 49,
       "preco": 52.0,
       "registrado_em": "2026-06-21T22:45:47.814527-03:00"
+    },
+    {
+      "oferta_id": 63,
+      "preco": 607.99,
+      "registrado_em": "2026-06-22T17:20:41.565902-03:00"
     }
   ],
   "notificacoes": [
@@ -11121,6 +11126,13 @@
       "enviada_em": "2026-06-19T20:43:58.874314-03:00",
       "erro": null,
       "oferta_id": 62,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-06-22T17:20:47.595096-03:00",
+      "erro": null,
+      "oferta_id": 63,
       "sucesso": true,
       "tipo": "nova"
     }
@@ -11952,6 +11964,20 @@
       "produto_id": 44,
       "url": "https://www.promobit.com.br/oferta/tenis-de-corrida-mizuno-neo-vortex-todas-as-cores-2878717/"
     },
+    "63": {
+      "ativa": true,
+      "atualizada_em": "2026-06-22T17:20:41.565902-03:00",
+      "coletada_em": "2026-06-22T17:20:41.565902-03:00",
+      "desconto_pct": 49,
+      "fonte": "promobit",
+      "hash_unico": "aeb2eb90ecb0dd2a07dc4193500be144",
+      "id": 63,
+      "loja": "Netshoes",
+      "preco_atual": 607.99,
+      "preco_de": 1199.99,
+      "produto_id": 45,
+      "url": "https://www.promobit.com.br/oferta/tenis-asics-gel-nimbus-27-feminino-2881757/"
+    },
     "7": {
       "ativa": false,
       "atualizada_em": "2026-05-19T02:54:11.855265-03:00",
@@ -12346,6 +12372,15 @@
       "marca": "Mizuno",
       "titulo_normalizado": "tenis de corrida mizuno neo vortex - todas as cores",
       "titulo_original": "Tênis de Corrida Mizuno Neo Vortex - Todas as cores"
+    },
+    "45": {
+      "categoria": "corrida",
+      "criado_em": "2026-06-22T17:20:41.565935-03:00",
+      "id": 45,
+      "imagem_url": "https://i.promobit.com.br/268/622123425417821493016495945634.png",
+      "marca": "Asics",
+      "titulo_normalizado": "tenis asics gel-nimbus 27 - feminino",
+      "titulo_original": "Tênis ASICS GEL-Nimbus 27 - Feminino"
     },
     "5": {
       "categoria": "cabelo",
