@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 64,
-    "produto": 46
+    "oferta": 65,
+    "produto": 47
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-06-23T17:40:36.642218-03:00",
+      "ultima_coleta_em": "2026-06-23T19:08:24.993096-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-06-23T17:38:01.789345-03:00",
+      "ultima_coleta_em": "2026-06-23T19:05:49.244061-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-06-23T17:38:27.606903-03:00",
+      "ultima_coleta_em": "2026-06-23T19:06:15.625727-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-06-23T17:35:43.237952-03:00",
+      "ultima_coleta_em": "2026-06-23T19:03:33.988268-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-06-23T17:36:25.728189-03:00",
+      "ultima_coleta_em": "2026-06-23T19:04:16.959773-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-06-23T17:34:02.676447-03:00",
+      "ultima_coleta_em": "2026-06-23T19:01:35.154038-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-06-23T17:35:11.954781-03:00",
+      "ultima_coleta_em": "2026-06-23T19:03:02.301082-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-06-23T17:32:38.653529-03:00",
+      "ultima_coleta_em": "2026-06-23T19:00:10.900940-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-06-23T17:32:17.271066-03:00",
+      "ultima_coleta_em": "2026-06-23T18:59:49.316682-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 0,
+      "ultima_coleta_qtd": 1,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-06-23T17:33:13.276926-03:00",
+      "ultima_coleta_em": "2026-06-23T19:00:45.544642-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -10750,6 +10750,11 @@
       "oferta_id": 63,
       "preco": 607.99,
       "registrado_em": "2026-06-23T08:48:18.655251-03:00"
+    },
+    {
+      "oferta_id": 64,
+      "preco": 664.99,
+      "registrado_em": "2026-06-23T18:59:42.869412-03:00"
     }
   ],
   "notificacoes": [
@@ -11163,6 +11168,13 @@
       "enviada_em": "2026-06-22T17:20:47.595096-03:00",
       "erro": null,
       "oferta_id": 63,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-06-23T18:59:49.316470-03:00",
+      "erro": null,
+      "oferta_id": 64,
       "sucesso": true,
       "tipo": "nova"
     }
@@ -12008,6 +12020,20 @@
       "produto_id": 45,
       "url": "https://www.promobit.com.br/oferta/tenis-asics-gel-nimbus-27-feminino-2881757/"
     },
+    "64": {
+      "ativa": true,
+      "atualizada_em": "2026-06-23T18:59:42.869412-03:00",
+      "coletada_em": "2026-06-23T18:59:42.869412-03:00",
+      "desconto_pct": 34,
+      "fonte": "promobit",
+      "hash_unico": "ccaa31e486841937171e7317b1ebab5d",
+      "id": 64,
+      "loja": "Centauro",
+      "preco_atual": 664.99,
+      "preco_de": 999.99,
+      "produto_id": 46,
+      "url": "https://www.promobit.com.br/oferta/tenis-nike-pegasus-41-feminino-2884238/"
+    },
     "7": {
       "ativa": false,
       "atualizada_em": "2026-05-19T02:54:11.855265-03:00",
@@ -12411,6 +12437,15 @@
       "marca": "Asics",
       "titulo_normalizado": "tenis asics gel-nimbus 27 - feminino",
       "titulo_original": "Tênis ASICS GEL-Nimbus 27 - Feminino"
+    },
+    "46": {
+      "categoria": "corrida",
+      "criado_em": "2026-06-23T18:59:42.869449-03:00",
+      "id": 46,
+      "imagem_url": "https://i.promobit.com.br/268/863797295017822482299717637160.png",
+      "marca": "Nike",
+      "titulo_normalizado": "tenis nike pegasus 41 - feminino",
+      "titulo_original": "Tênis Nike Pegasus 41 - Feminino"
     },
     "5": {
       "categoria": "cabelo",
