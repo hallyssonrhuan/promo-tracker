@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 66,
-    "produto": 48
+    "oferta": 67,
+    "produto": 49
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-06-24T09:46:03.062656-03:00",
+      "ultima_coleta_em": "2026-06-24T12:31:04.688594-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-06-24T09:43:50.041888-03:00",
+      "ultima_coleta_em": "2026-06-24T12:28:38.708211-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 1,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-06-24T09:44:16.321757-03:00",
+      "ultima_coleta_em": "2026-06-24T12:29:05.057309-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-06-24T09:41:28.887587-03:00",
+      "ultima_coleta_em": "2026-06-24T12:26:12.423986-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-06-24T09:42:10.862606-03:00",
+      "ultima_coleta_em": "2026-06-24T12:26:54.628713-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-06-24T09:39:43.621159-03:00",
+      "ultima_coleta_em": "2026-06-24T12:24:27.046662-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-06-24T09:40:57.563095-03:00",
+      "ultima_coleta_em": "2026-06-24T12:25:40.474318-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-06-24T09:38:21.679104-03:00",
+      "ultima_coleta_em": "2026-06-24T12:23:03.843190-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-06-24T09:38:00.255217-03:00",
+      "ultima_coleta_em": "2026-06-24T12:22:42.120425-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 1,
+      "ultima_coleta_qtd": 2,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-06-24T09:38:55.111837-03:00",
+      "ultima_coleta_em": "2026-06-24T12:23:37.863487-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -10790,6 +10790,21 @@
       "oferta_id": 65,
       "preco": 21.99,
       "registrado_em": "2026-06-24T09:43:45.342507-03:00"
+    },
+    {
+      "oferta_id": 64,
+      "preco": 664.99,
+      "registrado_em": "2026-06-24T12:22:36.623152-03:00"
+    },
+    {
+      "oferta_id": 66,
+      "preco": 71.9,
+      "registrado_em": "2026-06-24T12:22:36.623152-03:00"
+    },
+    {
+      "oferta_id": 65,
+      "preco": 21.99,
+      "registrado_em": "2026-06-24T12:28:38.708055-03:00"
     }
   ],
   "notificacoes": [
@@ -11217,6 +11232,13 @@
       "enviada_em": "2026-06-24T09:43:50.041676-03:00",
       "erro": null,
       "oferta_id": 65,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-06-24T12:22:42.120211-03:00",
+      "erro": null,
+      "oferta_id": 66,
       "sucesso": true,
       "tipo": "nova"
     }
@@ -12064,7 +12086,7 @@
     },
     "64": {
       "ativa": true,
-      "atualizada_em": "2026-06-24T09:38:00.255037-03:00",
+      "atualizada_em": "2026-06-24T12:22:36.623152-03:00",
       "coletada_em": "2026-06-23T18:59:42.869412-03:00",
       "desconto_pct": 34,
       "fonte": "promobit",
@@ -12078,7 +12100,7 @@
     },
     "65": {
       "ativa": true,
-      "atualizada_em": "2026-06-24T09:43:45.342507-03:00",
+      "atualizada_em": "2026-06-24T12:28:38.708055-03:00",
       "coletada_em": "2026-06-24T09:43:45.342507-03:00",
       "desconto_pct": 41,
       "fonte": "americanas",
@@ -12089,6 +12111,20 @@
       "preco_de": 37.29,
       "produto_id": 47,
       "url": "https://www.americanas.com.br/kit-euroderm-gelato-pistache---vanilla---body-splash-200ml---manteiga-hidratante-200ml/p"
+    },
+    "66": {
+      "ativa": true,
+      "atualizada_em": "2026-06-24T12:22:36.623152-03:00",
+      "coletada_em": "2026-06-24T12:22:36.623152-03:00",
+      "desconto_pct": 35,
+      "fonte": "promobit",
+      "hash_unico": "7113d0914790722f566e17945d51667f",
+      "id": 66,
+      "loja": "Shopee",
+      "preco_atual": 71.9,
+      "preco_de": 110.62,
+      "produto_id": 48,
+      "url": "https://www.promobit.com.br/oferta/tenis-infantil-com-cadarco-elastico-tam-23-ao-34-4-cores-2885436/"
     },
     "7": {
       "ativa": false,
@@ -12511,6 +12547,15 @@
       "marca": "Dailus",
       "titulo_normalizado": "kit hidratante e body splash dailus euroderm gelato pistache e vanilla 200ml",
       "titulo_original": "Kit Hidratante e Body Splash Dailus Euroderm Gelato Pistache e Vanilla 200ml"
+    },
+    "48": {
+      "categoria": "infantil",
+      "criado_em": "2026-06-24T12:22:36.623249-03:00",
+      "id": 48,
+      "imagem_url": "https://i.promobit.com.br/268/407441762817823132132847604802.jpg",
+      "marca": "Tenis infantil masc",
+      "titulo_normalizado": "tenis infantil com cadarco elastico (tam 23 ao 34 4 cores)",
+      "titulo_original": "Tênis Infantil Com Cadarço Elástico (Tam. 23 ao 34, 4 cores)"
     },
     "5": {
       "categoria": "cabelo",
