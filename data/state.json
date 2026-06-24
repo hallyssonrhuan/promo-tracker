@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 65,
-    "produto": 47
+    "oferta": 66,
+    "produto": 48
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-06-24T07:49:36.799278-03:00",
+      "ultima_coleta_em": "2026-06-24T09:46:03.062656-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,15 +15,15 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-06-24T07:48:16.746401-03:00",
+      "ultima_coleta_em": "2026-06-24T09:43:50.041888-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 0,
+      "ultima_coleta_qtd": 1,
       "ultima_coleta_status": "ok"
     },
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-06-24T07:48:42.841168-03:00",
+      "ultima_coleta_em": "2026-06-24T09:44:16.321757-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-06-24T07:46:20.589763-03:00",
+      "ultima_coleta_em": "2026-06-24T09:41:28.887587-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-06-24T07:47:02.208442-03:00",
+      "ultima_coleta_em": "2026-06-24T09:42:10.862606-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-06-24T07:44:35.552686-03:00",
+      "ultima_coleta_em": "2026-06-24T09:39:43.621159-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-06-24T07:45:49.428986-03:00",
+      "ultima_coleta_em": "2026-06-24T09:40:57.563095-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-06-24T07:43:11.772383-03:00",
+      "ultima_coleta_em": "2026-06-24T09:38:21.679104-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,7 +71,7 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-06-24T07:42:50.408461-03:00",
+      "ultima_coleta_em": "2026-06-24T09:38:00.255217-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 1,
       "ultima_coleta_status": "ok"
@@ -79,7 +79,7 @@
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-06-24T07:43:46.229114-03:00",
+      "ultima_coleta_em": "2026-06-24T09:38:55.111837-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -10780,6 +10780,16 @@
       "oferta_id": 64,
       "preco": 664.99,
       "registrado_em": "2026-06-24T07:42:50.408279-03:00"
+    },
+    {
+      "oferta_id": 64,
+      "preco": 664.99,
+      "registrado_em": "2026-06-24T09:38:00.255037-03:00"
+    },
+    {
+      "oferta_id": 65,
+      "preco": 21.99,
+      "registrado_em": "2026-06-24T09:43:45.342507-03:00"
     }
   ],
   "notificacoes": [
@@ -11200,6 +11210,13 @@
       "enviada_em": "2026-06-23T18:59:49.316470-03:00",
       "erro": null,
       "oferta_id": 64,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-06-24T09:43:50.041676-03:00",
+      "erro": null,
+      "oferta_id": 65,
       "sucesso": true,
       "tipo": "nova"
     }
@@ -12047,7 +12064,7 @@
     },
     "64": {
       "ativa": true,
-      "atualizada_em": "2026-06-24T07:42:50.408279-03:00",
+      "atualizada_em": "2026-06-24T09:38:00.255037-03:00",
       "coletada_em": "2026-06-23T18:59:42.869412-03:00",
       "desconto_pct": 34,
       "fonte": "promobit",
@@ -12058,6 +12075,20 @@
       "preco_de": 999.99,
       "produto_id": 46,
       "url": "https://www.promobit.com.br/oferta/tenis-nike-pegasus-41-feminino-2884238/"
+    },
+    "65": {
+      "ativa": true,
+      "atualizada_em": "2026-06-24T09:43:45.342507-03:00",
+      "coletada_em": "2026-06-24T09:43:45.342507-03:00",
+      "desconto_pct": 41,
+      "fonte": "americanas",
+      "hash_unico": "21d646ac7995f14e92b8e58d27de2a16",
+      "id": 65,
+      "loja": "Americanas",
+      "preco_atual": 21.99,
+      "preco_de": 37.29,
+      "produto_id": 47,
+      "url": "https://www.americanas.com.br/kit-euroderm-gelato-pistache---vanilla---body-splash-200ml---manteiga-hidratante-200ml/p"
     },
     "7": {
       "ativa": false,
@@ -12471,6 +12502,15 @@
       "marca": "Nike",
       "titulo_normalizado": "tenis nike pegasus 41 - feminino",
       "titulo_original": "Tênis Nike Pegasus 41 - Feminino"
+    },
+    "47": {
+      "categoria": "maquiagem",
+      "criado_em": "2026-06-24T09:43:45.342538-03:00",
+      "id": 47,
+      "imagem_url": "https://www.americanas.com.br/_next/static/media/addCartIcon.264a0d59.svg",
+      "marca": "Dailus",
+      "titulo_normalizado": "kit hidratante e body splash dailus euroderm gelato pistache e vanilla 200ml",
+      "titulo_original": "Kit Hidratante e Body Splash Dailus Euroderm Gelato Pistache e Vanilla 200ml"
     },
     "5": {
       "categoria": "cabelo",
