@@ -7,7 +7,7 @@
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-06-25T22:37:37.563734-03:00",
+      "ultima_coleta_em": "2026-06-26T02:55:51.890037-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-06-25T22:35:34.100233-03:00",
+      "ultima_coleta_em": "2026-06-26T02:54:22.343597-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 1,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-06-25T22:36:00.486141-03:00",
+      "ultima_coleta_em": "2026-06-26T02:54:48.421636-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-06-25T22:33:32.404210-03:00",
+      "ultima_coleta_em": "2026-06-26T02:52:28.637970-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-06-25T22:34:15.037157-03:00",
+      "ultima_coleta_em": "2026-06-26T02:53:11.062008-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-06-25T22:32:29.924934-03:00",
+      "ultima_coleta_em": "2026-06-26T02:51:24.630363-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-06-25T22:33:01.226244-03:00",
+      "ultima_coleta_em": "2026-06-26T02:51:57.382945-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-06-25T22:31:05.875318-03:00",
+      "ultima_coleta_em": "2026-06-26T02:50:01.994387-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,7 +71,7 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-06-25T22:30:44.490557-03:00",
+      "ultima_coleta_em": "2026-06-26T02:49:40.645057-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 1,
       "ultima_coleta_status": "ok"
@@ -79,7 +79,7 @@
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-06-25T22:31:40.419020-03:00",
+      "ultima_coleta_em": "2026-06-26T02:50:35.763025-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -10950,6 +10950,16 @@
       "oferta_id": 65,
       "preco": 21.99,
       "registrado_em": "2026-06-25T22:35:34.100041-03:00"
+    },
+    {
+      "oferta_id": 67,
+      "preco": 304.2,
+      "registrado_em": "2026-06-26T02:49:40.644871-03:00"
+    },
+    {
+      "oferta_id": 65,
+      "preco": 21.99,
+      "registrado_em": "2026-06-26T02:54:22.343401-03:00"
     }
   ],
   "notificacoes": [
@@ -12069,8 +12079,8 @@
       "url": "https://www.promobit.com.br/oferta/rapunzel-milk-leave-in-spray-250ml-lola-cosmetics-2868938/"
     },
     "53": {
-      "ativa": true,
-      "atualizada_em": "2026-06-15T18:22:47.438923-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-06-26T02:55:56.349128-03:00",
       "coletada_em": "2026-06-15T15:14:19.794296-03:00",
       "desconto_pct": 45,
       "fonte": "promobit",
@@ -12252,7 +12262,7 @@
     },
     "65": {
       "ativa": true,
-      "atualizada_em": "2026-06-25T22:35:34.100041-03:00",
+      "atualizada_em": "2026-06-26T02:54:22.343401-03:00",
       "coletada_em": "2026-06-24T09:43:45.342507-03:00",
       "desconto_pct": 41,
       "fonte": "americanas",
@@ -12280,7 +12290,7 @@
     },
     "67": {
       "ativa": true,
-      "atualizada_em": "2026-06-25T22:30:44.490327-03:00",
+      "atualizada_em": "2026-06-26T02:49:40.644871-03:00",
       "coletada_em": "2026-06-25T13:03:02.603421-03:00",
       "desconto_pct": 49,
       "fonte": "promobit",
