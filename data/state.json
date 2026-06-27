@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 69,
-    "produto": 50
+    "oferta": 70,
+    "produto": 51
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-06-27T08:20:59.655949-03:00",
+      "ultima_coleta_em": "2026-06-27T09:25:51.403254-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-06-27T08:19:37.937342-03:00",
+      "ultima_coleta_em": "2026-06-27T09:24:32.861314-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 1,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-06-27T08:20:04.077844-03:00",
+      "ultima_coleta_em": "2026-06-27T09:24:58.926550-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-06-27T08:17:31.692184-03:00",
+      "ultima_coleta_em": "2026-06-27T09:22:26.893687-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-06-27T08:18:13.991826-03:00",
+      "ultima_coleta_em": "2026-06-27T09:23:08.811148-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-06-27T08:16:27.326251-03:00",
+      "ultima_coleta_em": "2026-06-27T09:21:23.804827-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-06-27T08:17:00.450064-03:00",
+      "ultima_coleta_em": "2026-06-27T09:21:55.862562-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-06-27T08:15:05.591947-03:00",
+      "ultima_coleta_em": "2026-06-27T09:20:02.044920-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-06-27T08:14:44.305190-03:00",
+      "ultima_coleta_em": "2026-06-27T09:19:40.721426-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 1,
+      "ultima_coleta_qtd": 2,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-06-27T08:15:38.907867-03:00",
+      "ultima_coleta_em": "2026-06-27T09:20:35.357112-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -11125,6 +11125,21 @@
       "oferta_id": 65,
       "preco": 21.99,
       "registrado_em": "2026-06-27T08:19:37.937173-03:00"
+    },
+    {
+      "oferta_id": 68,
+      "preco": 282.62,
+      "registrado_em": "2026-06-27T09:19:35.893449-03:00"
+    },
+    {
+      "oferta_id": 69,
+      "preco": 52.4,
+      "registrado_em": "2026-06-27T09:19:35.893449-03:00"
+    },
+    {
+      "oferta_id": 65,
+      "preco": 21.99,
+      "registrado_em": "2026-06-27T09:24:32.861143-03:00"
     }
   ],
   "notificacoes": [
@@ -11566,6 +11581,13 @@
       "enviada_em": "2026-06-25T13:03:09.052237-03:00",
       "erro": null,
       "oferta_id": 67,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-06-27T09:19:40.721218-03:00",
+      "erro": null,
+      "oferta_id": 69,
       "sucesso": true,
       "tipo": "nova"
     }
@@ -12427,7 +12449,7 @@
     },
     "65": {
       "ativa": true,
-      "atualizada_em": "2026-06-27T08:19:37.937173-03:00",
+      "atualizada_em": "2026-06-27T09:24:32.861143-03:00",
       "coletada_em": "2026-06-24T09:43:45.342507-03:00",
       "desconto_pct": 41,
       "fonte": "americanas",
@@ -12469,7 +12491,7 @@
     },
     "68": {
       "ativa": false,
-      "atualizada_em": "2026-06-27T08:14:44.304998-03:00",
+      "atualizada_em": "2026-06-27T09:19:35.893449-03:00",
       "coletada_em": "2026-06-26T10:32:44.387943-03:00",
       "desconto_pct": 43,
       "fonte": "promobit",
@@ -12480,6 +12502,20 @@
       "preco_de": 499.99,
       "produto_id": 22,
       "url": "https://www.promobit.com.br/oferta/tenis-asics-gel-excite-11-feminino-2888551/"
+    },
+    "69": {
+      "ativa": true,
+      "atualizada_em": "2026-06-27T09:19:35.893449-03:00",
+      "coletada_em": "2026-06-27T09:19:35.893449-03:00",
+      "desconto_pct": 34,
+      "fonte": "promobit",
+      "hash_unico": "c72bee7c6d45774628cc803f6fc5da1f",
+      "id": 69,
+      "loja": "Shopee",
+      "preco_atual": 52.4,
+      "preco_de": 80.0,
+      "produto_id": 50,
+      "url": "https://www.promobit.com.br/oferta/conjunto-infantil-ursinho-tam-1-a-10-anos-diversas-cores-2889753/"
     },
     "7": {
       "ativa": false,
@@ -12929,6 +12965,15 @@
       "marca": "Lola Cosmetics",
       "titulo_normalizado": "meu cacho minha vida condicionador 500g lola cosmetics",
       "titulo_original": "Meu Cacho Minha Vida Condicionador 500g , Lola Cosmetics"
+    },
+    "50": {
+      "categoria": "infantil",
+      "criado_em": "2026-06-27T09:19:35.893607-03:00",
+      "id": 50,
+      "imagem_url": "https://i.promobit.com.br/268/532366546517825599613541491539.jpg",
+      "marca": "Roupa infantil masc",
+      "titulo_normalizado": "conjunto infantil ursinho (tam 1 a 10 anos diversas cores)",
+      "titulo_original": "Conjunto infantil ursinho (Tam. 1 a 10 Anos, Diversas cores)"
     },
     "6": {
       "categoria": "cabelo",
