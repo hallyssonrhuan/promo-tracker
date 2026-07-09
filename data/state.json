@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 83,
-    "produto": 57
+    "oferta": 84,
+    "produto": 58
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-07-09T15:30:36.909006-03:00",
+      "ultima_coleta_em": "2026-07-09T17:20:17.484828-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-07-09T15:29:14.381436-03:00",
+      "ultima_coleta_em": "2026-07-09T17:18:57.846819-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 1,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-07-09T15:29:40.781574-03:00",
+      "ultima_coleta_em": "2026-07-09T17:19:24.048252-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-07-09T15:26:48.865013-03:00",
+      "ultima_coleta_em": "2026-07-09T17:16:17.715281-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-07-09T15:27:31.286077-03:00",
+      "ultima_coleta_em": "2026-07-09T17:16:59.916203-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-07-09T15:25:45.751664-03:00",
+      "ultima_coleta_em": "2026-07-09T17:15:15.086873-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-07-09T15:26:17.277336-03:00",
+      "ultima_coleta_em": "2026-07-09T17:15:46.584385-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-07-09T15:24:21.792348-03:00",
+      "ultima_coleta_em": "2026-07-09T17:13:53.080807-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-07-09T15:24:00.258474-03:00",
+      "ultima_coleta_em": "2026-07-09T17:13:31.773142-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 2,
+      "ultima_coleta_qtd": 3,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-07-09T15:24:56.492964-03:00",
+      "ultima_coleta_em": "2026-07-09T17:14:26.612861-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -14420,6 +14420,26 @@
       "oferta_id": 65,
       "preco": 21.99,
       "registrado_em": "2026-07-09T15:29:14.381218-03:00"
+    },
+    {
+      "oferta_id": 81,
+      "preco": 173.39,
+      "registrado_em": "2026-07-09T17:13:27.072733-03:00"
+    },
+    {
+      "oferta_id": 83,
+      "preco": 21.82,
+      "registrado_em": "2026-07-09T17:13:27.072733-03:00"
+    },
+    {
+      "oferta_id": 71,
+      "preco": 18.9,
+      "registrado_em": "2026-07-09T17:13:27.072733-03:00"
+    },
+    {
+      "oferta_id": 65,
+      "preco": 21.99,
+      "registrado_em": "2026-07-09T17:18:57.846643-03:00"
     }
   ],
   "notificacoes": [
@@ -14952,6 +14972,13 @@
       "enviada_em": "2026-07-08T12:06:39.619076-03:00",
       "erro": null,
       "oferta_id": 82,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-07-09T17:13:31.772885-03:00",
+      "erro": null,
+      "oferta_id": 83,
       "sucesso": true,
       "tipo": "nova"
     }
@@ -15813,7 +15840,7 @@
     },
     "65": {
       "ativa": true,
-      "atualizada_em": "2026-07-09T15:29:14.381218-03:00",
+      "atualizada_em": "2026-07-09T17:18:57.846643-03:00",
       "coletada_em": "2026-06-24T09:43:45.342507-03:00",
       "desconto_pct": 41,
       "fonte": "americanas",
@@ -15911,7 +15938,7 @@
     },
     "71": {
       "ativa": true,
-      "atualizada_em": "2026-07-09T15:24:00.258242-03:00",
+      "atualizada_em": "2026-07-09T17:13:27.072733-03:00",
       "coletada_em": "2026-06-29T18:00:31.071399-03:00",
       "desconto_pct": 66,
       "fonte": "promobit",
@@ -16065,7 +16092,7 @@
     },
     "81": {
       "ativa": true,
-      "atualizada_em": "2026-07-09T15:24:00.258242-03:00",
+      "atualizada_em": "2026-07-09T17:13:27.072733-03:00",
       "coletada_em": "2026-07-08T08:18:07.684984-03:00",
       "desconto_pct": 50,
       "fonte": "promobit",
@@ -16090,6 +16117,20 @@
       "preco_de": 699.99,
       "produto_id": 56,
       "url": "https://www.promobit.com.br/oferta/tenis-de-corrida-mizuno-wave-serene-2914967/"
+    },
+    "83": {
+      "ativa": true,
+      "atualizada_em": "2026-07-09T17:13:27.072733-03:00",
+      "coletada_em": "2026-07-09T17:13:27.072733-03:00",
+      "desconto_pct": 45,
+      "fonte": "promobit",
+      "hash_unico": "d2dfd22b437b9b8a3d67f5d78e8cb19f",
+      "id": 83,
+      "loja": "Amazon",
+      "preco_atual": 21.82,
+      "preco_de": 39.9,
+      "produto_id": 57,
+      "url": "https://www.promobit.com.br/oferta/o-exterminador-de-frizz-120ml-lola-cosmetics-2917351/"
     },
     "9": {
       "ativa": false,
@@ -16574,6 +16615,15 @@
       "marca": "Mizuno",
       "titulo_normalizado": "tenis de corrida mizuno wave serene",
       "titulo_original": "Tênis de Corrida Mizuno Wave Serene"
+    },
+    "57": {
+      "categoria": "cabelo",
+      "criado_em": "2026-07-09T17:13:27.072853-03:00",
+      "id": 57,
+      "imagem_url": "https://i.promobit.com.br/268/961286937417836234929253779149.jpg",
+      "marca": "Lola Cosmetics",
+      "titulo_normalizado": "o exterminador de frizz 120ml lola cosmetics",
+      "titulo_original": "O Exterminador de Frizz 120ml, Lola Cosmetics"
     },
     "6": {
       "categoria": "cabelo",
