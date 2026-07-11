@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 84,
-    "produto": 58
+    "oferta": 85,
+    "produto": 59
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-07-11T09:41:41.258212-03:00",
+      "ultima_coleta_em": "2026-07-11T11:12:33.117483-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-07-11T09:40:21.428267-03:00",
+      "ultima_coleta_em": "2026-07-11T11:10:18.980082-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 1,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-07-11T09:40:47.672717-03:00",
+      "ultima_coleta_em": "2026-07-11T11:10:45.276488-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-07-11T09:37:57.801191-03:00",
+      "ultima_coleta_em": "2026-07-11T11:08:10.894219-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-07-11T09:38:39.975395-03:00",
+      "ultima_coleta_em": "2026-07-11T11:08:52.730486-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-07-11T09:36:52.941882-03:00",
+      "ultima_coleta_em": "2026-07-11T11:07:06.746251-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-07-11T09:37:26.284160-03:00",
+      "ultima_coleta_em": "2026-07-11T11:07:39.597212-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-07-11T09:35:31.029651-03:00",
+      "ultima_coleta_em": "2026-07-11T11:05:42.807738-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-07-11T09:35:09.691983-03:00",
+      "ultima_coleta_em": "2026-07-11T11:05:21.459504-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 1,
+      "ultima_coleta_qtd": 2,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-07-11T09:36:04.456629-03:00",
+      "ultima_coleta_em": "2026-07-11T11:06:17.286276-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -14690,6 +14690,21 @@
       "oferta_id": 65,
       "preco": 21.99,
       "registrado_em": "2026-07-11T09:40:21.428085-03:00"
+    },
+    {
+      "oferta_id": 83,
+      "preco": 21.82,
+      "registrado_em": "2026-07-11T11:05:14.875218-03:00"
+    },
+    {
+      "oferta_id": 84,
+      "preco": 26.99,
+      "registrado_em": "2026-07-11T11:05:14.875218-03:00"
+    },
+    {
+      "oferta_id": 65,
+      "preco": 21.99,
+      "registrado_em": "2026-07-11T11:10:18.979877-03:00"
     }
   ],
   "notificacoes": [
@@ -15229,6 +15244,13 @@
       "enviada_em": "2026-07-09T17:13:31.772885-03:00",
       "erro": null,
       "oferta_id": 83,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-07-11T11:05:21.459288-03:00",
+      "erro": null,
+      "oferta_id": 84,
       "sucesso": true,
       "tipo": "nova"
     }
@@ -16090,7 +16112,7 @@
     },
     "65": {
       "ativa": true,
-      "atualizada_em": "2026-07-11T09:40:21.428085-03:00",
+      "atualizada_em": "2026-07-11T11:10:18.979877-03:00",
       "coletada_em": "2026-06-24T09:43:45.342507-03:00",
       "desconto_pct": 41,
       "fonte": "americanas",
@@ -16370,7 +16392,7 @@
     },
     "83": {
       "ativa": true,
-      "atualizada_em": "2026-07-11T09:35:09.691782-03:00",
+      "atualizada_em": "2026-07-11T11:05:14.875218-03:00",
       "coletada_em": "2026-07-09T17:13:27.072733-03:00",
       "desconto_pct": 45,
       "fonte": "promobit",
@@ -16381,6 +16403,20 @@
       "preco_de": 39.9,
       "produto_id": 57,
       "url": "https://www.promobit.com.br/oferta/o-exterminador-de-frizz-120ml-lola-cosmetics-2917351/"
+    },
+    "84": {
+      "ativa": true,
+      "atualizada_em": "2026-07-11T11:05:14.875218-03:00",
+      "coletada_em": "2026-07-11T11:05:14.875218-03:00",
+      "desconto_pct": 61,
+      "fonte": "promobit",
+      "hash_unico": "59ba1fb2bc83b9d2f3251e6ac2a4b27d",
+      "id": 84,
+      "loja": "Shopee",
+      "preco_atual": 26.99,
+      "preco_de": 69.21,
+      "produto_id": 58,
+      "url": "https://www.promobit.com.br/oferta/kit-com-3-meia-calca-infantil-tam-1-a-12-anos-2919830/"
     },
     "9": {
       "ativa": false,
@@ -16874,6 +16910,15 @@
       "marca": "Lola Cosmetics",
       "titulo_normalizado": "o exterminador de frizz 120ml lola cosmetics",
       "titulo_original": "O Exterminador de Frizz 120ml, Lola Cosmetics"
+    },
+    "58": {
+      "categoria": "infantil",
+      "criado_em": "2026-07-11T11:05:14.875329-03:00",
+      "id": 58,
+      "imagem_url": "https://i.promobit.com.br/268/132694369717837740331737976982.jpg",
+      "marca": "Roupa infantil masc",
+      "titulo_normalizado": "kit com 3 meia calca infantil (tam 1 a 12 anos)",
+      "titulo_original": "Kit com 3 Meia calça infantil (Tam. 1 a 12 anos)"
     },
     "6": {
       "categoria": "cabelo",
