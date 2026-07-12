@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 85,
-    "produto": 59
+    "oferta": 86,
+    "produto": 60
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-07-12T19:09:06.357712-03:00",
+      "ultima_coleta_em": "2026-07-12T20:05:49.845942-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-07-12T19:07:45.949619-03:00",
+      "ultima_coleta_em": "2026-07-12T20:03:14.542694-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 1,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-07-12T19:08:12.123681-03:00",
+      "ultima_coleta_em": "2026-07-12T20:03:40.727536-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-07-12T19:05:34.167337-03:00",
+      "ultima_coleta_em": "2026-07-12T20:01:08.671423-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-07-12T19:06:16.559068-03:00",
+      "ultima_coleta_em": "2026-07-12T20:01:50.930295-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-07-12T19:04:31.625158-03:00",
+      "ultima_coleta_em": "2026-07-12T20:00:04.948580-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-07-12T19:05:02.938581-03:00",
+      "ultima_coleta_em": "2026-07-12T20:00:37.404881-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-07-12T19:03:07.364443-03:00",
+      "ultima_coleta_em": "2026-07-12T19:58:43.078927-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-07-12T19:02:45.988629-03:00",
+      "ultima_coleta_em": "2026-07-12T19:58:21.665604-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 2,
+      "ultima_coleta_qtd": 3,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-07-12T19:03:42.157964-03:00",
+      "ultima_coleta_em": "2026-07-12T19:59:16.495658-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15090,6 +15090,26 @@
       "oferta_id": 65,
       "preco": 21.99,
       "registrado_em": "2026-07-12T19:07:45.949425-03:00"
+    },
+    {
+      "oferta_id": 85,
+      "preco": 23.19,
+      "registrado_em": "2026-07-12T19:58:17.056286-03:00"
+    },
+    {
+      "oferta_id": 83,
+      "preco": 21.82,
+      "registrado_em": "2026-07-12T19:58:17.056286-03:00"
+    },
+    {
+      "oferta_id": 84,
+      "preco": 26.99,
+      "registrado_em": "2026-07-12T19:58:17.056286-03:00"
+    },
+    {
+      "oferta_id": 65,
+      "preco": 21.99,
+      "registrado_em": "2026-07-12T20:03:14.542528-03:00"
     }
   ],
   "notificacoes": [
@@ -15636,6 +15656,13 @@
       "enviada_em": "2026-07-11T11:05:21.459288-03:00",
       "erro": null,
       "oferta_id": 84,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-07-12T19:58:21.665400-03:00",
+      "erro": null,
+      "oferta_id": 85,
       "sucesso": true,
       "tipo": "nova"
     }
@@ -16497,7 +16524,7 @@
     },
     "65": {
       "ativa": true,
-      "atualizada_em": "2026-07-12T19:07:45.949425-03:00",
+      "atualizada_em": "2026-07-12T20:03:14.542528-03:00",
       "coletada_em": "2026-06-24T09:43:45.342507-03:00",
       "desconto_pct": 41,
       "fonte": "americanas",
@@ -16777,7 +16804,7 @@
     },
     "83": {
       "ativa": true,
-      "atualizada_em": "2026-07-12T19:02:45.988350-03:00",
+      "atualizada_em": "2026-07-12T19:58:17.056286-03:00",
       "coletada_em": "2026-07-09T17:13:27.072733-03:00",
       "desconto_pct": 45,
       "fonte": "promobit",
@@ -16791,7 +16818,7 @@
     },
     "84": {
       "ativa": true,
-      "atualizada_em": "2026-07-12T19:02:45.988350-03:00",
+      "atualizada_em": "2026-07-12T19:58:17.056286-03:00",
       "coletada_em": "2026-07-11T11:05:14.875218-03:00",
       "desconto_pct": 61,
       "fonte": "promobit",
@@ -16802,6 +16829,20 @@
       "preco_de": 69.21,
       "produto_id": 58,
       "url": "https://www.promobit.com.br/oferta/kit-com-3-meia-calca-infantil-tam-1-a-12-anos-2919830/"
+    },
+    "85": {
+      "ativa": true,
+      "atualizada_em": "2026-07-12T19:58:17.056286-03:00",
+      "coletada_em": "2026-07-12T19:58:17.056286-03:00",
+      "desconto_pct": 48,
+      "fonte": "promobit",
+      "hash_unico": "649ea112ca0fe8fa4526be0fe03cd0a3",
+      "id": 85,
+      "loja": "Amazon",
+      "preco_atual": 23.19,
+      "preco_de": 44.9,
+      "produto_id": 59,
+      "url": "https://www.promobit.com.br/oferta/shampoo-lola-cosmetics-xapadinha-antiquebra-250ml-2921190/"
     },
     "9": {
       "ativa": false,
@@ -17304,6 +17345,15 @@
       "marca": "Roupa infantil masc",
       "titulo_normalizado": "kit com 3 meia calca infantil (tam 1 a 12 anos)",
       "titulo_original": "Kit com 3 Meia calça infantil (Tam. 1 a 12 anos)"
+    },
+    "59": {
+      "categoria": "cabelo",
+      "criado_em": "2026-07-12T19:58:17.056334-03:00",
+      "id": 59,
+      "imagem_url": "https://i.promobit.com.br/static/p/268/320614797617838941717273404427.jpg",
+      "marca": "Lola Cosmetics",
+      "titulo_normalizado": "shampoo lola cosmetics xapadinha | antiquebra 250ml",
+      "titulo_original": "Shampoo Lola Cosmetics Xapadinha | Antiquebra 250ml"
     },
     "6": {
       "categoria": "cabelo",
