@@ -7,7 +7,7 @@
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-07-15T00:29:15.381291-03:00",
+      "ultima_coleta_em": "2026-07-15T02:50:58.748420-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-07-15T00:26:50.318422-03:00",
+      "ultima_coleta_em": "2026-07-15T02:49:30.266164-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 1,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-07-15T00:27:16.587043-03:00",
+      "ultima_coleta_em": "2026-07-15T02:49:56.322586-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-07-15T00:24:29.623932-03:00",
+      "ultima_coleta_em": "2026-07-15T02:47:23.454187-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-07-15T00:25:11.800606-03:00",
+      "ultima_coleta_em": "2026-07-15T02:48:05.818348-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-07-15T00:23:26.286212-03:00",
+      "ultima_coleta_em": "2026-07-15T02:46:20.713339-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-07-15T00:23:58.404394-03:00",
+      "ultima_coleta_em": "2026-07-15T02:46:52.336257-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-07-15T00:22:03.841822-03:00",
+      "ultima_coleta_em": "2026-07-15T02:44:56.954216-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,7 +71,7 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-07-15T00:21:42.485315-03:00",
+      "ultima_coleta_em": "2026-07-15T02:44:35.429499-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 3,
       "ultima_coleta_status": "ok"
@@ -79,7 +79,7 @@
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-07-15T00:22:37.514172-03:00",
+      "ultima_coleta_em": "2026-07-15T02:45:31.516196-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15725,6 +15725,26 @@
       "oferta_id": 65,
       "preco": 21.99,
       "registrado_em": "2026-07-15T00:26:50.318277-03:00"
+    },
+    {
+      "oferta_id": 85,
+      "preco": 23.19,
+      "registrado_em": "2026-07-15T02:44:35.429348-03:00"
+    },
+    {
+      "oferta_id": 87,
+      "preco": 23.9,
+      "registrado_em": "2026-07-15T02:44:35.429348-03:00"
+    },
+    {
+      "oferta_id": 83,
+      "preco": 21.82,
+      "registrado_em": "2026-07-15T02:44:35.429348-03:00"
+    },
+    {
+      "oferta_id": 65,
+      "preco": 21.99,
+      "registrado_em": "2026-07-15T02:49:30.266048-03:00"
     }
   ],
   "notificacoes": [
@@ -17153,7 +17173,7 @@
     },
     "65": {
       "ativa": true,
-      "atualizada_em": "2026-07-15T00:26:50.318277-03:00",
+      "atualizada_em": "2026-07-15T02:49:30.266048-03:00",
       "coletada_em": "2026-06-24T09:43:45.342507-03:00",
       "desconto_pct": 41,
       "fonte": "americanas",
@@ -17433,7 +17453,7 @@
     },
     "83": {
       "ativa": true,
-      "atualizada_em": "2026-07-15T00:21:42.485092-03:00",
+      "atualizada_em": "2026-07-15T02:44:35.429348-03:00",
       "coletada_em": "2026-07-09T17:13:27.072733-03:00",
       "desconto_pct": 45,
       "fonte": "promobit",
@@ -17446,8 +17466,8 @@
       "url": "https://www.promobit.com.br/oferta/o-exterminador-de-frizz-120ml-lola-cosmetics-2917351/"
     },
     "84": {
-      "ativa": true,
-      "atualizada_em": "2026-07-13T12:51:05.862034-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-07-15T02:51:18.098946-03:00",
       "coletada_em": "2026-07-11T11:05:14.875218-03:00",
       "desconto_pct": 61,
       "fonte": "promobit",
@@ -17461,7 +17481,7 @@
     },
     "85": {
       "ativa": true,
-      "atualizada_em": "2026-07-15T00:21:42.485092-03:00",
+      "atualizada_em": "2026-07-15T02:44:35.429348-03:00",
       "coletada_em": "2026-07-12T19:58:17.056286-03:00",
       "desconto_pct": 48,
       "fonte": "promobit",
@@ -17489,7 +17509,7 @@
     },
     "87": {
       "ativa": true,
-      "atualizada_em": "2026-07-15T00:21:42.485092-03:00",
+      "atualizada_em": "2026-07-15T02:44:35.429348-03:00",
       "coletada_em": "2026-07-14T11:17:00.048406-03:00",
       "desconto_pct": 60,
       "fonte": "promobit",
