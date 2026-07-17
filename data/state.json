@@ -7,7 +7,7 @@
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-07-17T00:42:30.507146-03:00",
+      "ultima_coleta_em": "2026-07-17T03:08:59.443645-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-07-17T00:39:54.330599-03:00",
+      "ultima_coleta_em": "2026-07-17T03:07:38.501788-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 1,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-07-17T00:40:20.666493-03:00",
+      "ultima_coleta_em": "2026-07-17T03:08:04.920548-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-07-17T00:37:48.773572-03:00",
+      "ultima_coleta_em": "2026-07-17T03:05:09.346749-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-07-17T00:38:31.269238-03:00",
+      "ultima_coleta_em": "2026-07-17T03:05:51.371740-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-07-17T00:36:44.918237-03:00",
+      "ultima_coleta_em": "2026-07-17T03:04:04.331463-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-07-17T00:37:17.084902-03:00",
+      "ultima_coleta_em": "2026-07-17T03:04:37.966988-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-07-17T00:35:19.957578-03:00",
+      "ultima_coleta_em": "2026-07-17T03:02:42.565871-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,7 +71,7 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-07-17T00:34:58.518540-03:00",
+      "ultima_coleta_em": "2026-07-17T03:02:21.240486-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 2,
       "ultima_coleta_status": "ok"
@@ -79,7 +79,7 @@
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-07-17T00:35:55.250948-03:00",
+      "ultima_coleta_em": "2026-07-17T03:03:15.927316-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -16320,6 +16320,21 @@
       "oferta_id": 65,
       "preco": 21.99,
       "registrado_em": "2026-07-17T00:39:54.330415-03:00"
+    },
+    {
+      "oferta_id": 87,
+      "preco": 23.9,
+      "registrado_em": "2026-07-17T03:02:21.240191-03:00"
+    },
+    {
+      "oferta_id": 83,
+      "preco": 21.82,
+      "registrado_em": "2026-07-17T03:02:21.240191-03:00"
+    },
+    {
+      "oferta_id": 65,
+      "preco": 21.99,
+      "registrado_em": "2026-07-17T03:07:38.501513-03:00"
     }
   ],
   "notificacoes": [
@@ -17762,7 +17777,7 @@
     },
     "65": {
       "ativa": true,
-      "atualizada_em": "2026-07-17T00:39:54.330415-03:00",
+      "atualizada_em": "2026-07-17T03:07:38.501513-03:00",
       "coletada_em": "2026-06-24T09:43:45.342507-03:00",
       "desconto_pct": 41,
       "fonte": "americanas",
@@ -18042,7 +18057,7 @@
     },
     "83": {
       "ativa": true,
-      "atualizada_em": "2026-07-17T00:34:58.518281-03:00",
+      "atualizada_em": "2026-07-17T03:02:21.240191-03:00",
       "coletada_em": "2026-07-09T17:13:27.072733-03:00",
       "desconto_pct": 45,
       "fonte": "promobit",
@@ -18083,8 +18098,8 @@
       "url": "https://www.promobit.com.br/oferta/shampoo-lola-cosmetics-xapadinha-antiquebra-250ml-2921190/"
     },
     "86": {
-      "ativa": true,
-      "atualizada_em": "2026-07-14T08:01:40.019032-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-07-17T03:09:18.081625-03:00",
       "coletada_em": "2026-07-13T10:10:44.818856-03:00",
       "desconto_pct": 60,
       "fonte": "promobit",
@@ -18098,7 +18113,7 @@
     },
     "87": {
       "ativa": true,
-      "atualizada_em": "2026-07-17T00:34:58.518281-03:00",
+      "atualizada_em": "2026-07-17T03:02:21.240191-03:00",
       "coletada_em": "2026-07-14T11:17:00.048406-03:00",
       "desconto_pct": 60,
       "fonte": "promobit",
