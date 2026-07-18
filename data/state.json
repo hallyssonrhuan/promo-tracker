@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 92,
-    "produto": 65
+    "oferta": 93,
+    "produto": 66
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-07-18T13:39:32.770262-03:00",
+      "ultima_coleta_em": "2026-07-18T14:39:17.521314-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-07-18T13:37:40.651837-03:00",
+      "ultima_coleta_em": "2026-07-18T14:37:57.394513-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 3,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-07-18T13:38:06.960285-03:00",
+      "ultima_coleta_em": "2026-07-18T14:38:23.888745-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-07-18T13:35:22.398917-03:00",
+      "ultima_coleta_em": "2026-07-18T14:35:37.698843-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-07-18T13:36:04.482916-03:00",
+      "ultima_coleta_em": "2026-07-18T14:36:20.334761-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-07-18T13:34:18.031511-03:00",
+      "ultima_coleta_em": "2026-07-18T14:34:34.444776-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-07-18T13:34:51.131508-03:00",
+      "ultima_coleta_em": "2026-07-18T14:35:06.201373-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-07-18T13:32:56.298820-03:00",
+      "ultima_coleta_em": "2026-07-18T14:33:11.662175-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-07-18T13:32:34.988753-03:00",
+      "ultima_coleta_em": "2026-07-18T14:32:50.076656-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 1,
+      "ultima_coleta_qtd": 2,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-07-18T13:33:29.621768-03:00",
+      "ultima_coleta_em": "2026-07-18T14:33:45.489512-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -16760,6 +16760,36 @@
       "oferta_id": 90,
       "preco": 49.99,
       "registrado_em": "2026-07-18T13:39:58.705326-03:00"
+    },
+    {
+      "oferta_id": 92,
+      "preco": 319.9,
+      "registrado_em": "2026-07-18T14:32:45.249211-03:00"
+    },
+    {
+      "oferta_id": 83,
+      "preco": 21.82,
+      "registrado_em": "2026-07-18T14:32:45.249211-03:00"
+    },
+    {
+      "oferta_id": 65,
+      "preco": 21.99,
+      "registrado_em": "2026-07-18T14:37:57.394235-03:00"
+    },
+    {
+      "oferta_id": 90,
+      "preco": 44.99,
+      "registrado_em": "2026-07-18T14:37:57.394235-03:00"
+    },
+    {
+      "oferta_id": 91,
+      "preco": 44.99,
+      "registrado_em": "2026-07-18T14:37:57.394235-03:00"
+    },
+    {
+      "oferta_id": 90,
+      "preco": 49.99,
+      "registrado_em": "2026-07-18T14:39:44.940412-03:00"
     }
   ],
   "notificacoes": [
@@ -17350,6 +17380,13 @@
       "oferta_id": 90,
       "sucesso": true,
       "tipo": "baixou"
+    },
+    {
+      "enviada_em": "2026-07-18T14:32:50.076440-03:00",
+      "erro": null,
+      "oferta_id": 92,
+      "sucesso": true,
+      "tipo": "nova"
     }
   ],
   "ofertas": {
@@ -18209,7 +18246,7 @@
     },
     "65": {
       "ativa": true,
-      "atualizada_em": "2026-07-18T13:37:40.651490-03:00",
+      "atualizada_em": "2026-07-18T14:37:57.394235-03:00",
       "coletada_em": "2026-06-24T09:43:45.342507-03:00",
       "desconto_pct": 41,
       "fonte": "americanas",
@@ -18489,7 +18526,7 @@
     },
     "83": {
       "ativa": true,
-      "atualizada_em": "2026-07-18T13:32:34.988544-03:00",
+      "atualizada_em": "2026-07-18T14:32:45.249211-03:00",
       "coletada_em": "2026-07-09T17:13:27.072733-03:00",
       "desconto_pct": 45,
       "fonte": "promobit",
@@ -18601,7 +18638,7 @@
     },
     "90": {
       "ativa": true,
-      "atualizada_em": "2026-07-18T13:39:58.705295-03:00",
+      "atualizada_em": "2026-07-18T14:39:44.940378-03:00",
       "coletada_em": "2026-07-18T07:25:50.350990-03:00",
       "desconto_pct": 0,
       "fonte": "americanas",
@@ -18615,7 +18652,7 @@
     },
     "91": {
       "ativa": true,
-      "atualizada_em": "2026-07-18T13:37:40.651490-03:00",
+      "atualizada_em": "2026-07-18T14:37:57.394235-03:00",
       "coletada_em": "2026-07-18T07:25:50.350990-03:00",
       "desconto_pct": 10,
       "fonte": "americanas",
@@ -18626,6 +18663,20 @@
       "preco_de": 49.99,
       "produto_id": 64,
       "url": "https://www.americanas.com.br/creme-tratamento-lola-reparacao-intensiva-danos-vorazes-450g/p"
+    },
+    "92": {
+      "ativa": true,
+      "atualizada_em": "2026-07-18T14:32:45.249211-03:00",
+      "coletada_em": "2026-07-18T14:32:45.249211-03:00",
+      "desconto_pct": 36,
+      "fonte": "promobit",
+      "hash_unico": "16e3ba70633658f2dc2d3f1ee244974a",
+      "id": 92,
+      "loja": "Mercado Livre",
+      "preco_atual": 319.9,
+      "preco_de": 499.9,
+      "produto_id": 65,
+      "url": "https://www.promobit.com.br/oferta/tenis-asics-gel-excite-11-feminino-corrida-caminhada-2930579/"
     }
   },
   "produtos": {
@@ -19177,6 +19228,15 @@
       "marca": "Lola Cosmetics",
       "titulo_normalizado": "mascara reparacao intensiva 450g lola cosmetics danos vorazes vegana creme tratamento lola reparacao intensiva danos vorazes 450g",
       "titulo_original": "Máscara Reparação Intensiva 450g Lola Cosmetics Danos Vorazes Vegana CREME TRATAMENTO LOLA REPARACAO INTENSIVA DANOS VORAZES 450G"
+    },
+    "65": {
+      "categoria": "corrida",
+      "criado_em": "2026-07-18T14:32:45.249249-03:00",
+      "id": 65,
+      "imagem_url": "https://i.promobit.com.br/268/857543391217843938893789276411.png",
+      "marca": "Asics",
+      "titulo_normalizado": "tenis asics gel excite 11 feminino corrida caminhada",
+      "titulo_original": "Tênis Asics Gel Excite 11 Feminino Corrida Caminhada"
     },
     "7": {
       "categoria": "corrida",
