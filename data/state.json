@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 90,
-    "produto": 63
+    "oferta": 92,
+    "produto": 65
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-07-18T06:06:38.296577-03:00",
+      "ultima_coleta_em": "2026-07-18T07:27:09.398502-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,15 +15,15 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-07-18T06:05:18.246180-03:00",
+      "ultima_coleta_em": "2026-07-18T07:25:50.351334-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 1,
+      "ultima_coleta_qtd": 3,
       "ultima_coleta_status": "ok"
     },
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-07-18T06:05:44.429964-03:00",
+      "ultima_coleta_em": "2026-07-18T07:26:16.766780-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-07-18T06:03:12.445421-03:00",
+      "ultima_coleta_em": "2026-07-18T07:23:32.448630-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-07-18T06:03:54.379055-03:00",
+      "ultima_coleta_em": "2026-07-18T07:24:14.273910-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-07-18T06:02:09.044388-03:00",
+      "ultima_coleta_em": "2026-07-18T07:22:28.730971-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-07-18T06:02:41.329331-03:00",
+      "ultima_coleta_em": "2026-07-18T07:23:01.102190-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-07-18T06:00:45.412151-03:00",
+      "ultima_coleta_em": "2026-07-18T07:21:06.831050-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,7 +71,7 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-07-18T06:00:24.203709-03:00",
+      "ultima_coleta_em": "2026-07-18T07:20:45.451966-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 1,
       "ultima_coleta_status": "ok"
@@ -79,7 +79,7 @@
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-07-18T06:01:19.768410-03:00",
+      "ultima_coleta_em": "2026-07-18T07:21:40.208614-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -16605,6 +16605,31 @@
       "oferta_id": 65,
       "preco": 21.99,
       "registrado_em": "2026-07-18T06:05:18.245920-03:00"
+    },
+    {
+      "oferta_id": 83,
+      "preco": 21.82,
+      "registrado_em": "2026-07-18T07:20:45.451760-03:00"
+    },
+    {
+      "oferta_id": 65,
+      "preco": 21.99,
+      "registrado_em": "2026-07-18T07:25:50.350990-03:00"
+    },
+    {
+      "oferta_id": 90,
+      "preco": 44.99,
+      "registrado_em": "2026-07-18T07:25:50.350990-03:00"
+    },
+    {
+      "oferta_id": 91,
+      "preco": 44.99,
+      "registrado_em": "2026-07-18T07:25:50.350990-03:00"
+    },
+    {
+      "oferta_id": 90,
+      "preco": 49.99,
+      "registrado_em": "2026-07-18T07:27:35.875098-03:00"
     }
   ],
   "notificacoes": [
@@ -18047,7 +18072,7 @@
     },
     "65": {
       "ativa": true,
-      "atualizada_em": "2026-07-18T06:05:18.245920-03:00",
+      "atualizada_em": "2026-07-18T07:25:50.350990-03:00",
       "coletada_em": "2026-06-24T09:43:45.342507-03:00",
       "desconto_pct": 41,
       "fonte": "americanas",
@@ -18327,7 +18352,7 @@
     },
     "83": {
       "ativa": true,
-      "atualizada_em": "2026-07-18T06:00:24.203482-03:00",
+      "atualizada_em": "2026-07-18T07:20:45.451760-03:00",
       "coletada_em": "2026-07-09T17:13:27.072733-03:00",
       "desconto_pct": 45,
       "fonte": "promobit",
@@ -18436,6 +18461,34 @@
       "preco_de": 399.99,
       "produto_id": 8,
       "url": "https://www.promobit.com.br/oferta/tenis-asics-feminino-gel-sparta-2-corrida-2817274/"
+    },
+    "90": {
+      "ativa": true,
+      "atualizada_em": "2026-07-18T07:27:35.875064-03:00",
+      "coletada_em": "2026-07-18T07:25:50.350990-03:00",
+      "desconto_pct": 0,
+      "fonte": "americanas",
+      "hash_unico": "1ccced0ac49f3a2f92a198b47fc9a17e",
+      "id": 90,
+      "loja": "Americanas",
+      "preco_atual": 49.99,
+      "preco_de": 49.99,
+      "produto_id": 63,
+      "url": "https://www.americanas.com.br/creme-tratamento-lola--morte-subita-450g/p"
+    },
+    "91": {
+      "ativa": true,
+      "atualizada_em": "2026-07-18T07:25:50.350990-03:00",
+      "coletada_em": "2026-07-18T07:25:50.350990-03:00",
+      "desconto_pct": 10,
+      "fonte": "americanas",
+      "hash_unico": "83b923ca67c2db3698fd453c6629fce1",
+      "id": 91,
+      "loja": "Americanas",
+      "preco_atual": 44.99,
+      "preco_de": 49.99,
+      "produto_id": 64,
+      "url": "https://www.americanas.com.br/creme-tratamento-lola-reparacao-intensiva-danos-vorazes-450g/p"
     }
   },
   "produtos": {
@@ -18969,6 +19022,24 @@
       "marca": "Fila",
       "titulo_normalizado": "tenis fila racer speedzone feminino corrida e maratona verdeazulroyallaranja geometrico 38 0 br",
       "titulo_original": "Tênis Fila Racer Speedzone Feminino Corrida E Maratona Verdeazulroyallaranja Geométrico 38,0 Br"
+    },
+    "63": {
+      "categoria": "cabelo",
+      "criado_em": "2026-07-18T07:25:50.351134-03:00",
+      "id": 63,
+      "imagem_url": "https://www.americanas.com.br/_next/static/media/addCartIcon.264a0d59.svg",
+      "marca": "Lola Cosmetics",
+      "titulo_normalizado": "mascara capilar hidratacao e reparacao 450g lola cosmetics morte subita vegano creme tratamento lola morte subita 450g",
+      "titulo_original": "Máscara Capilar Hidratação e Reparação 450g Lola Cosmetics Morte Súbita Vegano CREME TRATAMENTO LOLA MORTE SUBITA 450G"
+    },
+    "64": {
+      "categoria": "cabelo",
+      "criado_em": "2026-07-18T07:25:50.351210-03:00",
+      "id": 64,
+      "imagem_url": "https://www.americanas.com.br/_next/static/media/addCartIcon.264a0d59.svg",
+      "marca": "Lola Cosmetics",
+      "titulo_normalizado": "mascara reparacao intensiva 450g lola cosmetics danos vorazes vegana creme tratamento lola reparacao intensiva danos vorazes 450g",
+      "titulo_original": "Máscara Reparação Intensiva 450g Lola Cosmetics Danos Vorazes Vegana CREME TRATAMENTO LOLA REPARACAO INTENSIVA DANOS VORAZES 450G"
     },
     "7": {
       "categoria": "corrida",
