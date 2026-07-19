@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 93,
-    "produto": 66
+    "oferta": 94,
+    "produto": 67
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-07-19T10:54:40.844546-03:00",
+      "ultima_coleta_em": "2026-07-19T11:49:03.438255-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-07-19T10:53:20.252845-03:00",
+      "ultima_coleta_em": "2026-07-19T11:47:43.200965-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 3,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-07-19T10:53:46.755839-03:00",
+      "ultima_coleta_em": "2026-07-19T11:48:09.582183-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-07-19T10:51:06.322551-03:00",
+      "ultima_coleta_em": "2026-07-19T11:45:33.886295-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-07-19T10:51:48.993717-03:00",
+      "ultima_coleta_em": "2026-07-19T11:46:16.209922-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-07-19T10:50:03.074523-03:00",
+      "ultima_coleta_em": "2026-07-19T11:44:29.819516-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-07-19T10:50:34.802694-03:00",
+      "ultima_coleta_em": "2026-07-19T11:45:02.426872-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-07-19T10:48:40.444116-03:00",
+      "ultima_coleta_em": "2026-07-19T11:43:06.954186-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,7 +71,7 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-07-19T10:48:18.874303-03:00",
+      "ultima_coleta_em": "2026-07-19T11:42:45.393102-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 2,
       "ultima_coleta_status": "ok"
@@ -79,7 +79,7 @@
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-07-19T10:49:14.250622-03:00",
+      "ultima_coleta_em": "2026-07-19T11:43:40.869189-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -17175,6 +17175,36 @@
       "oferta_id": 90,
       "preco": 49.99,
       "registrado_em": "2026-07-19T10:54:55.813978-03:00"
+    },
+    {
+      "oferta_id": 92,
+      "preco": 319.9,
+      "registrado_em": "2026-07-19T11:42:45.392860-03:00"
+    },
+    {
+      "oferta_id": 83,
+      "preco": 21.82,
+      "registrado_em": "2026-07-19T11:42:45.392860-03:00"
+    },
+    {
+      "oferta_id": 65,
+      "preco": 21.99,
+      "registrado_em": "2026-07-19T11:47:39.505159-03:00"
+    },
+    {
+      "oferta_id": 90,
+      "preco": 44.99,
+      "registrado_em": "2026-07-19T11:47:39.505159-03:00"
+    },
+    {
+      "oferta_id": 93,
+      "preco": 44.99,
+      "registrado_em": "2026-07-19T11:47:39.505159-03:00"
+    },
+    {
+      "oferta_id": 90,
+      "preco": 49.99,
+      "registrado_em": "2026-07-19T11:47:39.602327-03:00"
     }
   ],
   "notificacoes": [
@@ -17772,6 +17802,13 @@
       "oferta_id": 92,
       "sucesso": true,
       "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-07-19T11:47:43.200735-03:00",
+      "erro": null,
+      "oferta_id": 90,
+      "sucesso": true,
+      "tipo": "baixou"
     }
   ],
   "ofertas": {
@@ -18631,7 +18668,7 @@
     },
     "65": {
       "ativa": true,
-      "atualizada_em": "2026-07-19T10:53:20.252545-03:00",
+      "atualizada_em": "2026-07-19T11:47:39.505159-03:00",
       "coletada_em": "2026-06-24T09:43:45.342507-03:00",
       "desconto_pct": 41,
       "fonte": "americanas",
@@ -18911,7 +18948,7 @@
     },
     "83": {
       "ativa": true,
-      "atualizada_em": "2026-07-19T10:48:18.874061-03:00",
+      "atualizada_em": "2026-07-19T11:42:45.392860-03:00",
       "coletada_em": "2026-07-09T17:13:27.072733-03:00",
       "desconto_pct": 45,
       "fonte": "promobit",
@@ -19023,7 +19060,7 @@
     },
     "90": {
       "ativa": true,
-      "atualizada_em": "2026-07-19T10:54:55.813946-03:00",
+      "atualizada_em": "2026-07-19T11:47:39.602310-03:00",
       "coletada_em": "2026-07-18T07:25:50.350990-03:00",
       "desconto_pct": 0,
       "fonte": "americanas",
@@ -19051,7 +19088,7 @@
     },
     "92": {
       "ativa": true,
-      "atualizada_em": "2026-07-19T10:48:18.874061-03:00",
+      "atualizada_em": "2026-07-19T11:42:45.392860-03:00",
       "coletada_em": "2026-07-18T14:32:45.249211-03:00",
       "desconto_pct": 36,
       "fonte": "promobit",
@@ -19062,6 +19099,20 @@
       "preco_de": 499.9,
       "produto_id": 65,
       "url": "https://www.promobit.com.br/oferta/tenis-asics-gel-excite-11-feminino-corrida-caminhada-2930579/"
+    },
+    "93": {
+      "ativa": true,
+      "atualizada_em": "2026-07-19T11:47:39.505159-03:00",
+      "coletada_em": "2026-07-19T11:47:39.505159-03:00",
+      "desconto_pct": 10,
+      "fonte": "americanas",
+      "hash_unico": "ee197551457dac498d54dba11d718df5",
+      "id": 93,
+      "loja": "Americanas",
+      "preco_atual": 44.99,
+      "preco_de": 49.99,
+      "produto_id": 66,
+      "url": "https://www.americanas.com.br/creme-tratamento-lola-fortalecimento-rapunzel-450g/p"
     }
   },
   "produtos": {
@@ -19622,6 +19673,15 @@
       "marca": "Asics",
       "titulo_normalizado": "tenis asics gel excite 11 feminino corrida caminhada",
       "titulo_original": "Tênis Asics Gel Excite 11 Feminino Corrida Caminhada"
+    },
+    "66": {
+      "categoria": "cabelo",
+      "criado_em": "2026-07-19T11:47:39.505307-03:00",
+      "id": 66,
+      "imagem_url": "https://www.americanas.com.br/_next/static/media/addCartIcon.264a0d59.svg",
+      "marca": "Lola Cosmetics",
+      "titulo_normalizado": "mascara de tratamento fortalecimento 450g lola cosmetics rapunzel antiqueda vegana creme tratamento lola fortalecimento rapunzel 450g",
+      "titulo_original": "Máscara de Tratamento Fortalecimento 450g Lola Cosmetics Rapunzel Antiqueda Vegana CREME TRATAMENTO LOLA FORTALECIMENTO RAPUNZEL 450G"
     },
     "7": {
       "categoria": "corrida",
