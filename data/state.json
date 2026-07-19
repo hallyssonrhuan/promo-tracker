@@ -7,7 +7,7 @@
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-07-19T13:37:35.178157-03:00",
+      "ultima_coleta_em": "2026-07-19T14:39:40.033172-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-07-19T13:36:17.429550-03:00",
+      "ultima_coleta_em": "2026-07-19T14:38:20.701198-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 3,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-07-19T13:36:43.396362-03:00",
+      "ultima_coleta_em": "2026-07-19T14:38:47.124464-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-07-19T13:34:24.013935-03:00",
+      "ultima_coleta_em": "2026-07-19T14:36:06.244496-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-07-19T13:35:05.252393-03:00",
+      "ultima_coleta_em": "2026-07-19T14:36:48.849288-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-07-19T13:33:21.407924-03:00",
+      "ultima_coleta_em": "2026-07-19T14:35:02.102067-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-07-19T13:33:52.855339-03:00",
+      "ultima_coleta_em": "2026-07-19T14:35:34.684620-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-07-19T13:31:57.442585-03:00",
+      "ultima_coleta_em": "2026-07-19T14:33:39.236936-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,7 +71,7 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-07-19T13:31:36.101104-03:00",
+      "ultima_coleta_em": "2026-07-19T14:33:17.661488-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 2,
       "ultima_coleta_status": "ok"
@@ -79,7 +79,7 @@
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-07-19T13:32:32.110771-03:00",
+      "ultima_coleta_em": "2026-07-19T14:34:13.227567-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -17260,6 +17260,36 @@
       "oferta_id": 93,
       "preco": 44.99,
       "registrado_em": "2026-07-19T13:36:17.429319-03:00"
+    },
+    {
+      "oferta_id": 92,
+      "preco": 319.9,
+      "registrado_em": "2026-07-19T14:33:17.661233-03:00"
+    },
+    {
+      "oferta_id": 83,
+      "preco": 21.82,
+      "registrado_em": "2026-07-19T14:33:17.661233-03:00"
+    },
+    {
+      "oferta_id": 65,
+      "preco": 21.99,
+      "registrado_em": "2026-07-19T14:38:20.700934-03:00"
+    },
+    {
+      "oferta_id": 90,
+      "preco": 44.99,
+      "registrado_em": "2026-07-19T14:38:20.700934-03:00"
+    },
+    {
+      "oferta_id": 93,
+      "preco": 44.99,
+      "registrado_em": "2026-07-19T14:38:20.700934-03:00"
+    },
+    {
+      "oferta_id": 90,
+      "preco": 49.99,
+      "registrado_em": "2026-07-19T14:39:55.216473-03:00"
     }
   ],
   "notificacoes": [
@@ -18723,7 +18753,7 @@
     },
     "65": {
       "ativa": true,
-      "atualizada_em": "2026-07-19T13:36:17.429319-03:00",
+      "atualizada_em": "2026-07-19T14:38:20.700934-03:00",
       "coletada_em": "2026-06-24T09:43:45.342507-03:00",
       "desconto_pct": 41,
       "fonte": "americanas",
@@ -19003,7 +19033,7 @@
     },
     "83": {
       "ativa": true,
-      "atualizada_em": "2026-07-19T13:31:36.100922-03:00",
+      "atualizada_em": "2026-07-19T14:33:17.661233-03:00",
       "coletada_em": "2026-07-09T17:13:27.072733-03:00",
       "desconto_pct": 45,
       "fonte": "promobit",
@@ -19115,14 +19145,14 @@
     },
     "90": {
       "ativa": true,
-      "atualizada_em": "2026-07-19T13:36:17.429319-03:00",
+      "atualizada_em": "2026-07-19T14:39:55.216441-03:00",
       "coletada_em": "2026-07-18T07:25:50.350990-03:00",
-      "desconto_pct": 10,
+      "desconto_pct": 0,
       "fonte": "americanas",
       "hash_unico": "1ccced0ac49f3a2f92a198b47fc9a17e",
       "id": 90,
       "loja": "Americanas",
-      "preco_atual": 44.99,
+      "preco_atual": 49.99,
       "preco_de": 49.99,
       "produto_id": 63,
       "url": "https://www.americanas.com.br/creme-tratamento-lola--morte-subita-450g/p"
@@ -19143,7 +19173,7 @@
     },
     "92": {
       "ativa": true,
-      "atualizada_em": "2026-07-19T13:31:36.100922-03:00",
+      "atualizada_em": "2026-07-19T14:33:17.661233-03:00",
       "coletada_em": "2026-07-18T14:32:45.249211-03:00",
       "desconto_pct": 36,
       "fonte": "promobit",
@@ -19157,7 +19187,7 @@
     },
     "93": {
       "ativa": true,
-      "atualizada_em": "2026-07-19T13:36:17.429319-03:00",
+      "atualizada_em": "2026-07-19T14:38:20.700934-03:00",
       "coletada_em": "2026-07-19T11:47:39.505159-03:00",
       "desconto_pct": 10,
       "fonte": "americanas",
