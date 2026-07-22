@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 101,
-    "produto": 69
+    "oferta": 103,
+    "produto": 70
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-07-22T18:55:45.445704-03:00",
+      "ultima_coleta_em": "2026-07-22T19:52:27.835881-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-07-22T18:53:10.664598-03:00",
+      "ultima_coleta_em": "2026-07-22T19:50:36.014155-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 3,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-07-22T18:53:36.818375-03:00",
+      "ultima_coleta_em": "2026-07-22T19:51:02.119145-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-07-22T18:50:47.377593-03:00",
+      "ultima_coleta_em": "2026-07-22T19:48:12.119156-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-07-22T18:51:29.161808-03:00",
+      "ultima_coleta_em": "2026-07-22T19:48:53.742250-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-07-22T18:49:44.546305-03:00",
+      "ultima_coleta_em": "2026-07-22T19:47:07.780670-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-07-22T18:50:16.019239-03:00",
+      "ultima_coleta_em": "2026-07-22T19:47:40.676873-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-07-22T18:48:22.682114-03:00",
+      "ultima_coleta_em": "2026-07-22T19:45:43.622837-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-07-22T18:48:01.321420-03:00",
+      "ultima_coleta_em": "2026-07-22T19:45:22.261477-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 6,
+      "ultima_coleta_qtd": 7,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-07-22T18:48:56.054861-03:00",
+      "ultima_coleta_em": "2026-07-22T19:46:18.403894-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -18565,6 +18565,56 @@
       "oferta_id": 91,
       "preco": 44.99,
       "registrado_em": "2026-07-22T18:53:10.664290-03:00"
+    },
+    {
+      "oferta_id": 101,
+      "preco": 291.0,
+      "registrado_em": "2026-07-22T19:45:11.806162-03:00"
+    },
+    {
+      "oferta_id": 97,
+      "preco": 377.33,
+      "registrado_em": "2026-07-22T19:45:11.806162-03:00"
+    },
+    {
+      "oferta_id": 102,
+      "preco": 316.0,
+      "registrado_em": "2026-07-22T19:45:11.806162-03:00"
+    },
+    {
+      "oferta_id": 100,
+      "preco": 10.78,
+      "registrado_em": "2026-07-22T19:45:11.806162-03:00"
+    },
+    {
+      "oferta_id": 98,
+      "preco": 11.98,
+      "registrado_em": "2026-07-22T19:45:11.806162-03:00"
+    },
+    {
+      "oferta_id": 99,
+      "preco": 18.9,
+      "registrado_em": "2026-07-22T19:45:11.806162-03:00"
+    },
+    {
+      "oferta_id": 94,
+      "preco": 21.51,
+      "registrado_em": "2026-07-22T19:45:11.806162-03:00"
+    },
+    {
+      "oferta_id": 65,
+      "preco": 21.99,
+      "registrado_em": "2026-07-22T19:50:36.013894-03:00"
+    },
+    {
+      "oferta_id": 90,
+      "preco": 44.99,
+      "registrado_em": "2026-07-22T19:50:36.013894-03:00"
+    },
+    {
+      "oferta_id": 91,
+      "preco": 44.99,
+      "registrado_em": "2026-07-22T19:50:36.013894-03:00"
     }
   ],
   "notificacoes": [
@@ -19218,6 +19268,20 @@
       "oferta_id": 100,
       "sucesso": true,
       "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-07-22T19:45:17.329705-03:00",
+      "erro": null,
+      "oferta_id": 101,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-07-22T19:45:22.261100-03:00",
+      "erro": null,
+      "oferta_id": 102,
+      "sucesso": true,
+      "tipo": "nova"
     }
   ],
   "ofertas": {
@@ -19251,7 +19315,7 @@
     },
     "100": {
       "ativa": true,
-      "atualizada_em": "2026-07-22T18:48:01.321078-03:00",
+      "atualizada_em": "2026-07-22T19:45:11.806162-03:00",
       "coletada_em": "2026-07-22T17:48:53.200282-03:00",
       "desconto_pct": 69,
       "fonte": "promobit",
@@ -19262,6 +19326,34 @@
       "preco_de": 34.9,
       "produto_id": 68,
       "url": "https://www.promobit.com.br/oferta/mascara-disciplinante-lola-cosmetics-100g-2937715/"
+    },
+    "101": {
+      "ativa": true,
+      "atualizada_em": "2026-07-22T19:45:11.806162-03:00",
+      "coletada_em": "2026-07-22T19:45:11.806162-03:00",
+      "desconto_pct": 51,
+      "fonte": "promobit",
+      "hash_unico": "8e85f32e5201d5b8d33de87e895bdf6c",
+      "id": 101,
+      "loja": "Mercado Livre",
+      "preco_atual": 291.0,
+      "preco_de": 599.99,
+      "produto_id": 51,
+      "url": "https://www.promobit.com.br/oferta/tenis-fila-racer-speedzone-feminino-corrida-2937918/"
+    },
+    "102": {
+      "ativa": true,
+      "atualizada_em": "2026-07-22T19:45:11.806162-03:00",
+      "coletada_em": "2026-07-22T19:45:11.806162-03:00",
+      "desconto_pct": 47,
+      "fonte": "promobit",
+      "hash_unico": "66e8ffb9b62adf68513387ce394cdd95",
+      "id": 102,
+      "loja": "Mercado Livre",
+      "preco_atual": 316.0,
+      "preco_de": 599.9,
+      "produto_id": 69,
+      "url": "https://www.promobit.com.br/oferta/tenis-para-corrida-fila-racer-speedzone-masculino-original-2937932/"
     },
     "11": {
       "ativa": false,
@@ -20091,7 +20183,7 @@
     },
     "65": {
       "ativa": true,
-      "atualizada_em": "2026-07-22T18:53:10.664290-03:00",
+      "atualizada_em": "2026-07-22T19:50:36.013894-03:00",
       "coletada_em": "2026-06-24T09:43:45.342507-03:00",
       "desconto_pct": 41,
       "fonte": "americanas",
@@ -20483,7 +20575,7 @@
     },
     "90": {
       "ativa": true,
-      "atualizada_em": "2026-07-22T18:53:10.664290-03:00",
+      "atualizada_em": "2026-07-22T19:50:36.013894-03:00",
       "coletada_em": "2026-07-18T07:25:50.350990-03:00",
       "desconto_pct": 10,
       "fonte": "americanas",
@@ -20497,7 +20589,7 @@
     },
     "91": {
       "ativa": true,
-      "atualizada_em": "2026-07-22T18:53:10.664290-03:00",
+      "atualizada_em": "2026-07-22T19:50:36.013894-03:00",
       "coletada_em": "2026-07-18T07:25:50.350990-03:00",
       "desconto_pct": 10,
       "fonte": "americanas",
@@ -20539,7 +20631,7 @@
     },
     "94": {
       "ativa": true,
-      "atualizada_em": "2026-07-22T18:48:01.321078-03:00",
+      "atualizada_em": "2026-07-22T19:45:11.806162-03:00",
       "coletada_em": "2026-07-20T01:00:07.841682-03:00",
       "desconto_pct": 64,
       "fonte": "promobit",
@@ -20581,7 +20673,7 @@
     },
     "97": {
       "ativa": true,
-      "atualizada_em": "2026-07-22T18:48:01.321078-03:00",
+      "atualizada_em": "2026-07-22T19:45:11.806162-03:00",
       "coletada_em": "2026-07-22T11:26:28.501599-03:00",
       "desconto_pct": 37,
       "fonte": "promobit",
@@ -20595,7 +20687,7 @@
     },
     "98": {
       "ativa": true,
-      "atualizada_em": "2026-07-22T18:48:01.321078-03:00",
+      "atualizada_em": "2026-07-22T19:45:11.806162-03:00",
       "coletada_em": "2026-07-22T15:21:08.196859-03:00",
       "desconto_pct": 66,
       "fonte": "promobit",
@@ -20609,7 +20701,7 @@
     },
     "99": {
       "ativa": true,
-      "atualizada_em": "2026-07-22T18:48:01.321078-03:00",
+      "atualizada_em": "2026-07-22T19:45:11.806162-03:00",
       "coletada_em": "2026-07-22T15:21:08.196859-03:00",
       "desconto_pct": 66,
       "fonte": "promobit",
@@ -21207,6 +21299,15 @@
       "marca": "Lola Cosmetics",
       "titulo_normalizado": "mascara disciplinante lola cosmetics 100g",
       "titulo_original": "Máscara Disciplinante Lola Cosmetics 100g"
+    },
+    "69": {
+      "categoria": "corrida",
+      "criado_em": "2026-07-22T19:45:11.806409-03:00",
+      "id": 69,
+      "imagem_url": "https://i.promobit.com.br/268/241754642117847598863749125493.png",
+      "marca": "Fila",
+      "titulo_normalizado": "tenis para corrida fila racer speedzone masculino original",
+      "titulo_original": "Tênis Para Corrida Fila Racer Speedzone Masculino Original"
     },
     "7": {
       "categoria": "corrida",
