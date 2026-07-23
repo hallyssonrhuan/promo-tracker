@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 103,
+    "oferta": 105,
     "produto": 70
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-07-23T06:39:24.935348-03:00",
+      "ultima_coleta_em": "2026-07-23T08:33:38.830125-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-07-23T06:37:44.343168-03:00",
+      "ultima_coleta_em": "2026-07-23T08:32:19.147613-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 3,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-07-23T06:38:10.530533-03:00",
+      "ultima_coleta_em": "2026-07-23T08:32:45.456487-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-07-23T06:35:24.899027-03:00",
+      "ultima_coleta_em": "2026-07-23T08:29:47.886190-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-07-23T06:36:07.059925-03:00",
+      "ultima_coleta_em": "2026-07-23T08:30:30.406800-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-07-23T06:34:21.924843-03:00",
+      "ultima_coleta_em": "2026-07-23T08:28:43.225702-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-07-23T06:34:53.503384-03:00",
+      "ultima_coleta_em": "2026-07-23T08:29:16.471775-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-07-23T06:33:00.191125-03:00",
+      "ultima_coleta_em": "2026-07-23T08:27:20.483288-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-07-23T06:32:38.910625-03:00",
+      "ultima_coleta_em": "2026-07-23T08:26:58.908111-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 6,
+      "ultima_coleta_qtd": 8,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-07-23T06:33:33.531429-03:00",
+      "ultima_coleta_em": "2026-07-23T08:27:54.319978-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -18845,6 +18845,61 @@
       "oferta_id": 91,
       "preco": 44.99,
       "registrado_em": "2026-07-23T06:37:44.342901-03:00"
+    },
+    {
+      "oferta_id": 101,
+      "preco": 291.0,
+      "registrado_em": "2026-07-23T08:26:53.565367-03:00"
+    },
+    {
+      "oferta_id": 102,
+      "preco": 316.0,
+      "registrado_em": "2026-07-23T08:26:53.565367-03:00"
+    },
+    {
+      "oferta_id": 103,
+      "preco": 23.9,
+      "registrado_em": "2026-07-23T08:26:53.565367-03:00"
+    },
+    {
+      "oferta_id": 104,
+      "preco": 17.01,
+      "registrado_em": "2026-07-23T08:26:53.565367-03:00"
+    },
+    {
+      "oferta_id": 100,
+      "preco": 10.78,
+      "registrado_em": "2026-07-23T08:26:53.565367-03:00"
+    },
+    {
+      "oferta_id": 98,
+      "preco": 11.98,
+      "registrado_em": "2026-07-23T08:26:53.565367-03:00"
+    },
+    {
+      "oferta_id": 99,
+      "preco": 18.9,
+      "registrado_em": "2026-07-23T08:26:53.565367-03:00"
+    },
+    {
+      "oferta_id": 94,
+      "preco": 21.51,
+      "registrado_em": "2026-07-23T08:26:53.565367-03:00"
+    },
+    {
+      "oferta_id": 65,
+      "preco": 21.99,
+      "registrado_em": "2026-07-23T08:32:19.147357-03:00"
+    },
+    {
+      "oferta_id": 90,
+      "preco": 44.99,
+      "registrado_em": "2026-07-23T08:32:19.147357-03:00"
+    },
+    {
+      "oferta_id": 91,
+      "preco": 44.99,
+      "registrado_em": "2026-07-23T08:32:19.147357-03:00"
     }
   ],
   "notificacoes": [
@@ -19512,6 +19567,13 @@
       "oferta_id": 102,
       "sucesso": true,
       "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-07-23T08:26:58.907893-03:00",
+      "erro": null,
+      "oferta_id": 104,
+      "sucesso": true,
+      "tipo": "nova"
     }
   ],
   "ofertas": {
@@ -19545,7 +19607,7 @@
     },
     "100": {
       "ativa": true,
-      "atualizada_em": "2026-07-23T06:32:38.910249-03:00",
+      "atualizada_em": "2026-07-23T08:26:53.565367-03:00",
       "coletada_em": "2026-07-22T17:48:53.200282-03:00",
       "desconto_pct": 69,
       "fonte": "promobit",
@@ -19559,7 +19621,7 @@
     },
     "101": {
       "ativa": true,
-      "atualizada_em": "2026-07-23T06:32:38.910249-03:00",
+      "atualizada_em": "2026-07-23T08:26:53.565367-03:00",
       "coletada_em": "2026-07-22T19:45:11.806162-03:00",
       "desconto_pct": 51,
       "fonte": "promobit",
@@ -19573,7 +19635,7 @@
     },
     "102": {
       "ativa": true,
-      "atualizada_em": "2026-07-23T06:32:38.910249-03:00",
+      "atualizada_em": "2026-07-23T08:26:53.565367-03:00",
       "coletada_em": "2026-07-22T19:45:11.806162-03:00",
       "desconto_pct": 47,
       "fonte": "promobit",
@@ -19584,6 +19646,34 @@
       "preco_de": 599.9,
       "produto_id": 69,
       "url": "https://www.promobit.com.br/oferta/tenis-para-corrida-fila-racer-speedzone-masculino-original-2937932/"
+    },
+    "103": {
+      "ativa": false,
+      "atualizada_em": "2026-07-23T08:26:53.565367-03:00",
+      "coletada_em": "2026-07-23T08:26:53.565367-03:00",
+      "desconto_pct": 60,
+      "fonte": "promobit",
+      "hash_unico": "4d75ecda9b3317e2c5c0d84a134b3b76",
+      "id": 103,
+      "loja": "Amazon",
+      "preco_atual": 23.9,
+      "preco_de": 59.9,
+      "produto_id": 2,
+      "url": "https://www.promobit.com.br/oferta/rapunzel-milk-leave-in-spray-250ml-lola-cosmetics-2938378/"
+    },
+    "104": {
+      "ativa": true,
+      "atualizada_em": "2026-07-23T08:26:53.565367-03:00",
+      "coletada_em": "2026-07-23T08:26:53.565367-03:00",
+      "desconto_pct": 69,
+      "fonte": "promobit",
+      "hash_unico": "a2fc3f55ad56071b2a07b21015fa291b",
+      "id": 104,
+      "loja": "Amazon",
+      "preco_atual": 17.01,
+      "preco_de": 54.9,
+      "produto_id": 16,
+      "url": "https://www.promobit.com.br/oferta/danos-vorazes-leave-in-200ml-lola-cosmetics-2938359/"
     },
     "11": {
       "ativa": false,
@@ -20413,7 +20503,7 @@
     },
     "65": {
       "ativa": true,
-      "atualizada_em": "2026-07-23T06:37:44.342901-03:00",
+      "atualizada_em": "2026-07-23T08:32:19.147357-03:00",
       "coletada_em": "2026-06-24T09:43:45.342507-03:00",
       "desconto_pct": 41,
       "fonte": "americanas",
@@ -20805,7 +20895,7 @@
     },
     "90": {
       "ativa": true,
-      "atualizada_em": "2026-07-23T06:37:44.342901-03:00",
+      "atualizada_em": "2026-07-23T08:32:19.147357-03:00",
       "coletada_em": "2026-07-18T07:25:50.350990-03:00",
       "desconto_pct": 10,
       "fonte": "americanas",
@@ -20819,7 +20909,7 @@
     },
     "91": {
       "ativa": true,
-      "atualizada_em": "2026-07-23T06:37:44.342901-03:00",
+      "atualizada_em": "2026-07-23T08:32:19.147357-03:00",
       "coletada_em": "2026-07-18T07:25:50.350990-03:00",
       "desconto_pct": 10,
       "fonte": "americanas",
@@ -20861,7 +20951,7 @@
     },
     "94": {
       "ativa": true,
-      "atualizada_em": "2026-07-23T06:32:38.910249-03:00",
+      "atualizada_em": "2026-07-23T08:26:53.565367-03:00",
       "coletada_em": "2026-07-20T01:00:07.841682-03:00",
       "desconto_pct": 64,
       "fonte": "promobit",
@@ -20917,7 +21007,7 @@
     },
     "98": {
       "ativa": true,
-      "atualizada_em": "2026-07-23T06:32:38.910249-03:00",
+      "atualizada_em": "2026-07-23T08:26:53.565367-03:00",
       "coletada_em": "2026-07-22T15:21:08.196859-03:00",
       "desconto_pct": 66,
       "fonte": "promobit",
@@ -20930,8 +21020,8 @@
       "url": "https://www.promobit.com.br/oferta/xapadinha-mascara-disciplinante-100g-lola-cosmetics-2937379/"
     },
     "99": {
-      "ativa": true,
-      "atualizada_em": "2026-07-23T06:32:38.910249-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-07-23T08:26:53.565367-03:00",
       "coletada_em": "2026-07-22T15:21:08.196859-03:00",
       "desconto_pct": 66,
       "fonte": "promobit",
