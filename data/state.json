@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 109,
-    "produto": 72
+    "oferta": 110,
+    "produto": 73
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-07-24T09:49:18.258903-03:00",
+      "ultima_coleta_em": "2026-07-24T11:32:40.948195-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-07-24T09:47:59.318704-03:00",
+      "ultima_coleta_em": "2026-07-24T11:31:22.124662-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 4,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-07-24T09:48:25.398503-03:00",
+      "ultima_coleta_em": "2026-07-24T11:31:48.349492-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-07-24T09:45:27.024244-03:00",
+      "ultima_coleta_em": "2026-07-24T11:28:14.895335-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-07-24T09:46:08.943062-03:00",
+      "ultima_coleta_em": "2026-07-24T11:28:57.864716-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-07-24T09:44:21.649410-03:00",
+      "ultima_coleta_em": "2026-07-24T11:27:12.235483-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-07-24T09:44:55.797458-03:00",
+      "ultima_coleta_em": "2026-07-24T11:27:43.571646-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-07-24T09:42:59.775033-03:00",
+      "ultima_coleta_em": "2026-07-24T11:25:49.007006-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-07-24T09:42:38.477680-03:00",
+      "ultima_coleta_em": "2026-07-24T11:25:27.334979-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 10,
+      "ultima_coleta_qtd": 11,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-07-24T09:43:33.295558-03:00",
+      "ultima_coleta_em": "2026-07-24T11:26:23.113746-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -19800,6 +19800,81 @@
       "oferta_id": 93,
       "preco": 44.99,
       "registrado_em": "2026-07-24T09:47:59.318361-03:00"
+    },
+    {
+      "oferta_id": 108,
+      "preco": 307.11,
+      "registrado_em": "2026-07-24T11:25:21.837384-03:00"
+    },
+    {
+      "oferta_id": 105,
+      "preco": 278.52,
+      "registrado_em": "2026-07-24T11:25:21.837384-03:00"
+    },
+    {
+      "oferta_id": 101,
+      "preco": 291.0,
+      "registrado_em": "2026-07-24T11:25:21.837384-03:00"
+    },
+    {
+      "oferta_id": 109,
+      "preco": 32.0,
+      "registrado_em": "2026-07-24T11:25:21.837384-03:00"
+    },
+    {
+      "oferta_id": 106,
+      "preco": 19.86,
+      "registrado_em": "2026-07-24T11:25:21.837384-03:00"
+    },
+    {
+      "oferta_id": 104,
+      "preco": 17.01,
+      "registrado_em": "2026-07-24T11:25:21.837384-03:00"
+    },
+    {
+      "oferta_id": 100,
+      "preco": 10.78,
+      "registrado_em": "2026-07-24T11:25:21.837384-03:00"
+    },
+    {
+      "oferta_id": 98,
+      "preco": 11.98,
+      "registrado_em": "2026-07-24T11:25:21.837384-03:00"
+    },
+    {
+      "oferta_id": 99,
+      "preco": 18.9,
+      "registrado_em": "2026-07-24T11:25:21.837384-03:00"
+    },
+    {
+      "oferta_id": 94,
+      "preco": 21.51,
+      "registrado_em": "2026-07-24T11:25:21.837384-03:00"
+    },
+    {
+      "oferta_id": 107,
+      "preco": 27.9,
+      "registrado_em": "2026-07-24T11:25:21.837384-03:00"
+    },
+    {
+      "oferta_id": 65,
+      "preco": 21.99,
+      "registrado_em": "2026-07-24T11:31:22.124401-03:00"
+    },
+    {
+      "oferta_id": 90,
+      "preco": 44.99,
+      "registrado_em": "2026-07-24T11:31:22.124401-03:00"
+    },
+    {
+      "oferta_id": 91,
+      "preco": 44.99,
+      "registrado_em": "2026-07-24T11:31:22.124401-03:00"
+    },
+    {
+      "oferta_id": 93,
+      "preco": 44.99,
+      "registrado_em": "2026-07-24T11:31:22.124401-03:00"
     }
   ],
   "notificacoes": [
@@ -20502,6 +20577,13 @@
       "oferta_id": 108,
       "sucesso": true,
       "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-07-24T11:25:27.334812-03:00",
+      "erro": null,
+      "oferta_id": 109,
+      "sucesso": true,
+      "tipo": "nova"
     }
   ],
   "ofertas": {
@@ -20535,7 +20617,7 @@
     },
     "100": {
       "ativa": true,
-      "atualizada_em": "2026-07-24T09:42:33.995712-03:00",
+      "atualizada_em": "2026-07-24T11:25:21.837384-03:00",
       "coletada_em": "2026-07-22T17:48:53.200282-03:00",
       "desconto_pct": 69,
       "fonte": "promobit",
@@ -20549,7 +20631,7 @@
     },
     "101": {
       "ativa": true,
-      "atualizada_em": "2026-07-24T09:42:33.995712-03:00",
+      "atualizada_em": "2026-07-24T11:25:21.837384-03:00",
       "coletada_em": "2026-07-22T19:45:11.806162-03:00",
       "desconto_pct": 51,
       "fonte": "promobit",
@@ -20591,7 +20673,7 @@
     },
     "104": {
       "ativa": true,
-      "atualizada_em": "2026-07-24T09:42:33.995712-03:00",
+      "atualizada_em": "2026-07-24T11:25:21.837384-03:00",
       "coletada_em": "2026-07-23T08:26:53.565367-03:00",
       "desconto_pct": 69,
       "fonte": "promobit",
@@ -20605,7 +20687,7 @@
     },
     "105": {
       "ativa": true,
-      "atualizada_em": "2026-07-24T09:42:33.995712-03:00",
+      "atualizada_em": "2026-07-24T11:25:21.837384-03:00",
       "coletada_em": "2026-07-23T09:56:06.883462-03:00",
       "desconto_pct": 54,
       "fonte": "promobit",
@@ -20619,7 +20701,7 @@
     },
     "106": {
       "ativa": true,
-      "atualizada_em": "2026-07-24T09:42:33.995712-03:00",
+      "atualizada_em": "2026-07-24T11:25:21.837384-03:00",
       "coletada_em": "2026-07-23T12:02:48.568751-03:00",
       "desconto_pct": 67,
       "fonte": "promobit",
@@ -20633,7 +20715,7 @@
     },
     "107": {
       "ativa": true,
-      "atualizada_em": "2026-07-24T09:42:33.995712-03:00",
+      "atualizada_em": "2026-07-24T11:25:21.837384-03:00",
       "coletada_em": "2026-07-23T16:19:48.341423-03:00",
       "desconto_pct": 61,
       "fonte": "promobit",
@@ -20647,7 +20729,7 @@
     },
     "108": {
       "ativa": true,
-      "atualizada_em": "2026-07-24T09:42:33.995712-03:00",
+      "atualizada_em": "2026-07-24T11:25:21.837384-03:00",
       "coletada_em": "2026-07-24T09:42:33.995712-03:00",
       "desconto_pct": 49,
       "fonte": "promobit",
@@ -20658,6 +20740,20 @@
       "preco_de": 599.99,
       "produto_id": 62,
       "url": "https://www.promobit.com.br/oferta/tenis-fila-racer-speedzone-feminino-corrida-e-maratona-verdeazulroyallaranja-geometrico-380-br-2940454/"
+    },
+    "109": {
+      "ativa": true,
+      "atualizada_em": "2026-07-24T11:25:21.837384-03:00",
+      "coletada_em": "2026-07-24T11:25:21.837384-03:00",
+      "desconto_pct": 54,
+      "fonte": "promobit",
+      "hash_unico": "96ce3726859ff11039f3bfb0cfcd0c66",
+      "id": 109,
+      "loja": "Amazon",
+      "preco_atual": 32.0,
+      "preco_de": 69.9,
+      "produto_id": 72,
+      "url": "https://www.promobit.com.br/oferta/bemdita-ghee-hidratacao-banana-350g-lola-cosmetics-2940667/"
     },
     "11": {
       "ativa": false,
@@ -21487,7 +21583,7 @@
     },
     "65": {
       "ativa": true,
-      "atualizada_em": "2026-07-24T09:47:59.318361-03:00",
+      "atualizada_em": "2026-07-24T11:31:22.124401-03:00",
       "coletada_em": "2026-06-24T09:43:45.342507-03:00",
       "desconto_pct": 41,
       "fonte": "americanas",
@@ -21879,7 +21975,7 @@
     },
     "90": {
       "ativa": true,
-      "atualizada_em": "2026-07-24T09:47:59.318361-03:00",
+      "atualizada_em": "2026-07-24T11:31:22.124401-03:00",
       "coletada_em": "2026-07-18T07:25:50.350990-03:00",
       "desconto_pct": 10,
       "fonte": "americanas",
@@ -21893,7 +21989,7 @@
     },
     "91": {
       "ativa": true,
-      "atualizada_em": "2026-07-24T09:47:59.318361-03:00",
+      "atualizada_em": "2026-07-24T11:31:22.124401-03:00",
       "coletada_em": "2026-07-18T07:25:50.350990-03:00",
       "desconto_pct": 10,
       "fonte": "americanas",
@@ -21921,7 +22017,7 @@
     },
     "93": {
       "ativa": true,
-      "atualizada_em": "2026-07-24T09:47:59.318361-03:00",
+      "atualizada_em": "2026-07-24T11:31:22.124401-03:00",
       "coletada_em": "2026-07-19T11:47:39.505159-03:00",
       "desconto_pct": 10,
       "fonte": "americanas",
@@ -21935,7 +22031,7 @@
     },
     "94": {
       "ativa": false,
-      "atualizada_em": "2026-07-24T09:42:33.995712-03:00",
+      "atualizada_em": "2026-07-24T11:25:21.837384-03:00",
       "coletada_em": "2026-07-20T01:00:07.841682-03:00",
       "desconto_pct": 64,
       "fonte": "promobit",
@@ -21991,7 +22087,7 @@
     },
     "98": {
       "ativa": true,
-      "atualizada_em": "2026-07-24T09:42:33.995712-03:00",
+      "atualizada_em": "2026-07-24T11:25:21.837384-03:00",
       "coletada_em": "2026-07-22T15:21:08.196859-03:00",
       "desconto_pct": 66,
       "fonte": "promobit",
@@ -22005,7 +22101,7 @@
     },
     "99": {
       "ativa": false,
-      "atualizada_em": "2026-07-24T09:42:33.995712-03:00",
+      "atualizada_em": "2026-07-24T11:25:21.837384-03:00",
       "coletada_em": "2026-07-22T15:21:08.196859-03:00",
       "desconto_pct": 66,
       "fonte": "promobit",
@@ -22639,6 +22735,15 @@
       "marca": "Roupa infantil masc",
       "titulo_normalizado": "conjunto infantil estampa alecrim (tam 1 a 12 anos)",
       "titulo_original": "Conjunto Infantil Estampa Alecrim (Tam. 1 a 12 anos)"
+    },
+    "72": {
+      "categoria": "cabelo",
+      "criado_em": "2026-07-24T11:25:21.837558-03:00",
+      "id": 72,
+      "imagem_url": "https://i.promobit.com.br/268/409500226217849016643842365597.jpg",
+      "marca": "Lola Cosmetics",
+      "titulo_normalizado": "bemdita ghee hidratacao banana 350g lola cosmetics",
+      "titulo_original": "Bemdita ghee hidratacao banana 350g , lola cosmetics"
     },
     "8": {
       "categoria": "corrida",
