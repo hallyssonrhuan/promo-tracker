@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 130,
+    "oferta": 131,
     "produto": 83
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-08-02T16:40:51.334474-03:00",
+      "ultima_coleta_em": "2026-08-02T17:38:00.901951-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-08-02T16:39:31.383771-03:00",
+      "ultima_coleta_em": "2026-08-02T17:36:40.552437-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-08-02T16:39:57.605462-03:00",
+      "ultima_coleta_em": "2026-08-02T17:37:07.030291-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-08-02T16:37:14.428097-03:00",
+      "ultima_coleta_em": "2026-08-02T17:34:26.665321-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-08-02T16:37:56.882001-03:00",
+      "ultima_coleta_em": "2026-08-02T17:35:08.689999-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-08-02T16:36:11.008223-03:00",
+      "ultima_coleta_em": "2026-08-02T17:33:24.130671-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-08-02T16:36:43.163381-03:00",
+      "ultima_coleta_em": "2026-08-02T17:33:55.501061-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-08-02T16:34:46.162394-03:00",
+      "ultima_coleta_em": "2026-08-02T17:32:02.243628-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-08-02T16:34:24.727521-03:00",
+      "ultima_coleta_em": "2026-08-02T17:31:40.867966-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 7,
+      "ultima_coleta_qtd": 8,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-08-02T16:35:21.319776-03:00",
+      "ultima_coleta_em": "2026-08-02T17:32:35.616651-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -26570,6 +26570,46 @@
       "oferta_id": 128,
       "preco": 39.92,
       "registrado_em": "2026-08-02T16:34:24.727118-03:00"
+    },
+    {
+      "oferta_id": 130,
+      "preco": 219.99,
+      "registrado_em": "2026-08-02T17:31:35.274197-03:00"
+    },
+    {
+      "oferta_id": 124,
+      "preco": 56.88,
+      "registrado_em": "2026-08-02T17:31:35.274197-03:00"
+    },
+    {
+      "oferta_id": 129,
+      "preco": 23.9,
+      "registrado_em": "2026-08-02T17:31:35.274197-03:00"
+    },
+    {
+      "oferta_id": 126,
+      "preco": 28.8,
+      "registrado_em": "2026-08-02T17:31:35.274197-03:00"
+    },
+    {
+      "oferta_id": 125,
+      "preco": 32.0,
+      "registrado_em": "2026-08-02T17:31:35.274197-03:00"
+    },
+    {
+      "oferta_id": 123,
+      "preco": 18.9,
+      "registrado_em": "2026-08-02T17:31:35.274197-03:00"
+    },
+    {
+      "oferta_id": 116,
+      "preco": 17.0,
+      "registrado_em": "2026-08-02T17:31:35.274197-03:00"
+    },
+    {
+      "oferta_id": 128,
+      "preco": 39.92,
+      "registrado_em": "2026-08-02T17:31:35.274197-03:00"
     }
   ],
   "notificacoes": [
@@ -27412,6 +27452,13 @@
       "oferta_id": 128,
       "sucesso": true,
       "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-08-02T17:31:40.867640-03:00",
+      "erro": null,
+      "oferta_id": 130,
+      "sucesso": true,
+      "tipo": "nova"
     }
   ],
   "ofertas": {
@@ -27683,7 +27730,7 @@
     },
     "116": {
       "ativa": true,
-      "atualizada_em": "2026-08-02T16:34:24.727118-03:00",
+      "atualizada_em": "2026-08-02T17:31:35.274197-03:00",
       "coletada_em": "2026-07-27T14:57:12.390954-03:00",
       "desconto_pct": 69,
       "fonte": "promobit",
@@ -27795,7 +27842,7 @@
     },
     "123": {
       "ativa": true,
-      "atualizada_em": "2026-08-02T16:34:24.727118-03:00",
+      "atualizada_em": "2026-08-02T17:31:35.274197-03:00",
       "coletada_em": "2026-07-30T17:19:41.846593-03:00",
       "desconto_pct": 66,
       "fonte": "promobit",
@@ -27809,7 +27856,7 @@
     },
     "124": {
       "ativa": true,
-      "atualizada_em": "2026-08-02T16:34:24.727118-03:00",
+      "atualizada_em": "2026-08-02T17:31:35.274197-03:00",
       "coletada_em": "2026-07-31T11:31:38.758634-03:00",
       "desconto_pct": 53,
       "fonte": "promobit",
@@ -27823,7 +27870,7 @@
     },
     "125": {
       "ativa": false,
-      "atualizada_em": "2026-08-02T16:34:24.727118-03:00",
+      "atualizada_em": "2026-08-02T17:31:35.274197-03:00",
       "coletada_em": "2026-07-31T11:31:38.758634-03:00",
       "desconto_pct": 54,
       "fonte": "promobit",
@@ -27837,7 +27884,7 @@
     },
     "126": {
       "ativa": true,
-      "atualizada_em": "2026-08-02T16:34:24.727118-03:00",
+      "atualizada_em": "2026-08-02T17:31:35.274197-03:00",
       "coletada_em": "2026-07-31T16:04:28.196202-03:00",
       "desconto_pct": 59,
       "fonte": "promobit",
@@ -27865,7 +27912,7 @@
     },
     "128": {
       "ativa": true,
-      "atualizada_em": "2026-08-02T16:34:24.727118-03:00",
+      "atualizada_em": "2026-08-02T17:31:35.274197-03:00",
       "coletada_em": "2026-08-02T00:50:27.324668-03:00",
       "desconto_pct": 20,
       "fonte": "promobit",
@@ -27879,7 +27926,7 @@
     },
     "129": {
       "ativa": false,
-      "atualizada_em": "2026-08-02T16:34:24.727118-03:00",
+      "atualizada_em": "2026-08-02T17:31:35.274197-03:00",
       "coletada_em": "2026-08-02T09:41:30.511250-03:00",
       "desconto_pct": 60,
       "fonte": "promobit",
@@ -27904,6 +27951,20 @@
       "preco_de": 349.99,
       "produto_id": 12,
       "url": "https://www.promobit.com.br/oferta/tenis-infantil-olympikus-pride-4-tam-34-2819288/"
+    },
+    "130": {
+      "ativa": true,
+      "atualizada_em": "2026-08-02T17:31:35.274197-03:00",
+      "coletada_em": "2026-08-02T17:31:35.274197-03:00",
+      "desconto_pct": 37,
+      "fonte": "promobit",
+      "hash_unico": "7d52103a8843678907df6a52a70a944a",
+      "id": 130,
+      "loja": "Netshoes",
+      "preco_atual": 219.99,
+      "preco_de": 349.99,
+      "produto_id": 3,
+      "url": "https://www.promobit.com.br/oferta/tenis-de-corrida-feminino-mizuno-atlantis-2-2956487/"
     },
     "14": {
       "ativa": false,
