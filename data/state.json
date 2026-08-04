@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 136,
-    "produto": 87
+    "oferta": 138,
+    "produto": 88
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-08-04T14:22:55.495734-03:00",
+      "ultima_coleta_em": "2026-08-04T16:01:36.290458-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-08-04T14:21:35.751222-03:00",
+      "ultima_coleta_em": "2026-08-04T16:00:15.930146-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-08-04T14:22:01.888205-03:00",
+      "ultima_coleta_em": "2026-08-04T16:00:42.023090-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-08-04T14:18:58.853894-03:00",
+      "ultima_coleta_em": "2026-08-04T15:57:40.839034-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-08-04T14:19:40.778905-03:00",
+      "ultima_coleta_em": "2026-08-04T15:58:23.471028-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-08-04T14:17:54.310099-03:00",
+      "ultima_coleta_em": "2026-08-04T15:56:38.309141-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-08-04T14:18:27.042970-03:00",
+      "ultima_coleta_em": "2026-08-04T15:57:09.526007-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-08-04T14:16:32.382258-03:00",
+      "ultima_coleta_em": "2026-08-04T15:55:14.664306-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-08-04T14:16:10.984437-03:00",
+      "ultima_coleta_em": "2026-08-04T15:54:53.292736-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 4,
+      "ultima_coleta_qtd": 6,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-08-04T14:17:05.792248-03:00",
+      "ultima_coleta_em": "2026-08-04T15:55:48.915130-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -27310,6 +27310,36 @@
       "oferta_id": 135,
       "preco": 28.96,
       "registrado_em": "2026-08-04T14:16:10.984106-03:00"
+    },
+    {
+      "oferta_id": 134,
+      "preco": 261.57,
+      "registrado_em": "2026-08-04T15:54:42.456501-03:00"
+    },
+    {
+      "oferta_id": 136,
+      "preco": 52.0,
+      "registrado_em": "2026-08-04T15:54:42.456501-03:00"
+    },
+    {
+      "oferta_id": 137,
+      "preco": 22.67,
+      "registrado_em": "2026-08-04T15:54:42.456501-03:00"
+    },
+    {
+      "oferta_id": 129,
+      "preco": 23.9,
+      "registrado_em": "2026-08-04T15:54:42.456501-03:00"
+    },
+    {
+      "oferta_id": 116,
+      "preco": 17.0,
+      "registrado_em": "2026-08-04T15:54:42.456501-03:00"
+    },
+    {
+      "oferta_id": 135,
+      "preco": 28.96,
+      "registrado_em": "2026-08-04T15:54:42.456501-03:00"
     }
   ],
   "notificacoes": [
@@ -28194,6 +28224,20 @@
       "oferta_id": 135,
       "sucesso": true,
       "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-08-04T15:54:48.746742-03:00",
+      "erro": null,
+      "oferta_id": 136,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-08-04T15:54:53.292435-03:00",
+      "erro": null,
+      "oferta_id": 137,
+      "sucesso": true,
+      "tipo": "nova"
     }
   ],
   "ofertas": {
@@ -28465,7 +28509,7 @@
     },
     "116": {
       "ativa": true,
-      "atualizada_em": "2026-08-04T14:16:10.984106-03:00",
+      "atualizada_em": "2026-08-04T15:54:42.456501-03:00",
       "coletada_em": "2026-07-27T14:57:12.390954-03:00",
       "desconto_pct": 69,
       "fonte": "promobit",
@@ -28661,7 +28705,7 @@
     },
     "129": {
       "ativa": true,
-      "atualizada_em": "2026-08-04T14:16:10.984106-03:00",
+      "atualizada_em": "2026-08-04T15:54:42.456501-03:00",
       "coletada_em": "2026-08-02T09:41:30.511250-03:00",
       "desconto_pct": 60,
       "fonte": "promobit",
@@ -28745,7 +28789,7 @@
     },
     "134": {
       "ativa": true,
-      "atualizada_em": "2026-08-04T14:16:10.984106-03:00",
+      "atualizada_em": "2026-08-04T15:54:42.456501-03:00",
       "coletada_em": "2026-08-03T19:03:47.287336-03:00",
       "desconto_pct": 48,
       "fonte": "promobit",
@@ -28759,7 +28803,7 @@
     },
     "135": {
       "ativa": true,
-      "atualizada_em": "2026-08-04T14:16:10.984106-03:00",
+      "atualizada_em": "2026-08-04T15:54:42.456501-03:00",
       "coletada_em": "2026-08-04T12:37:35.606582-03:00",
       "desconto_pct": 51,
       "fonte": "promobit",
@@ -28770,6 +28814,34 @@
       "preco_de": 59.1,
       "produto_id": 86,
       "url": "https://www.promobit.com.br/oferta/conjunto-infantil-blusa-meia-malha-com-estampa-de-limao-e-shorts-moletinho-tam-1-a-12-anos-2959998/"
+    },
+    "136": {
+      "ativa": true,
+      "atualizada_em": "2026-08-04T15:54:42.456501-03:00",
+      "coletada_em": "2026-08-04T15:54:42.456501-03:00",
+      "desconto_pct": 57,
+      "fonte": "promobit",
+      "hash_unico": "4ef467efa5ee1e0a94404e2484737f8a",
+      "id": 136,
+      "loja": "Amazon",
+      "preco_atual": 52.0,
+      "preco_de": 119.9,
+      "produto_id": 35,
+      "url": "https://www.promobit.com.br/oferta/kit-rapunzel-lola-shampoo-250ml-tonico-de-crescimento-250ml-leave-in-250ml-2960433/"
+    },
+    "137": {
+      "ativa": true,
+      "atualizada_em": "2026-08-04T15:54:42.456501-03:00",
+      "coletada_em": "2026-08-04T15:54:42.456501-03:00",
+      "desconto_pct": 55,
+      "fonte": "promobit",
+      "hash_unico": "e983c55f453a3ea0ccea0a1c4c287f3e",
+      "id": 137,
+      "loja": "Amazon",
+      "preco_atual": 22.67,
+      "preco_de": 49.9,
+      "produto_id": 87,
+      "url": "https://www.promobit.com.br/oferta/mascara-liso-leve-e-solto-lola-cosmetics-230g-2960305/"
     },
     "14": {
       "ativa": false,
@@ -30853,6 +30925,15 @@
       "marca": "Roupa infantil masc",
       "titulo_normalizado": "conjunto infantil blusa meia malha com estampa de limao e shorts moletinho (tam 1 a 12 anos)",
       "titulo_original": "Conjunto Infantil Blusa Meia Malha com Estampa de Limão e Shorts Moletinho (Tam. 1 a 12 Anos)"
+    },
+    "87": {
+      "categoria": "cabelo",
+      "criado_em": "2026-08-04T15:54:42.456731-03:00",
+      "id": 87,
+      "imagem_url": "https://i.promobit.com.br/268/157001959917858649724872078415.jpg",
+      "marca": "Lola Cosmetics",
+      "titulo_normalizado": "mascara liso leve e solto lola cosmetics 230g",
+      "titulo_original": "Mascara liso leve e solto lola cosmetics 230g"
     },
     "9": {
       "categoria": "corrida",
