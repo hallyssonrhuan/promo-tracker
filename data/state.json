@@ -7,7 +7,7 @@
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-08-04T06:14:11.558795-03:00",
+      "ultima_coleta_em": "2026-08-04T08:38:20.350003-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-08-04T06:12:51.629984-03:00",
+      "ultima_coleta_em": "2026-08-04T08:36:50.215900-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-08-04T06:13:17.609406-03:00",
+      "ultima_coleta_em": "2026-08-04T08:37:16.424126-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-08-04T06:10:50.774045-03:00",
+      "ultima_coleta_em": "2026-08-04T08:34:23.938617-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-08-04T06:11:33.457347-03:00",
+      "ultima_coleta_em": "2026-08-04T08:35:06.116982-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-08-04T06:09:48.479432-03:00",
+      "ultima_coleta_em": "2026-08-04T08:33:21.391288-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-08-04T06:10:19.705793-03:00",
+      "ultima_coleta_em": "2026-08-04T08:33:52.707605-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-08-04T06:08:24.583068-03:00",
+      "ultima_coleta_em": "2026-08-04T08:31:58.489963-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,7 +71,7 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-08-04T06:08:02.583980-03:00",
+      "ultima_coleta_em": "2026-08-04T08:31:36.913699-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 4,
       "ultima_coleta_status": "ok"
@@ -79,7 +79,7 @@
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-08-04T06:08:59.286636-03:00",
+      "ultima_coleta_em": "2026-08-04T08:32:32.501571-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -27235,6 +27235,26 @@
       "oferta_id": 116,
       "preco": 17.0,
       "registrado_em": "2026-08-04T06:08:02.583758-03:00"
+    },
+    {
+      "oferta_id": 134,
+      "preco": 261.57,
+      "registrado_em": "2026-08-04T08:31:36.913414-03:00"
+    },
+    {
+      "oferta_id": 133,
+      "preco": 179.99,
+      "registrado_em": "2026-08-04T08:31:36.913414-03:00"
+    },
+    {
+      "oferta_id": 129,
+      "preco": 23.9,
+      "registrado_em": "2026-08-04T08:31:36.913414-03:00"
+    },
+    {
+      "oferta_id": 116,
+      "preco": 17.0,
+      "registrado_em": "2026-08-04T08:31:36.913414-03:00"
     }
   ],
   "notificacoes": [
@@ -28368,8 +28388,8 @@
       "url": "https://www.promobit.com.br/oferta/kit-1-tenis-de-corrida-masculino-mizuno-invictus-4-e-1-mochila-fun-new-2944087/"
     },
     "115": {
-      "ativa": true,
-      "atualizada_em": "2026-07-28T12:34:35.689267-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-08-04T08:38:28.830978-03:00",
       "coletada_em": "2026-07-27T14:57:12.390954-03:00",
       "desconto_pct": 38,
       "fonte": "promobit",
@@ -28383,7 +28403,7 @@
     },
     "116": {
       "ativa": true,
-      "atualizada_em": "2026-08-04T06:08:02.583758-03:00",
+      "atualizada_em": "2026-08-04T08:31:36.913414-03:00",
       "coletada_em": "2026-07-27T14:57:12.390954-03:00",
       "desconto_pct": 69,
       "fonte": "promobit",
@@ -28410,8 +28430,8 @@
       "url": "https://www.promobit.com.br/oferta/tenis-fila-progress-lite-feminino-treino-academia-corrida-2945906/"
     },
     "118": {
-      "ativa": true,
-      "atualizada_em": "2026-07-30T07:50:55.327015-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-08-04T08:38:37.124189-03:00",
       "coletada_em": "2026-07-28T12:34:35.689267-03:00",
       "desconto_pct": 27,
       "fonte": "promobit",
@@ -28579,7 +28599,7 @@
     },
     "129": {
       "ativa": true,
-      "atualizada_em": "2026-08-04T06:08:02.583758-03:00",
+      "atualizada_em": "2026-08-04T08:31:36.913414-03:00",
       "coletada_em": "2026-08-02T09:41:30.511250-03:00",
       "desconto_pct": 60,
       "fonte": "promobit",
@@ -28649,7 +28669,7 @@
     },
     "133": {
       "ativa": true,
-      "atualizada_em": "2026-08-04T06:08:02.583758-03:00",
+      "atualizada_em": "2026-08-04T08:31:36.913414-03:00",
       "coletada_em": "2026-08-03T13:22:49.790828-03:00",
       "desconto_pct": 49,
       "fonte": "promobit",
@@ -28663,7 +28683,7 @@
     },
     "134": {
       "ativa": true,
-      "atualizada_em": "2026-08-04T06:08:02.583758-03:00",
+      "atualizada_em": "2026-08-04T08:31:36.913414-03:00",
       "coletada_em": "2026-08-03T19:03:47.287336-03:00",
       "desconto_pct": 48,
       "fonte": "promobit",
