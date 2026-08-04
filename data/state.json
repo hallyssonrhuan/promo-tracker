@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 138,
-    "produto": 88
+    "oferta": 142,
+    "produto": 91
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-08-04T16:01:36.290458-03:00",
+      "ultima_coleta_em": "2026-08-04T17:23:17.803284-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-08-04T16:00:15.930146-03:00",
+      "ultima_coleta_em": "2026-08-04T17:21:48.636091-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-08-04T16:00:42.023090-03:00",
+      "ultima_coleta_em": "2026-08-04T17:22:14.714785-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-08-04T15:57:40.839034-03:00",
+      "ultima_coleta_em": "2026-08-04T17:19:22.782431-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-08-04T15:58:23.471028-03:00",
+      "ultima_coleta_em": "2026-08-04T17:20:04.659790-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-08-04T15:56:38.309141-03:00",
+      "ultima_coleta_em": "2026-08-04T17:18:18.979864-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-08-04T15:57:09.526007-03:00",
+      "ultima_coleta_em": "2026-08-04T17:18:51.635277-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-08-04T15:55:14.664306-03:00",
+      "ultima_coleta_em": "2026-08-04T17:16:57.092117-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-08-04T15:54:53.292736-03:00",
+      "ultima_coleta_em": "2026-08-04T17:16:35.753318-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 6,
+      "ultima_coleta_qtd": 10,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-08-04T15:55:48.915130-03:00",
+      "ultima_coleta_em": "2026-08-04T17:17:30.472933-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -27340,6 +27340,56 @@
       "oferta_id": 135,
       "preco": 28.96,
       "registrado_em": "2026-08-04T15:54:42.456501-03:00"
+    },
+    {
+      "oferta_id": 138,
+      "preco": 192.0,
+      "registrado_em": "2026-08-04T17:16:14.232627-03:00"
+    },
+    {
+      "oferta_id": 134,
+      "preco": 261.57,
+      "registrado_em": "2026-08-04T17:16:14.232627-03:00"
+    },
+    {
+      "oferta_id": 136,
+      "preco": 52.0,
+      "registrado_em": "2026-08-04T17:16:14.232627-03:00"
+    },
+    {
+      "oferta_id": 139,
+      "preco": 21.84,
+      "registrado_em": "2026-08-04T17:16:14.232627-03:00"
+    },
+    {
+      "oferta_id": 140,
+      "preco": 26.72,
+      "registrado_em": "2026-08-04T17:16:14.232627-03:00"
+    },
+    {
+      "oferta_id": 141,
+      "preco": 25.96,
+      "registrado_em": "2026-08-04T17:16:14.232627-03:00"
+    },
+    {
+      "oferta_id": 137,
+      "preco": 22.67,
+      "registrado_em": "2026-08-04T17:16:14.232627-03:00"
+    },
+    {
+      "oferta_id": 129,
+      "preco": 23.9,
+      "registrado_em": "2026-08-04T17:16:14.232627-03:00"
+    },
+    {
+      "oferta_id": 116,
+      "preco": 17.0,
+      "registrado_em": "2026-08-04T17:16:14.232627-03:00"
+    },
+    {
+      "oferta_id": 135,
+      "preco": 28.96,
+      "registrado_em": "2026-08-04T17:16:14.232627-03:00"
     }
   ],
   "notificacoes": [
@@ -28238,6 +28288,34 @@
       "oferta_id": 137,
       "sucesso": true,
       "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-08-04T17:16:22.073617-03:00",
+      "erro": null,
+      "oferta_id": 141,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-08-04T17:16:26.850658-03:00",
+      "erro": null,
+      "oferta_id": 139,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-08-04T17:16:31.548484-03:00",
+      "erro": null,
+      "oferta_id": 138,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-08-04T17:16:35.753111-03:00",
+      "erro": null,
+      "oferta_id": 140,
+      "sucesso": true,
+      "tipo": "nova"
     }
   ],
   "ofertas": {
@@ -28509,7 +28587,7 @@
     },
     "116": {
       "ativa": true,
-      "atualizada_em": "2026-08-04T15:54:42.456501-03:00",
+      "atualizada_em": "2026-08-04T17:16:14.232627-03:00",
       "coletada_em": "2026-07-27T14:57:12.390954-03:00",
       "desconto_pct": 69,
       "fonte": "promobit",
@@ -28705,7 +28783,7 @@
     },
     "129": {
       "ativa": true,
-      "atualizada_em": "2026-08-04T15:54:42.456501-03:00",
+      "atualizada_em": "2026-08-04T17:16:14.232627-03:00",
       "coletada_em": "2026-08-02T09:41:30.511250-03:00",
       "desconto_pct": 60,
       "fonte": "promobit",
@@ -28789,7 +28867,7 @@
     },
     "134": {
       "ativa": true,
-      "atualizada_em": "2026-08-04T15:54:42.456501-03:00",
+      "atualizada_em": "2026-08-04T17:16:14.232627-03:00",
       "coletada_em": "2026-08-03T19:03:47.287336-03:00",
       "desconto_pct": 48,
       "fonte": "promobit",
@@ -28803,7 +28881,7 @@
     },
     "135": {
       "ativa": true,
-      "atualizada_em": "2026-08-04T15:54:42.456501-03:00",
+      "atualizada_em": "2026-08-04T17:16:14.232627-03:00",
       "coletada_em": "2026-08-04T12:37:35.606582-03:00",
       "desconto_pct": 51,
       "fonte": "promobit",
@@ -28817,7 +28895,7 @@
     },
     "136": {
       "ativa": true,
-      "atualizada_em": "2026-08-04T15:54:42.456501-03:00",
+      "atualizada_em": "2026-08-04T17:16:14.232627-03:00",
       "coletada_em": "2026-08-04T15:54:42.456501-03:00",
       "desconto_pct": 57,
       "fonte": "promobit",
@@ -28831,7 +28909,7 @@
     },
     "137": {
       "ativa": true,
-      "atualizada_em": "2026-08-04T15:54:42.456501-03:00",
+      "atualizada_em": "2026-08-04T17:16:14.232627-03:00",
       "coletada_em": "2026-08-04T15:54:42.456501-03:00",
       "desconto_pct": 55,
       "fonte": "promobit",
@@ -28842,6 +28920,34 @@
       "preco_de": 49.9,
       "produto_id": 87,
       "url": "https://www.promobit.com.br/oferta/mascara-liso-leve-e-solto-lola-cosmetics-230g-2960305/"
+    },
+    "138": {
+      "ativa": true,
+      "atualizada_em": "2026-08-04T17:16:14.232627-03:00",
+      "coletada_em": "2026-08-04T17:16:14.232627-03:00",
+      "desconto_pct": 52,
+      "fonte": "promobit",
+      "hash_unico": "19e9284db57813716bfd0022a9c278ba",
+      "id": 138,
+      "loja": "Mercado Livre",
+      "preco_atual": 192.0,
+      "preco_de": 399.99,
+      "produto_id": 88,
+      "url": "https://www.promobit.com.br/oferta/tenis-adidas-duramo-corrida-antiderrapante-2960565/"
+    },
+    "139": {
+      "ativa": true,
+      "atualizada_em": "2026-08-04T17:16:14.232627-03:00",
+      "coletada_em": "2026-08-04T17:16:14.232627-03:00",
+      "desconto_pct": 56,
+      "fonte": "promobit",
+      "hash_unico": "99896b701ee477bfd301e0f0d40cbd1b",
+      "id": 139,
+      "loja": "Amazon",
+      "preco_atual": 21.84,
+      "preco_de": 49.9,
+      "produto_id": 89,
+      "url": "https://www.promobit.com.br/oferta/meu-cacho-minha-vida-shampoo-500ml-lola-cosmetics-2960466/"
     },
     "14": {
       "ativa": false,
@@ -28856,6 +28962,34 @@
       "preco_de": 379.99,
       "produto_id": 13,
       "url": "https://www.promobit.com.br/oferta/tenis-de-corrida-feminino-mizuno-wave-falcon-5-2820874/"
+    },
+    "140": {
+      "ativa": true,
+      "atualizada_em": "2026-08-04T17:16:14.232627-03:00",
+      "coletada_em": "2026-08-04T17:16:14.232627-03:00",
+      "desconto_pct": 46,
+      "fonte": "promobit",
+      "hash_unico": "33d15a09998645bf83cea44fa6b2cc99",
+      "id": 140,
+      "loja": "Amazon",
+      "preco_atual": 26.72,
+      "preco_de": 49.9,
+      "produto_id": 5,
+      "url": "https://www.promobit.com.br/oferta/meu-cacho-minha-vida-condicionador-500g-lola-cosmetics-2960468/"
+    },
+    "141": {
+      "ativa": true,
+      "atualizada_em": "2026-08-04T17:16:14.232627-03:00",
+      "coletada_em": "2026-08-04T17:16:14.232627-03:00",
+      "desconto_pct": 60,
+      "fonte": "promobit",
+      "hash_unico": "b92c75e476ce0ab80ac2ba0cc02935bc",
+      "id": 141,
+      "loja": "Amazon",
+      "preco_atual": 25.96,
+      "preco_de": 64.9,
+      "produto_id": 90,
+      "url": "https://www.promobit.com.br/oferta/meu-cacho-minha-vida-mascara-450g-lola-cosmetics-2960585/"
     },
     "15": {
       "ativa": false,
@@ -30935,6 +31069,24 @@
       "titulo_normalizado": "mascara liso leve e solto lola cosmetics 230g",
       "titulo_original": "Mascara liso leve e solto lola cosmetics 230g"
     },
+    "88": {
+      "categoria": "corrida",
+      "criado_em": "2026-08-04T17:16:14.232663-03:00",
+      "id": 88,
+      "imagem_url": "https://i.promobit.com.br/268/434731031917858727695010922860.png",
+      "marca": "Adidas",
+      "titulo_normalizado": "tenis adidas duramo corrida antiderrapante",
+      "titulo_original": "Tênis adidas Duramo Corrida Antiderrapante"
+    },
+    "89": {
+      "categoria": "cabelo",
+      "criado_em": "2026-08-04T17:16:14.232892-03:00",
+      "id": 89,
+      "imagem_url": "https://i.promobit.com.br/268/319136843317858705034053015332.jpg",
+      "marca": "Lola Cosmetics",
+      "titulo_normalizado": "meu cacho minha vida shampoo 500ml lola cosmetics",
+      "titulo_original": "Meu Cacho Minha Vida Shampoo 500ml , Lola Cosmetics"
+    },
     "9": {
       "categoria": "corrida",
       "criado_em": "2026-05-10T16:17:41.413263-03:00",
@@ -30943,6 +31095,15 @@
       "marca": "Nike",
       "titulo_normalizado": "tenis nike run defy feminino",
       "titulo_original": "Tênis Nike Run Defy Feminino"
+    },
+    "90": {
+      "categoria": "cabelo",
+      "criado_em": "2026-08-04T17:16:14.232989-03:00",
+      "id": 90,
+      "imagem_url": "https://i.promobit.com.br/268/909275185117858733085086848761.jpg",
+      "marca": "Lola Cosmetics",
+      "titulo_normalizado": "meu cacho minha vida mascara 450g lola cosmetics",
+      "titulo_original": "Meu Cacho Minha Vida Máscara 450g, Lola Cosmetics"
     }
   }
 }
