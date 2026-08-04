@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 135,
-    "produto": 86
+    "oferta": 136,
+    "produto": 87
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-08-04T10:24:16.442312-03:00",
+      "ultima_coleta_em": "2026-08-04T12:44:18.763915-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-08-04T10:22:56.012621-03:00",
+      "ultima_coleta_em": "2026-08-04T12:42:59.060211-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-08-04T10:23:22.079633-03:00",
+      "ultima_coleta_em": "2026-08-04T12:43:25.165089-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-08-04T10:19:58.619666-03:00",
+      "ultima_coleta_em": "2026-08-04T12:40:27.879404-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-08-04T10:20:40.144819-03:00",
+      "ultima_coleta_em": "2026-08-04T12:41:09.970060-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-08-04T10:18:56.195611-03:00",
+      "ultima_coleta_em": "2026-08-04T12:39:24.629632-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-08-04T10:19:27.369931-03:00",
+      "ultima_coleta_em": "2026-08-04T12:39:56.797310-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-08-04T10:17:34.411169-03:00",
+      "ultima_coleta_em": "2026-08-04T12:38:02.685173-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-08-04T10:17:13.082356-03:00",
+      "ultima_coleta_em": "2026-08-04T12:37:41.306962-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 3,
+      "ultima_coleta_qtd": 4,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-08-04T10:18:07.790146-03:00",
+      "ultima_coleta_em": "2026-08-04T12:38:36.144488-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -27270,6 +27270,26 @@
       "oferta_id": 116,
       "preco": 17.0,
       "registrado_em": "2026-08-04T10:17:13.082048-03:00"
+    },
+    {
+      "oferta_id": 134,
+      "preco": 261.57,
+      "registrado_em": "2026-08-04T12:37:35.606582-03:00"
+    },
+    {
+      "oferta_id": 129,
+      "preco": 23.9,
+      "registrado_em": "2026-08-04T12:37:35.606582-03:00"
+    },
+    {
+      "oferta_id": 116,
+      "preco": 17.0,
+      "registrado_em": "2026-08-04T12:37:35.606582-03:00"
+    },
+    {
+      "oferta_id": 135,
+      "preco": 28.96,
+      "registrado_em": "2026-08-04T12:37:35.606582-03:00"
     }
   ],
   "notificacoes": [
@@ -28147,6 +28167,13 @@
       "oferta_id": 134,
       "sucesso": true,
       "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-08-04T12:37:41.306710-03:00",
+      "erro": null,
+      "oferta_id": 135,
+      "sucesso": true,
+      "tipo": "nova"
     }
   ],
   "ofertas": {
@@ -28418,7 +28445,7 @@
     },
     "116": {
       "ativa": true,
-      "atualizada_em": "2026-08-04T10:17:13.082048-03:00",
+      "atualizada_em": "2026-08-04T12:37:35.606582-03:00",
       "coletada_em": "2026-07-27T14:57:12.390954-03:00",
       "desconto_pct": 69,
       "fonte": "promobit",
@@ -28614,7 +28641,7 @@
     },
     "129": {
       "ativa": true,
-      "atualizada_em": "2026-08-04T10:17:13.082048-03:00",
+      "atualizada_em": "2026-08-04T12:37:35.606582-03:00",
       "coletada_em": "2026-08-02T09:41:30.511250-03:00",
       "desconto_pct": 60,
       "fonte": "promobit",
@@ -28698,7 +28725,7 @@
     },
     "134": {
       "ativa": true,
-      "atualizada_em": "2026-08-04T10:17:13.082048-03:00",
+      "atualizada_em": "2026-08-04T12:37:35.606582-03:00",
       "coletada_em": "2026-08-03T19:03:47.287336-03:00",
       "desconto_pct": 48,
       "fonte": "promobit",
@@ -28709,6 +28736,20 @@
       "preco_de": 499.99,
       "produto_id": 85,
       "url": "https://www.promobit.com.br/oferta/tenis-adidas-acelera-running-esportivo-conforto-feminino-2958645/"
+    },
+    "135": {
+      "ativa": true,
+      "atualizada_em": "2026-08-04T12:37:35.606582-03:00",
+      "coletada_em": "2026-08-04T12:37:35.606582-03:00",
+      "desconto_pct": 51,
+      "fonte": "promobit",
+      "hash_unico": "f60e89a9ec1099e43f1ad699f265adba",
+      "id": 135,
+      "loja": "Shopee",
+      "preco_atual": 28.96,
+      "preco_de": 59.1,
+      "produto_id": 86,
+      "url": "https://www.promobit.com.br/oferta/conjunto-infantil-blusa-meia-malha-com-estampa-de-limao-e-shorts-moletinho-tam-1-a-12-anos-2959998/"
     },
     "14": {
       "ativa": false,
@@ -30783,6 +30824,15 @@
       "marca": "Adidas",
       "titulo_normalizado": "tenis adidas acelera running esportivo conforto - feminino",
       "titulo_original": "Tênis adidas Acelera Running Esportivo Conforto - Feminino"
+    },
+    "86": {
+      "categoria": "infantil",
+      "criado_em": "2026-08-04T12:37:35.606827-03:00",
+      "id": 86,
+      "imagem_url": "https://i.promobit.com.br/268/215898619517858575319341345330.jpg",
+      "marca": "Roupa infantil masc",
+      "titulo_normalizado": "conjunto infantil blusa meia malha com estampa de limao e shorts moletinho (tam 1 a 12 anos)",
+      "titulo_original": "Conjunto Infantil Blusa Meia Malha com Estampa de Limão e Shorts Moletinho (Tam. 1 a 12 Anos)"
     },
     "9": {
       "categoria": "corrida",
