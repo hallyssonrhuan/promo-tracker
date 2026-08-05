@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 142,
-    "produto": 91
+    "oferta": 144,
+    "produto": 93
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-08-04T22:10:55.843190-03:00",
+      "ultima_coleta_em": "2026-08-05T01:24:46.072341-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-08-04T22:08:40.645863-03:00",
+      "ultima_coleta_em": "2026-08-05T01:23:26.626486-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-08-04T22:09:06.595433-03:00",
+      "ultima_coleta_em": "2026-08-05T01:23:52.911406-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-08-04T22:06:12.155671-03:00",
+      "ultima_coleta_em": "2026-08-05T01:21:27.313233-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-08-04T22:06:54.461518-03:00",
+      "ultima_coleta_em": "2026-08-05T01:22:09.678637-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-08-04T22:05:08.428476-03:00",
+      "ultima_coleta_em": "2026-08-05T01:20:24.232650-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-08-04T22:05:40.989664-03:00",
+      "ultima_coleta_em": "2026-08-05T01:20:55.829431-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-08-04T22:03:44.968779-03:00",
+      "ultima_coleta_em": "2026-08-05T01:19:01.588571-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-08-04T22:03:23.588103-03:00",
+      "ultima_coleta_em": "2026-08-05T01:18:40.289633-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 8,
+      "ultima_coleta_qtd": 10,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-08-04T22:04:19.133148-03:00",
+      "ultima_coleta_em": "2026-08-05T01:19:35.473037-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -27560,6 +27560,56 @@
       "oferta_id": 129,
       "preco": 23.9,
       "registrado_em": "2026-08-04T22:03:23.587606-03:00"
+    },
+    {
+      "oferta_id": 138,
+      "preco": 192.0,
+      "registrado_em": "2026-08-05T01:18:30.575528-03:00"
+    },
+    {
+      "oferta_id": 134,
+      "preco": 261.57,
+      "registrado_em": "2026-08-05T01:18:30.575528-03:00"
+    },
+    {
+      "oferta_id": 142,
+      "preco": 51.13,
+      "registrado_em": "2026-08-05T01:18:30.575528-03:00"
+    },
+    {
+      "oferta_id": 136,
+      "preco": 52.0,
+      "registrado_em": "2026-08-05T01:18:30.575528-03:00"
+    },
+    {
+      "oferta_id": 139,
+      "preco": 21.84,
+      "registrado_em": "2026-08-05T01:18:30.575528-03:00"
+    },
+    {
+      "oferta_id": 140,
+      "preco": 26.72,
+      "registrado_em": "2026-08-05T01:18:30.575528-03:00"
+    },
+    {
+      "oferta_id": 143,
+      "preco": 20.7,
+      "registrado_em": "2026-08-05T01:18:30.575528-03:00"
+    },
+    {
+      "oferta_id": 141,
+      "preco": 25.96,
+      "registrado_em": "2026-08-05T01:18:30.575528-03:00"
+    },
+    {
+      "oferta_id": 137,
+      "preco": 22.67,
+      "registrado_em": "2026-08-05T01:18:30.575528-03:00"
+    },
+    {
+      "oferta_id": 129,
+      "preco": 23.9,
+      "registrado_em": "2026-08-05T01:18:30.575528-03:00"
     }
   ],
   "notificacoes": [
@@ -28486,6 +28536,20 @@
       "oferta_id": 140,
       "sucesso": true,
       "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-08-05T01:18:35.989471-03:00",
+      "erro": null,
+      "oferta_id": 143,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-08-05T01:18:40.289372-03:00",
+      "erro": null,
+      "oferta_id": 142,
+      "sucesso": true,
+      "tipo": "nova"
     }
   ],
   "ofertas": {
@@ -28953,7 +29017,7 @@
     },
     "129": {
       "ativa": true,
-      "atualizada_em": "2026-08-04T22:03:23.587606-03:00",
+      "atualizada_em": "2026-08-05T01:18:30.575528-03:00",
       "coletada_em": "2026-08-02T09:41:30.511250-03:00",
       "desconto_pct": 60,
       "fonte": "promobit",
@@ -29037,7 +29101,7 @@
     },
     "134": {
       "ativa": true,
-      "atualizada_em": "2026-08-04T22:03:23.587606-03:00",
+      "atualizada_em": "2026-08-05T01:18:30.575528-03:00",
       "coletada_em": "2026-08-03T19:03:47.287336-03:00",
       "desconto_pct": 48,
       "fonte": "promobit",
@@ -29065,7 +29129,7 @@
     },
     "136": {
       "ativa": true,
-      "atualizada_em": "2026-08-04T22:03:23.587606-03:00",
+      "atualizada_em": "2026-08-05T01:18:30.575528-03:00",
       "coletada_em": "2026-08-04T15:54:42.456501-03:00",
       "desconto_pct": 57,
       "fonte": "promobit",
@@ -29079,7 +29143,7 @@
     },
     "137": {
       "ativa": true,
-      "atualizada_em": "2026-08-04T22:03:23.587606-03:00",
+      "atualizada_em": "2026-08-05T01:18:30.575528-03:00",
       "coletada_em": "2026-08-04T15:54:42.456501-03:00",
       "desconto_pct": 55,
       "fonte": "promobit",
@@ -29093,7 +29157,7 @@
     },
     "138": {
       "ativa": true,
-      "atualizada_em": "2026-08-04T22:03:23.587606-03:00",
+      "atualizada_em": "2026-08-05T01:18:30.575528-03:00",
       "coletada_em": "2026-08-04T17:16:14.232627-03:00",
       "desconto_pct": 52,
       "fonte": "promobit",
@@ -29107,7 +29171,7 @@
     },
     "139": {
       "ativa": true,
-      "atualizada_em": "2026-08-04T22:03:23.587606-03:00",
+      "atualizada_em": "2026-08-05T01:18:30.575528-03:00",
       "coletada_em": "2026-08-04T17:16:14.232627-03:00",
       "desconto_pct": 56,
       "fonte": "promobit",
@@ -29135,7 +29199,7 @@
     },
     "140": {
       "ativa": true,
-      "atualizada_em": "2026-08-04T22:03:23.587606-03:00",
+      "atualizada_em": "2026-08-05T01:18:30.575528-03:00",
       "coletada_em": "2026-08-04T17:16:14.232627-03:00",
       "desconto_pct": 46,
       "fonte": "promobit",
@@ -29149,7 +29213,7 @@
     },
     "141": {
       "ativa": true,
-      "atualizada_em": "2026-08-04T22:03:23.587606-03:00",
+      "atualizada_em": "2026-08-05T01:18:30.575528-03:00",
       "coletada_em": "2026-08-04T17:16:14.232627-03:00",
       "desconto_pct": 60,
       "fonte": "promobit",
@@ -29160,6 +29224,34 @@
       "preco_de": 64.9,
       "produto_id": 90,
       "url": "https://www.promobit.com.br/oferta/meu-cacho-minha-vida-mascara-450g-lola-cosmetics-2960585/"
+    },
+    "142": {
+      "ativa": true,
+      "atualizada_em": "2026-08-05T01:18:30.575528-03:00",
+      "coletada_em": "2026-08-05T01:18:30.575528-03:00",
+      "desconto_pct": 57,
+      "fonte": "promobit",
+      "hash_unico": "bb6d9a0069c02955625d7acc588858bd",
+      "id": 142,
+      "loja": "Amazon",
+      "preco_atual": 51.13,
+      "preco_de": 119.9,
+      "produto_id": 91,
+      "url": "https://www.promobit.com.br/oferta/kit-morte-subita-shampoo-condicionador-spray-reparacao-2961356/"
+    },
+    "143": {
+      "ativa": true,
+      "atualizada_em": "2026-08-05T01:18:30.575528-03:00",
+      "coletada_em": "2026-08-05T01:18:30.575528-03:00",
+      "desconto_pct": 59,
+      "fonte": "promobit",
+      "hash_unico": "25b3075025ce8844de0dd34f2aa7a2a2",
+      "id": 143,
+      "loja": "Amazon",
+      "preco_atual": 20.7,
+      "preco_de": 49.9,
+      "produto_id": 92,
+      "url": "https://www.promobit.com.br/oferta/argan-mascara-de-hidratacao-230g-lola-cosmetics-2961401/"
     },
     "15": {
       "ativa": false,
@@ -31274,6 +31366,24 @@
       "marca": "Lola Cosmetics",
       "titulo_normalizado": "meu cacho minha vida mascara 450g lola cosmetics",
       "titulo_original": "Meu Cacho Minha Vida Máscara 450g, Lola Cosmetics"
+    },
+    "91": {
+      "categoria": "cabelo",
+      "criado_em": "2026-08-05T01:18:30.575714-03:00",
+      "id": 91,
+      "imagem_url": "https://i.promobit.com.br/268/317140606917858968889344561879.jpg",
+      "marca": "Lola Cosmetics",
+      "titulo_normalizado": "kit morte subita (shampoo + condicionador + spray reparacao)",
+      "titulo_original": "Kit Morte Súbita (Shampoo + Condicionador + Spray Reparação)"
+    },
+    "92": {
+      "categoria": "cabelo",
+      "criado_em": "2026-08-05T01:18:30.575851-03:00",
+      "id": 92,
+      "imagem_url": "https://i.promobit.com.br/268/987658658717859031288696091142.jpg",
+      "marca": "Lola Cosmetics",
+      "titulo_normalizado": "argan mascara de hidratacao 230g lola cosmetics",
+      "titulo_original": "Argan Máscara de Hidratação 230g Lola Cosmetics"
     }
   }
 }
