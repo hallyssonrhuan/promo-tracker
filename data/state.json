@@ -7,7 +7,7 @@
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-08-05T06:32:46.360863-03:00",
+      "ultima_coleta_em": "2026-08-05T08:42:48.814771-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-08-05T06:31:25.334391-03:00",
+      "ultima_coleta_em": "2026-08-05T08:41:29.544359-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-08-05T06:31:51.696887-03:00",
+      "ultima_coleta_em": "2026-08-05T08:41:55.488742-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-08-05T06:29:00.583969-03:00",
+      "ultima_coleta_em": "2026-08-05T08:39:00.019067-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-08-05T06:29:43.288085-03:00",
+      "ultima_coleta_em": "2026-08-05T08:39:41.877949-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-08-05T06:27:57.282772-03:00",
+      "ultima_coleta_em": "2026-08-05T08:37:57.434091-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-08-05T06:28:29.400905-03:00",
+      "ultima_coleta_em": "2026-08-05T08:38:28.963352-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-08-05T06:26:32.038055-03:00",
+      "ultima_coleta_em": "2026-08-05T08:36:32.185471-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,7 +71,7 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-08-05T06:26:10.547833-03:00",
+      "ultima_coleta_em": "2026-08-05T08:36:10.697235-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 10,
       "ultima_coleta_status": "ok"
@@ -79,7 +79,7 @@
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-08-05T06:27:07.503657-03:00",
+      "ultima_coleta_em": "2026-08-05T08:37:07.621147-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -27710,6 +27710,56 @@
       "oferta_id": 129,
       "preco": 23.9,
       "registrado_em": "2026-08-05T06:26:10.547236-03:00"
+    },
+    {
+      "oferta_id": 133,
+      "preco": 179.99,
+      "registrado_em": "2026-08-05T08:36:10.696875-03:00"
+    },
+    {
+      "oferta_id": 142,
+      "preco": 51.13,
+      "registrado_em": "2026-08-05T08:36:10.696875-03:00"
+    },
+    {
+      "oferta_id": 136,
+      "preco": 52.0,
+      "registrado_em": "2026-08-05T08:36:10.696875-03:00"
+    },
+    {
+      "oferta_id": 139,
+      "preco": 21.84,
+      "registrado_em": "2026-08-05T08:36:10.696875-03:00"
+    },
+    {
+      "oferta_id": 140,
+      "preco": 26.72,
+      "registrado_em": "2026-08-05T08:36:10.696875-03:00"
+    },
+    {
+      "oferta_id": 143,
+      "preco": 20.7,
+      "registrado_em": "2026-08-05T08:36:10.696875-03:00"
+    },
+    {
+      "oferta_id": 141,
+      "preco": 25.96,
+      "registrado_em": "2026-08-05T08:36:10.696875-03:00"
+    },
+    {
+      "oferta_id": 137,
+      "preco": 22.67,
+      "registrado_em": "2026-08-05T08:36:10.696875-03:00"
+    },
+    {
+      "oferta_id": 129,
+      "preco": 23.9,
+      "registrado_em": "2026-08-05T08:36:10.696875-03:00"
+    },
+    {
+      "oferta_id": 135,
+      "preco": 28.96,
+      "registrado_em": "2026-08-05T08:36:10.696875-03:00"
     }
   ],
   "notificacoes": [
@@ -29117,7 +29167,7 @@
     },
     "129": {
       "ativa": true,
-      "atualizada_em": "2026-08-05T06:26:10.547236-03:00",
+      "atualizada_em": "2026-08-05T08:36:10.696875-03:00",
       "coletada_em": "2026-08-02T09:41:30.511250-03:00",
       "desconto_pct": 60,
       "fonte": "promobit",
@@ -29187,7 +29237,7 @@
     },
     "133": {
       "ativa": true,
-      "atualizada_em": "2026-08-04T08:31:36.913414-03:00",
+      "atualizada_em": "2026-08-05T08:36:10.696875-03:00",
       "coletada_em": "2026-08-03T13:22:49.790828-03:00",
       "desconto_pct": 49,
       "fonte": "promobit",
@@ -29200,8 +29250,8 @@
       "url": "https://www.promobit.com.br/oferta/tenis-de-corrida-feminino-mizuno-atlantis-2-roxo-2957761/"
     },
     "134": {
-      "ativa": true,
-      "atualizada_em": "2026-08-05T06:26:10.547236-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-08-05T08:43:26.544401-03:00",
       "coletada_em": "2026-08-03T19:03:47.287336-03:00",
       "desconto_pct": 48,
       "fonte": "promobit",
@@ -29215,7 +29265,7 @@
     },
     "135": {
       "ativa": true,
-      "atualizada_em": "2026-08-04T18:37:56.381992-03:00",
+      "atualizada_em": "2026-08-05T08:36:10.696875-03:00",
       "coletada_em": "2026-08-04T12:37:35.606582-03:00",
       "desconto_pct": 51,
       "fonte": "promobit",
@@ -29229,7 +29279,7 @@
     },
     "136": {
       "ativa": true,
-      "atualizada_em": "2026-08-05T06:26:10.547236-03:00",
+      "atualizada_em": "2026-08-05T08:36:10.696875-03:00",
       "coletada_em": "2026-08-04T15:54:42.456501-03:00",
       "desconto_pct": 57,
       "fonte": "promobit",
@@ -29243,7 +29293,7 @@
     },
     "137": {
       "ativa": true,
-      "atualizada_em": "2026-08-05T06:26:10.547236-03:00",
+      "atualizada_em": "2026-08-05T08:36:10.696875-03:00",
       "coletada_em": "2026-08-04T15:54:42.456501-03:00",
       "desconto_pct": 55,
       "fonte": "promobit",
@@ -29256,8 +29306,8 @@
       "url": "https://www.promobit.com.br/oferta/mascara-liso-leve-e-solto-lola-cosmetics-230g-2960305/"
     },
     "138": {
-      "ativa": true,
-      "atualizada_em": "2026-08-05T06:26:10.547236-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-08-05T08:43:43.108346-03:00",
       "coletada_em": "2026-08-04T17:16:14.232627-03:00",
       "desconto_pct": 52,
       "fonte": "promobit",
@@ -29271,7 +29321,7 @@
     },
     "139": {
       "ativa": true,
-      "atualizada_em": "2026-08-05T06:26:10.547236-03:00",
+      "atualizada_em": "2026-08-05T08:36:10.696875-03:00",
       "coletada_em": "2026-08-04T17:16:14.232627-03:00",
       "desconto_pct": 56,
       "fonte": "promobit",
@@ -29299,7 +29349,7 @@
     },
     "140": {
       "ativa": true,
-      "atualizada_em": "2026-08-05T06:26:10.547236-03:00",
+      "atualizada_em": "2026-08-05T08:36:10.696875-03:00",
       "coletada_em": "2026-08-04T17:16:14.232627-03:00",
       "desconto_pct": 46,
       "fonte": "promobit",
@@ -29313,7 +29363,7 @@
     },
     "141": {
       "ativa": true,
-      "atualizada_em": "2026-08-05T06:26:10.547236-03:00",
+      "atualizada_em": "2026-08-05T08:36:10.696875-03:00",
       "coletada_em": "2026-08-04T17:16:14.232627-03:00",
       "desconto_pct": 60,
       "fonte": "promobit",
@@ -29327,7 +29377,7 @@
     },
     "142": {
       "ativa": true,
-      "atualizada_em": "2026-08-05T06:26:10.547236-03:00",
+      "atualizada_em": "2026-08-05T08:36:10.696875-03:00",
       "coletada_em": "2026-08-05T01:18:30.575528-03:00",
       "desconto_pct": 57,
       "fonte": "promobit",
@@ -29341,7 +29391,7 @@
     },
     "143": {
       "ativa": true,
-      "atualizada_em": "2026-08-05T06:26:10.547236-03:00",
+      "atualizada_em": "2026-08-05T08:36:10.696875-03:00",
       "coletada_em": "2026-08-05T01:18:30.575528-03:00",
       "desconto_pct": 59,
       "fonte": "promobit",
