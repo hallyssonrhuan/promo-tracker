@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 158,
-    "produto": 102
+    "oferta": 160,
+    "produto": 103
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-08-11T12:18:18.733110-03:00",
+      "ultima_coleta_em": "2026-08-11T13:17:19.751823-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-08-11T12:16:36.506489-03:00",
+      "ultima_coleta_em": "2026-08-11T13:15:03.192118-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-08-11T12:17:02.394423-03:00",
+      "ultima_coleta_em": "2026-08-11T13:15:29.439598-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-08-11T12:14:04.453926-03:00",
+      "ultima_coleta_em": "2026-08-11T13:12:55.500255-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-08-11T12:14:46.196033-03:00",
+      "ultima_coleta_em": "2026-08-11T13:13:38.501446-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-08-11T12:12:59.894035-03:00",
+      "ultima_coleta_em": "2026-08-11T13:11:51.598734-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-08-11T12:13:33.175139-03:00",
+      "ultima_coleta_em": "2026-08-11T13:12:24.274883-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-08-11T12:11:36.358209-03:00",
+      "ultima_coleta_em": "2026-08-11T13:10:27.721641-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-08-11T12:11:14.971458-03:00",
+      "ultima_coleta_em": "2026-08-11T13:10:06.324522-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 3,
+      "ultima_coleta_qtd": 4,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-08-11T12:12:10.586684-03:00",
+      "ultima_coleta_em": "2026-08-11T13:11:02.284228-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -33775,6 +33775,26 @@
       "oferta_id": 129,
       "preco": 23.9,
       "registrado_em": "2026-08-11T12:11:14.971114-03:00"
+    },
+    {
+      "oferta_id": 158,
+      "preco": 56.8,
+      "registrado_em": "2026-08-11T13:09:55.911452-03:00"
+    },
+    {
+      "oferta_id": 155,
+      "preco": 51.13,
+      "registrado_em": "2026-08-11T13:09:55.911452-03:00"
+    },
+    {
+      "oferta_id": 159,
+      "preco": 23.0,
+      "registrado_em": "2026-08-11T13:09:55.911452-03:00"
+    },
+    {
+      "oferta_id": 129,
+      "preco": 23.9,
+      "registrado_em": "2026-08-11T13:09:55.911452-03:00"
     }
   ],
   "notificacoes": [
@@ -34806,6 +34826,20 @@
       "oferta_id": 157,
       "sucesso": true,
       "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-08-11T13:10:00.964451-03:00",
+      "erro": null,
+      "oferta_id": 159,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-08-11T13:10:06.324293-03:00",
+      "erro": null,
+      "oferta_id": 158,
+      "sucesso": true,
+      "tipo": "nova"
     }
   ],
   "ofertas": {
@@ -35273,7 +35307,7 @@
     },
     "129": {
       "ativa": true,
-      "atualizada_em": "2026-08-11T12:11:14.971114-03:00",
+      "atualizada_em": "2026-08-11T13:09:55.911452-03:00",
       "coletada_em": "2026-08-02T09:41:30.511250-03:00",
       "desconto_pct": 60,
       "fonte": "promobit",
@@ -35679,7 +35713,7 @@
     },
     "155": {
       "ativa": true,
-      "atualizada_em": "2026-08-11T12:11:14.971114-03:00",
+      "atualizada_em": "2026-08-11T13:09:55.911452-03:00",
       "coletada_em": "2026-08-09T20:46:50.460071-03:00",
       "desconto_pct": 57,
       "fonte": "promobit",
@@ -35718,6 +35752,34 @@
       "preco_de": 349.99,
       "produto_id": 101,
       "url": "https://www.promobit.com.br/oferta/tenis-fila-racer-comet-para-caminhada-e-corrida-2973654/"
+    },
+    "158": {
+      "ativa": true,
+      "atualizada_em": "2026-08-11T13:09:55.911452-03:00",
+      "coletada_em": "2026-08-11T13:09:55.911452-03:00",
+      "desconto_pct": 53,
+      "fonte": "promobit",
+      "hash_unico": "72613be5b9958807b88d96cde84c42ea",
+      "id": 158,
+      "loja": "Amazon",
+      "preco_atual": 56.8,
+      "preco_de": 119.9,
+      "produto_id": 102,
+      "url": "https://www.promobit.com.br/oferta/kit-morte-subita-shampoo-condicionador-spray-reparacao-8211-lola-from-rio-2975501/"
+    },
+    "159": {
+      "ativa": true,
+      "atualizada_em": "2026-08-11T13:09:55.911452-03:00",
+      "coletada_em": "2026-08-11T13:09:55.911452-03:00",
+      "desconto_pct": 54,
+      "fonte": "promobit",
+      "hash_unico": "cf9c4aa2e97c9bf29bd37faedf07cdc8",
+      "id": 159,
+      "loja": "Amazon",
+      "preco_atual": 23.0,
+      "preco_de": 49.9,
+      "produto_id": 92,
+      "url": "https://www.promobit.com.br/oferta/argan-mascara-de-hidratacao-230g-lola-cosmetics-2975499/"
     },
     "16": {
       "ativa": false,
@@ -37044,6 +37106,15 @@
       "marca": "Fila",
       "titulo_normalizado": "tenis fila racer comet para caminhada e corrida",
       "titulo_original": "Tênis Fila Racer Comet para Caminhada e Corrida"
+    },
+    "102": {
+      "categoria": "cabelo",
+      "criado_em": "2026-08-11T13:09:55.911512-03:00",
+      "id": 102,
+      "imagem_url": "https://i.promobit.com.br/268/758879548517864639516219082430.jpg",
+      "marca": "Lola Cosmetics",
+      "titulo_normalizado": "kit morte subita (shampoo + condicionador + spray reparacao) &#8211 lola from rio",
+      "titulo_original": "Kit morte subita (shampoo + condicionador + spray reparacao) &#8211; lola from rio"
     },
     "11": {
       "categoria": "corrida",
