@@ -7,7 +7,7 @@
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-08-11T20:15:24.533120-03:00",
+      "ultima_coleta_em": "2026-08-11T21:02:43.334212-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-08-11T20:13:41.197938-03:00",
+      "ultima_coleta_em": "2026-08-11T21:00:18.763776-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-08-11T20:14:07.422150-03:00",
+      "ultima_coleta_em": "2026-08-11T21:00:44.885255-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-08-11T20:11:30.979635-03:00",
+      "ultima_coleta_em": "2026-08-11T20:57:56.198473-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-08-11T20:12:13.226751-03:00",
+      "ultima_coleta_em": "2026-08-11T20:58:38.023067-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-08-11T20:10:26.958177-03:00",
+      "ultima_coleta_em": "2026-08-11T20:56:51.417769-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-08-11T20:10:59.664787-03:00",
+      "ultima_coleta_em": "2026-08-11T20:57:25.032090-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-08-11T20:09:04.113420-03:00",
+      "ultima_coleta_em": "2026-08-11T20:55:29.535770-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,7 +71,7 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-08-11T20:08:42.533044-03:00",
+      "ultima_coleta_em": "2026-08-11T20:55:08.223304-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 4,
       "ultima_coleta_status": "ok"
@@ -79,7 +79,7 @@
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-08-11T20:09:38.044932-03:00",
+      "ultima_coleta_em": "2026-08-11T20:56:03.008475-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -33955,6 +33955,26 @@
       "oferta_id": 129,
       "preco": 23.9,
       "registrado_em": "2026-08-11T20:08:42.532669-03:00"
+    },
+    {
+      "oferta_id": 158,
+      "preco": 56.8,
+      "registrado_em": "2026-08-11T20:55:08.222965-03:00"
+    },
+    {
+      "oferta_id": 155,
+      "preco": 51.13,
+      "registrado_em": "2026-08-11T20:55:08.222965-03:00"
+    },
+    {
+      "oferta_id": 159,
+      "preco": 23.0,
+      "registrado_em": "2026-08-11T20:55:08.222965-03:00"
+    },
+    {
+      "oferta_id": 129,
+      "preco": 23.9,
+      "registrado_em": "2026-08-11T20:55:08.222965-03:00"
     }
   ],
   "notificacoes": [
@@ -35467,7 +35487,7 @@
     },
     "129": {
       "ativa": true,
-      "atualizada_em": "2026-08-11T20:08:42.532669-03:00",
+      "atualizada_em": "2026-08-11T20:55:08.222965-03:00",
       "coletada_em": "2026-08-02T09:41:30.511250-03:00",
       "desconto_pct": 60,
       "fonte": "promobit",
@@ -35873,7 +35893,7 @@
     },
     "155": {
       "ativa": true,
-      "atualizada_em": "2026-08-11T20:08:42.532669-03:00",
+      "atualizada_em": "2026-08-11T20:55:08.222965-03:00",
       "coletada_em": "2026-08-09T20:46:50.460071-03:00",
       "desconto_pct": 57,
       "fonte": "promobit",
@@ -35915,7 +35935,7 @@
     },
     "158": {
       "ativa": true,
-      "atualizada_em": "2026-08-11T20:08:42.532669-03:00",
+      "atualizada_em": "2026-08-11T20:55:08.222965-03:00",
       "coletada_em": "2026-08-11T13:09:55.911452-03:00",
       "desconto_pct": 53,
       "fonte": "promobit",
@@ -35929,7 +35949,7 @@
     },
     "159": {
       "ativa": true,
-      "atualizada_em": "2026-08-11T20:08:42.532669-03:00",
+      "atualizada_em": "2026-08-11T20:55:08.222965-03:00",
       "coletada_em": "2026-08-11T13:09:55.911452-03:00",
       "desconto_pct": 54,
       "fonte": "promobit",
