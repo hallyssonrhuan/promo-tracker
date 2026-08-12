@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 160,
+    "oferta": 161,
     "produto": 103
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-08-12T09:05:09.280405-03:00",
+      "ultima_coleta_em": "2026-08-12T10:00:47.496925-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-08-12T09:02:33.606413-03:00",
+      "ultima_coleta_em": "2026-08-12T09:59:14.401123-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-08-12T09:02:59.741343-03:00",
+      "ultima_coleta_em": "2026-08-12T09:59:40.649487-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-08-12T09:00:13.262476-03:00",
+      "ultima_coleta_em": "2026-08-12T09:56:54.805001-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-08-12T09:00:56.965272-03:00",
+      "ultima_coleta_em": "2026-08-12T09:57:36.832941-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-08-12T08:59:10.841097-03:00",
+      "ultima_coleta_em": "2026-08-12T09:55:52.197686-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-08-12T08:59:42.031649-03:00",
+      "ultima_coleta_em": "2026-08-12T09:56:23.575382-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-08-12T08:57:46.758369-03:00",
+      "ultima_coleta_em": "2026-08-12T09:54:28.431566-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-08-12T08:57:25.328390-03:00",
+      "ultima_coleta_em": "2026-08-12T09:54:06.933872-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 4,
+      "ultima_coleta_qtd": 5,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-08-12T08:58:21.412568-03:00",
+      "ultima_coleta_em": "2026-08-12T09:55:02.831122-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -34155,6 +34155,31 @@
       "oferta_id": 129,
       "preco": 23.9,
       "registrado_em": "2026-08-12T08:57:25.328081-03:00"
+    },
+    {
+      "oferta_id": 158,
+      "preco": 56.8,
+      "registrado_em": "2026-08-12T09:53:59.518151-03:00"
+    },
+    {
+      "oferta_id": 155,
+      "preco": 51.13,
+      "registrado_em": "2026-08-12T09:53:59.518151-03:00"
+    },
+    {
+      "oferta_id": 160,
+      "preco": 28.84,
+      "registrado_em": "2026-08-12T09:53:59.518151-03:00"
+    },
+    {
+      "oferta_id": 159,
+      "preco": 23.0,
+      "registrado_em": "2026-08-12T09:53:59.518151-03:00"
+    },
+    {
+      "oferta_id": 129,
+      "preco": 23.9,
+      "registrado_em": "2026-08-12T09:53:59.518151-03:00"
     }
   ],
   "notificacoes": [
@@ -35200,6 +35225,13 @@
       "oferta_id": 158,
       "sucesso": true,
       "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-08-12T09:54:06.933663-03:00",
+      "erro": null,
+      "oferta_id": 160,
+      "sucesso": true,
+      "tipo": "nova"
     }
   ],
   "ofertas": {
@@ -35667,7 +35699,7 @@
     },
     "129": {
       "ativa": true,
-      "atualizada_em": "2026-08-12T08:57:25.328081-03:00",
+      "atualizada_em": "2026-08-12T09:53:59.518151-03:00",
       "coletada_em": "2026-08-02T09:41:30.511250-03:00",
       "desconto_pct": 60,
       "fonte": "promobit",
@@ -36073,7 +36105,7 @@
     },
     "155": {
       "ativa": true,
-      "atualizada_em": "2026-08-12T08:57:25.328081-03:00",
+      "atualizada_em": "2026-08-12T09:53:59.518151-03:00",
       "coletada_em": "2026-08-09T20:46:50.460071-03:00",
       "desconto_pct": 57,
       "fonte": "promobit",
@@ -36115,7 +36147,7 @@
     },
     "158": {
       "ativa": true,
-      "atualizada_em": "2026-08-12T08:57:25.328081-03:00",
+      "atualizada_em": "2026-08-12T09:53:59.518151-03:00",
       "coletada_em": "2026-08-11T13:09:55.911452-03:00",
       "desconto_pct": 53,
       "fonte": "promobit",
@@ -36129,7 +36161,7 @@
     },
     "159": {
       "ativa": true,
-      "atualizada_em": "2026-08-12T08:57:25.328081-03:00",
+      "atualizada_em": "2026-08-12T09:53:59.518151-03:00",
       "coletada_em": "2026-08-11T13:09:55.911452-03:00",
       "desconto_pct": 54,
       "fonte": "promobit",
@@ -36154,6 +36186,20 @@
       "preco_de": 64.9,
       "produto_id": 15,
       "url": "https://www.promobit.com.br/oferta/comigo-ninguem-pode-condicionador-limpante-450g-lola-cosmetics-2825409/"
+    },
+    "160": {
+      "ativa": true,
+      "atualizada_em": "2026-08-12T09:53:59.518151-03:00",
+      "coletada_em": "2026-08-12T09:53:59.518151-03:00",
+      "desconto_pct": 56,
+      "fonte": "promobit",
+      "hash_unico": "17cdae88cc78196a45a331568e8a7c5e",
+      "id": 160,
+      "loja": "Amazon",
+      "preco_atual": 28.84,
+      "preco_de": 64.9,
+      "produto_id": 90,
+      "url": "https://www.promobit.com.br/oferta/meu-cacho-minha-vida-mascara-450g-lola-cosmetics-2976963/"
     },
     "17": {
       "ativa": false,
