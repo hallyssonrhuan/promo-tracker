@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 161,
+    "oferta": 162,
     "produto": 103
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-08-12T10:00:47.496925-03:00",
+      "ultima_coleta_em": "2026-08-12T11:17:29.149486-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-08-12T09:59:14.401123-03:00",
+      "ultima_coleta_em": "2026-08-12T11:15:36.762410-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-08-12T09:59:40.649487-03:00",
+      "ultima_coleta_em": "2026-08-12T11:16:02.921316-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-08-12T09:56:54.805001-03:00",
+      "ultima_coleta_em": "2026-08-12T11:13:07.066323-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-08-12T09:57:36.832941-03:00",
+      "ultima_coleta_em": "2026-08-12T11:13:48.685838-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-08-12T09:55:52.197686-03:00",
+      "ultima_coleta_em": "2026-08-12T11:12:02.757449-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-08-12T09:56:23.575382-03:00",
+      "ultima_coleta_em": "2026-08-12T11:12:35.587518-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-08-12T09:54:28.431566-03:00",
+      "ultima_coleta_em": "2026-08-12T11:10:40.833188-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-08-12T09:54:06.933872-03:00",
+      "ultima_coleta_em": "2026-08-12T11:10:19.498722-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 5,
+      "ultima_coleta_qtd": 6,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-08-12T09:55:02.831122-03:00",
+      "ultima_coleta_em": "2026-08-12T11:11:14.327353-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -34180,6 +34180,36 @@
       "oferta_id": 129,
       "preco": 23.9,
       "registrado_em": "2026-08-12T09:53:59.518151-03:00"
+    },
+    {
+      "oferta_id": 161,
+      "preco": 427.49,
+      "registrado_em": "2026-08-12T11:10:19.498349-03:00"
+    },
+    {
+      "oferta_id": 158,
+      "preco": 56.8,
+      "registrado_em": "2026-08-12T11:10:19.498349-03:00"
+    },
+    {
+      "oferta_id": 155,
+      "preco": 51.13,
+      "registrado_em": "2026-08-12T11:10:19.498349-03:00"
+    },
+    {
+      "oferta_id": 160,
+      "preco": 28.84,
+      "registrado_em": "2026-08-12T11:10:19.498349-03:00"
+    },
+    {
+      "oferta_id": 159,
+      "preco": 23.0,
+      "registrado_em": "2026-08-12T11:10:19.498349-03:00"
+    },
+    {
+      "oferta_id": 129,
+      "preco": 23.9,
+      "registrado_em": "2026-08-12T11:10:19.498349-03:00"
     }
   ],
   "notificacoes": [
@@ -35699,7 +35729,7 @@
     },
     "129": {
       "ativa": true,
-      "atualizada_em": "2026-08-12T09:53:59.518151-03:00",
+      "atualizada_em": "2026-08-12T11:10:19.498349-03:00",
       "coletada_em": "2026-08-02T09:41:30.511250-03:00",
       "desconto_pct": 60,
       "fonte": "promobit",
@@ -36105,7 +36135,7 @@
     },
     "155": {
       "ativa": true,
-      "atualizada_em": "2026-08-12T09:53:59.518151-03:00",
+      "atualizada_em": "2026-08-12T11:10:19.498349-03:00",
       "coletada_em": "2026-08-09T20:46:50.460071-03:00",
       "desconto_pct": 57,
       "fonte": "promobit",
@@ -36147,7 +36177,7 @@
     },
     "158": {
       "ativa": true,
-      "atualizada_em": "2026-08-12T09:53:59.518151-03:00",
+      "atualizada_em": "2026-08-12T11:10:19.498349-03:00",
       "coletada_em": "2026-08-11T13:09:55.911452-03:00",
       "desconto_pct": 53,
       "fonte": "promobit",
@@ -36161,7 +36191,7 @@
     },
     "159": {
       "ativa": true,
-      "atualizada_em": "2026-08-12T09:53:59.518151-03:00",
+      "atualizada_em": "2026-08-12T11:10:19.498349-03:00",
       "coletada_em": "2026-08-11T13:09:55.911452-03:00",
       "desconto_pct": 54,
       "fonte": "promobit",
@@ -36189,7 +36219,7 @@
     },
     "160": {
       "ativa": true,
-      "atualizada_em": "2026-08-12T09:53:59.518151-03:00",
+      "atualizada_em": "2026-08-12T11:10:19.498349-03:00",
       "coletada_em": "2026-08-12T09:53:59.518151-03:00",
       "desconto_pct": 56,
       "fonte": "promobit",
@@ -36200,6 +36230,20 @@
       "preco_de": 64.9,
       "produto_id": 90,
       "url": "https://www.promobit.com.br/oferta/meu-cacho-minha-vida-mascara-450g-lola-cosmetics-2976963/"
+    },
+    "161": {
+      "ativa": true,
+      "atualizada_em": "2026-08-12T11:10:19.498349-03:00",
+      "coletada_em": "2026-08-12T11:10:19.498349-03:00",
+      "desconto_pct": 15,
+      "fonte": "promobit",
+      "hash_unico": "1df64af9c2f7d8cb6c93ba4e65177b64",
+      "id": 161,
+      "loja": "Netshoes",
+      "preco_atual": 427.49,
+      "preco_de": 499.99,
+      "produto_id": 32,
+      "url": "https://www.promobit.com.br/oferta/tenis-adidas-boost-run-feminino-2977116/"
     },
     "17": {
       "ativa": false,
