@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 164,
-    "produto": 103
+    "oferta": 165,
+    "produto": 104
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-08-13T07:40:01.200925-03:00",
+      "ultima_coleta_em": "2026-08-13T08:29:33.829218-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-08-13T07:37:04.878304-03:00",
+      "ultima_coleta_em": "2026-08-13T08:28:02.585768-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-08-13T07:37:31.054244-03:00",
+      "ultima_coleta_em": "2026-08-13T08:28:28.579509-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-08-13T07:34:56.943682-03:00",
+      "ultima_coleta_em": "2026-08-13T08:25:48.825747-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-08-13T07:35:39.069748-03:00",
+      "ultima_coleta_em": "2026-08-13T08:26:30.519498-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-08-13T07:33:54.009998-03:00",
+      "ultima_coleta_em": "2026-08-13T08:24:44.679159-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-08-13T07:34:25.656158-03:00",
+      "ultima_coleta_em": "2026-08-13T08:25:17.581180-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-08-13T07:32:31.195445-03:00",
+      "ultima_coleta_em": "2026-08-13T08:23:22.916111-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-08-13T07:32:09.724408-03:00",
+      "ultima_coleta_em": "2026-08-13T08:23:01.603057-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 5,
+      "ultima_coleta_qtd": 6,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-08-13T07:33:05.083760-03:00",
+      "ultima_coleta_em": "2026-08-13T08:23:56.266713-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -34805,6 +34805,36 @@
       "oferta_id": 159,
       "preco": 23.0,
       "registrado_em": "2026-08-13T07:32:09.724062-03:00"
+    },
+    {
+      "oferta_id": 158,
+      "preco": 56.8,
+      "registrado_em": "2026-08-13T08:22:56.652535-03:00"
+    },
+    {
+      "oferta_id": 163,
+      "preco": 20.7,
+      "registrado_em": "2026-08-13T08:22:56.652535-03:00"
+    },
+    {
+      "oferta_id": 162,
+      "preco": 20.0,
+      "registrado_em": "2026-08-13T08:22:56.652535-03:00"
+    },
+    {
+      "oferta_id": 160,
+      "preco": 28.84,
+      "registrado_em": "2026-08-13T08:22:56.652535-03:00"
+    },
+    {
+      "oferta_id": 159,
+      "preco": 23.0,
+      "registrado_em": "2026-08-13T08:22:56.652535-03:00"
+    },
+    {
+      "oferta_id": 164,
+      "preco": 28.9,
+      "registrado_em": "2026-08-13T08:22:56.652535-03:00"
     }
   ],
   "notificacoes": [
@@ -35864,6 +35894,13 @@
       "oferta_id": 162,
       "sucesso": true,
       "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-08-13T08:23:01.602749-03:00",
+      "erro": null,
+      "oferta_id": 164,
+      "sucesso": true,
+      "tipo": "nova"
     }
   ],
   "ofertas": {
@@ -36779,7 +36816,7 @@
     },
     "158": {
       "ativa": true,
-      "atualizada_em": "2026-08-13T07:32:09.724062-03:00",
+      "atualizada_em": "2026-08-13T08:22:56.652535-03:00",
       "coletada_em": "2026-08-11T13:09:55.911452-03:00",
       "desconto_pct": 53,
       "fonte": "promobit",
@@ -36793,7 +36830,7 @@
     },
     "159": {
       "ativa": false,
-      "atualizada_em": "2026-08-13T07:32:09.724062-03:00",
+      "atualizada_em": "2026-08-13T08:22:56.652535-03:00",
       "coletada_em": "2026-08-11T13:09:55.911452-03:00",
       "desconto_pct": 54,
       "fonte": "promobit",
@@ -36821,7 +36858,7 @@
     },
     "160": {
       "ativa": true,
-      "atualizada_em": "2026-08-13T07:32:09.724062-03:00",
+      "atualizada_em": "2026-08-13T08:22:56.652535-03:00",
       "coletada_em": "2026-08-12T09:53:59.518151-03:00",
       "desconto_pct": 56,
       "fonte": "promobit",
@@ -36849,7 +36886,7 @@
     },
     "162": {
       "ativa": true,
-      "atualizada_em": "2026-08-13T07:32:09.724062-03:00",
+      "atualizada_em": "2026-08-13T08:22:56.652535-03:00",
       "coletada_em": "2026-08-12T12:12:19.817022-03:00",
       "desconto_pct": 60,
       "fonte": "promobit",
@@ -36863,7 +36900,7 @@
     },
     "163": {
       "ativa": false,
-      "atualizada_em": "2026-08-13T07:32:09.724062-03:00",
+      "atualizada_em": "2026-08-13T08:22:56.652535-03:00",
       "coletada_em": "2026-08-12T20:54:25.376889-03:00",
       "desconto_pct": 59,
       "fonte": "promobit",
@@ -36874,6 +36911,20 @@
       "preco_de": 49.9,
       "produto_id": 92,
       "url": "https://www.promobit.com.br/oferta/argan-mascara-de-hidratacao-230g-lola-cosmetics-2978438/"
+    },
+    "164": {
+      "ativa": true,
+      "atualizada_em": "2026-08-13T08:22:56.652535-03:00",
+      "coletada_em": "2026-08-13T08:22:56.652535-03:00",
+      "desconto_pct": 52,
+      "fonte": "promobit",
+      "hash_unico": "cdcbbdc512d9d442079e62b0a5ab902e",
+      "id": 164,
+      "loja": "Shopee",
+      "preco_atual": 28.9,
+      "preco_de": 60.21,
+      "produto_id": 103,
+      "url": "https://www.promobit.com.br/oferta/conjunto-infantil-regata-ribana-e-short-saia-diversas-cores-tam-2-a-10-anos-2978945/"
     },
     "17": {
       "ativa": false,
@@ -38195,6 +38246,15 @@
       "marca": "Lola Cosmetics",
       "titulo_normalizado": "kit morte subita (shampoo + condicionador + spray reparacao) &#8211 lola from rio",
       "titulo_original": "Kit morte subita (shampoo + condicionador + spray reparacao) &#8211; lola from rio"
+    },
+    "103": {
+      "categoria": "infantil",
+      "criado_em": "2026-08-13T08:22:56.652917-03:00",
+      "id": 103,
+      "imagem_url": "https://i.promobit.com.br/268/649334922617866184513067765715.jpg",
+      "marca": "Roupa infantil masc",
+      "titulo_normalizado": "conjunto infantil regata ribana e short saia diversas cores (tam 2 a 10 anos)",
+      "titulo_original": "Conjunto Infantil Regata Ribana e Short Saia Diversas Cores (tam 2 a 10 anos)"
     },
     "11": {
       "categoria": "corrida",
