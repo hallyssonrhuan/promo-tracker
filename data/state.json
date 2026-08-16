@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 171,
-    "produto": 108
+    "oferta": 173,
+    "produto": 110
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-08-16T19:23:44.379329-03:00",
+      "ultima_coleta_em": "2026-08-16T19:45:52.976927-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-08-16T19:22:02.876118-03:00",
+      "ultima_coleta_em": "2026-08-16T19:44:01.212719-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-08-16T19:22:28.991852-03:00",
+      "ultima_coleta_em": "2026-08-16T19:44:27.290966-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-08-16T19:19:57.722590-03:00",
+      "ultima_coleta_em": "2026-08-16T19:41:57.228516-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-08-16T19:20:39.797348-03:00",
+      "ultima_coleta_em": "2026-08-16T19:42:39.552361-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-08-16T19:18:53.898751-03:00",
+      "ultima_coleta_em": "2026-08-16T19:40:54.561022-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-08-16T19:19:26.330811-03:00",
+      "ultima_coleta_em": "2026-08-16T19:41:25.980876-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-08-16T19:17:29.174935-03:00",
+      "ultima_coleta_em": "2026-08-16T19:39:31.081006-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-08-16T19:17:07.715424-03:00",
+      "ultima_coleta_em": "2026-08-16T19:39:09.707856-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 5,
+      "ultima_coleta_qtd": 6,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-08-16T19:18:04.354030-03:00",
+      "ultima_coleta_em": "2026-08-16T19:40:05.322059-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39110,6 +39110,36 @@
       "oferta_id": 159,
       "preco": 23.0,
       "registrado_em": "2026-08-16T19:17:07.715023-03:00"
+    },
+    {
+      "oferta_id": 170,
+      "preco": 251.99,
+      "registrado_em": "2026-08-16T19:39:00.868999-03:00"
+    },
+    {
+      "oferta_id": 171,
+      "preco": 17.86,
+      "registrado_em": "2026-08-16T19:39:00.868999-03:00"
+    },
+    {
+      "oferta_id": 167,
+      "preco": 51.13,
+      "registrado_em": "2026-08-16T19:39:00.868999-03:00"
+    },
+    {
+      "oferta_id": 172,
+      "preco": 27.48,
+      "registrado_em": "2026-08-16T19:39:00.868999-03:00"
+    },
+    {
+      "oferta_id": 165,
+      "preco": 28.94,
+      "registrado_em": "2026-08-16T19:39:00.868999-03:00"
+    },
+    {
+      "oferta_id": 163,
+      "preco": 20.7,
+      "registrado_em": "2026-08-16T19:39:00.868999-03:00"
     }
   ],
   "notificacoes": [
@@ -40211,6 +40241,20 @@
       "oferta_id": 170,
       "sucesso": true,
       "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-08-16T19:39:05.588673-03:00",
+      "erro": null,
+      "oferta_id": 172,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-08-16T19:39:09.707549-03:00",
+      "erro": null,
+      "oferta_id": 171,
+      "sucesso": true,
+      "tipo": "nova"
     }
   ],
   "ofertas": {
@@ -41210,7 +41254,7 @@
     },
     "163": {
       "ativa": true,
-      "atualizada_em": "2026-08-16T19:17:07.715023-03:00",
+      "atualizada_em": "2026-08-16T19:39:00.868999-03:00",
       "coletada_em": "2026-08-12T20:54:25.376889-03:00",
       "desconto_pct": 59,
       "fonte": "promobit",
@@ -41238,7 +41282,7 @@
     },
     "165": {
       "ativa": true,
-      "atualizada_em": "2026-08-16T19:17:07.715023-03:00",
+      "atualizada_em": "2026-08-16T19:39:00.868999-03:00",
       "coletada_em": "2026-08-13T15:26:58.681733-03:00",
       "desconto_pct": 55,
       "fonte": "promobit",
@@ -41266,7 +41310,7 @@
     },
     "167": {
       "ativa": true,
-      "atualizada_em": "2026-08-16T19:17:07.715023-03:00",
+      "atualizada_em": "2026-08-16T19:39:00.868999-03:00",
       "coletada_em": "2026-08-14T00:14:20.393033-03:00",
       "desconto_pct": 57,
       "fonte": "promobit",
@@ -41322,7 +41366,7 @@
     },
     "170": {
       "ativa": true,
-      "atualizada_em": "2026-08-16T19:17:07.715023-03:00",
+      "atualizada_em": "2026-08-16T19:39:00.868999-03:00",
       "coletada_em": "2026-08-15T16:46:06.966642-03:00",
       "desconto_pct": 37,
       "fonte": "promobit",
@@ -41333,6 +41377,34 @@
       "preco_de": 399.99,
       "produto_id": 107,
       "url": "https://www.promobit.com.br/oferta/tenis-de-corrida-mizuno-cool-ride-3-2983886/"
+    },
+    "171": {
+      "ativa": true,
+      "atualizada_em": "2026-08-16T19:39:00.868999-03:00",
+      "coletada_em": "2026-08-16T19:39:00.868999-03:00",
+      "desconto_pct": 55,
+      "fonte": "promobit",
+      "hash_unico": "3dc8703ef7a0e5e6776a7a4fa9b94563",
+      "id": 171,
+      "loja": "Amazon",
+      "preco_atual": 17.86,
+      "preco_de": 39.9,
+      "produto_id": 108,
+      "url": "https://www.promobit.com.br/oferta/lola-cosmetics-morte-subita-shampoo-hidratante-para-cabelos-secos-e-danificados-250-ml-2984985/"
+    },
+    "172": {
+      "ativa": true,
+      "atualizada_em": "2026-08-16T19:39:00.868999-03:00",
+      "coletada_em": "2026-08-16T19:39:00.868999-03:00",
+      "desconto_pct": 61,
+      "fonte": "promobit",
+      "hash_unico": "63fab159fb391169291a8e2c95e6a85a",
+      "id": 172,
+      "loja": "Amazon",
+      "preco_atual": 27.48,
+      "preco_de": 69.9,
+      "produto_id": 109,
+      "url": "https://www.promobit.com.br/oferta/plot-twist-creme-de-buriti-480g-lola-cosmetics-2984979/"
     },
     "18": {
       "ativa": false,
@@ -42685,6 +42757,24 @@
       "marca": "Mizuno",
       "titulo_normalizado": "tenis de corrida mizuno cool ride 3",
       "titulo_original": "Tênis de Corrida Mizuno Cool Ride 3"
+    },
+    "108": {
+      "categoria": "cabelo",
+      "criado_em": "2026-08-16T19:39:00.869143-03:00",
+      "id": 108,
+      "imagem_url": "https://i.promobit.com.br/268/263932702117869197104575643016.jpg",
+      "marca": "Lola Cosmetics",
+      "titulo_normalizado": "lola cosmetics - morte subita - shampoo hidratante para cabelos secos e danificados 250 ml",
+      "titulo_original": "Lola Cosmetics - Morte Subita - Shampoo hidratante para cabelos secos e danificados 250 ml"
+    },
+    "109": {
+      "categoria": "cabelo",
+      "criado_em": "2026-08-16T19:39:00.869298-03:00",
+      "id": 109,
+      "imagem_url": "https://i.promobit.com.br/268/947943539217869193456321814307.jpg",
+      "marca": "Lola Cosmetics",
+      "titulo_normalizado": "plot twist creme de buriti 480g lola cosmetics",
+      "titulo_original": "Plot Twist Creme de Buriti 480g Lola Cosmetics"
     },
     "11": {
       "categoria": "corrida",
