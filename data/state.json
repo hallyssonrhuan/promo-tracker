@@ -7,7 +7,7 @@
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-08-18T20:07:10.706513-03:00",
+      "ultima_coleta_em": "2026-08-18T20:31:44.598531-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-08-18T20:05:51.220459-03:00",
+      "ultima_coleta_em": "2026-08-18T20:30:26.193996-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-08-18T20:06:17.438353-03:00",
+      "ultima_coleta_em": "2026-08-18T20:30:52.268290-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-08-18T20:03:36.893718-03:00",
+      "ultima_coleta_em": "2026-08-18T20:28:21.230059-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-08-18T20:04:19.161187-03:00",
+      "ultima_coleta_em": "2026-08-18T20:29:03.827573-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-08-18T20:02:33.879501-03:00",
+      "ultima_coleta_em": "2026-08-18T20:27:17.377192-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-08-18T20:03:05.629262-03:00",
+      "ultima_coleta_em": "2026-08-18T20:27:50.009021-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-08-18T20:01:11.509956-03:00",
+      "ultima_coleta_em": "2026-08-18T20:25:55.650841-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,7 +71,7 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-08-18T20:00:50.157368-03:00",
+      "ultima_coleta_em": "2026-08-18T20:25:34.205226-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 10,
       "ultima_coleta_status": "ok"
@@ -79,7 +79,7 @@
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-08-18T20:01:45.213887-03:00",
+      "ultima_coleta_em": "2026-08-18T20:26:28.981935-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -42470,6 +42470,56 @@
       "oferta_id": 159,
       "preco": 23.0,
       "registrado_em": "2026-08-18T20:00:50.156799-03:00"
+    },
+    {
+      "oferta_id": 181,
+      "preco": 52.0,
+      "registrado_em": "2026-08-18T20:25:34.204632-03:00"
+    },
+    {
+      "oferta_id": 179,
+      "preco": 19.84,
+      "registrado_em": "2026-08-18T20:25:34.204632-03:00"
+    },
+    {
+      "oferta_id": 177,
+      "preco": 51.13,
+      "registrado_em": "2026-08-18T20:25:34.204632-03:00"
+    },
+    {
+      "oferta_id": 178,
+      "preco": 56.81,
+      "registrado_em": "2026-08-18T20:25:34.204632-03:00"
+    },
+    {
+      "oferta_id": 180,
+      "preco": 28.94,
+      "registrado_em": "2026-08-18T20:25:34.204632-03:00"
+    },
+    {
+      "oferta_id": 175,
+      "preco": 25.96,
+      "registrado_em": "2026-08-18T20:25:34.204632-03:00"
+    },
+    {
+      "oferta_id": 173,
+      "preco": 23.32,
+      "registrado_em": "2026-08-18T20:25:34.204632-03:00"
+    },
+    {
+      "oferta_id": 172,
+      "preco": 27.48,
+      "registrado_em": "2026-08-18T20:25:34.204632-03:00"
+    },
+    {
+      "oferta_id": 163,
+      "preco": 20.7,
+      "registrado_em": "2026-08-18T20:25:34.204632-03:00"
+    },
+    {
+      "oferta_id": 159,
+      "preco": 23.0,
+      "registrado_em": "2026-08-18T20:25:34.204632-03:00"
     }
   ],
   "notificacoes": [
@@ -44577,7 +44627,7 @@
     },
     "159": {
       "ativa": false,
-      "atualizada_em": "2026-08-18T20:00:50.156799-03:00",
+      "atualizada_em": "2026-08-18T20:25:34.204632-03:00",
       "coletada_em": "2026-08-11T13:09:55.911452-03:00",
       "desconto_pct": 54,
       "fonte": "promobit",
@@ -44647,7 +44697,7 @@
     },
     "163": {
       "ativa": true,
-      "atualizada_em": "2026-08-18T20:00:50.156799-03:00",
+      "atualizada_em": "2026-08-18T20:25:34.204632-03:00",
       "coletada_em": "2026-08-12T20:54:25.376889-03:00",
       "desconto_pct": 59,
       "fonte": "promobit",
@@ -44787,7 +44837,7 @@
     },
     "172": {
       "ativa": true,
-      "atualizada_em": "2026-08-18T20:00:50.156799-03:00",
+      "atualizada_em": "2026-08-18T20:25:34.204632-03:00",
       "coletada_em": "2026-08-16T19:39:00.868999-03:00",
       "desconto_pct": 61,
       "fonte": "promobit",
@@ -44801,7 +44851,7 @@
     },
     "173": {
       "ativa": true,
-      "atualizada_em": "2026-08-18T20:00:50.156799-03:00",
+      "atualizada_em": "2026-08-18T20:25:34.204632-03:00",
       "coletada_em": "2026-08-16T19:54:44.266876-03:00",
       "desconto_pct": 61,
       "fonte": "promobit",
@@ -44829,7 +44879,7 @@
     },
     "175": {
       "ativa": true,
-      "atualizada_em": "2026-08-18T20:00:50.156799-03:00",
+      "atualizada_em": "2026-08-18T20:25:34.204632-03:00",
       "coletada_em": "2026-08-17T17:45:25.850122-03:00",
       "desconto_pct": 60,
       "fonte": "promobit",
@@ -44857,7 +44907,7 @@
     },
     "177": {
       "ativa": true,
-      "atualizada_em": "2026-08-18T20:00:50.156799-03:00",
+      "atualizada_em": "2026-08-18T20:25:34.204632-03:00",
       "coletada_em": "2026-08-18T08:34:12.167323-03:00",
       "desconto_pct": 57,
       "fonte": "promobit",
@@ -44871,7 +44921,7 @@
     },
     "178": {
       "ativa": true,
-      "atualizada_em": "2026-08-18T20:00:50.156799-03:00",
+      "atualizada_em": "2026-08-18T20:25:34.204632-03:00",
       "coletada_em": "2026-08-18T08:34:12.167323-03:00",
       "desconto_pct": 53,
       "fonte": "promobit",
@@ -44885,7 +44935,7 @@
     },
     "179": {
       "ativa": true,
-      "atualizada_em": "2026-08-18T20:00:50.156799-03:00",
+      "atualizada_em": "2026-08-18T20:25:34.204632-03:00",
       "coletada_em": "2026-08-18T10:55:38.750945-03:00",
       "desconto_pct": 50,
       "fonte": "promobit",
@@ -44913,7 +44963,7 @@
     },
     "180": {
       "ativa": true,
-      "atualizada_em": "2026-08-18T20:00:50.156799-03:00",
+      "atualizada_em": "2026-08-18T20:25:34.204632-03:00",
       "coletada_em": "2026-08-18T16:16:38.949289-03:00",
       "desconto_pct": 55,
       "fonte": "promobit",
@@ -44927,7 +44977,7 @@
     },
     "181": {
       "ativa": true,
-      "atualizada_em": "2026-08-18T20:00:50.156799-03:00",
+      "atualizada_em": "2026-08-18T20:25:34.204632-03:00",
       "coletada_em": "2026-08-18T18:43:31.510959-03:00",
       "desconto_pct": 57,
       "fonte": "promobit",
