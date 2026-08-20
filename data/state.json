@@ -7,7 +7,7 @@
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-08-20T09:02:56.483531-03:00",
+      "ultima_coleta_em": "2026-08-20T09:35:59.734960-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,15 +15,15 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-08-20T09:01:36.976857-03:00",
+      "ultima_coleta_em": "2026-08-20T09:34:38.793432-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 0,
+      "ultima_coleta_qtd": 1,
       "ultima_coleta_status": "ok"
     },
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-08-20T09:02:03.235060-03:00",
+      "ultima_coleta_em": "2026-08-20T09:35:06.912684-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-08-20T08:59:27.171971-03:00",
+      "ultima_coleta_em": "2026-08-20T09:32:26.061843-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-08-20T09:00:09.453009-03:00",
+      "ultima_coleta_em": "2026-08-20T09:33:08.173005-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-08-20T08:58:22.721032-03:00",
+      "ultima_coleta_em": "2026-08-20T09:31:23.686554-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-08-20T08:58:55.379332-03:00",
+      "ultima_coleta_em": "2026-08-20T09:31:54.976406-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-08-20T08:56:59.000227-03:00",
+      "ultima_coleta_em": "2026-08-20T09:30:01.998302-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-08-20T08:56:37.649216-03:00",
+      "ultima_coleta_em": "2026-08-20T09:29:40.691414-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 10,
+      "ultima_coleta_qtd": 9,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-08-20T08:57:33.487453-03:00",
+      "ultima_coleta_em": "2026-08-20T09:30:35.340977-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -45510,6 +45510,56 @@
       "oferta_id": 163,
       "preco": 20.7,
       "registrado_em": "2026-08-20T08:56:37.648651-03:00"
+    },
+    {
+      "oferta_id": 187,
+      "preco": 664.0,
+      "registrado_em": "2026-08-20T09:29:40.690855-03:00"
+    },
+    {
+      "oferta_id": 186,
+      "preco": 314.92,
+      "registrado_em": "2026-08-20T09:29:40.690855-03:00"
+    },
+    {
+      "oferta_id": 188,
+      "preco": 56.0,
+      "registrado_em": "2026-08-20T09:29:40.690855-03:00"
+    },
+    {
+      "oferta_id": 182,
+      "preco": 21.84,
+      "registrado_em": "2026-08-20T09:29:40.690855-03:00"
+    },
+    {
+      "oferta_id": 180,
+      "preco": 28.94,
+      "registrado_em": "2026-08-20T09:29:40.690855-03:00"
+    },
+    {
+      "oferta_id": 175,
+      "preco": 25.96,
+      "registrado_em": "2026-08-20T09:29:40.690855-03:00"
+    },
+    {
+      "oferta_id": 173,
+      "preco": 23.32,
+      "registrado_em": "2026-08-20T09:29:40.690855-03:00"
+    },
+    {
+      "oferta_id": 172,
+      "preco": 27.48,
+      "registrado_em": "2026-08-20T09:29:40.690855-03:00"
+    },
+    {
+      "oferta_id": 163,
+      "preco": 20.7,
+      "registrado_em": "2026-08-20T09:29:40.690855-03:00"
+    },
+    {
+      "oferta_id": 65,
+      "preco": 29.99,
+      "registrado_em": "2026-08-20T09:34:34.707062-03:00"
     }
   ],
   "notificacoes": [
@@ -46709,6 +46759,13 @@
       "oferta_id": 187,
       "sucesso": true,
       "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-08-20T09:34:38.793223-03:00",
+      "erro": null,
+      "oferta_id": 65,
+      "sucesso": true,
+      "tipo": "baixou"
     }
   ],
   "ofertas": {
@@ -47708,7 +47765,7 @@
     },
     "163": {
       "ativa": true,
-      "atualizada_em": "2026-08-20T08:56:37.648651-03:00",
+      "atualizada_em": "2026-08-20T09:29:40.690855-03:00",
       "coletada_em": "2026-08-12T20:54:25.376889-03:00",
       "desconto_pct": 59,
       "fonte": "promobit",
@@ -47848,7 +47905,7 @@
     },
     "172": {
       "ativa": true,
-      "atualizada_em": "2026-08-20T08:56:37.648651-03:00",
+      "atualizada_em": "2026-08-20T09:29:40.690855-03:00",
       "coletada_em": "2026-08-16T19:39:00.868999-03:00",
       "desconto_pct": 61,
       "fonte": "promobit",
@@ -47862,7 +47919,7 @@
     },
     "173": {
       "ativa": true,
-      "atualizada_em": "2026-08-20T08:56:37.648651-03:00",
+      "atualizada_em": "2026-08-20T09:29:40.690855-03:00",
       "coletada_em": "2026-08-16T19:54:44.266876-03:00",
       "desconto_pct": 61,
       "fonte": "promobit",
@@ -47890,7 +47947,7 @@
     },
     "175": {
       "ativa": true,
-      "atualizada_em": "2026-08-20T08:56:37.648651-03:00",
+      "atualizada_em": "2026-08-20T09:29:40.690855-03:00",
       "coletada_em": "2026-08-17T17:45:25.850122-03:00",
       "desconto_pct": 60,
       "fonte": "promobit",
@@ -47974,7 +48031,7 @@
     },
     "180": {
       "ativa": true,
-      "atualizada_em": "2026-08-20T08:56:37.648651-03:00",
+      "atualizada_em": "2026-08-20T09:29:40.690855-03:00",
       "coletada_em": "2026-08-18T16:16:38.949289-03:00",
       "desconto_pct": 55,
       "fonte": "promobit",
@@ -48002,7 +48059,7 @@
     },
     "182": {
       "ativa": false,
-      "atualizada_em": "2026-08-20T08:56:37.648651-03:00",
+      "atualizada_em": "2026-08-20T09:29:40.690855-03:00",
       "coletada_em": "2026-08-18T22:03:55.961973-03:00",
       "desconto_pct": 56,
       "fonte": "promobit",
@@ -48058,7 +48115,7 @@
     },
     "186": {
       "ativa": true,
-      "atualizada_em": "2026-08-20T08:56:37.648651-03:00",
+      "atualizada_em": "2026-08-20T09:29:40.690855-03:00",
       "coletada_em": "2026-08-19T12:57:28.573517-03:00",
       "desconto_pct": 48,
       "fonte": "promobit",
@@ -48072,7 +48129,7 @@
     },
     "187": {
       "ativa": true,
-      "atualizada_em": "2026-08-20T08:56:37.648651-03:00",
+      "atualizada_em": "2026-08-20T09:29:40.690855-03:00",
       "coletada_em": "2026-08-19T23:43:36.951213-03:00",
       "desconto_pct": 26,
       "fonte": "promobit",
@@ -48086,7 +48143,7 @@
     },
     "188": {
       "ativa": false,
-      "atualizada_em": "2026-08-20T08:56:37.648651-03:00",
+      "atualizada_em": "2026-08-20T09:29:40.690855-03:00",
       "coletada_em": "2026-08-20T00:29:00.042228-03:00",
       "desconto_pct": 53,
       "fonte": "promobit",
@@ -48814,14 +48871,14 @@
     },
     "65": {
       "ativa": true,
-      "atualizada_em": "2026-07-31T09:17:27.869382-03:00",
+      "atualizada_em": "2026-08-20T09:34:34.707062-03:00",
       "coletada_em": "2026-06-24T09:43:45.342507-03:00",
-      "desconto_pct": 0,
+      "desconto_pct": 20,
       "fonte": "americanas",
       "hash_unico": "21d646ac7995f14e92b8e58d27de2a16",
       "id": 65,
       "loja": "Americanas",
-      "preco_atual": 37.29,
+      "preco_atual": 29.99,
       "preco_de": 37.29,
       "produto_id": 47,
       "url": "https://www.americanas.com.br/kit-euroderm-gelato-pistache---vanilla---body-splash-200ml---manteiga-hidratante-200ml/p"
