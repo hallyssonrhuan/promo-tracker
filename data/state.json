@@ -7,7 +7,7 @@
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-09-06T22:00:55.269842-03:00",
+      "ultima_coleta_em": "2026-09-07T02:25:46.349560-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-09-06T21:59:34.739831-03:00",
+      "ultima_coleta_em": "2026-09-07T02:24:05.006178-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 1,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-09-06T22:00:01.024677-03:00",
+      "ultima_coleta_em": "2026-09-07T02:24:31.128618-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-09-06T21:57:23.261771-03:00",
+      "ultima_coleta_em": "2026-09-07T02:21:55.878763-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-09-06T21:58:06.248123-03:00",
+      "ultima_coleta_em": "2026-09-07T02:22:38.423115-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-09-06T21:56:20.367764-03:00",
+      "ultima_coleta_em": "2026-09-07T02:20:51.519533-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-09-06T21:56:51.906567-03:00",
+      "ultima_coleta_em": "2026-09-07T02:21:23.486155-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-09-06T21:54:57.549999-03:00",
+      "ultima_coleta_em": "2026-09-07T02:19:29.113504-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,7 +71,7 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-09-06T21:54:35.971504-03:00",
+      "ultima_coleta_em": "2026-09-07T02:19:07.772871-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 2,
       "ultima_coleta_status": "ok"
@@ -79,7 +79,7 @@
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-09-06T21:55:31.426522-03:00",
+      "ultima_coleta_em": "2026-09-07T02:20:02.793638-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -59420,6 +59420,21 @@
       "oferta_id": 65,
       "preco": 24.99,
       "registrado_em": "2026-09-06T21:59:34.739595-03:00"
+    },
+    {
+      "oferta_id": 218,
+      "preco": 18.49,
+      "registrado_em": "2026-09-07T02:19:07.772584-03:00"
+    },
+    {
+      "oferta_id": 220,
+      "preco": 23.32,
+      "registrado_em": "2026-09-07T02:19:07.772584-03:00"
+    },
+    {
+      "oferta_id": 65,
+      "preco": 24.99,
+      "registrado_em": "2026-09-07T02:24:05.005953-03:00"
     }
   ],
   "notificacoes": [
@@ -62548,8 +62563,8 @@
       "url": "https://www.promobit.com.br/oferta/lola-cosmetics-morte-subita-shampoo-hidratante-para-cabelos-secos-e-danificados-que-foi-quimicamente-tratado-vegano-livre-de-crueldade-sem-parab-3005870/"
     },
     "208": {
-      "ativa": true,
-      "atualizada_em": "2026-09-01T20:42:51.493090-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-09-07T02:25:50.952014-03:00",
       "coletada_em": "2026-08-28T01:30:20.511570-03:00",
       "desconto_pct": 60,
       "fonte": "promobit",
@@ -62562,8 +62577,8 @@
       "url": "https://www.promobit.com.br/oferta/kit-morte-kit-morte-subita-shampoo-condicionador-spray-reparacao-lola-from-rio-3005690/"
     },
     "209": {
-      "ativa": true,
-      "atualizada_em": "2026-09-01T13:32:58.975844-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-09-07T02:25:54.455964-03:00",
       "coletada_em": "2026-08-28T01:30:20.511570-03:00",
       "desconto_pct": 63,
       "fonte": "promobit",
@@ -62703,7 +62718,7 @@
     },
     "218": {
       "ativa": false,
-      "atualizada_em": "2026-09-06T22:01:18.075720-03:00",
+      "atualizada_em": "2026-09-07T02:26:09.100022-03:00",
       "coletada_em": "2026-08-31T20:17:57.062269-03:00",
       "desconto_pct": 59,
       "fonte": "promobit",
@@ -62745,7 +62760,7 @@
     },
     "220": {
       "ativa": true,
-      "atualizada_em": "2026-09-06T21:54:35.971166-03:00",
+      "atualizada_em": "2026-09-07T02:19:07.772584-03:00",
       "coletada_em": "2026-09-01T20:42:51.493090-03:00",
       "desconto_pct": 61,
       "fonte": "promobit",
@@ -63459,7 +63474,7 @@
     },
     "65": {
       "ativa": true,
-      "atualizada_em": "2026-09-06T21:59:34.739595-03:00",
+      "atualizada_em": "2026-09-07T02:24:05.005953-03:00",
       "coletada_em": "2026-06-24T09:43:45.342507-03:00",
       "desconto_pct": 33,
       "fonte": "americanas",
