@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 226,
-    "produto": 127
+    "oferta": 227,
+    "produto": 128
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-09-08T06:21:17.274287-03:00",
+      "ultima_coleta_em": "2026-09-08T10:45:32.934051-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-09-08T06:19:58.161691-03:00",
+      "ultima_coleta_em": "2026-09-08T10:44:13.875410-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 1,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-09-08T06:20:24.239204-03:00",
+      "ultima_coleta_em": "2026-09-08T10:44:40.039496-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-09-08T06:17:51.849803-03:00",
+      "ultima_coleta_em": "2026-09-08T10:42:00.589017-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-09-08T06:18:34.907132-03:00",
+      "ultima_coleta_em": "2026-09-08T10:42:42.718178-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-09-08T06:16:49.248700-03:00",
+      "ultima_coleta_em": "2026-09-08T10:40:56.675411-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-09-08T06:17:20.546173-03:00",
+      "ultima_coleta_em": "2026-09-08T10:41:29.495852-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-09-08T06:15:27.429081-03:00",
+      "ultima_coleta_em": "2026-09-08T10:39:34.821276-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-09-08T06:15:06.055977-03:00",
+      "ultima_coleta_em": "2026-09-08T10:39:13.540540-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 2,
+      "ultima_coleta_qtd": 3,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-09-08T06:16:00.814005-03:00",
+      "ultima_coleta_em": "2026-09-08T10:40:08.258451-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -59555,6 +59555,26 @@
       "oferta_id": 65,
       "preco": 24.99,
       "registrado_em": "2026-09-08T06:19:58.161489-03:00"
+    },
+    {
+      "oferta_id": 225,
+      "preco": 47.43,
+      "registrado_em": "2026-09-08T10:39:04.178572-03:00"
+    },
+    {
+      "oferta_id": 218,
+      "preco": 18.49,
+      "registrado_em": "2026-09-08T10:39:04.178572-03:00"
+    },
+    {
+      "oferta_id": 226,
+      "preco": 79.9,
+      "registrado_em": "2026-09-08T10:39:04.178572-03:00"
+    },
+    {
+      "oferta_id": 65,
+      "preco": 24.99,
+      "registrado_em": "2026-09-08T10:44:13.875214-03:00"
     }
   ],
   "notificacoes": [
@@ -60990,6 +61010,13 @@
       "enviada_em": "2026-09-07T16:34:14.834499-03:00",
       "erro": null,
       "oferta_id": 225,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-09-08T10:39:13.540333-03:00",
+      "erro": null,
+      "oferta_id": 226,
       "sucesso": true,
       "tipo": "nova"
     }
@@ -62845,7 +62872,7 @@
     },
     "218": {
       "ativa": false,
-      "atualizada_em": "2026-09-08T06:21:25.338043-03:00",
+      "atualizada_em": "2026-09-08T10:45:44.717145-03:00",
       "coletada_em": "2026-08-31T20:17:57.062269-03:00",
       "desconto_pct": 59,
       "fonte": "promobit",
@@ -62957,7 +62984,7 @@
     },
     "225": {
       "ativa": true,
-      "atualizada_em": "2026-09-08T06:15:06.055677-03:00",
+      "atualizada_em": "2026-09-08T10:39:04.178572-03:00",
       "coletada_em": "2026-09-07T16:34:08.350782-03:00",
       "desconto_pct": 60,
       "fonte": "promobit",
@@ -62968,6 +62995,20 @@
       "preco_de": 119.9,
       "produto_id": 120,
       "url": "https://www.promobit.com.br/oferta/kit-morte-kit-morte-subita-shampoo-condicionador-spray-reparacao-lola-from-rio-3025293/"
+    },
+    "226": {
+      "ativa": true,
+      "atualizada_em": "2026-09-08T10:39:04.178572-03:00",
+      "coletada_em": "2026-09-08T10:39:04.178572-03:00",
+      "desconto_pct": 27,
+      "fonte": "promobit",
+      "hash_unico": "6e4362df173d81984e2781ee1489cf75",
+      "id": 226,
+      "loja": "Shopee",
+      "preco_atual": 79.9,
+      "preco_de": 109.45,
+      "produto_id": 127,
+      "url": "https://www.promobit.com.br/oferta/kit-3-calca-pantalona-infantil-canelada-com-bolso-tam-4-a-12-anos-diversas-cores-3026159/"
     },
     "23": {
       "ativa": false,
@@ -63615,7 +63656,7 @@
     },
     "65": {
       "ativa": true,
-      "atualizada_em": "2026-09-08T06:19:58.161489-03:00",
+      "atualizada_em": "2026-09-08T10:44:13.875214-03:00",
       "coletada_em": "2026-06-24T09:43:45.342507-03:00",
       "desconto_pct": 33,
       "fonte": "americanas",
@@ -64425,6 +64466,15 @@
       "marca": "Asics",
       "titulo_normalizado": "tenis asics gel-cumulus 28 (34 ao 39)",
       "titulo_original": "Tênis Asics Gel-Cumulus 28 (34 ao 39)"
+    },
+    "127": {
+      "categoria": "infantil",
+      "criado_em": "2026-09-08T10:39:04.178814-03:00",
+      "id": 127,
+      "imagem_url": "https://i.promobit.com.br/268/650063901817888722355926770319.jpg",
+      "marca": "Roupa infantil masc",
+      "titulo_normalizado": "kit 3 calca pantalona infantil canelada com bolso (tam 4 a 12 anos diversas cores)",
+      "titulo_original": "Kit 3 Calça Pantalona infantil canelada com bolso (Tam. 4 a 12 anos, Diversas cores)"
     },
     "13": {
       "categoria": "corrida",
