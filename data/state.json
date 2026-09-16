@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 230,
-    "produto": 130
+    "oferta": 231,
+    "produto": 131
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-09-16T03:50:32.518362-03:00",
+      "ultima_coleta_em": "2026-09-16T09:11:58.122936-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-09-16T03:49:14.113264-03:00",
+      "ultima_coleta_em": "2026-09-16T09:10:39.313892-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 4,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-09-16T03:49:40.355831-03:00",
+      "ultima_coleta_em": "2026-09-16T09:11:05.407675-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-09-16T03:47:02.961977-03:00",
+      "ultima_coleta_em": "2026-09-16T09:08:32.762713-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-09-16T03:47:45.256388-03:00",
+      "ultima_coleta_em": "2026-09-16T09:09:15.418830-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-09-16T03:45:59.941686-03:00",
+      "ultima_coleta_em": "2026-09-16T09:07:30.308426-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-09-16T03:46:31.238688-03:00",
+      "ultima_coleta_em": "2026-09-16T09:08:01.597238-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-09-16T03:44:38.213580-03:00",
+      "ultima_coleta_em": "2026-09-16T09:06:08.653077-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-09-16T03:44:16.906186-03:00",
+      "ultima_coleta_em": "2026-09-16T09:05:47.313679-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 2,
+      "ultima_coleta_qtd": 3,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-09-16T03:45:11.554786-03:00",
+      "ultima_coleta_em": "2026-09-16T09:06:42.007091-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -60920,6 +60920,41 @@
       "oferta_id": 93,
       "preco": 39.99,
       "registrado_em": "2026-09-16T03:49:14.112909-03:00"
+    },
+    {
+      "oferta_id": 230,
+      "preco": 719.99,
+      "registrado_em": "2026-09-16T09:05:42.315529-03:00"
+    },
+    {
+      "oferta_id": 229,
+      "preco": 436.99,
+      "registrado_em": "2026-09-16T09:05:42.315529-03:00"
+    },
+    {
+      "oferta_id": 218,
+      "preco": 18.49,
+      "registrado_em": "2026-09-16T09:05:42.315529-03:00"
+    },
+    {
+      "oferta_id": 65,
+      "preco": 24.99,
+      "registrado_em": "2026-09-16T09:10:39.313428-03:00"
+    },
+    {
+      "oferta_id": 90,
+      "preco": 39.99,
+      "registrado_em": "2026-09-16T09:10:39.313428-03:00"
+    },
+    {
+      "oferta_id": 91,
+      "preco": 39.99,
+      "registrado_em": "2026-09-16T09:10:39.313428-03:00"
+    },
+    {
+      "oferta_id": 93,
+      "preco": 39.99,
+      "registrado_em": "2026-09-16T09:10:39.313428-03:00"
     }
   ],
   "notificacoes": [
@@ -62404,6 +62439,13 @@
       "enviada_em": "2026-09-15T20:43:02.287486-03:00",
       "erro": null,
       "oferta_id": 229,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-09-16T09:05:47.313466-03:00",
+      "erro": null,
+      "oferta_id": 230,
       "sucesso": true,
       "tipo": "nova"
     }
@@ -64259,7 +64301,7 @@
     },
     "218": {
       "ativa": false,
-      "atualizada_em": "2026-09-16T03:50:37.209726-03:00",
+      "atualizada_em": "2026-09-16T09:12:02.759479-03:00",
       "coletada_em": "2026-08-31T20:17:57.062269-03:00",
       "desconto_pct": 59,
       "fonte": "promobit",
@@ -64427,7 +64469,7 @@
     },
     "229": {
       "ativa": true,
-      "atualizada_em": "2026-09-16T03:44:16.905864-03:00",
+      "atualizada_em": "2026-09-16T09:05:42.315529-03:00",
       "coletada_em": "2026-09-15T20:42:55.917864-03:00",
       "desconto_pct": 51,
       "fonte": "promobit",
@@ -64452,6 +64494,20 @@
       "preco_de": 49.9,
       "produto_id": 20,
       "url": "https://www.promobit.com.br/oferta/dream-cream-mascara-de-hidratacao-200g-lola-cosmetics-2831493/"
+    },
+    "230": {
+      "ativa": true,
+      "atualizada_em": "2026-09-16T09:05:42.315529-03:00",
+      "coletada_em": "2026-09-16T09:05:42.315529-03:00",
+      "desconto_pct": 35,
+      "fonte": "promobit",
+      "hash_unico": "d6804ad396f0a1c4087066c8c9d91987",
+      "id": 230,
+      "loja": "Netshoes",
+      "preco_atual": 719.99,
+      "preco_de": 1099.99,
+      "produto_id": 130,
+      "url": "https://www.promobit.com.br/oferta/tenis-adidas-ultraboost-5-feminino-3044030/"
     },
     "24": {
       "ativa": false,
@@ -65085,7 +65141,7 @@
     },
     "65": {
       "ativa": true,
-      "atualizada_em": "2026-09-16T03:49:14.112909-03:00",
+      "atualizada_em": "2026-09-16T09:10:39.313428-03:00",
       "coletada_em": "2026-06-24T09:43:45.342507-03:00",
       "desconto_pct": 33,
       "fonte": "americanas",
@@ -65477,7 +65533,7 @@
     },
     "90": {
       "ativa": true,
-      "atualizada_em": "2026-09-16T03:49:14.112909-03:00",
+      "atualizada_em": "2026-09-16T09:10:39.313428-03:00",
       "coletada_em": "2026-07-18T07:25:50.350990-03:00",
       "desconto_pct": 20,
       "fonte": "americanas",
@@ -65491,7 +65547,7 @@
     },
     "91": {
       "ativa": true,
-      "atualizada_em": "2026-09-16T03:49:14.112909-03:00",
+      "atualizada_em": "2026-09-16T09:10:39.313428-03:00",
       "coletada_em": "2026-07-18T07:25:50.350990-03:00",
       "desconto_pct": 20,
       "fonte": "americanas",
@@ -65519,7 +65575,7 @@
     },
     "93": {
       "ativa": true,
-      "atualizada_em": "2026-09-16T03:49:14.112909-03:00",
+      "atualizada_em": "2026-09-16T09:10:39.313428-03:00",
       "coletada_em": "2026-07-19T11:47:39.505159-03:00",
       "desconto_pct": 20,
       "fonte": "americanas",
@@ -65931,6 +65987,15 @@
       "marca": "Mizuno",
       "titulo_normalizado": "tenis de corrida feminino mizuno wave falcon 5",
       "titulo_original": "Tênis de Corrida Feminino Mizuno Wave Falcon 5"
+    },
+    "130": {
+      "categoria": "corrida",
+      "criado_em": "2026-09-16T09:05:42.315576-03:00",
+      "id": 130,
+      "imagem_url": "https://i.promobit.com.br/268/592892239617895558253498622580.png",
+      "marca": "Adidas",
+      "titulo_normalizado": "tenis adidas ultraboost 5 feminino",
+      "titulo_original": "Tênis Adidas Ultraboost 5 Feminino"
     },
     "14": {
       "categoria": "cabelo",
