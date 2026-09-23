@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 243,
+    "oferta": 244,
     "produto": 134
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-09-23T03:52:24.331422-03:00",
+      "ultima_coleta_em": "2026-09-23T09:22:27.535645-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-09-23T03:51:05.389213-03:00",
+      "ultima_coleta_em": "2026-09-23T09:21:08.983046-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 1,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-09-23T03:51:31.381908-03:00",
+      "ultima_coleta_em": "2026-09-23T09:21:35.127424-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-09-23T03:48:52.139850-03:00",
+      "ultima_coleta_em": "2026-09-23T09:18:44.578906-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-09-23T03:49:35.517573-03:00",
+      "ultima_coleta_em": "2026-09-23T09:19:30.190303-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-09-23T03:47:49.190922-03:00",
+      "ultima_coleta_em": "2026-09-23T09:17:41.858924-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-09-23T03:48:21.057007-03:00",
+      "ultima_coleta_em": "2026-09-23T09:18:13.244225-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-09-23T03:46:25.436947-03:00",
+      "ultima_coleta_em": "2026-09-23T09:16:20.150960-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-09-23T03:46:03.921803-03:00",
+      "ultima_coleta_em": "2026-09-23T09:15:58.787210-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 3,
+      "ultima_coleta_qtd": 4,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-09-23T03:47:00.027081-03:00",
+      "ultima_coleta_em": "2026-09-23T09:16:53.506394-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63220,6 +63220,31 @@
       "oferta_id": 65,
       "preco": 24.99,
       "registrado_em": "2026-09-23T03:51:05.389044-03:00"
+    },
+    {
+      "oferta_id": 243,
+      "preco": 531.9,
+      "registrado_em": "2026-09-23T09:15:53.077345-03:00"
+    },
+    {
+      "oferta_id": 242,
+      "preco": 699.99,
+      "registrado_em": "2026-09-23T09:15:53.077345-03:00"
+    },
+    {
+      "oferta_id": 218,
+      "preco": 18.49,
+      "registrado_em": "2026-09-23T09:15:53.077345-03:00"
+    },
+    {
+      "oferta_id": 237,
+      "preco": 27.97,
+      "registrado_em": "2026-09-23T09:15:53.077345-03:00"
+    },
+    {
+      "oferta_id": 65,
+      "preco": 24.99,
+      "registrado_em": "2026-09-23T09:21:08.982838-03:00"
     }
   ],
   "notificacoes": [
@@ -64802,6 +64827,13 @@
       "enviada_em": "2026-09-22T15:22:53.564600-03:00",
       "erro": null,
       "oferta_id": 242,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-09-23T09:15:58.786883-03:00",
+      "erro": null,
+      "oferta_id": 243,
       "sucesso": true,
       "tipo": "nova"
     }
@@ -66657,7 +66689,7 @@
     },
     "218": {
       "ativa": false,
-      "atualizada_em": "2026-09-23T03:52:28.833637-03:00",
+      "atualizada_em": "2026-09-23T09:22:32.284491-03:00",
       "coletada_em": "2026-08-31T20:17:57.062269-03:00",
       "desconto_pct": 59,
       "fonte": "promobit",
@@ -66951,7 +66983,7 @@
     },
     "237": {
       "ativa": true,
-      "atualizada_em": "2026-09-23T03:46:03.921527-03:00",
+      "atualizada_em": "2026-09-23T09:15:53.077345-03:00",
       "coletada_em": "2026-09-18T20:07:22.754739-03:00",
       "desconto_pct": 57,
       "fonte": "promobit",
@@ -67035,7 +67067,7 @@
     },
     "242": {
       "ativa": true,
-      "atualizada_em": "2026-09-23T03:46:03.921527-03:00",
+      "atualizada_em": "2026-09-23T09:15:53.077345-03:00",
       "coletada_em": "2026-09-22T15:22:48.555005-03:00",
       "desconto_pct": 53,
       "fonte": "promobit",
@@ -67046,6 +67078,20 @@
       "preco_de": 1499.99,
       "produto_id": 122,
       "url": "https://www.promobit.com.br/oferta/tenis-nike-zoom-fly-6-feminino-3056739/"
+    },
+    "243": {
+      "ativa": true,
+      "atualizada_em": "2026-09-23T09:15:53.077345-03:00",
+      "coletada_em": "2026-09-23T09:15:53.077345-03:00",
+      "desconto_pct": 56,
+      "fonte": "promobit",
+      "hash_unico": "1881ba73c8a1b8d24c092593210c1e1d",
+      "id": 243,
+      "loja": "Netshoes",
+      "preco_atual": 531.9,
+      "preco_de": 1199.99,
+      "produto_id": 45,
+      "url": "https://www.promobit.com.br/oferta/tenis-asics-gel-nimbus-27-feminino-3058250/"
     },
     "25": {
       "ativa": false,
@@ -67665,7 +67711,7 @@
     },
     "65": {
       "ativa": true,
-      "atualizada_em": "2026-09-23T03:51:05.389044-03:00",
+      "atualizada_em": "2026-09-23T09:21:08.982838-03:00",
       "coletada_em": "2026-06-24T09:43:45.342507-03:00",
       "desconto_pct": 33,
       "fonte": "americanas",
