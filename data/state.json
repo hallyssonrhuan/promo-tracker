@@ -7,7 +7,7 @@
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-09-22T22:55:57.616580-03:00",
+      "ultima_coleta_em": "2026-09-23T03:52:24.331422-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-09-22T22:54:38.997228-03:00",
+      "ultima_coleta_em": "2026-09-23T03:51:05.389213-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 1,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-09-22T22:55:05.147826-03:00",
+      "ultima_coleta_em": "2026-09-23T03:51:31.381908-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-09-22T22:52:11.502549-03:00",
+      "ultima_coleta_em": "2026-09-23T03:48:52.139850-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-09-22T22:52:53.760159-03:00",
+      "ultima_coleta_em": "2026-09-23T03:49:35.517573-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-09-22T22:51:09.037840-03:00",
+      "ultima_coleta_em": "2026-09-23T03:47:49.190922-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-09-22T22:51:40.153236-03:00",
+      "ultima_coleta_em": "2026-09-23T03:48:21.057007-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-09-22T22:49:45.069681-03:00",
+      "ultima_coleta_em": "2026-09-23T03:46:25.436947-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-09-22T22:49:23.449878-03:00",
+      "ultima_coleta_em": "2026-09-23T03:46:03.921803-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 4,
+      "ultima_coleta_qtd": 3,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-09-22T22:50:19.899857-03:00",
+      "ultima_coleta_em": "2026-09-23T03:47:00.027081-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63200,6 +63200,26 @@
       "oferta_id": 65,
       "preco": 24.99,
       "registrado_em": "2026-09-22T22:54:38.997050-03:00"
+    },
+    {
+      "oferta_id": 242,
+      "preco": 699.99,
+      "registrado_em": "2026-09-23T03:46:03.921527-03:00"
+    },
+    {
+      "oferta_id": 218,
+      "preco": 18.49,
+      "registrado_em": "2026-09-23T03:46:03.921527-03:00"
+    },
+    {
+      "oferta_id": 237,
+      "preco": 27.97,
+      "registrado_em": "2026-09-23T03:46:03.921527-03:00"
+    },
+    {
+      "oferta_id": 65,
+      "preco": 24.99,
+      "registrado_em": "2026-09-23T03:51:05.389044-03:00"
     }
   ],
   "notificacoes": [
@@ -66637,7 +66657,7 @@
     },
     "218": {
       "ativa": false,
-      "atualizada_em": "2026-09-22T22:56:02.142458-03:00",
+      "atualizada_em": "2026-09-23T03:52:28.833637-03:00",
       "coletada_em": "2026-08-31T20:17:57.062269-03:00",
       "desconto_pct": 59,
       "fonte": "promobit",
@@ -66931,7 +66951,7 @@
     },
     "237": {
       "ativa": true,
-      "atualizada_em": "2026-09-22T22:49:23.449602-03:00",
+      "atualizada_em": "2026-09-23T03:46:03.921527-03:00",
       "coletada_em": "2026-09-18T20:07:22.754739-03:00",
       "desconto_pct": 57,
       "fonte": "promobit",
@@ -66986,8 +67006,8 @@
       "url": "https://www.promobit.com.br/oferta/bemdita-ghee-mascara-reconstrucao-mamao-350g-lola-cosmetics-2832205/"
     },
     "240": {
-      "ativa": true,
-      "atualizada_em": "2026-09-22T22:49:23.449602-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-09-23T03:52:46.781803-03:00",
       "coletada_em": "2026-09-19T15:52:41.705637-03:00",
       "desconto_pct": 54,
       "fonte": "promobit",
@@ -67015,7 +67035,7 @@
     },
     "242": {
       "ativa": true,
-      "atualizada_em": "2026-09-22T22:49:23.449602-03:00",
+      "atualizada_em": "2026-09-23T03:46:03.921527-03:00",
       "coletada_em": "2026-09-22T15:22:48.555005-03:00",
       "desconto_pct": 53,
       "fonte": "promobit",
@@ -67645,7 +67665,7 @@
     },
     "65": {
       "ativa": true,
-      "atualizada_em": "2026-09-22T22:54:38.997050-03:00",
+      "atualizada_em": "2026-09-23T03:51:05.389044-03:00",
       "coletada_em": "2026-06-24T09:43:45.342507-03:00",
       "desconto_pct": 33,
       "fonte": "americanas",
