@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 245,
-    "produto": 134
+    "oferta": 246,
+    "produto": 135
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-09-24T07:40:09.494099-03:00",
+      "ultima_coleta_em": "2026-09-24T12:34:29.699149-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-09-24T07:38:51.380451-03:00",
+      "ultima_coleta_em": "2026-09-24T12:33:10.797877-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 1,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-09-24T07:39:17.501773-03:00",
+      "ultima_coleta_em": "2026-09-24T12:33:37.240914-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-09-24T07:36:38.414185-03:00",
+      "ultima_coleta_em": "2026-09-24T12:30:55.526276-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-09-24T07:37:20.669964-03:00",
+      "ultima_coleta_em": "2026-09-24T12:31:37.748588-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-09-24T07:35:34.407599-03:00",
+      "ultima_coleta_em": "2026-09-24T12:29:51.224194-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-09-24T07:36:07.200425-03:00",
+      "ultima_coleta_em": "2026-09-24T12:30:24.258083-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-09-24T07:34:12.785027-03:00",
+      "ultima_coleta_em": "2026-09-24T12:28:29.358337-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-09-24T07:33:51.458497-03:00",
+      "ultima_coleta_em": "2026-09-24T12:28:07.921545-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 5,
+      "ultima_coleta_qtd": 4,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-09-24T07:34:46.053295-03:00",
+      "ultima_coleta_em": "2026-09-24T12:29:02.734493-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63410,6 +63410,31 @@
       "oferta_id": 65,
       "preco": 24.99,
       "registrado_em": "2026-09-24T07:38:51.380203-03:00"
+    },
+    {
+      "oferta_id": 218,
+      "preco": 18.49,
+      "registrado_em": "2026-09-24T12:28:03.086976-03:00"
+    },
+    {
+      "oferta_id": 244,
+      "preco": 26.09,
+      "registrado_em": "2026-09-24T12:28:03.086976-03:00"
+    },
+    {
+      "oferta_id": 237,
+      "preco": 27.97,
+      "registrado_em": "2026-09-24T12:28:03.086976-03:00"
+    },
+    {
+      "oferta_id": 245,
+      "preco": 67.14,
+      "registrado_em": "2026-09-24T12:28:03.086976-03:00"
+    },
+    {
+      "oferta_id": 65,
+      "preco": 24.99,
+      "registrado_em": "2026-09-24T12:33:10.797651-03:00"
     }
   ],
   "notificacoes": [
@@ -65006,6 +65031,13 @@
       "enviada_em": "2026-09-23T19:56:26.657514-03:00",
       "erro": null,
       "oferta_id": 244,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-09-24T12:28:07.921305-03:00",
+      "erro": null,
+      "oferta_id": 245,
       "sucesso": true,
       "tipo": "nova"
     }
@@ -66861,7 +66893,7 @@
     },
     "218": {
       "ativa": false,
-      "atualizada_em": "2026-09-24T07:40:13.675608-03:00",
+      "atualizada_em": "2026-09-24T12:34:33.802492-03:00",
       "coletada_em": "2026-08-31T20:17:57.062269-03:00",
       "desconto_pct": 59,
       "fonte": "promobit",
@@ -67155,7 +67187,7 @@
     },
     "237": {
       "ativa": true,
-      "atualizada_em": "2026-09-24T07:33:51.457998-03:00",
+      "atualizada_em": "2026-09-24T12:28:03.086976-03:00",
       "coletada_em": "2026-09-18T20:07:22.754739-03:00",
       "desconto_pct": 57,
       "fonte": "promobit",
@@ -67267,7 +67299,7 @@
     },
     "244": {
       "ativa": true,
-      "atualizada_em": "2026-09-24T07:33:51.457998-03:00",
+      "atualizada_em": "2026-09-24T12:28:03.086976-03:00",
       "coletada_em": "2026-09-23T19:56:21.486670-03:00",
       "desconto_pct": 56,
       "fonte": "promobit",
@@ -67278,6 +67310,20 @@
       "preco_de": 59.9,
       "produto_id": 2,
       "url": "https://www.promobit.com.br/oferta/rapunzel-milk-leave-in-spray-250ml-lola-cosmetics-3060118/"
+    },
+    "245": {
+      "ativa": true,
+      "atualizada_em": "2026-09-24T12:28:03.086976-03:00",
+      "coletada_em": "2026-09-24T12:28:03.086976-03:00",
+      "desconto_pct": 48,
+      "fonte": "promobit",
+      "hash_unico": "530986b27d206c7a07bf92839b92ed5c",
+      "id": 245,
+      "loja": "Mercado Livre",
+      "preco_atual": 67.14,
+      "preco_de": 129.99,
+      "produto_id": 134,
+      "url": "https://www.promobit.com.br/oferta/fantasia-vestido-rapunzel-tam-3-ao-8-3061081/"
     },
     "25": {
       "ativa": false,
@@ -67897,7 +67943,7 @@
     },
     "65": {
       "ativa": true,
-      "atualizada_em": "2026-09-24T07:38:51.380203-03:00",
+      "atualizada_em": "2026-09-24T12:33:10.797651-03:00",
       "coletada_em": "2026-06-24T09:43:45.342507-03:00",
       "desconto_pct": 33,
       "fonte": "americanas",
@@ -68779,6 +68825,15 @@
       "marca": "Lola Cosmetics",
       "titulo_normalizado": "pinga cenoura e oliva oleo 50ml lola cosmetics",
       "titulo_original": "Pinga Cenoura e Oliva Óleo 50ml , Lola Cosmetics"
+    },
+    "134": {
+      "categoria": "cabelo",
+      "criado_em": "2026-09-24T12:28:03.087266-03:00",
+      "id": 134,
+      "imagem_url": "https://i.promobit.com.br/268/260141244317902565583352015318.png",
+      "marca": "Lola Cosmetics",
+      "titulo_normalizado": "fantasia vestido rapunzel (tam 3 ao 8)",
+      "titulo_original": "Fantasia Vestido Rapunzel (Tam. 3 ao 8)"
     },
     "14": {
       "categoria": "cabelo",
