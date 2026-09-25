@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 247,
-    "produto": 136
+    "oferta": 249,
+    "produto": 137
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-09-25T07:27:50.028711-03:00",
+      "ultima_coleta_em": "2026-09-25T12:28:17.938130-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-09-25T07:26:30.591212-03:00",
+      "ultima_coleta_em": "2026-09-25T12:26:58.427601-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 1,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-09-25T07:26:56.685304-03:00",
+      "ultima_coleta_em": "2026-09-25T12:27:24.585233-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-09-25T07:24:07.753179-03:00",
+      "ultima_coleta_em": "2026-09-25T12:24:33.636372-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-09-25T07:24:50.174334-03:00",
+      "ultima_coleta_em": "2026-09-25T12:25:16.432767-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-09-25T07:23:05.189971-03:00",
+      "ultima_coleta_em": "2026-09-25T12:23:31.067967-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-09-25T07:23:36.551927-03:00",
+      "ultima_coleta_em": "2026-09-25T12:24:02.418404-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-09-25T07:21:41.842487-03:00",
+      "ultima_coleta_em": "2026-09-25T12:22:07.066018-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-09-25T07:21:20.467248-03:00",
+      "ultima_coleta_em": "2026-09-25T12:21:45.658664-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 5,
+      "ultima_coleta_qtd": 6,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-09-25T07:22:15.960903-03:00",
+      "ultima_coleta_em": "2026-09-25T12:22:41.796652-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63585,6 +63585,41 @@
       "oferta_id": 65,
       "preco": 24.99,
       "registrado_em": "2026-09-25T07:26:30.590962-03:00"
+    },
+    {
+      "oferta_id": 247,
+      "preco": 225.0,
+      "registrado_em": "2026-09-25T12:21:35.194225-03:00"
+    },
+    {
+      "oferta_id": 248,
+      "preco": 419.89,
+      "registrado_em": "2026-09-25T12:21:35.194225-03:00"
+    },
+    {
+      "oferta_id": 218,
+      "preco": 18.49,
+      "registrado_em": "2026-09-25T12:21:35.194225-03:00"
+    },
+    {
+      "oferta_id": 246,
+      "preco": 30.0,
+      "registrado_em": "2026-09-25T12:21:35.194225-03:00"
+    },
+    {
+      "oferta_id": 244,
+      "preco": 26.09,
+      "registrado_em": "2026-09-25T12:21:35.194225-03:00"
+    },
+    {
+      "oferta_id": 237,
+      "preco": 27.97,
+      "registrado_em": "2026-09-25T12:21:35.194225-03:00"
+    },
+    {
+      "oferta_id": 65,
+      "preco": 24.99,
+      "registrado_em": "2026-09-25T12:26:58.427363-03:00"
     }
   ],
   "notificacoes": [
@@ -65195,6 +65230,20 @@
       "enviada_em": "2026-09-24T16:23:44.275394-03:00",
       "erro": null,
       "oferta_id": 246,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-09-25T12:21:40.749404-03:00",
+      "erro": null,
+      "oferta_id": 248,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-09-25T12:21:45.658405-03:00",
+      "erro": null,
+      "oferta_id": 247,
       "sucesso": true,
       "tipo": "nova"
     }
@@ -67050,7 +67099,7 @@
     },
     "218": {
       "ativa": false,
-      "atualizada_em": "2026-09-25T07:27:54.570952-03:00",
+      "atualizada_em": "2026-09-25T12:28:23.466351-03:00",
       "coletada_em": "2026-08-31T20:17:57.062269-03:00",
       "desconto_pct": 59,
       "fonte": "promobit",
@@ -67217,7 +67266,7 @@
       "url": "https://www.promobit.com.br/oferta/pijama-infantil-longo-super-quentinho-tam-4-a-12-anos-diversas-estampas-3028879/"
     },
     "229": {
-      "ativa": true,
+      "ativa": false,
       "atualizada_em": "2026-09-16T09:05:42.315529-03:00",
       "coletada_em": "2026-09-15T20:42:55.917864-03:00",
       "desconto_pct": 51,
@@ -67344,7 +67393,7 @@
     },
     "237": {
       "ativa": true,
-      "atualizada_em": "2026-09-25T07:21:20.466770-03:00",
+      "atualizada_em": "2026-09-25T12:21:35.194225-03:00",
       "coletada_em": "2026-09-18T20:07:22.754739-03:00",
       "desconto_pct": 57,
       "fonte": "promobit",
@@ -67456,7 +67505,7 @@
     },
     "244": {
       "ativa": true,
-      "atualizada_em": "2026-09-25T07:21:20.466770-03:00",
+      "atualizada_em": "2026-09-25T12:21:35.194225-03:00",
       "coletada_em": "2026-09-23T19:56:21.486670-03:00",
       "desconto_pct": 56,
       "fonte": "promobit",
@@ -67484,7 +67533,7 @@
     },
     "246": {
       "ativa": true,
-      "atualizada_em": "2026-09-25T07:21:20.466770-03:00",
+      "atualizada_em": "2026-09-25T12:21:35.194225-03:00",
       "coletada_em": "2026-09-24T16:23:38.520141-03:00",
       "desconto_pct": 57,
       "fonte": "promobit",
@@ -67495,6 +67544,34 @@
       "preco_de": 69.9,
       "produto_id": 135,
       "url": "https://www.promobit.com.br/oferta/creme-de-pentear-cachinho-feliz-salada-de-frutas-lola-cosmetics-450g-3061550/"
+    },
+    "247": {
+      "ativa": true,
+      "atualizada_em": "2026-09-25T12:21:35.194225-03:00",
+      "coletada_em": "2026-09-25T12:21:35.194225-03:00",
+      "desconto_pct": 36,
+      "fonte": "promobit",
+      "hash_unico": "fa960083e56d83ffe57bfb5763ac6a75",
+      "id": 247,
+      "loja": "Centauro",
+      "preco_atual": 225.0,
+      "preco_de": 349.99,
+      "produto_id": 136,
+      "url": "https://www.promobit.com.br/oferta/tenis-nike-run-defy-34-ao-40-3063570/"
+    },
+    "248": {
+      "ativa": true,
+      "atualizada_em": "2026-09-25T12:21:35.194225-03:00",
+      "coletada_em": "2026-09-25T12:21:35.194225-03:00",
+      "desconto_pct": 53,
+      "fonte": "promobit",
+      "hash_unico": "c381e43b6e4419c65b70c55a10055fdd",
+      "id": 248,
+      "loja": "Netshoes",
+      "preco_atual": 419.89,
+      "preco_de": 899.99,
+      "produto_id": 129,
+      "url": "https://www.promobit.com.br/oferta/tenis-asics-gel-cumulus-28-feminino-3063500/"
     },
     "25": {
       "ativa": false,
@@ -68114,7 +68191,7 @@
     },
     "65": {
       "ativa": true,
-      "atualizada_em": "2026-09-25T07:26:30.590962-03:00",
+      "atualizada_em": "2026-09-25T12:26:58.427363-03:00",
       "coletada_em": "2026-06-24T09:43:45.342507-03:00",
       "desconto_pct": 33,
       "fonte": "americanas",
@@ -69014,6 +69091,15 @@
       "marca": "Lola Cosmetics",
       "titulo_normalizado": "creme de pentear cachinho feliz salada de frutas lola cosmetics 450g",
       "titulo_original": "Creme de Pentear Cachinho Feliz Salada de Frutas Lola Cosmetics 450g"
+    },
+    "136": {
+      "categoria": "corrida",
+      "criado_em": "2026-09-25T12:21:35.194268-03:00",
+      "id": 136,
+      "imagem_url": "https://i.promobit.com.br/268/832625414717903470932210810241.png",
+      "marca": "Nike",
+      "titulo_normalizado": "tenis nike run defy (34 ao 40)",
+      "titulo_original": "Tênis Nike Run Defy (34 ao 40)"
     },
     "14": {
       "categoria": "cabelo",
