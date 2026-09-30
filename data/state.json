@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 255,
-    "produto": 140
+    "oferta": 256,
+    "produto": 141
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-09-29T19:23:56.362758-03:00",
+      "ultima_coleta_em": "2026-09-29T22:26:36.376766-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-09-29T19:22:38.555403-03:00",
+      "ultima_coleta_em": "2026-09-29T22:25:16.879061-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 1,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-09-29T19:23:04.518160-03:00",
+      "ultima_coleta_em": "2026-09-29T22:25:43.533929-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-09-29T19:20:11.201438-03:00",
+      "ultima_coleta_em": "2026-09-29T22:22:52.714896-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-09-29T19:20:53.758978-03:00",
+      "ultima_coleta_em": "2026-09-29T22:23:35.351312-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-09-29T19:19:09.174211-03:00",
+      "ultima_coleta_em": "2026-09-29T22:21:49.427185-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-09-29T19:19:40.223629-03:00",
+      "ultima_coleta_em": "2026-09-29T22:22:21.650832-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-09-29T19:17:45.341126-03:00",
+      "ultima_coleta_em": "2026-09-29T22:20:25.455643-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,7 +71,7 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-09-29T19:17:23.305168-03:00",
+      "ultima_coleta_em": "2026-09-29T22:20:04.014356-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 3,
       "ultima_coleta_status": "ok"
@@ -79,7 +79,7 @@
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-09-29T19:18:20.019421-03:00",
+      "ultima_coleta_em": "2026-09-29T22:20:59.947429-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -64345,6 +64345,26 @@
       "oferta_id": 65,
       "preco": 24.99,
       "registrado_em": "2026-09-29T19:22:38.555267-03:00"
+    },
+    {
+      "oferta_id": 255,
+      "preco": 549.99,
+      "registrado_em": "2026-09-29T22:19:58.425516-03:00"
+    },
+    {
+      "oferta_id": 254,
+      "preco": 549.99,
+      "registrado_em": "2026-09-29T22:19:58.425516-03:00"
+    },
+    {
+      "oferta_id": 218,
+      "preco": 18.49,
+      "registrado_em": "2026-09-29T22:19:58.425516-03:00"
+    },
+    {
+      "oferta_id": 65,
+      "preco": 24.99,
+      "registrado_em": "2026-09-29T22:25:16.878821-03:00"
     }
   ],
   "notificacoes": [
@@ -65997,6 +66017,13 @@
       "enviada_em": "2026-09-29T09:41:39.476018-03:00",
       "erro": null,
       "oferta_id": 253,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-09-29T22:20:04.014141-03:00",
+      "erro": null,
+      "oferta_id": 255,
       "sucesso": true,
       "tipo": "nova"
     }
@@ -67852,7 +67879,7 @@
     },
     "218": {
       "ativa": false,
-      "atualizada_em": "2026-09-29T19:24:01.803285-03:00",
+      "atualizada_em": "2026-09-29T22:26:41.044327-03:00",
       "coletada_em": "2026-08-31T20:17:57.062269-03:00",
       "desconto_pct": 59,
       "fonte": "promobit",
@@ -68412,7 +68439,7 @@
     },
     "254": {
       "ativa": false,
-      "atualizada_em": "2026-09-29T19:17:23.304924-03:00",
+      "atualizada_em": "2026-09-29T22:19:58.425516-03:00",
       "coletada_em": "2026-09-29T15:15:46.431559-03:00",
       "desconto_pct": 58,
       "fonte": "promobit",
@@ -68423,6 +68450,20 @@
       "preco_de": 1299.99,
       "produto_id": 124,
       "url": "https://www.promobit.com.br/oferta/tenis-nike-pegasus-plus-feminino-3071950/"
+    },
+    "255": {
+      "ativa": true,
+      "atualizada_em": "2026-09-29T22:19:58.425516-03:00",
+      "coletada_em": "2026-09-29T22:19:58.425516-03:00",
+      "desconto_pct": 45,
+      "fonte": "promobit",
+      "hash_unico": "60386c970bfe28c2e2ac53bc1f923e83",
+      "id": 255,
+      "loja": "Nike",
+      "preco_atual": 549.99,
+      "preco_de": 999.99,
+      "produto_id": 140,
+      "url": "https://www.promobit.com.br/oferta/tenis-nike-pegasus-41-feminino-3073273/"
     },
     "26": {
       "ativa": false,
@@ -69028,7 +69069,7 @@
     },
     "65": {
       "ativa": true,
-      "atualizada_em": "2026-09-29T19:22:38.555267-03:00",
+      "atualizada_em": "2026-09-29T22:25:16.878821-03:00",
       "coletada_em": "2026-06-24T09:43:45.342507-03:00",
       "desconto_pct": 33,
       "fonte": "americanas",
@@ -69973,6 +70014,15 @@
       "marca": "Lola Cosmetics",
       "titulo_normalizado": "milagre creme para pentear 450g lola cosmetics",
       "titulo_original": "Milagre Creme para Pentear 450g , Lola Cosmetics"
+    },
+    "140": {
+      "categoria": "corrida",
+      "criado_em": "2026-09-29T22:19:58.425558-03:00",
+      "id": 140,
+      "imagem_url": "https://i.promobit.com.br/268/513513937017907261117910418320.png",
+      "marca": "Nike",
+      "titulo_normalizado": "tenis nike pegasus 41 feminino",
+      "titulo_original": "Tênis Nike Pegasus 41 Feminino"
     },
     "15": {
       "categoria": "cabelo",
