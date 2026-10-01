@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 259,
-    "produto": 142
+    "oferta": 261,
+    "produto": 143
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-10-01T04:22:28.430013-03:00",
+      "ultima_coleta_em": "2026-10-01T11:37:47.972011-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-10-01T04:21:10.601988-03:00",
+      "ultima_coleta_em": "2026-10-01T11:34:52.152988-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 1,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-10-01T04:21:36.596284-03:00",
+      "ultima_coleta_em": "2026-10-01T11:35:18.246479-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-10-01T04:18:45.544969-03:00",
+      "ultima_coleta_em": "2026-10-01T11:32:20.908174-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-10-01T04:19:34.309470-03:00",
+      "ultima_coleta_em": "2026-10-01T11:33:02.500848-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-10-01T04:17:43.172075-03:00",
+      "ultima_coleta_em": "2026-10-01T11:31:18.376469-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-10-01T04:18:14.465213-03:00",
+      "ultima_coleta_em": "2026-10-01T11:31:49.513860-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-10-01T04:16:18.205135-03:00",
+      "ultima_coleta_em": "2026-10-01T11:29:56.638547-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-10-01T04:15:56.716560-03:00",
+      "ultima_coleta_em": "2026-10-01T11:29:35.340187-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 4,
+      "ultima_coleta_qtd": 6,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-10-01T04:16:53.650065-03:00",
+      "ultima_coleta_em": "2026-10-01T11:30:30.033814-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -64515,6 +64515,41 @@
       "oferta_id": 65,
       "preco": 24.99,
       "registrado_em": "2026-10-01T04:21:10.601858-03:00"
+    },
+    {
+      "oferta_id": 259,
+      "preco": 219.99,
+      "registrado_em": "2026-10-01T11:29:25.222374-03:00"
+    },
+    {
+      "oferta_id": 260,
+      "preco": 403.74,
+      "registrado_em": "2026-10-01T11:29:25.222374-03:00"
+    },
+    {
+      "oferta_id": 258,
+      "preco": 999.99,
+      "registrado_em": "2026-10-01T11:29:25.222374-03:00"
+    },
+    {
+      "oferta_id": 255,
+      "preco": 549.99,
+      "registrado_em": "2026-10-01T11:29:25.222374-03:00"
+    },
+    {
+      "oferta_id": 257,
+      "preco": 20.8,
+      "registrado_em": "2026-10-01T11:29:25.222374-03:00"
+    },
+    {
+      "oferta_id": 256,
+      "preco": 24.14,
+      "registrado_em": "2026-10-01T11:29:25.222374-03:00"
+    },
+    {
+      "oferta_id": 65,
+      "preco": 24.99,
+      "registrado_em": "2026-10-01T11:34:52.152752-03:00"
     }
   ],
   "notificacoes": [
@@ -66195,6 +66230,20 @@
       "enviada_em": "2026-09-30T22:21:42.715008-03:00",
       "erro": null,
       "oferta_id": 258,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-10-01T11:29:31.178007-03:00",
+      "erro": null,
+      "oferta_id": 260,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-10-01T11:29:35.339972-03:00",
+      "erro": null,
+      "oferta_id": 259,
       "sucesso": true,
       "tipo": "nova"
     }
@@ -68511,7 +68560,7 @@
       "url": "https://www.promobit.com.br/oferta/tenis-nike-run-defy-34-ao-40-3063570/"
     },
     "248": {
-      "ativa": true,
+      "ativa": false,
       "atualizada_em": "2026-09-28T03:45:18.721717-03:00",
       "coletada_em": "2026-09-25T12:21:35.194225-03:00",
       "desconto_pct": 53,
@@ -68624,7 +68673,7 @@
     },
     "255": {
       "ativa": true,
-      "atualizada_em": "2026-10-01T04:15:56.716336-03:00",
+      "atualizada_em": "2026-10-01T11:29:25.222374-03:00",
       "coletada_em": "2026-09-29T22:19:58.425516-03:00",
       "desconto_pct": 45,
       "fonte": "promobit",
@@ -68638,7 +68687,7 @@
     },
     "256": {
       "ativa": true,
-      "atualizada_em": "2026-10-01T04:15:56.716336-03:00",
+      "atualizada_em": "2026-10-01T11:29:25.222374-03:00",
       "coletada_em": "2026-09-30T03:50:32.664739-03:00",
       "desconto_pct": 60,
       "fonte": "promobit",
@@ -68652,7 +68701,7 @@
     },
     "257": {
       "ativa": true,
-      "atualizada_em": "2026-10-01T04:15:56.716336-03:00",
+      "atualizada_em": "2026-10-01T11:29:25.222374-03:00",
       "coletada_em": "2026-09-30T15:23:25.734653-03:00",
       "desconto_pct": 54,
       "fonte": "promobit",
@@ -68666,7 +68715,7 @@
     },
     "258": {
       "ativa": true,
-      "atualizada_em": "2026-10-01T04:15:56.716336-03:00",
+      "atualizada_em": "2026-10-01T11:29:25.222374-03:00",
       "coletada_em": "2026-09-30T22:21:37.313796-03:00",
       "desconto_pct": 60,
       "fonte": "promobit",
@@ -68677,6 +68726,20 @@
       "preco_de": 2499.99,
       "produto_id": 141,
       "url": "https://www.promobit.com.br/oferta/tenis-nike-air-zoom-alphafly-3-feminino-3076288/"
+    },
+    "259": {
+      "ativa": true,
+      "atualizada_em": "2026-10-01T11:29:25.222374-03:00",
+      "coletada_em": "2026-10-01T11:29:25.222374-03:00",
+      "desconto_pct": 37,
+      "fonte": "promobit",
+      "hash_unico": "0910e3bf4bb504ab26a63688e7c4630b",
+      "id": 259,
+      "loja": "Centauro",
+      "preco_atual": 219.99,
+      "preco_de": 349.99,
+      "produto_id": 142,
+      "url": "https://www.promobit.com.br/oferta/tenis-feminino-nike-run-defy-3077058/"
     },
     "26": {
       "ativa": false,
@@ -68691,6 +68754,20 @@
       "preco_de": 69.9,
       "produto_id": 6,
       "url": "https://www.promobit.com.br/oferta/tonico-de-crescimento-rapunzel-lola-cosmetics-250ml-2835638/"
+    },
+    "260": {
+      "ativa": true,
+      "atualizada_em": "2026-10-01T11:29:25.222374-03:00",
+      "coletada_em": "2026-10-01T11:29:25.222374-03:00",
+      "desconto_pct": 55,
+      "fonte": "promobit",
+      "hash_unico": "17e28454920ccd3e1e969b482eaa721f",
+      "id": 260,
+      "loja": "Netshoes",
+      "preco_atual": 403.74,
+      "preco_de": 899.99,
+      "produto_id": 129,
+      "url": "https://www.promobit.com.br/oferta/tenis-asics-gel-cumulus-28-feminino-3077060/"
     },
     "27": {
       "ativa": false,
@@ -69282,7 +69359,7 @@
     },
     "65": {
       "ativa": true,
-      "atualizada_em": "2026-10-01T04:21:10.601858-03:00",
+      "atualizada_em": "2026-10-01T11:34:52.152752-03:00",
       "coletada_em": "2026-06-24T09:43:45.342507-03:00",
       "desconto_pct": 33,
       "fonte": "americanas",
@@ -70245,6 +70322,15 @@
       "marca": "Nike",
       "titulo_normalizado": "tenis nike air zoom alphafly 3 feminino",
       "titulo_original": "Tênis Nike Air Zoom Alphafly 3 Feminino"
+    },
+    "142": {
+      "categoria": "corrida",
+      "criado_em": "2026-10-01T11:29:25.222454-03:00",
+      "id": 142,
+      "imagem_url": "https://i.promobit.com.br/268/491713334017908599729891270648.png",
+      "marca": "Nike",
+      "titulo_normalizado": "tenis feminino nike run defy",
+      "titulo_original": "Tênis Feminino Nike Run Defy"
     },
     "15": {
       "categoria": "cabelo",
