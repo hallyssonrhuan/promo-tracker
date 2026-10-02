@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 263,
+    "oferta": 264,
     "produto": 144
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-10-02T16:52:11.488557-03:00",
+      "ultima_coleta_em": "2026-10-02T20:25:18.947061-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-10-02T16:50:30.454234-03:00",
+      "ultima_coleta_em": "2026-10-02T20:22:44.170648-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 1,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-10-02T16:50:56.875325-03:00",
+      "ultima_coleta_em": "2026-10-02T20:23:10.460707-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-10-02T16:48:08.843856-03:00",
+      "ultima_coleta_em": "2026-10-02T20:20:14.242512-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-10-02T16:48:51.218338-03:00",
+      "ultima_coleta_em": "2026-10-02T20:20:56.191923-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-10-02T16:47:05.852122-03:00",
+      "ultima_coleta_em": "2026-10-02T20:19:11.914814-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-10-02T16:47:37.402569-03:00",
+      "ultima_coleta_em": "2026-10-02T20:19:43.073621-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-10-02T16:45:43.338876-03:00",
+      "ultima_coleta_em": "2026-10-02T20:17:49.204800-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,7 +71,7 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-10-02T16:45:21.571891-03:00",
+      "ultima_coleta_em": "2026-10-02T20:17:27.635699-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 4,
       "ultima_coleta_status": "ok"
@@ -79,7 +79,7 @@
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-10-02T16:46:17.120566-03:00",
+      "ultima_coleta_em": "2026-10-02T20:18:23.066401-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -64730,6 +64730,31 @@
       "oferta_id": 65,
       "preco": 24.99,
       "registrado_em": "2026-10-02T16:50:30.454016-03:00"
+    },
+    {
+      "oferta_id": 261,
+      "preco": 27.07,
+      "registrado_em": "2026-10-02T20:17:22.031864-03:00"
+    },
+    {
+      "oferta_id": 263,
+      "preco": 27.9,
+      "registrado_em": "2026-10-02T20:17:22.031864-03:00"
+    },
+    {
+      "oferta_id": 257,
+      "preco": 20.8,
+      "registrado_em": "2026-10-02T20:17:22.031864-03:00"
+    },
+    {
+      "oferta_id": 256,
+      "preco": 24.14,
+      "registrado_em": "2026-10-02T20:17:22.031864-03:00"
+    },
+    {
+      "oferta_id": 65,
+      "preco": 24.99,
+      "registrado_em": "2026-10-02T20:22:44.170500-03:00"
     }
   ],
   "notificacoes": [
@@ -66438,6 +66463,13 @@
       "enviada_em": "2026-10-02T11:58:52.862546-03:00",
       "erro": null,
       "oferta_id": 262,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-10-02T20:17:27.635553-03:00",
+      "erro": null,
+      "oferta_id": 263,
       "sucesso": true,
       "tipo": "nova"
     }
@@ -68881,7 +68913,7 @@
     },
     "256": {
       "ativa": true,
-      "atualizada_em": "2026-10-02T16:45:21.571546-03:00",
+      "atualizada_em": "2026-10-02T20:17:22.031864-03:00",
       "coletada_em": "2026-09-30T03:50:32.664739-03:00",
       "desconto_pct": 60,
       "fonte": "promobit",
@@ -68895,7 +68927,7 @@
     },
     "257": {
       "ativa": true,
-      "atualizada_em": "2026-10-02T16:45:21.571546-03:00",
+      "atualizada_em": "2026-10-02T20:17:22.031864-03:00",
       "coletada_em": "2026-09-30T15:23:25.734653-03:00",
       "desconto_pct": 54,
       "fonte": "promobit",
@@ -68965,7 +68997,7 @@
     },
     "261": {
       "ativa": true,
-      "atualizada_em": "2026-10-02T16:45:21.571546-03:00",
+      "atualizada_em": "2026-10-02T20:17:22.031864-03:00",
       "coletada_em": "2026-10-01T20:25:20.000702-03:00",
       "desconto_pct": 46,
       "fonte": "promobit",
@@ -68990,6 +69022,20 @@
       "preco_de": 74.56,
       "produto_id": 143,
       "url": "https://www.promobit.com.br/oferta/conjunto-moletinho-infantil-tam-2-a-10-anos-3-cores-3079568/"
+    },
+    "263": {
+      "ativa": true,
+      "atualizada_em": "2026-10-02T20:17:22.031864-03:00",
+      "coletada_em": "2026-10-02T20:17:22.031864-03:00",
+      "desconto_pct": 57,
+      "fonte": "promobit",
+      "hash_unico": "1de778a44fe1fd695519c7a581fe1d1f",
+      "id": 263,
+      "loja": "Amazon",
+      "preco_atual": 27.9,
+      "preco_de": 64.9,
+      "produto_id": 90,
+      "url": "https://www.promobit.com.br/oferta/meu-cacho-minha-vida-mascara-450g-lola-cosmetics-3081215/"
     },
     "27": {
       "ativa": false,
@@ -69581,7 +69627,7 @@
     },
     "65": {
       "ativa": true,
-      "atualizada_em": "2026-10-02T16:50:30.454016-03:00",
+      "atualizada_em": "2026-10-02T20:22:44.170500-03:00",
       "coletada_em": "2026-06-24T09:43:45.342507-03:00",
       "desconto_pct": 33,
       "fonte": "americanas",
