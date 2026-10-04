@@ -7,7 +7,7 @@
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-10-03T21:55:07.036001-03:00",
+      "ultima_coleta_em": "2026-10-04T03:32:12.588323-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-10-03T21:52:10.259908-03:00",
+      "ultima_coleta_em": "2026-10-04T03:29:16.451005-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 1,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-10-03T21:52:36.388309-03:00",
+      "ultima_coleta_em": "2026-10-04T03:29:42.599750-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-10-03T21:50:06.412824-03:00",
+      "ultima_coleta_em": "2026-10-04T03:27:01.512257-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-10-03T21:50:48.658518-03:00",
+      "ultima_coleta_em": "2026-10-04T03:27:43.669752-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-10-03T21:49:02.464120-03:00",
+      "ultima_coleta_em": "2026-10-04T03:25:57.942759-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-10-03T21:49:35.251309-03:00",
+      "ultima_coleta_em": "2026-10-04T03:26:30.356472-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-10-03T21:47:40.113512-03:00",
+      "ultima_coleta_em": "2026-10-04T03:24:35.365936-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-10-03T21:47:18.766315-03:00",
+      "ultima_coleta_em": "2026-10-04T03:24:14.035354-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 4,
+      "ultima_coleta_qtd": 3,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-10-03T21:48:13.814480-03:00",
+      "ultima_coleta_em": "2026-10-04T03:25:09.281947-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -64915,6 +64915,26 @@
       "oferta_id": 65,
       "preco": 24.99,
       "registrado_em": "2026-10-03T21:52:10.259708-03:00"
+    },
+    {
+      "oferta_id": 264,
+      "preco": 436.99,
+      "registrado_em": "2026-10-04T03:24:14.035041-03:00"
+    },
+    {
+      "oferta_id": 261,
+      "preco": 27.07,
+      "registrado_em": "2026-10-04T03:24:14.035041-03:00"
+    },
+    {
+      "oferta_id": 263,
+      "preco": 27.9,
+      "registrado_em": "2026-10-04T03:24:14.035041-03:00"
+    },
+    {
+      "oferta_id": 65,
+      "preco": 24.99,
+      "registrado_em": "2026-10-04T03:29:16.450765-03:00"
     }
   ],
   "notificacoes": [
@@ -68876,8 +68896,8 @@
       "url": "https://www.promobit.com.br/oferta/tenis-nike-zoom-fly-6-feminino-3056739/"
     },
     "243": {
-      "ativa": true,
-      "atualizada_em": "2026-09-24T07:33:51.457998-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-10-04T03:32:16.939677-03:00",
       "coletada_em": "2026-09-23T09:15:53.077345-03:00",
       "desconto_pct": 56,
       "fonte": "promobit",
@@ -69086,8 +69106,8 @@
       "url": "https://www.promobit.com.br/oferta/rapunzel-milk-leave-in-spray-250ml-lola-cosmetics-3073460/"
     },
     "257": {
-      "ativa": true,
-      "atualizada_em": "2026-10-03T21:47:18.765897-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-10-04T03:32:41.638421-03:00",
       "coletada_em": "2026-09-30T15:23:25.734653-03:00",
       "desconto_pct": 54,
       "fonte": "promobit",
@@ -69157,7 +69177,7 @@
     },
     "261": {
       "ativa": true,
-      "atualizada_em": "2026-10-03T21:47:18.765897-03:00",
+      "atualizada_em": "2026-10-04T03:24:14.035041-03:00",
       "coletada_em": "2026-10-01T20:25:20.000702-03:00",
       "desconto_pct": 46,
       "fonte": "promobit",
@@ -69185,7 +69205,7 @@
     },
     "263": {
       "ativa": true,
-      "atualizada_em": "2026-10-03T21:47:18.765897-03:00",
+      "atualizada_em": "2026-10-04T03:24:14.035041-03:00",
       "coletada_em": "2026-10-02T20:17:22.031864-03:00",
       "desconto_pct": 57,
       "fonte": "promobit",
@@ -69199,7 +69219,7 @@
     },
     "264": {
       "ativa": false,
-      "atualizada_em": "2026-10-03T21:47:18.765897-03:00",
+      "atualizada_em": "2026-10-04T03:24:14.035041-03:00",
       "coletada_em": "2026-10-03T16:30:38.363714-03:00",
       "desconto_pct": 51,
       "fonte": "promobit",
@@ -69801,7 +69821,7 @@
     },
     "65": {
       "ativa": true,
-      "atualizada_em": "2026-10-03T21:52:10.259708-03:00",
+      "atualizada_em": "2026-10-04T03:29:16.450765-03:00",
       "coletada_em": "2026-06-24T09:43:45.342507-03:00",
       "desconto_pct": 33,
       "fonte": "americanas",
