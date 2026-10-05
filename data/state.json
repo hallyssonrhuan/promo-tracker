@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 268,
-    "produto": 144
+    "oferta": 269,
+    "produto": 145
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-10-05T12:49:27.517926-03:00",
+      "ultima_coleta_em": "2026-10-05T19:18:57.233657-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-10-05T12:48:09.518550-03:00",
+      "ultima_coleta_em": "2026-10-05T19:17:37.983989-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 1,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-10-05T12:48:35.449061-03:00",
+      "ultima_coleta_em": "2026-10-05T19:18:04.311482-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-10-05T12:45:38.578511-03:00",
+      "ultima_coleta_em": "2026-10-05T19:14:56.209183-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-10-05T12:46:20.629448-03:00",
+      "ultima_coleta_em": "2026-10-05T19:15:39.087948-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-10-05T12:44:35.155760-03:00",
+      "ultima_coleta_em": "2026-10-05T19:13:53.502403-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-10-05T12:45:07.405089-03:00",
+      "ultima_coleta_em": "2026-10-05T19:14:24.976343-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-10-05T12:43:12.790049-03:00",
+      "ultima_coleta_em": "2026-10-05T19:12:29.708496-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,7 +71,7 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-10-05T12:42:51.042210-03:00",
+      "ultima_coleta_em": "2026-10-05T19:12:08.234540-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 5,
       "ultima_coleta_status": "ok"
@@ -79,7 +79,7 @@
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-10-05T12:43:46.524562-03:00",
+      "ultima_coleta_em": "2026-10-05T19:13:04.211817-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -65140,6 +65140,36 @@
       "oferta_id": 65,
       "preco": 24.99,
       "registrado_em": "2026-10-05T12:48:09.518383-03:00"
+    },
+    {
+      "oferta_id": 265,
+      "preco": 522.49,
+      "registrado_em": "2026-10-05T19:12:08.234112-03:00"
+    },
+    {
+      "oferta_id": 266,
+      "preco": 529.99,
+      "registrado_em": "2026-10-05T19:12:08.234112-03:00"
+    },
+    {
+      "oferta_id": 267,
+      "preco": 22.0,
+      "registrado_em": "2026-10-05T19:12:08.234112-03:00"
+    },
+    {
+      "oferta_id": 263,
+      "preco": 27.9,
+      "registrado_em": "2026-10-05T19:12:08.234112-03:00"
+    },
+    {
+      "oferta_id": 268,
+      "preco": 79.4,
+      "registrado_em": "2026-10-05T19:12:08.234112-03:00"
+    },
+    {
+      "oferta_id": 65,
+      "preco": 24.99,
+      "registrado_em": "2026-10-05T19:17:37.983724-03:00"
     }
   ],
   "notificacoes": [
@@ -69417,7 +69447,7 @@
     },
     "263": {
       "ativa": true,
-      "atualizada_em": "2026-10-05T12:42:51.041866-03:00",
+      "atualizada_em": "2026-10-05T19:12:08.234112-03:00",
       "coletada_em": "2026-10-02T20:17:22.031864-03:00",
       "desconto_pct": 57,
       "fonte": "promobit",
@@ -69445,7 +69475,7 @@
     },
     "265": {
       "ativa": false,
-      "atualizada_em": "2026-10-05T12:42:51.041866-03:00",
+      "atualizada_em": "2026-10-05T19:12:08.234112-03:00",
       "coletada_em": "2026-10-04T13:58:38.323246-03:00",
       "desconto_pct": 42,
       "fonte": "promobit",
@@ -69459,7 +69489,7 @@
     },
     "266": {
       "ativa": false,
-      "atualizada_em": "2026-10-05T12:42:51.041866-03:00",
+      "atualizada_em": "2026-10-05T19:12:08.234112-03:00",
       "coletada_em": "2026-10-04T13:58:38.323246-03:00",
       "desconto_pct": 59,
       "fonte": "promobit",
@@ -69473,7 +69503,7 @@
     },
     "267": {
       "ativa": true,
-      "atualizada_em": "2026-10-05T12:42:51.041866-03:00",
+      "atualizada_em": "2026-10-05T19:12:08.234112-03:00",
       "coletada_em": "2026-10-04T16:54:22.746667-03:00",
       "desconto_pct": 63,
       "fonte": "promobit",
@@ -69484,6 +69514,20 @@
       "preco_de": 59.9,
       "produto_id": 2,
       "url": "https://www.promobit.com.br/oferta/rapunzel-milk-leave-in-spray-250ml-lola-cosmetics-3084307/"
+    },
+    "268": {
+      "ativa": true,
+      "atualizada_em": "2026-10-05T19:12:08.234112-03:00",
+      "coletada_em": "2026-10-05T19:12:08.234112-03:00",
+      "desconto_pct": 12,
+      "fonte": "promobit",
+      "hash_unico": "c551d4a230e5d87624c71051f948dbbd",
+      "id": 268,
+      "loja": "Shopee",
+      "preco_atual": 79.4,
+      "preco_de": 90.23,
+      "produto_id": 144,
+      "url": "https://www.promobit.com.br/oferta/kit-5-bermuda-moletinho-infantil-tam-2-a-12-anos-3087182/"
     },
     "27": {
       "ativa": false,
@@ -70075,7 +70119,7 @@
     },
     "65": {
       "ativa": true,
-      "atualizada_em": "2026-10-05T12:48:09.518383-03:00",
+      "atualizada_em": "2026-10-05T19:17:37.983724-03:00",
       "coletada_em": "2026-06-24T09:43:45.342507-03:00",
       "desconto_pct": 33,
       "fonte": "americanas",
@@ -71056,6 +71100,15 @@
       "marca": "Roupa infantil masc",
       "titulo_normalizado": "conjunto moletinho infantil (tam 2 a 10 anos 3 cores)",
       "titulo_original": "Conjunto Moletinho Infantil (Tam. 2 a 10 anos, 3 Cores)"
+    },
+    "144": {
+      "categoria": "infantil",
+      "criado_em": "2026-10-05T19:12:08.234423-03:00",
+      "id": 144,
+      "imagem_url": "https://i.promobit.com.br/268/889273661117912259156168656111.jpg",
+      "marca": "Roupa infantil masc",
+      "titulo_normalizado": "kit 5 bermuda moletinho infantil (tam 2 a 12 anos)",
+      "titulo_original": "Kit 5 Bermuda Moletinho Infantil (Tam. 2 a 12 anos)"
     },
     "15": {
       "categoria": "cabelo",
