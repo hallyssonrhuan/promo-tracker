@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 269,
-    "produto": 145
+    "oferta": 271,
+    "produto": 146
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-10-06T06:10:20.128863-03:00",
+      "ultima_coleta_em": "2026-10-06T12:58:04.118541-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-10-06T06:09:00.860530-03:00",
+      "ultima_coleta_em": "2026-10-06T12:56:44.769796-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 1,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-10-06T06:09:27.221655-03:00",
+      "ultima_coleta_em": "2026-10-06T12:57:10.934611-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-10-06T06:06:46.857418-03:00",
+      "ultima_coleta_em": "2026-10-06T12:54:17.338315-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-10-06T06:07:28.741403-03:00",
+      "ultima_coleta_em": "2026-10-06T12:54:58.994654-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-10-06T06:05:44.167554-03:00",
+      "ultima_coleta_em": "2026-10-06T12:53:14.912741-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-10-06T06:06:15.545171-03:00",
+      "ultima_coleta_em": "2026-10-06T12:53:46.158656-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-10-06T06:04:19.927891-03:00",
+      "ultima_coleta_em": "2026-10-06T12:51:51.403653-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,7 +71,7 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-10-06T06:03:58.432759-03:00",
+      "ultima_coleta_em": "2026-10-06T12:51:30.014355-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 4,
       "ultima_coleta_status": "ok"
@@ -79,7 +79,7 @@
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-10-06T06:04:54.678268-03:00",
+      "ultima_coleta_em": "2026-10-06T12:52:25.644194-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -65220,6 +65220,31 @@
       "oferta_id": 65,
       "preco": 24.99,
       "registrado_em": "2026-10-06T06:09:00.860302-03:00"
+    },
+    {
+      "oferta_id": 269,
+      "preco": 229.5,
+      "registrado_em": "2026-10-06T12:51:18.768572-03:00"
+    },
+    {
+      "oferta_id": 270,
+      "preco": 213.0,
+      "registrado_em": "2026-10-06T12:51:18.768572-03:00"
+    },
+    {
+      "oferta_id": 267,
+      "preco": 22.0,
+      "registrado_em": "2026-10-06T12:51:18.768572-03:00"
+    },
+    {
+      "oferta_id": 263,
+      "preco": 27.9,
+      "registrado_em": "2026-10-06T12:51:18.768572-03:00"
+    },
+    {
+      "oferta_id": 65,
+      "preco": 24.99,
+      "registrado_em": "2026-10-06T12:56:44.769588-03:00"
     }
   ],
   "notificacoes": [
@@ -66942,6 +66967,20 @@
       "enviada_em": "2026-10-04T16:54:28.560717-03:00",
       "erro": null,
       "oferta_id": 267,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-10-06T12:51:25.533355-03:00",
+      "erro": null,
+      "oferta_id": 269,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-10-06T12:51:30.014094-03:00",
+      "erro": null,
+      "oferta_id": 270,
       "sucesso": true,
       "tipo": "nova"
     }
@@ -69497,7 +69536,7 @@
     },
     "263": {
       "ativa": true,
-      "atualizada_em": "2026-10-06T06:03:58.432342-03:00",
+      "atualizada_em": "2026-10-06T12:51:18.768572-03:00",
       "coletada_em": "2026-10-02T20:17:22.031864-03:00",
       "desconto_pct": 57,
       "fonte": "promobit",
@@ -69553,7 +69592,7 @@
     },
     "267": {
       "ativa": true,
-      "atualizada_em": "2026-10-06T06:03:58.432342-03:00",
+      "atualizada_em": "2026-10-06T12:51:18.768572-03:00",
       "coletada_em": "2026-10-04T16:54:22.746667-03:00",
       "desconto_pct": 63,
       "fonte": "promobit",
@@ -69579,6 +69618,20 @@
       "produto_id": 144,
       "url": "https://www.promobit.com.br/oferta/kit-5-bermuda-moletinho-infantil-tam-2-a-12-anos-3087182/"
     },
+    "269": {
+      "ativa": true,
+      "atualizada_em": "2026-10-06T12:51:18.768572-03:00",
+      "coletada_em": "2026-10-06T12:51:18.768572-03:00",
+      "desconto_pct": 49,
+      "fonte": "promobit",
+      "hash_unico": "50977c891ebc768e0907cb1faaef922a",
+      "id": 269,
+      "loja": "Mercado Livre",
+      "preco_atual": 229.5,
+      "preco_de": 449.99,
+      "produto_id": 145,
+      "url": "https://www.promobit.com.br/oferta/tenis-run-72-adidas-3089627/"
+    },
     "27": {
       "ativa": false,
       "atualizada_em": "2026-05-25T10:50:49.582446-03:00",
@@ -69592,6 +69645,20 @@
       "preco_de": 899.99,
       "produto_id": 23,
       "url": "https://www.promobit.com.br/oferta/tenis-adidas-adizero-drive-rc-corrida-leve-energy-rods-neon-2835958/"
+    },
+    "270": {
+      "ativa": true,
+      "atualizada_em": "2026-10-06T12:51:18.768572-03:00",
+      "coletada_em": "2026-10-06T12:51:18.768572-03:00",
+      "desconto_pct": 39,
+      "fonte": "promobit",
+      "hash_unico": "d35460508b8629dcc496de2ade97e712",
+      "id": 270,
+      "loja": "Centauro",
+      "preco_atual": 213.0,
+      "preco_de": 349.99,
+      "produto_id": 136,
+      "url": "https://www.promobit.com.br/oferta/tenis-nike-run-defy-34-ao-40-3089458/"
     },
     "28": {
       "ativa": false,
@@ -70169,7 +70236,7 @@
     },
     "65": {
       "ativa": true,
-      "atualizada_em": "2026-10-06T06:09:00.860302-03:00",
+      "atualizada_em": "2026-10-06T12:56:44.769588-03:00",
       "coletada_em": "2026-06-24T09:43:45.342507-03:00",
       "desconto_pct": 33,
       "fonte": "americanas",
@@ -71159,6 +71226,15 @@
       "marca": "Roupa infantil masc",
       "titulo_normalizado": "kit 5 bermuda moletinho infantil (tam 2 a 12 anos)",
       "titulo_original": "Kit 5 Bermuda Moletinho Infantil (Tam. 2 a 12 anos)"
+    },
+    "145": {
+      "categoria": "corrida",
+      "criado_em": "2026-10-06T12:51:18.768632-03:00",
+      "id": 145,
+      "imagem_url": "https://i.promobit.com.br/268/601146490417913010956018169874.png",
+      "marca": "Adidas",
+      "titulo_normalizado": "tenis run 72 adidas",
+      "titulo_original": "Tênis Run 72 Adidas"
     },
     "15": {
       "categoria": "cabelo",
