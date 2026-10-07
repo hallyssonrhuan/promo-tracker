@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 273,
-    "produto": 146
+    "oferta": 275,
+    "produto": 148
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-10-07T09:08:31.209869-03:00",
+      "ultima_coleta_em": "2026-10-07T15:53:48.649703-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-10-07T09:07:12.581313-03:00",
+      "ultima_coleta_em": "2026-10-07T15:52:29.936896-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 1,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-10-07T09:07:38.755151-03:00",
+      "ultima_coleta_em": "2026-10-07T15:52:56.221790-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-10-07T09:04:49.142445-03:00",
+      "ultima_coleta_em": "2026-10-07T15:49:56.709998-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-10-07T09:05:30.909302-03:00",
+      "ultima_coleta_em": "2026-10-07T15:50:38.645223-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-10-07T09:03:46.788327-03:00",
+      "ultima_coleta_em": "2026-10-07T15:48:50.150896-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-10-07T09:04:18.081178-03:00",
+      "ultima_coleta_em": "2026-10-07T15:49:25.330463-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-10-07T09:02:24.976474-03:00",
+      "ultima_coleta_em": "2026-10-07T15:47:27.408799-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,7 +71,7 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-10-07T09:02:03.621811-03:00",
+      "ultima_coleta_em": "2026-10-07T15:47:05.568640-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 6,
       "ultima_coleta_status": "ok"
@@ -79,7 +79,7 @@
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-10-07T09:02:58.390070-03:00",
+      "ultima_coleta_em": "2026-10-07T15:48:01.389744-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -65375,6 +65375,41 @@
       "oferta_id": 65,
       "preco": 24.99,
       "registrado_em": "2026-10-07T09:07:12.581084-03:00"
+    },
+    {
+      "oferta_id": 273,
+      "preco": 662.0,
+      "registrado_em": "2026-10-07T15:46:55.135173-03:00"
+    },
+    {
+      "oferta_id": 274,
+      "preco": 25.52,
+      "registrado_em": "2026-10-07T15:46:55.135173-03:00"
+    },
+    {
+      "oferta_id": 271,
+      "preco": 22.9,
+      "registrado_em": "2026-10-07T15:46:55.135173-03:00"
+    },
+    {
+      "oferta_id": 272,
+      "preco": 19.69,
+      "registrado_em": "2026-10-07T15:46:55.135173-03:00"
+    },
+    {
+      "oferta_id": 267,
+      "preco": 22.0,
+      "registrado_em": "2026-10-07T15:46:55.135173-03:00"
+    },
+    {
+      "oferta_id": 263,
+      "preco": 27.9,
+      "registrado_em": "2026-10-07T15:46:55.135173-03:00"
+    },
+    {
+      "oferta_id": 65,
+      "preco": 24.99,
+      "registrado_em": "2026-10-07T15:52:29.936761-03:00"
     }
   ],
   "notificacoes": [
@@ -67125,6 +67160,20 @@
       "enviada_em": "2026-10-06T21:05:17.248371-03:00",
       "erro": null,
       "oferta_id": 271,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-10-07T15:46:59.985630-03:00",
+      "erro": null,
+      "oferta_id": 273,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-10-07T15:47:05.568401-03:00",
+      "erro": null,
+      "oferta_id": 274,
       "sucesso": true,
       "tipo": "nova"
     }
@@ -69680,7 +69729,7 @@
     },
     "263": {
       "ativa": true,
-      "atualizada_em": "2026-10-07T09:02:03.621284-03:00",
+      "atualizada_em": "2026-10-07T15:46:55.135173-03:00",
       "coletada_em": "2026-10-02T20:17:22.031864-03:00",
       "desconto_pct": 57,
       "fonte": "promobit",
@@ -69736,7 +69785,7 @@
     },
     "267": {
       "ativa": false,
-      "atualizada_em": "2026-10-07T09:02:03.621284-03:00",
+      "atualizada_em": "2026-10-07T15:46:55.135173-03:00",
       "coletada_em": "2026-10-04T16:54:22.746667-03:00",
       "desconto_pct": 63,
       "fonte": "promobit",
@@ -69763,8 +69812,8 @@
       "url": "https://www.promobit.com.br/oferta/kit-5-bermuda-moletinho-infantil-tam-2-a-12-anos-3087182/"
     },
     "269": {
-      "ativa": true,
-      "atualizada_em": "2026-10-07T09:02:03.621284-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-10-07T15:54:33.541836-03:00",
       "coletada_em": "2026-10-06T12:51:18.768572-03:00",
       "desconto_pct": 49,
       "fonte": "promobit",
@@ -69806,7 +69855,7 @@
     },
     "271": {
       "ativa": true,
-      "atualizada_em": "2026-10-07T09:02:03.621284-03:00",
+      "atualizada_em": "2026-10-07T15:46:55.135173-03:00",
       "coletada_em": "2026-10-06T21:05:07.955404-03:00",
       "desconto_pct": 65,
       "fonte": "promobit",
@@ -69820,7 +69869,7 @@
     },
     "272": {
       "ativa": true,
-      "atualizada_em": "2026-10-07T09:02:03.621284-03:00",
+      "atualizada_em": "2026-10-07T15:46:55.135173-03:00",
       "coletada_em": "2026-10-06T21:05:07.955404-03:00",
       "desconto_pct": 67,
       "fonte": "promobit",
@@ -69831,6 +69880,34 @@
       "preco_de": 59.9,
       "produto_id": 2,
       "url": "https://www.promobit.com.br/oferta/rapunzel-milk-leave-in-spray-250ml-lola-cosmetics-3090854/"
+    },
+    "273": {
+      "ativa": true,
+      "atualizada_em": "2026-10-07T15:46:55.135173-03:00",
+      "coletada_em": "2026-10-07T15:46:55.135173-03:00",
+      "desconto_pct": 56,
+      "fonte": "promobit",
+      "hash_unico": "4c9b0f71443877b6e92572d2547a7ffc",
+      "id": 273,
+      "loja": "Nike",
+      "preco_atual": 662.0,
+      "preco_de": 1499.99,
+      "produto_id": 146,
+      "url": "https://www.promobit.com.br/oferta/tenis-nike-zoom-fly-6-34-ao-37-3092386/"
+    },
+    "274": {
+      "ativa": true,
+      "atualizada_em": "2026-10-07T15:46:55.135173-03:00",
+      "coletada_em": "2026-10-07T15:46:55.135173-03:00",
+      "desconto_pct": 49,
+      "fonte": "promobit",
+      "hash_unico": "a1f2e4a1c206e3785b4f97441fdf6198",
+      "id": 274,
+      "loja": "Amazon",
+      "preco_atual": 25.52,
+      "preco_de": 49.9,
+      "produto_id": 147,
+      "url": "https://www.promobit.com.br/oferta/bem-dita-praia-creme-protetor-lola-cosmetics-3092974/"
     },
     "28": {
       "ativa": false,
@@ -70408,7 +70485,7 @@
     },
     "65": {
       "ativa": true,
-      "atualizada_em": "2026-10-07T09:07:12.581084-03:00",
+      "atualizada_em": "2026-10-07T15:52:29.936761-03:00",
       "coletada_em": "2026-06-24T09:43:45.342507-03:00",
       "desconto_pct": 33,
       "fonte": "americanas",
@@ -71407,6 +71484,24 @@
       "marca": "Adidas",
       "titulo_normalizado": "tenis run 72 adidas",
       "titulo_original": "Tênis Run 72 Adidas"
+    },
+    "146": {
+      "categoria": "corrida",
+      "criado_em": "2026-10-07T15:46:55.135224-03:00",
+      "id": 146,
+      "imagem_url": "https://i.promobit.com.br/268/413757869617913825828901357095.jpg",
+      "marca": "Nike",
+      "titulo_normalizado": "tenis nike zoom fly 6 (34 ao 37)",
+      "titulo_original": "Tênis Nike Zoom Fly 6 (34 ao 37)"
+    },
+    "147": {
+      "categoria": "cabelo",
+      "criado_em": "2026-10-07T15:46:55.135330-03:00",
+      "id": 147,
+      "imagem_url": "https://i.promobit.com.br/268/314218382617913926485094693489.jpg",
+      "marca": "Lola Cosmetics",
+      "titulo_normalizado": "bem dita praia creme protetor lola cosmetics",
+      "titulo_original": "Bem Dita Praia, Creme Protetor, Lola Cosmetics"
     },
     "15": {
       "categoria": "cabelo",
