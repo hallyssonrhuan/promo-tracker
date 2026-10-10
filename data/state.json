@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 281,
-    "produto": 149
+    "oferta": 282,
+    "produto": 150
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-10-10T16:03:37.864896-03:00",
+      "ultima_coleta_em": "2026-10-10T19:14:46.875919-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-10-10T16:02:19.925336-03:00",
+      "ultima_coleta_em": "2026-10-10T19:13:28.274174-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 1,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-10-10T16:02:45.919366-03:00",
+      "ultima_coleta_em": "2026-10-10T19:13:54.284680-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-10-10T15:59:49.854618-03:00",
+      "ultima_coleta_em": "2026-10-10T19:10:47.355471-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-10-10T16:00:31.169624-03:00",
+      "ultima_coleta_em": "2026-10-10T19:11:29.566205-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-10-10T15:58:45.382581-03:00",
+      "ultima_coleta_em": "2026-10-10T19:09:44.819793-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-10-10T15:59:18.683547-03:00",
+      "ultima_coleta_em": "2026-10-10T19:10:16.109250-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-10-10T15:57:21.878030-03:00",
+      "ultima_coleta_em": "2026-10-10T19:08:20.990071-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,7 +71,7 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-10-10T15:57:00.484603-03:00",
+      "ultima_coleta_em": "2026-10-10T19:07:59.493257-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 8,
       "ultima_coleta_status": "ok"
@@ -79,7 +79,7 @@
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-10-10T15:57:56.112821-03:00",
+      "ultima_coleta_em": "2026-10-10T19:08:55.660833-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -65960,6 +65960,51 @@
       "oferta_id": 65,
       "preco": 24.99,
       "registrado_em": "2026-10-10T16:02:19.925154-03:00"
+    },
+    {
+      "oferta_id": 278,
+      "preco": 398.99,
+      "registrado_em": "2026-10-10T19:07:54.611362-03:00"
+    },
+    {
+      "oferta_id": 276,
+      "preco": 218.0,
+      "registrado_em": "2026-10-10T19:07:54.611362-03:00"
+    },
+    {
+      "oferta_id": 281,
+      "preco": 25.52,
+      "registrado_em": "2026-10-10T19:07:54.611362-03:00"
+    },
+    {
+      "oferta_id": 279,
+      "preco": 25.32,
+      "registrado_em": "2026-10-10T19:07:54.611362-03:00"
+    },
+    {
+      "oferta_id": 280,
+      "preco": 22.9,
+      "registrado_em": "2026-10-10T19:07:54.611362-03:00"
+    },
+    {
+      "oferta_id": 275,
+      "preco": 119.29,
+      "registrado_em": "2026-10-10T19:07:54.611362-03:00"
+    },
+    {
+      "oferta_id": 274,
+      "preco": 25.52,
+      "registrado_em": "2026-10-10T19:07:54.611362-03:00"
+    },
+    {
+      "oferta_id": 263,
+      "preco": 27.9,
+      "registrado_em": "2026-10-10T19:07:54.611362-03:00"
+    },
+    {
+      "oferta_id": 65,
+      "preco": 24.99,
+      "registrado_em": "2026-10-10T19:13:28.273980-03:00"
     }
   ],
   "notificacoes": [
@@ -67766,6 +67811,13 @@
       "enviada_em": "2026-10-10T15:57:00.484441-03:00",
       "erro": null,
       "oferta_id": 280,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-10-10T19:07:59.493087-03:00",
+      "erro": null,
+      "oferta_id": 281,
       "sucesso": true,
       "tipo": "nova"
     }
@@ -70321,7 +70373,7 @@
     },
     "263": {
       "ativa": true,
-      "atualizada_em": "2026-10-10T15:56:55.524445-03:00",
+      "atualizada_em": "2026-10-10T19:07:54.611362-03:00",
       "coletada_em": "2026-10-02T20:17:22.031864-03:00",
       "desconto_pct": 57,
       "fonte": "promobit",
@@ -70489,7 +70541,7 @@
     },
     "274": {
       "ativa": true,
-      "atualizada_em": "2026-10-10T15:56:55.524445-03:00",
+      "atualizada_em": "2026-10-10T19:07:54.611362-03:00",
       "coletada_em": "2026-10-07T15:46:55.135173-03:00",
       "desconto_pct": 49,
       "fonte": "promobit",
@@ -70503,7 +70555,7 @@
     },
     "275": {
       "ativa": true,
-      "atualizada_em": "2026-10-10T15:56:55.524445-03:00",
+      "atualizada_em": "2026-10-10T19:07:54.611362-03:00",
       "coletada_em": "2026-10-07T20:25:24.714251-03:00",
       "desconto_pct": 52,
       "fonte": "promobit",
@@ -70517,7 +70569,7 @@
     },
     "276": {
       "ativa": true,
-      "atualizada_em": "2026-10-10T15:56:55.524445-03:00",
+      "atualizada_em": "2026-10-10T19:07:54.611362-03:00",
       "coletada_em": "2026-10-08T22:22:48.252623-03:00",
       "desconto_pct": 52,
       "fonte": "promobit",
@@ -70545,7 +70597,7 @@
     },
     "278": {
       "ativa": true,
-      "atualizada_em": "2026-10-10T15:56:55.524445-03:00",
+      "atualizada_em": "2026-10-10T19:07:54.611362-03:00",
       "coletada_em": "2026-10-10T11:51:06.643230-03:00",
       "desconto_pct": 43,
       "fonte": "promobit",
@@ -70559,7 +70611,7 @@
     },
     "279": {
       "ativa": true,
-      "atualizada_em": "2026-10-10T15:56:55.524445-03:00",
+      "atualizada_em": "2026-10-10T19:07:54.611362-03:00",
       "coletada_em": "2026-10-10T11:51:06.643230-03:00",
       "desconto_pct": 49,
       "fonte": "promobit",
@@ -70587,7 +70639,7 @@
     },
     "280": {
       "ativa": true,
-      "atualizada_em": "2026-10-10T15:56:55.524445-03:00",
+      "atualizada_em": "2026-10-10T19:07:54.611362-03:00",
       "coletada_em": "2026-10-10T15:56:55.524445-03:00",
       "desconto_pct": 65,
       "fonte": "promobit",
@@ -70598,6 +70650,20 @@
       "preco_de": 64.9,
       "produto_id": 14,
       "url": "https://www.promobit.com.br/oferta/milagre-creme-para-pentear-450g-lola-cosmetics-3103714/"
+    },
+    "281": {
+      "ativa": true,
+      "atualizada_em": "2026-10-10T19:07:54.611362-03:00",
+      "coletada_em": "2026-10-10T19:07:54.611362-03:00",
+      "desconto_pct": 36,
+      "fonte": "promobit",
+      "hash_unico": "2fef930aa21261051512d7920939e868",
+      "id": 281,
+      "loja": "Amazon",
+      "preco_atual": 25.52,
+      "preco_de": 39.9,
+      "produto_id": 149,
+      "url": "https://www.promobit.com.br/oferta/dream-cream-shampoo-250ml-lola-cosmetics-3104989/"
     },
     "29": {
       "ativa": false,
@@ -71161,7 +71227,7 @@
     },
     "65": {
       "ativa": true,
-      "atualizada_em": "2026-10-10T16:02:19.925154-03:00",
+      "atualizada_em": "2026-10-10T19:13:28.273980-03:00",
       "coletada_em": "2026-06-24T09:43:45.342507-03:00",
       "desconto_pct": 33,
       "fonte": "americanas",
@@ -72187,6 +72253,15 @@
       "marca": "Lola Cosmetics",
       "titulo_normalizado": "dream cream mascara profissional 3kg lola cosmetics",
       "titulo_original": "Dream Cream Máscara Profissional 3kg, Lola Cosmetics"
+    },
+    "149": {
+      "categoria": "cabelo",
+      "criado_em": "2026-10-10T19:07:54.611564-03:00",
+      "id": 149,
+      "imagem_url": "https://i.promobit.com.br/268/682121420417916621699468203060.jpg",
+      "marca": "Lola Cosmetics",
+      "titulo_normalizado": "dream cream shampoo 250ml lola cosmetics",
+      "titulo_original": "Dream Cream Shampoo 250ml Lola Cosmetics"
     },
     "15": {
       "categoria": "cabelo",
