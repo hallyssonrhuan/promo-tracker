@@ -7,7 +7,7 @@
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-10-22T21:59:06.255903-03:00",
+      "ultima_coleta_em": "2026-10-23T02:31:46.425387-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-10-22T21:57:46.259388-03:00",
+      "ultima_coleta_em": "2026-10-23T02:30:25.359982-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 4,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-10-22T21:58:12.559128-03:00",
+      "ultima_coleta_em": "2026-10-23T02:30:51.534785-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-10-22T21:55:25.591296-03:00",
+      "ultima_coleta_em": "2026-10-23T02:28:14.194656-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-10-22T21:56:07.676179-03:00",
+      "ultima_coleta_em": "2026-10-23T02:28:57.313839-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-10-22T21:54:22.368354-03:00",
+      "ultima_coleta_em": "2026-10-23T02:27:10.003222-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-10-22T21:54:53.926187-03:00",
+      "ultima_coleta_em": "2026-10-23T02:27:42.941977-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-10-22T21:52:58.256242-03:00",
+      "ultima_coleta_em": "2026-10-23T02:25:48.049953-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-10-22T21:52:36.603553-03:00",
+      "ultima_coleta_em": "2026-10-23T02:25:26.644953-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 2,
+      "ultima_coleta_qtd": 1,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-10-22T21:53:33.189238-03:00",
+      "ultima_coleta_em": "2026-10-23T02:26:21.525510-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -69135,6 +69135,31 @@
       "oferta_id": 93,
       "preco": 39.99,
       "registrado_em": "2026-10-22T21:57:46.258982-03:00"
+    },
+    {
+      "oferta_id": 301,
+      "preco": 93.0,
+      "registrado_em": "2026-10-23T02:25:26.644698-03:00"
+    },
+    {
+      "oferta_id": 65,
+      "preco": 23.99,
+      "registrado_em": "2026-10-23T02:30:25.359465-03:00"
+    },
+    {
+      "oferta_id": 90,
+      "preco": 39.99,
+      "registrado_em": "2026-10-23T02:30:25.359465-03:00"
+    },
+    {
+      "oferta_id": 91,
+      "preco": 39.99,
+      "registrado_em": "2026-10-23T02:30:25.359465-03:00"
+    },
+    {
+      "oferta_id": 93,
+      "preco": 39.99,
+      "registrado_em": "2026-10-23T02:30:25.359465-03:00"
     }
   ],
   "notificacoes": [
@@ -74055,8 +74080,8 @@
       "url": "https://www.promobit.com.br/oferta/meu-cacho-minha-vida-shampoo-500ml-lola-cosmetics-3108316/"
     },
     "286": {
-      "ativa": true,
-      "atualizada_em": "2026-10-22T21:52:36.603267-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-10-23T02:31:51.192720-03:00",
       "coletada_em": "2026-10-12T20:16:42.266012-03:00",
       "desconto_pct": 67,
       "fonte": "promobit",
@@ -74069,8 +74094,8 @@
       "url": "https://www.promobit.com.br/oferta/rapunzel-milk-leave-in-spray-250ml-lola-cosmetics-3109125/"
     },
     "287": {
-      "ativa": true,
-      "atualizada_em": "2026-10-14T03:15:55.022191-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-10-23T02:31:54.656611-03:00",
       "coletada_em": "2026-10-13T00:36:17.114749-03:00",
       "desconto_pct": 44,
       "fonte": "promobit",
@@ -74293,8 +74318,8 @@
       "url": "https://www.promobit.com.br/oferta/tenis-mizuno-wave-creation-24-wk-feminino-2839875/"
     },
     "300": {
-      "ativa": true,
-      "atualizada_em": "2026-10-19T18:43:22.085220-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-10-23T02:32:13.538199-03:00",
       "coletada_em": "2026-10-19T14:33:24.600848-03:00",
       "desconto_pct": 45,
       "fonte": "promobit",
@@ -74308,7 +74333,7 @@
     },
     "301": {
       "ativa": true,
-      "atualizada_em": "2026-10-22T21:52:36.603267-03:00",
+      "atualizada_em": "2026-10-23T02:25:26.644698-03:00",
       "coletada_em": "2026-10-19T18:43:22.085220-03:00",
       "desconto_pct": 53,
       "fonte": "promobit",
@@ -74952,7 +74977,7 @@
     },
     "65": {
       "ativa": true,
-      "atualizada_em": "2026-10-22T21:57:46.258982-03:00",
+      "atualizada_em": "2026-10-23T02:30:25.359465-03:00",
       "coletada_em": "2026-06-24T09:43:45.342507-03:00",
       "desconto_pct": 36,
       "fonte": "americanas",
@@ -75344,7 +75369,7 @@
     },
     "90": {
       "ativa": true,
-      "atualizada_em": "2026-10-22T21:57:46.258982-03:00",
+      "atualizada_em": "2026-10-23T02:30:25.359465-03:00",
       "coletada_em": "2026-07-18T07:25:50.350990-03:00",
       "desconto_pct": 20,
       "fonte": "americanas",
@@ -75358,7 +75383,7 @@
     },
     "91": {
       "ativa": true,
-      "atualizada_em": "2026-10-22T21:57:46.258982-03:00",
+      "atualizada_em": "2026-10-23T02:30:25.359465-03:00",
       "coletada_em": "2026-07-18T07:25:50.350990-03:00",
       "desconto_pct": 20,
       "fonte": "americanas",
@@ -75386,7 +75411,7 @@
     },
     "93": {
       "ativa": true,
-      "atualizada_em": "2026-10-22T21:57:46.258982-03:00",
+      "atualizada_em": "2026-10-23T02:30:25.359465-03:00",
       "coletada_em": "2026-07-19T11:47:39.505159-03:00",
       "desconto_pct": 20,
       "fonte": "americanas",
