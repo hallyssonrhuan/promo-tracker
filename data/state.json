@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 314,
-    "produto": 161
+    "oferta": 315,
+    "produto": 162
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-10-26T20:00:50.818175-03:00",
+      "ultima_coleta_em": "2026-10-26T22:55:01.002225-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,15 +15,15 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-10-26T19:59:31.495896-03:00",
+      "ultima_coleta_em": "2026-10-26T22:53:41.385045-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 3,
+      "ultima_coleta_qtd": 4,
       "ultima_coleta_status": "ok"
     },
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-10-26T19:59:57.708058-03:00",
+      "ultima_coleta_em": "2026-10-26T22:54:07.635786-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-10-26T19:57:21.687734-03:00",
+      "ultima_coleta_em": "2026-10-26T22:51:22.226613-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-10-26T19:58:04.228219-03:00",
+      "ultima_coleta_em": "2026-10-26T22:52:07.218640-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-10-26T19:56:19.264929-03:00",
+      "ultima_coleta_em": "2026-10-26T22:50:19.439858-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-10-26T19:56:50.580383-03:00",
+      "ultima_coleta_em": "2026-10-26T22:50:50.840173-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-10-26T19:54:57.506537-03:00",
+      "ultima_coleta_em": "2026-10-26T22:48:55.617276-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-10-26T19:54:36.047993-03:00",
+      "ultima_coleta_em": "2026-10-26T22:48:34.054023-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 3,
+      "ultima_coleta_qtd": 4,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-10-26T19:55:30.882331-03:00",
+      "ultima_coleta_em": "2026-10-26T22:49:30.191098-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -69905,6 +69905,46 @@
       "oferta_id": 93,
       "preco": 39.99,
       "registrado_em": "2026-10-26T19:59:31.495521-03:00"
+    },
+    {
+      "oferta_id": 314,
+      "preco": 629.99,
+      "registrado_em": "2026-10-26T22:48:28.736749-03:00"
+    },
+    {
+      "oferta_id": 313,
+      "preco": 299.0,
+      "registrado_em": "2026-10-26T22:48:28.736749-03:00"
+    },
+    {
+      "oferta_id": 311,
+      "preco": 20.0,
+      "registrado_em": "2026-10-26T22:48:28.736749-03:00"
+    },
+    {
+      "oferta_id": 301,
+      "preco": 93.0,
+      "registrado_em": "2026-10-26T22:48:28.736749-03:00"
+    },
+    {
+      "oferta_id": 65,
+      "preco": 23.99,
+      "registrado_em": "2026-10-26T22:53:41.384705-03:00"
+    },
+    {
+      "oferta_id": 90,
+      "preco": 39.99,
+      "registrado_em": "2026-10-26T22:53:41.384705-03:00"
+    },
+    {
+      "oferta_id": 91,
+      "preco": 39.99,
+      "registrado_em": "2026-10-26T22:53:41.384705-03:00"
+    },
+    {
+      "oferta_id": 93,
+      "preco": 39.99,
+      "registrado_em": "2026-10-26T22:53:41.384705-03:00"
     }
   ],
   "notificacoes": [
@@ -71949,6 +71989,13 @@
       "enviada_em": "2026-10-26T19:54:36.047764-03:00",
       "erro": null,
       "oferta_id": 313,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-10-26T22:48:34.053841-03:00",
+      "erro": null,
+      "oferta_id": 314,
       "sucesso": true,
       "tipo": "nova"
     }
@@ -75106,7 +75153,7 @@
     },
     "301": {
       "ativa": true,
-      "atualizada_em": "2026-10-26T19:54:31.752638-03:00",
+      "atualizada_em": "2026-10-26T22:48:28.736749-03:00",
       "coletada_em": "2026-10-19T18:43:22.085220-03:00",
       "desconto_pct": 53,
       "fonte": "promobit",
@@ -75260,7 +75307,7 @@
     },
     "311": {
       "ativa": true,
-      "atualizada_em": "2026-10-26T19:54:31.752638-03:00",
+      "atualizada_em": "2026-10-26T22:48:28.736749-03:00",
       "coletada_em": "2026-10-24T10:18:48.478137-03:00",
       "desconto_pct": 64,
       "fonte": "promobit",
@@ -75288,7 +75335,7 @@
     },
     "313": {
       "ativa": true,
-      "atualizada_em": "2026-10-26T19:54:31.752638-03:00",
+      "atualizada_em": "2026-10-26T22:48:28.736749-03:00",
       "coletada_em": "2026-10-26T19:54:31.752638-03:00",
       "desconto_pct": 63,
       "fonte": "promobit",
@@ -75299,6 +75346,20 @@
       "preco_de": 799.99,
       "produto_id": 160,
       "url": "https://www.promobit.com.br/oferta/tenis-mizuno-wave-skyway-feminino-cinza-3143931/"
+    },
+    "314": {
+      "ativa": true,
+      "atualizada_em": "2026-10-26T22:48:28.736749-03:00",
+      "coletada_em": "2026-10-26T22:48:28.736749-03:00",
+      "desconto_pct": 30,
+      "fonte": "promobit",
+      "hash_unico": "fabc17a61b62de3d83b65570a1349056",
+      "id": 314,
+      "loja": "Nike",
+      "preco_atual": 629.99,
+      "preco_de": 899.99,
+      "produto_id": 161,
+      "url": "https://www.promobit.com.br/oferta/tenis-nike-v2k-run-feminino-tam-39-3145062/"
     },
     "32": {
       "ativa": false,
@@ -75806,7 +75867,7 @@
     },
     "65": {
       "ativa": true,
-      "atualizada_em": "2026-10-26T09:50:28.283834-03:00",
+      "atualizada_em": "2026-10-26T22:53:41.384705-03:00",
       "coletada_em": "2026-06-24T09:43:45.342507-03:00",
       "desconto_pct": 36,
       "fonte": "americanas",
@@ -76198,7 +76259,7 @@
     },
     "90": {
       "ativa": true,
-      "atualizada_em": "2026-10-26T19:59:31.495521-03:00",
+      "atualizada_em": "2026-10-26T22:53:41.384705-03:00",
       "coletada_em": "2026-07-18T07:25:50.350990-03:00",
       "desconto_pct": 20,
       "fonte": "americanas",
@@ -76212,7 +76273,7 @@
     },
     "91": {
       "ativa": true,
-      "atualizada_em": "2026-10-26T19:59:31.495521-03:00",
+      "atualizada_em": "2026-10-26T22:53:41.384705-03:00",
       "coletada_em": "2026-07-18T07:25:50.350990-03:00",
       "desconto_pct": 20,
       "fonte": "americanas",
@@ -76240,7 +76301,7 @@
     },
     "93": {
       "ativa": true,
-      "atualizada_em": "2026-10-26T19:59:31.495521-03:00",
+      "atualizada_em": "2026-10-26T22:53:41.384705-03:00",
       "coletada_em": "2026-07-19T11:47:39.505159-03:00",
       "desconto_pct": 20,
       "fonte": "americanas",
@@ -76958,6 +77019,15 @@
       "marca": "Mizuno",
       "titulo_normalizado": "tenis mizuno wave skyway feminino cinza",
       "titulo_original": "Tênis Mizuno Wave Skyway Feminino Cinza"
+    },
+    "161": {
+      "categoria": "corrida",
+      "criado_em": "2026-10-26T22:48:28.736810-03:00",
+      "id": 161,
+      "imagem_url": "https://i.promobit.com.br/268/514676228017930628096562111870.png",
+      "marca": "Nike",
+      "titulo_normalizado": "tenis nike v2k run feminino - tam 39",
+      "titulo_original": "Tênis Nike V2K Run Feminino - Tam 39"
     },
     "17": {
       "categoria": "infantil",
