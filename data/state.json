@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 327,
+    "oferta": 328,
     "produto": 162
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-10-29T21:16:14.840708-03:00",
+      "ultima_coleta_em": "2026-10-30T02:45:43.872249-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-10-29T21:14:55.021463-03:00",
+      "ultima_coleta_em": "2026-10-30T02:44:23.492310-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 1,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-10-29T21:15:21.535004-03:00",
+      "ultima_coleta_em": "2026-10-30T02:44:49.803527-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-10-29T21:12:45.057149-03:00",
+      "ultima_coleta_em": "2026-10-30T02:42:34.159068-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-10-29T21:13:26.943112-03:00",
+      "ultima_coleta_em": "2026-10-30T02:43:16.745043-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-10-29T21:11:42.348513-03:00",
+      "ultima_coleta_em": "2026-10-30T02:41:31.397938-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-10-29T21:12:13.792868-03:00",
+      "ultima_coleta_em": "2026-10-30T02:42:02.784511-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-10-29T21:10:18.502484-03:00",
+      "ultima_coleta_em": "2026-10-30T02:40:07.969936-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-10-29T21:09:57.036247-03:00",
+      "ultima_coleta_em": "2026-10-30T02:39:46.477884-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 7,
+      "ultima_coleta_qtd": 6,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-10-29T21:10:52.963716-03:00",
+      "ultima_coleta_em": "2026-10-30T02:40:42.159764-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -70595,6 +70595,41 @@
       "oferta_id": 65,
       "preco": 23.99,
       "registrado_em": "2026-10-29T21:14:55.021227-03:00"
+    },
+    {
+      "oferta_id": 327,
+      "preco": 29.9,
+      "registrado_em": "2026-10-30T02:39:41.060963-03:00"
+    },
+    {
+      "oferta_id": 322,
+      "preco": 18.94,
+      "registrado_em": "2026-10-30T02:39:41.060963-03:00"
+    },
+    {
+      "oferta_id": 326,
+      "preco": 29.38,
+      "registrado_em": "2026-10-30T02:39:41.060963-03:00"
+    },
+    {
+      "oferta_id": 324,
+      "preco": 14.71,
+      "registrado_em": "2026-10-30T02:39:41.060963-03:00"
+    },
+    {
+      "oferta_id": 325,
+      "preco": 18.78,
+      "registrado_em": "2026-10-30T02:39:41.060963-03:00"
+    },
+    {
+      "oferta_id": 318,
+      "preco": 27.67,
+      "registrado_em": "2026-10-30T02:39:41.060963-03:00"
+    },
+    {
+      "oferta_id": 65,
+      "preco": 23.99,
+      "registrado_em": "2026-10-30T02:44:23.492051-03:00"
     }
   ],
   "notificacoes": [
@@ -72730,6 +72765,13 @@
       "enviada_em": "2026-10-29T17:31:40.073164-03:00",
       "erro": null,
       "oferta_id": 326,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-10-30T02:39:46.477524-03:00",
+      "erro": null,
+      "oferta_id": 327,
       "sucesso": true,
       "tipo": "nova"
     }
@@ -75830,8 +75872,8 @@
       "url": "https://www.promobit.com.br/oferta/tenis-run-72-adidas-3123463/"
     },
     "299": {
-      "ativa": true,
-      "atualizada_em": "2026-10-20T11:59:38.986961-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-10-30T02:45:49.562859-03:00",
       "coletada_em": "2026-10-19T14:33:24.600848-03:00",
       "desconto_pct": 32,
       "fonte": "promobit",
@@ -75886,8 +75928,8 @@
       "url": "https://www.promobit.com.br/oferta/conjunto-infantil-tam-2-a-10-anos-3-cores-3124428/"
     },
     "301": {
-      "ativa": true,
-      "atualizada_em": "2026-10-29T21:09:57.035467-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-10-30T02:45:53.305384-03:00",
       "coletada_em": "2026-10-19T18:43:22.085220-03:00",
       "desconto_pct": 53,
       "fonte": "promobit",
@@ -75900,8 +75942,8 @@
       "url": "https://www.promobit.com.br/oferta/tenis-infantil-bibi-slip-on-volt-preto-tam-26-ao-35-3125773/"
     },
     "302": {
-      "ativa": true,
-      "atualizada_em": "2026-10-20T11:59:38.986961-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-10-30T02:45:57.156687-03:00",
       "coletada_em": "2026-10-19T21:40:38.220693-03:00",
       "desconto_pct": 56,
       "fonte": "promobit",
@@ -75914,8 +75956,8 @@
       "url": "https://www.promobit.com.br/oferta/tenis-nike-zoom-fly-6-3126299/"
     },
     "303": {
-      "ativa": true,
-      "atualizada_em": "2026-10-20T11:59:38.986961-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-10-30T02:46:00.960307-03:00",
       "coletada_em": "2026-10-20T02:16:02.086163-03:00",
       "desconto_pct": 59,
       "fonte": "promobit",
@@ -76139,7 +76181,7 @@
     },
     "318": {
       "ativa": true,
-      "atualizada_em": "2026-10-29T21:09:57.035467-03:00",
+      "atualizada_em": "2026-10-30T02:39:41.060963-03:00",
       "coletada_em": "2026-10-27T15:26:36.783565-03:00",
       "desconto_pct": 57,
       "fonte": "promobit",
@@ -76209,7 +76251,7 @@
     },
     "322": {
       "ativa": true,
-      "atualizada_em": "2026-10-29T21:09:57.035467-03:00",
+      "atualizada_em": "2026-10-30T02:39:41.060963-03:00",
       "coletada_em": "2026-10-28T20:19:13.970121-03:00",
       "desconto_pct": 53,
       "fonte": "promobit",
@@ -76237,7 +76279,7 @@
     },
     "324": {
       "ativa": true,
-      "atualizada_em": "2026-10-29T21:09:57.035467-03:00",
+      "atualizada_em": "2026-10-30T02:39:41.060963-03:00",
       "coletada_em": "2026-10-29T12:35:56.394549-03:00",
       "desconto_pct": 58,
       "fonte": "promobit",
@@ -76251,7 +76293,7 @@
     },
     "325": {
       "ativa": true,
-      "atualizada_em": "2026-10-29T21:09:57.035467-03:00",
+      "atualizada_em": "2026-10-30T02:39:41.060963-03:00",
       "coletada_em": "2026-10-29T12:35:56.394549-03:00",
       "desconto_pct": 66,
       "fonte": "promobit",
@@ -76265,7 +76307,7 @@
     },
     "326": {
       "ativa": true,
-      "atualizada_em": "2026-10-29T21:09:57.035467-03:00",
+      "atualizada_em": "2026-10-30T02:39:41.060963-03:00",
       "coletada_em": "2026-10-29T17:31:34.879711-03:00",
       "desconto_pct": 55,
       "fonte": "promobit",
@@ -76276,6 +76318,20 @@
       "preco_de": 64.9,
       "produto_id": 113,
       "url": "https://www.promobit.com.br/oferta/danos-vorazes-mascara-de-tratamento-450g-lola-cosmetics-3154336/"
+    },
+    "327": {
+      "ativa": true,
+      "atualizada_em": "2026-10-30T02:39:41.060963-03:00",
+      "coletada_em": "2026-10-30T02:39:41.060963-03:00",
+      "desconto_pct": 40,
+      "fonte": "promobit",
+      "hash_unico": "99e64f291fa7f34c7fff6a85eb2f9b80",
+      "id": 327,
+      "loja": "Amazon",
+      "preco_atual": 29.9,
+      "preco_de": 49.9,
+      "produto_id": 89,
+      "url": "https://www.promobit.com.br/oferta/meu-cacho-minha-vida-shampoo-500ml-lola-cosmetics-3155643/"
     },
     "33": {
       "ativa": false,
@@ -76769,7 +76825,7 @@
     },
     "65": {
       "ativa": true,
-      "atualizada_em": "2026-10-29T21:14:55.021227-03:00",
+      "atualizada_em": "2026-10-30T02:44:23.492051-03:00",
       "coletada_em": "2026-06-24T09:43:45.342507-03:00",
       "desconto_pct": 36,
       "fonte": "americanas",
