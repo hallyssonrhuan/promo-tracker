@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 340,
-    "produto": 169
+    "oferta": 348,
+    "produto": 171
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-11-03T06:41:06.377308-03:00",
+      "ultima_coleta_em": "2026-11-03T14:24:36.626136-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-11-03T06:39:46.686750-03:00",
+      "ultima_coleta_em": "2026-11-03T14:23:15.864916-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 1,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-11-03T06:40:12.919608-03:00",
+      "ultima_coleta_em": "2026-11-03T14:23:42.225895-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-11-03T06:37:48.514594-03:00",
+      "ultima_coleta_em": "2026-11-03T14:21:07.082249-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-11-03T06:38:30.811747-03:00",
+      "ultima_coleta_em": "2026-11-03T14:21:49.228501-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-11-03T06:36:44.171490-03:00",
+      "ultima_coleta_em": "2026-11-03T14:20:03.855299-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-11-03T06:37:17.171216-03:00",
+      "ultima_coleta_em": "2026-11-03T14:20:35.601204-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-11-03T06:35:20.830612-03:00",
+      "ultima_coleta_em": "2026-11-03T14:18:39.440767-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-11-03T06:34:59.420691-03:00",
+      "ultima_coleta_em": "2026-11-03T14:18:17.784005-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 7,
+      "ultima_coleta_qtd": 12,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-11-03T06:35:54.929884-03:00",
+      "ultima_coleta_em": "2026-11-03T14:19:14.272270-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71340,6 +71340,71 @@
       "oferta_id": 65,
       "preco": 23.99,
       "registrado_em": "2026-11-03T06:39:46.686518-03:00"
+    },
+    {
+      "oferta_id": 340,
+      "preco": 235.0,
+      "registrado_em": "2026-11-03T14:17:40.009924-03:00"
+    },
+    {
+      "oferta_id": 341,
+      "preco": 235.99,
+      "registrado_em": "2026-11-03T14:17:40.009924-03:00"
+    },
+    {
+      "oferta_id": 342,
+      "preco": 17.01,
+      "registrado_em": "2026-11-03T14:17:40.009924-03:00"
+    },
+    {
+      "oferta_id": 343,
+      "preco": 18.18,
+      "registrado_em": "2026-11-03T14:17:40.009924-03:00"
+    },
+    {
+      "oferta_id": 344,
+      "preco": 22.0,
+      "registrado_em": "2026-11-03T14:17:40.009924-03:00"
+    },
+    {
+      "oferta_id": 345,
+      "preco": 39.0,
+      "registrado_em": "2026-11-03T14:17:40.009924-03:00"
+    },
+    {
+      "oferta_id": 332,
+      "preco": 24.38,
+      "registrado_em": "2026-11-03T14:17:40.009924-03:00"
+    },
+    {
+      "oferta_id": 346,
+      "preco": 13.0,
+      "registrado_em": "2026-11-03T14:17:40.009924-03:00"
+    },
+    {
+      "oferta_id": 347,
+      "preco": 24.0,
+      "registrado_em": "2026-11-03T14:17:40.009924-03:00"
+    },
+    {
+      "oferta_id": 335,
+      "preco": 18.83,
+      "registrado_em": "2026-11-03T14:17:40.009924-03:00"
+    },
+    {
+      "oferta_id": 336,
+      "preco": 14.0,
+      "registrado_em": "2026-11-03T14:17:40.009924-03:00"
+    },
+    {
+      "oferta_id": 337,
+      "preco": 29.9,
+      "registrado_em": "2026-11-03T14:17:40.009924-03:00"
+    },
+    {
+      "oferta_id": 65,
+      "preco": 24.99,
+      "registrado_em": "2026-11-03T14:23:15.864662-03:00"
     }
   ],
   "notificacoes": [
@@ -73566,6 +73631,62 @@
       "enviada_em": "2026-11-02T23:15:49.440057-03:00",
       "erro": null,
       "oferta_id": 339,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-11-03T14:17:45.278254-03:00",
+      "erro": null,
+      "oferta_id": 345,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-11-03T14:17:49.666094-03:00",
+      "erro": null,
+      "oferta_id": 346,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-11-03T14:17:54.118024-03:00",
+      "erro": null,
+      "oferta_id": 347,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-11-03T14:17:58.716551-03:00",
+      "erro": null,
+      "oferta_id": 342,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-11-03T14:18:03.323839-03:00",
+      "erro": null,
+      "oferta_id": 343,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-11-03T14:18:08.478201-03:00",
+      "erro": null,
+      "oferta_id": 340,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-11-03T14:18:13.021776-03:00",
+      "erro": null,
+      "oferta_id": 341,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-11-03T14:18:17.783800-03:00",
+      "erro": null,
+      "oferta_id": 344,
       "sucesso": true,
       "tipo": "nova"
     }
@@ -77199,7 +77320,7 @@
     },
     "332": {
       "ativa": true,
-      "atualizada_em": "2026-11-03T06:34:59.420139-03:00",
+      "atualizada_em": "2026-11-03T14:17:40.009924-03:00",
       "coletada_em": "2026-10-31T17:34:45.991008-03:00",
       "desconto_pct": 46,
       "fonte": "promobit",
@@ -77241,7 +77362,7 @@
     },
     "335": {
       "ativa": false,
-      "atualizada_em": "2026-11-03T06:34:59.420139-03:00",
+      "atualizada_em": "2026-11-03T14:17:40.009924-03:00",
       "coletada_em": "2026-11-02T17:10:36.967524-03:00",
       "desconto_pct": 58,
       "fonte": "promobit",
@@ -77255,7 +77376,7 @@
     },
     "336": {
       "ativa": true,
-      "atualizada_em": "2026-11-03T06:34:59.420139-03:00",
+      "atualizada_em": "2026-11-03T14:17:40.009924-03:00",
       "coletada_em": "2026-11-02T17:10:36.967524-03:00",
       "desconto_pct": 69,
       "fonte": "promobit",
@@ -77269,7 +77390,7 @@
     },
     "337": {
       "ativa": true,
-      "atualizada_em": "2026-11-03T06:34:59.420139-03:00",
+      "atualizada_em": "2026-11-03T14:17:40.009924-03:00",
       "coletada_em": "2026-11-02T17:10:36.967524-03:00",
       "desconto_pct": 53,
       "fonte": "promobit",
@@ -77322,6 +77443,118 @@
       "preco_de": 69.23,
       "produto_id": 28,
       "url": "https://www.promobit.com.br/oferta/blusa-infantil-de-frio-stitch-tam-2-a-12-anos-2842251/"
+    },
+    "340": {
+      "ativa": true,
+      "atualizada_em": "2026-11-03T14:17:40.009924-03:00",
+      "coletada_em": "2026-11-03T14:17:40.009924-03:00",
+      "desconto_pct": 48,
+      "fonte": "promobit",
+      "hash_unico": "5701360d8e72cc69fe233d21d4807cbe",
+      "id": 340,
+      "loja": "Mercado Livre",
+      "preco_atual": 235.0,
+      "preco_de": 449.99,
+      "produto_id": 169,
+      "url": "https://www.promobit.com.br/oferta/tenis-adidas-run-72-3167213/"
+    },
+    "341": {
+      "ativa": true,
+      "atualizada_em": "2026-11-03T14:17:40.009924-03:00",
+      "coletada_em": "2026-11-03T14:17:40.009924-03:00",
+      "desconto_pct": 48,
+      "fonte": "promobit",
+      "hash_unico": "64174e8c19b5e79fc23ee273dabc4f23",
+      "id": 341,
+      "loja": "Mercado Livre",
+      "preco_atual": 235.99,
+      "preco_de": 449.99,
+      "produto_id": 145,
+      "url": "https://www.promobit.com.br/oferta/tenis-run-72-adidas-3167208/"
+    },
+    "342": {
+      "ativa": true,
+      "atualizada_em": "2026-11-03T14:17:40.009924-03:00",
+      "coletada_em": "2026-11-03T14:17:40.009924-03:00",
+      "desconto_pct": 57,
+      "fonte": "promobit",
+      "hash_unico": "74a3fe77eeb1ba759a3f7204b1c1da3e",
+      "id": 342,
+      "loja": "Amazon",
+      "preco_atual": 17.01,
+      "preco_de": 39.9,
+      "produto_id": 119,
+      "url": "https://www.promobit.com.br/oferta/danos-vorazes-shampoo-250ml-lola-cosmetics-3167400/"
+    },
+    "343": {
+      "ativa": true,
+      "atualizada_em": "2026-11-03T14:17:40.009924-03:00",
+      "coletada_em": "2026-11-03T14:17:40.009924-03:00",
+      "desconto_pct": 54,
+      "fonte": "promobit",
+      "hash_unico": "256a3d6fa0f334bcac697ac68cb17f25",
+      "id": 343,
+      "loja": "Amazon",
+      "preco_atual": 18.18,
+      "preco_de": 39.9,
+      "produto_id": 94,
+      "url": "https://www.promobit.com.br/oferta/liso-leve-e-solto-shampoo-250ml-lola-cosmetics-3167385/"
+    },
+    "344": {
+      "ativa": true,
+      "atualizada_em": "2026-11-03T14:17:40.009924-03:00",
+      "coletada_em": "2026-11-03T14:17:40.009924-03:00",
+      "desconto_pct": 45,
+      "fonte": "promobit",
+      "hash_unico": "6d4568e539f1681a00174f11963f9991",
+      "id": 344,
+      "loja": "Amazon",
+      "preco_atual": 22.0,
+      "preco_de": 39.9,
+      "produto_id": 132,
+      "url": "https://www.promobit.com.br/oferta/densidade-shampoo-250ml-lola-cosmetics-3167040/"
+    },
+    "345": {
+      "ativa": true,
+      "atualizada_em": "2026-11-03T14:17:40.009924-03:00",
+      "coletada_em": "2026-11-03T14:17:40.009924-03:00",
+      "desconto_pct": 67,
+      "fonte": "promobit",
+      "hash_unico": "045389576e6c5c8eaa7b6d84c6c18756",
+      "id": 345,
+      "loja": "Amazon",
+      "preco_atual": 39.0,
+      "preco_de": 119.9,
+      "produto_id": 52,
+      "url": "https://www.promobit.com.br/oferta/kit-morte-subita-shampoo-condicionador-spray-reparacao-lola-from-rio-3166521/"
+    },
+    "346": {
+      "ativa": true,
+      "atualizada_em": "2026-11-03T14:17:40.009924-03:00",
+      "coletada_em": "2026-11-03T14:17:40.009924-03:00",
+      "desconto_pct": 63,
+      "fonte": "promobit",
+      "hash_unico": "30fe56fe3adf29bac1175b80d5291880",
+      "id": 346,
+      "loja": "Amazon",
+      "preco_atual": 13.0,
+      "preco_de": 34.9,
+      "produto_id": 170,
+      "url": "https://www.promobit.com.br/oferta/bemdita-ghee-hidratacao-banana-100g-lola-cosmetics-3166616/"
+    },
+    "347": {
+      "ativa": true,
+      "atualizada_em": "2026-11-03T14:17:40.009924-03:00",
+      "coletada_em": "2026-11-03T14:17:40.009924-03:00",
+      "desconto_pct": 63,
+      "fonte": "promobit",
+      "hash_unico": "285eccba559a1873c2bc9bec6928db18",
+      "id": 347,
+      "loja": "Amazon",
+      "preco_atual": 24.0,
+      "preco_de": 64.9,
+      "produto_id": 93,
+      "url": "https://www.promobit.com.br/oferta/danos-vorazes-mascara-de-tratamento-450g-lola-cosmetics-3166565/"
     },
     "35": {
       "ativa": false,
@@ -77787,14 +78020,14 @@
     },
     "65": {
       "ativa": true,
-      "atualizada_em": "2026-11-03T06:39:46.686518-03:00",
+      "atualizada_em": "2026-11-03T14:23:15.864662-03:00",
       "coletada_em": "2026-06-24T09:43:45.342507-03:00",
-      "desconto_pct": 36,
+      "desconto_pct": 33,
       "fonte": "americanas",
       "hash_unico": "21d646ac7995f14e92b8e58d27de2a16",
       "id": 65,
       "loja": "Americanas",
-      "preco_atual": 23.99,
+      "preco_atual": 24.99,
       "preco_de": 37.29,
       "produto_id": 47,
       "url": "https://www.americanas.com.br/kit-euroderm-gelato-pistache---vanilla---body-splash-200ml---manteiga-hidratante-200ml/p"
@@ -79012,6 +79245,15 @@
       "titulo_normalizado": "tenis adidas adizero sl 2",
       "titulo_original": "Tênis Adidas Adizero SL 2"
     },
+    "169": {
+      "categoria": "corrida",
+      "criado_em": "2026-11-03T14:17:40.009990-03:00",
+      "id": 169,
+      "imagem_url": "https://i.promobit.com.br/268/641869179817937197003226994970.png",
+      "marca": "Adidas",
+      "titulo_normalizado": "tenis adidas run 72",
+      "titulo_original": "Tênis Adidas Run 72"
+    },
     "17": {
       "categoria": "infantil",
       "criado_em": "2026-05-15T11:40:38.826715-03:00",
@@ -79020,6 +79262,15 @@
       "marca": "Roupa infantil masc",
       "titulo_normalizado": "pijama infantil baby doll camisa alcinha estampa stitch (tam 4 a 12 anos 2 estampas)",
       "titulo_original": "Pijama Infantil Baby Doll Camisa Alcinha Estampa Stitch (Tam. 4 a 12 Anos, 2 Estampas)"
+    },
+    "170": {
+      "categoria": "cabelo",
+      "criado_em": "2026-11-03T14:17:40.010637-03:00",
+      "id": 170,
+      "imagem_url": "https://i.promobit.com.br/268/386838889117937125517759535481.jpg",
+      "marca": "Lola Cosmetics",
+      "titulo_normalizado": "bemdita ghee hidratacao banana 100g lola cosmetics",
+      "titulo_original": "Bemdita Ghee Hidratação Banana 100g , Lola Cosmetics"
     },
     "18": {
       "categoria": "cabelo",
