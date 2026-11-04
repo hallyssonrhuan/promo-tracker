@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 352,
-    "produto": 171
+    "oferta": 357,
+    "produto": 173
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-11-03T23:32:44.430067-03:00",
+      "ultima_coleta_em": "2026-11-04T14:34:23.275660-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-11-03T23:31:24.893635-03:00",
+      "ultima_coleta_em": "2026-11-04T14:33:04.075777-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 1,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-11-03T23:31:51.341037-03:00",
+      "ultima_coleta_em": "2026-11-04T14:33:30.317576-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-11-03T23:29:12.113845-03:00",
+      "ultima_coleta_em": "2026-11-04T14:30:57.719810-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-11-03T23:29:54.244367-03:00",
+      "ultima_coleta_em": "2026-11-04T14:31:41.235921-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-11-03T23:28:09.744711-03:00",
+      "ultima_coleta_em": "2026-11-04T14:29:54.897438-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-11-03T23:28:40.911322-03:00",
+      "ultima_coleta_em": "2026-11-04T14:30:26.361025-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-11-03T23:26:46.298918-03:00",
+      "ultima_coleta_em": "2026-11-04T14:28:31.228241-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-11-03T23:26:24.708894-03:00",
+      "ultima_coleta_em": "2026-11-04T14:28:09.750557-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 9,
+      "ultima_coleta_qtd": 10,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-11-03T23:27:20.562775-03:00",
+      "ultima_coleta_em": "2026-11-04T14:29:05.618695-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71505,6 +71505,61 @@
       "oferta_id": 65,
       "preco": 24.99,
       "registrado_em": "2026-11-03T23:31:24.893442-03:00"
+    },
+    {
+      "oferta_id": 352,
+      "preco": 899.0,
+      "registrado_em": "2026-11-04T14:27:54.867122-03:00"
+    },
+    {
+      "oferta_id": 353,
+      "preco": 749.9,
+      "registrado_em": "2026-11-04T14:27:54.867122-03:00"
+    },
+    {
+      "oferta_id": 354,
+      "preco": 197.99,
+      "registrado_em": "2026-11-04T14:27:54.867122-03:00"
+    },
+    {
+      "oferta_id": 355,
+      "preco": 899.99,
+      "registrado_em": "2026-11-04T14:27:54.867122-03:00"
+    },
+    {
+      "oferta_id": 356,
+      "preco": 17.91,
+      "registrado_em": "2026-11-04T14:27:54.867122-03:00"
+    },
+    {
+      "oferta_id": 351,
+      "preco": 14.53,
+      "registrado_em": "2026-11-04T14:27:54.867122-03:00"
+    },
+    {
+      "oferta_id": 349,
+      "preco": 22.82,
+      "registrado_em": "2026-11-04T14:27:54.867122-03:00"
+    },
+    {
+      "oferta_id": 350,
+      "preco": 25.37,
+      "registrado_em": "2026-11-04T14:27:54.867122-03:00"
+    },
+    {
+      "oferta_id": 346,
+      "preco": 13.0,
+      "registrado_em": "2026-11-04T14:27:54.867122-03:00"
+    },
+    {
+      "oferta_id": 347,
+      "preco": 24.0,
+      "registrado_em": "2026-11-04T14:27:54.867122-03:00"
+    },
+    {
+      "oferta_id": 65,
+      "preco": 24.99,
+      "registrado_em": "2026-11-04T14:33:04.075516-03:00"
     }
   ],
   "notificacoes": [
@@ -73801,6 +73856,27 @@
       "enviada_em": "2026-11-03T19:20:26.928085-03:00",
       "erro": null,
       "oferta_id": 350,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-11-04T14:28:00.400634-03:00",
+      "erro": null,
+      "oferta_id": 356,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-11-04T14:28:05.071588-03:00",
+      "erro": null,
+      "oferta_id": 352,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-11-04T14:28:09.750342-03:00",
+      "erro": null,
+      "oferta_id": 354,
       "sucesso": true,
       "tipo": "nova"
     }
@@ -77433,8 +77509,8 @@
       "url": "https://www.promobit.com.br/oferta/milagre-creme-para-pentear-450g-lola-cosmetics-3159074/"
     },
     "332": {
-      "ativa": true,
-      "atualizada_em": "2026-11-03T23:26:24.708455-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-11-04T14:34:50.613913-03:00",
       "coletada_em": "2026-10-31T17:34:45.991008-03:00",
       "desconto_pct": 46,
       "fonte": "promobit",
@@ -77447,7 +77523,7 @@
       "url": "https://www.promobit.com.br/oferta/lola-from-rio-morte-subita-condicionador-hidratante-para-todos-os-tipos-de-cabelos-secos-e-danificados-vegano-sem-crueldade-sem-parabenos-sem-3160481/"
     },
     "333": {
-      "ativa": true,
+      "ativa": false,
       "atualizada_em": "2026-11-03T06:34:59.420139-03:00",
       "coletada_em": "2026-11-01T13:18:48.836123-03:00",
       "desconto_pct": 67,
@@ -77644,7 +77720,7 @@
     },
     "346": {
       "ativa": true,
-      "atualizada_em": "2026-11-03T23:26:24.708455-03:00",
+      "atualizada_em": "2026-11-04T14:27:54.867122-03:00",
       "coletada_em": "2026-11-03T14:17:40.009924-03:00",
       "desconto_pct": 63,
       "fonte": "promobit",
@@ -77658,7 +77734,7 @@
     },
     "347": {
       "ativa": true,
-      "atualizada_em": "2026-11-03T23:26:24.708455-03:00",
+      "atualizada_em": "2026-11-04T14:27:54.867122-03:00",
       "coletada_em": "2026-11-03T14:17:40.009924-03:00",
       "desconto_pct": 63,
       "fonte": "promobit",
@@ -77686,7 +77762,7 @@
     },
     "349": {
       "ativa": true,
-      "atualizada_em": "2026-11-03T23:26:24.708455-03:00",
+      "atualizada_em": "2026-11-04T14:27:54.867122-03:00",
       "coletada_em": "2026-11-03T19:20:17.743719-03:00",
       "desconto_pct": 65,
       "fonte": "promobit",
@@ -77714,7 +77790,7 @@
     },
     "350": {
       "ativa": true,
-      "atualizada_em": "2026-11-03T23:26:24.708455-03:00",
+      "atualizada_em": "2026-11-04T14:27:54.867122-03:00",
       "coletada_em": "2026-11-03T19:20:17.743719-03:00",
       "desconto_pct": 61,
       "fonte": "promobit",
@@ -77728,7 +77804,7 @@
     },
     "351": {
       "ativa": false,
-      "atualizada_em": "2026-11-03T23:26:24.708455-03:00",
+      "atualizada_em": "2026-11-04T14:27:54.867122-03:00",
       "coletada_em": "2026-11-03T23:26:24.708455-03:00",
       "desconto_pct": 68,
       "fonte": "promobit",
@@ -77739,6 +77815,76 @@
       "preco_de": 44.9,
       "produto_id": 133,
       "url": "https://www.promobit.com.br/oferta/pinga-cenoura-e-oliva-oleo-50ml-lola-cosmetics-3169233/"
+    },
+    "352": {
+      "ativa": true,
+      "atualizada_em": "2026-11-04T14:27:54.867122-03:00",
+      "coletada_em": "2026-11-04T14:27:54.867122-03:00",
+      "desconto_pct": 55,
+      "fonte": "promobit",
+      "hash_unico": "2c29f89a917197a04ba0b352df689c56",
+      "id": 352,
+      "loja": "Nike",
+      "preco_atual": 899.0,
+      "preco_de": 1999.99,
+      "produto_id": 171,
+      "url": "https://www.promobit.com.br/oferta/tenis-nike-zoomx-vaporfly-4-feminino-3170787/"
+    },
+    "353": {
+      "ativa": true,
+      "atualizada_em": "2026-11-04T14:27:54.867122-03:00",
+      "coletada_em": "2026-11-04T14:27:54.867122-03:00",
+      "desconto_pct": 17,
+      "fonte": "promobit",
+      "hash_unico": "b3cab09e99b13c5a0af2f130347172bb",
+      "id": 353,
+      "loja": "Netshoes",
+      "preco_atual": 749.9,
+      "preco_de": 899.9,
+      "produto_id": 172,
+      "url": "https://www.promobit.com.br/oferta/tenis-mizuno-wave-rider-28-feminino-3170177/"
+    },
+    "354": {
+      "ativa": true,
+      "atualizada_em": "2026-11-04T14:27:54.867122-03:00",
+      "coletada_em": "2026-11-04T14:27:54.867122-03:00",
+      "desconto_pct": 51,
+      "fonte": "promobit",
+      "hash_unico": "e55073290f43fa20d60538a06e00082e",
+      "id": 354,
+      "loja": "Netshoes",
+      "preco_atual": 197.99,
+      "preco_de": 399.99,
+      "produto_id": 3,
+      "url": "https://www.promobit.com.br/oferta/tenis-de-corrida-feminino-mizuno-atlantis-2-3170134/"
+    },
+    "355": {
+      "ativa": false,
+      "atualizada_em": "2026-11-04T14:27:54.867122-03:00",
+      "coletada_em": "2026-11-04T14:27:54.867122-03:00",
+      "desconto_pct": 40,
+      "fonte": "promobit",
+      "hash_unico": "26597697de1207be01ce6dbc198d1b2a",
+      "id": 355,
+      "loja": "Nike",
+      "preco_atual": 899.99,
+      "preco_de": 1499.99,
+      "produto_id": 122,
+      "url": "https://www.promobit.com.br/oferta/tenis-nike-zoom-fly-6-feminino-3169771/"
+    },
+    "356": {
+      "ativa": true,
+      "atualizada_em": "2026-11-04T14:27:54.867122-03:00",
+      "coletada_em": "2026-11-04T14:27:54.867122-03:00",
+      "desconto_pct": 70,
+      "fonte": "promobit",
+      "hash_unico": "38f36f85230fc761b27cba4bb48e3921",
+      "id": 356,
+      "loja": "Amazon",
+      "preco_atual": 17.91,
+      "preco_de": 59.9,
+      "produto_id": 165,
+      "url": "https://www.promobit.com.br/oferta/leave-in-spray-rapunzel-milk-lola-cosmetics-250ml-3169774/"
     },
     "36": {
       "ativa": false,
@@ -78190,7 +78336,7 @@
     },
     "65": {
       "ativa": true,
-      "atualizada_em": "2026-11-03T23:31:24.893442-03:00",
+      "atualizada_em": "2026-11-04T14:33:04.075516-03:00",
       "coletada_em": "2026-06-24T09:43:45.342507-03:00",
       "desconto_pct": 33,
       "fonte": "americanas",
@@ -79441,6 +79587,24 @@
       "marca": "Lola Cosmetics",
       "titulo_normalizado": "bemdita ghee hidratacao banana 100g lola cosmetics",
       "titulo_original": "Bemdita Ghee Hidratação Banana 100g , Lola Cosmetics"
+    },
+    "171": {
+      "categoria": "corrida",
+      "criado_em": "2026-11-04T14:27:54.867196-03:00",
+      "id": 171,
+      "imagem_url": "https://i.promobit.com.br/268/468359268417937981033256105715.png",
+      "marca": "Nike",
+      "titulo_normalizado": "tenis nike zoomx vaporfly 4 feminino",
+      "titulo_original": "Tenis Nike ZoomX Vaporfly 4 Feminino"
+    },
+    "172": {
+      "categoria": "corrida",
+      "criado_em": "2026-11-04T14:27:54.867340-03:00",
+      "id": 172,
+      "imagem_url": "https://i.promobit.com.br/268/139724943817937909718280169483.jpg",
+      "marca": "Mizuno",
+      "titulo_normalizado": "tenis mizuno wave rider 28 feminino",
+      "titulo_original": "Tênis Mizuno Wave Rider 28 Feminino"
     },
     "18": {
       "categoria": "cabelo",
