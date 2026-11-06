@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 363,
-    "produto": 176
+    "oferta": 367,
+    "produto": 177
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-11-06T14:17:41.218815-03:00",
+      "ultima_coleta_em": "2026-11-06T19:12:20.853075-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-11-06T14:16:22.117215-03:00",
+      "ultima_coleta_em": "2026-11-06T19:11:02.267560-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 1,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-11-06T14:16:48.428711-03:00",
+      "ultima_coleta_em": "2026-11-06T19:11:28.391032-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-11-06T14:14:09.215689-03:00",
+      "ultima_coleta_em": "2026-11-06T19:08:55.386087-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-11-06T14:14:51.565510-03:00",
+      "ultima_coleta_em": "2026-11-06T19:09:37.183335-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-11-06T14:13:06.195192-03:00",
+      "ultima_coleta_em": "2026-11-06T19:07:52.902654-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-11-06T14:13:37.812521-03:00",
+      "ultima_coleta_em": "2026-11-06T19:08:24.219105-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-11-06T14:11:43.488439-03:00",
+      "ultima_coleta_em": "2026-11-06T19:06:29.253229-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-11-06T14:11:21.788047-03:00",
+      "ultima_coleta_em": "2026-11-06T19:06:07.704976-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 2,
+      "ultima_coleta_qtd": 6,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-11-06T14:12:17.386357-03:00",
+      "ultima_coleta_em": "2026-11-06T19:07:03.709299-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71785,6 +71785,41 @@
       "oferta_id": 65,
       "preco": 24.99,
       "registrado_em": "2026-11-06T14:16:22.116933-03:00"
+    },
+    {
+      "oferta_id": 363,
+      "preco": 222.86,
+      "registrado_em": "2026-11-06T19:05:52.317313-03:00"
+    },
+    {
+      "oferta_id": 364,
+      "preco": 769.49,
+      "registrado_em": "2026-11-06T19:05:52.317313-03:00"
+    },
+    {
+      "oferta_id": 365,
+      "preco": 440.32,
+      "registrado_em": "2026-11-06T19:05:52.317313-03:00"
+    },
+    {
+      "oferta_id": 366,
+      "preco": 22.22,
+      "registrado_em": "2026-11-06T19:05:52.317313-03:00"
+    },
+    {
+      "oferta_id": 362,
+      "preco": 19.0,
+      "registrado_em": "2026-11-06T19:05:52.317313-03:00"
+    },
+    {
+      "oferta_id": 360,
+      "preco": 9.58,
+      "registrado_em": "2026-11-06T19:05:52.317313-03:00"
+    },
+    {
+      "oferta_id": 65,
+      "preco": 24.99,
+      "registrado_em": "2026-11-06T19:11:02.267381-03:00"
     }
   ],
   "notificacoes": [
@@ -74144,6 +74179,27 @@
       "enviada_em": "2026-11-05T23:54:36.531048-03:00",
       "erro": null,
       "oferta_id": 362,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-11-06T19:05:57.763520-03:00",
+      "erro": null,
+      "oferta_id": 366,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-11-06T19:06:02.362548-03:00",
+      "erro": null,
+      "oferta_id": 363,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-11-06T19:06:07.704695-03:00",
+      "erro": null,
+      "oferta_id": 364,
       "sucesso": true,
       "tipo": "nova"
     }
@@ -78211,7 +78267,7 @@
     },
     "360": {
       "ativa": false,
-      "atualizada_em": "2026-11-06T14:11:21.787731-03:00",
+      "atualizada_em": "2026-11-06T19:05:52.317313-03:00",
       "coletada_em": "2026-11-05T14:43:37.035699-03:00",
       "desconto_pct": 68,
       "fonte": "promobit",
@@ -78239,7 +78295,7 @@
     },
     "362": {
       "ativa": true,
-      "atualizada_em": "2026-11-06T14:11:21.787731-03:00",
+      "atualizada_em": "2026-11-06T19:05:52.317313-03:00",
       "coletada_em": "2026-11-05T23:54:31.611458-03:00",
       "desconto_pct": 68,
       "fonte": "promobit",
@@ -78250,6 +78306,62 @@
       "preco_de": 59.9,
       "produto_id": 175,
       "url": "https://www.promobit.com.br/oferta/leave-in-em-spray-lola-cosmetics-rapunzel-milk-250ml-3178039/"
+    },
+    "363": {
+      "ativa": true,
+      "atualizada_em": "2026-11-06T19:05:52.317313-03:00",
+      "coletada_em": "2026-11-06T19:05:52.317313-03:00",
+      "desconto_pct": 50,
+      "fonte": "promobit",
+      "hash_unico": "6efadc73b89c690d115d97e7966528ef",
+      "id": 363,
+      "loja": "Mercado Livre",
+      "preco_atual": 222.86,
+      "preco_de": 449.99,
+      "produto_id": 145,
+      "url": "https://www.promobit.com.br/oferta/tenis-run-72-adidas-3181261/"
+    },
+    "364": {
+      "ativa": true,
+      "atualizada_em": "2026-11-06T19:05:52.317313-03:00",
+      "coletada_em": "2026-11-06T19:05:52.317313-03:00",
+      "desconto_pct": 41,
+      "fonte": "promobit",
+      "hash_unico": "8fa8ab9b3710134eb33d32ea132b3e5b",
+      "id": 364,
+      "loja": "Netshoes",
+      "preco_atual": 769.49,
+      "preco_de": 1299.99,
+      "produto_id": 176,
+      "url": "https://www.promobit.com.br/oferta/tenis-asics-gel-nimbus-28-feminino-3180713/"
+    },
+    "365": {
+      "ativa": false,
+      "atualizada_em": "2026-11-06T19:05:52.317313-03:00",
+      "coletada_em": "2026-11-06T19:05:52.317313-03:00",
+      "desconto_pct": 51,
+      "fonte": "promobit",
+      "hash_unico": "c72397928bd4942d59bf87d626a6b407",
+      "id": 365,
+      "loja": "Netshoes",
+      "preco_atual": 440.32,
+      "preco_de": 899.99,
+      "produto_id": 129,
+      "url": "https://www.promobit.com.br/oferta/tenis-asics-gel-cumulus-28-feminino-3180656/"
+    },
+    "366": {
+      "ativa": true,
+      "atualizada_em": "2026-11-06T19:05:52.317313-03:00",
+      "coletada_em": "2026-11-06T19:05:52.317313-03:00",
+      "desconto_pct": 55,
+      "fonte": "promobit",
+      "hash_unico": "d784d0bbcd9c89542a89146498bcc92f",
+      "id": 366,
+      "loja": "Amazon",
+      "preco_atual": 22.22,
+      "preco_de": 49.9,
+      "produto_id": 147,
+      "url": "https://www.promobit.com.br/oferta/bem-dita-praia-creme-protetor-lola-cosmetics-3180780/"
     },
     "37": {
       "ativa": false,
@@ -78687,7 +78799,7 @@
     },
     "65": {
       "ativa": true,
-      "atualizada_em": "2026-11-06T14:16:22.116933-03:00",
+      "atualizada_em": "2026-11-06T19:11:02.267381-03:00",
       "coletada_em": "2026-06-24T09:43:45.342507-03:00",
       "desconto_pct": 33,
       "fonte": "americanas",
@@ -79983,6 +80095,15 @@
       "marca": "Lola Cosmetics",
       "titulo_normalizado": "leave-in em spray lola cosmetics rapunzel milk 250ml",
       "titulo_original": "Leave-in em Spray Lola Cosmetics Rapunzel Milk, 250ml"
+    },
+    "176": {
+      "categoria": "corrida",
+      "criado_em": "2026-11-06T19:05:52.317487-03:00",
+      "id": 176,
+      "imagem_url": "https://i.promobit.com.br/268/943145484917939893942102632237.png",
+      "marca": "Asics",
+      "titulo_normalizado": "tenis asics gel-nimbus 28 feminino",
+      "titulo_original": "Tênis Asics Gel-Nimbus 28 Feminino"
     },
     "18": {
       "categoria": "cabelo",
