@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 367,
+    "oferta": 368,
     "produto": 177
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-11-06T19:12:20.853075-03:00",
+      "ultima_coleta_em": "2026-11-06T22:55:28.145347-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-11-06T19:11:02.267560-03:00",
+      "ultima_coleta_em": "2026-11-06T22:54:08.612349-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 1,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-11-06T19:11:28.391032-03:00",
+      "ultima_coleta_em": "2026-11-06T22:54:34.841773-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-11-06T19:08:55.386087-03:00",
+      "ultima_coleta_em": "2026-11-06T22:52:11.760337-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-11-06T19:09:37.183335-03:00",
+      "ultima_coleta_em": "2026-11-06T22:52:53.520116-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-11-06T19:07:52.902654-03:00",
+      "ultima_coleta_em": "2026-11-06T22:51:09.070518-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-11-06T19:08:24.219105-03:00",
+      "ultima_coleta_em": "2026-11-06T22:51:40.474492-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-11-06T19:06:29.253229-03:00",
+      "ultima_coleta_em": "2026-11-06T22:49:47.153201-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-11-06T19:06:07.704976-03:00",
+      "ultima_coleta_em": "2026-11-06T22:49:25.676099-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 6,
+      "ultima_coleta_qtd": 5,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-11-06T19:07:03.709299-03:00",
+      "ultima_coleta_em": "2026-11-06T22:50:20.578941-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71820,6 +71820,36 @@
       "oferta_id": 65,
       "preco": 24.99,
       "registrado_em": "2026-11-06T19:11:02.267381-03:00"
+    },
+    {
+      "oferta_id": 364,
+      "preco": 769.49,
+      "registrado_em": "2026-11-06T22:49:25.675603-03:00"
+    },
+    {
+      "oferta_id": 365,
+      "preco": 440.32,
+      "registrado_em": "2026-11-06T22:49:25.675603-03:00"
+    },
+    {
+      "oferta_id": 367,
+      "preco": 39.6,
+      "registrado_em": "2026-11-06T22:49:25.675603-03:00"
+    },
+    {
+      "oferta_id": 366,
+      "preco": 22.22,
+      "registrado_em": "2026-11-06T22:49:25.675603-03:00"
+    },
+    {
+      "oferta_id": 362,
+      "preco": 19.0,
+      "registrado_em": "2026-11-06T22:49:25.675603-03:00"
+    },
+    {
+      "oferta_id": 65,
+      "preco": 24.99,
+      "registrado_em": "2026-11-06T22:54:08.612104-03:00"
     }
   ],
   "notificacoes": [
@@ -78295,7 +78325,7 @@
     },
     "362": {
       "ativa": true,
-      "atualizada_em": "2026-11-06T19:05:52.317313-03:00",
+      "atualizada_em": "2026-11-06T22:49:25.675603-03:00",
       "coletada_em": "2026-11-05T23:54:31.611458-03:00",
       "desconto_pct": 68,
       "fonte": "promobit",
@@ -78308,8 +78338,8 @@
       "url": "https://www.promobit.com.br/oferta/leave-in-em-spray-lola-cosmetics-rapunzel-milk-250ml-3178039/"
     },
     "363": {
-      "ativa": true,
-      "atualizada_em": "2026-11-06T19:05:52.317313-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-11-06T22:56:53.632173-03:00",
       "coletada_em": "2026-11-06T19:05:52.317313-03:00",
       "desconto_pct": 50,
       "fonte": "promobit",
@@ -78323,7 +78353,7 @@
     },
     "364": {
       "ativa": true,
-      "atualizada_em": "2026-11-06T19:05:52.317313-03:00",
+      "atualizada_em": "2026-11-06T22:49:25.675603-03:00",
       "coletada_em": "2026-11-06T19:05:52.317313-03:00",
       "desconto_pct": 41,
       "fonte": "promobit",
@@ -78337,7 +78367,7 @@
     },
     "365": {
       "ativa": false,
-      "atualizada_em": "2026-11-06T19:05:52.317313-03:00",
+      "atualizada_em": "2026-11-06T22:49:25.675603-03:00",
       "coletada_em": "2026-11-06T19:05:52.317313-03:00",
       "desconto_pct": 51,
       "fonte": "promobit",
@@ -78351,7 +78381,7 @@
     },
     "366": {
       "ativa": true,
-      "atualizada_em": "2026-11-06T19:05:52.317313-03:00",
+      "atualizada_em": "2026-11-06T22:49:25.675603-03:00",
       "coletada_em": "2026-11-06T19:05:52.317313-03:00",
       "desconto_pct": 55,
       "fonte": "promobit",
@@ -78362,6 +78392,20 @@
       "preco_de": 49.9,
       "produto_id": 147,
       "url": "https://www.promobit.com.br/oferta/bem-dita-praia-creme-protetor-lola-cosmetics-3180780/"
+    },
+    "367": {
+      "ativa": false,
+      "atualizada_em": "2026-11-06T22:49:25.675603-03:00",
+      "coletada_em": "2026-11-06T22:49:25.675603-03:00",
+      "desconto_pct": 67,
+      "fonte": "promobit",
+      "hash_unico": "a97f6a787d60f5c75a411c820a642607",
+      "id": 367,
+      "loja": "Amazon",
+      "preco_atual": 39.6,
+      "preco_de": 119.9,
+      "produto_id": 52,
+      "url": "https://www.promobit.com.br/oferta/kit-morte-subita-shampoo-condicionador-spray-reparacao-lola-from-rio-3181935/"
     },
     "37": {
       "ativa": false,
@@ -78799,7 +78843,7 @@
     },
     "65": {
       "ativa": true,
-      "atualizada_em": "2026-11-06T19:11:02.267381-03:00",
+      "atualizada_em": "2026-11-06T22:54:08.612104-03:00",
       "coletada_em": "2026-06-24T09:43:45.342507-03:00",
       "desconto_pct": 33,
       "fonte": "americanas",
