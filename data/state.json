@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 399,
-    "produto": 179
+    "oferta": 400,
+    "produto": 180
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-11-12T22:15:41.111597-03:00",
+      "ultima_coleta_em": "2026-11-13T04:59:04.195053-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-11-12T22:14:23.299156-03:00",
+      "ultima_coleta_em": "2026-11-13T04:57:45.468954-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 1,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-11-12T22:14:49.592396-03:00",
+      "ultima_coleta_em": "2026-11-13T04:58:11.673629-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-11-12T22:12:34.470737-03:00",
+      "ultima_coleta_em": "2026-11-13T04:55:59.851891-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-11-12T22:13:16.894724-03:00",
+      "ultima_coleta_em": "2026-11-13T04:56:42.052633-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-11-12T22:11:32.004463-03:00",
+      "ultima_coleta_em": "2026-11-13T04:54:56.984387-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-11-12T22:12:03.297428-03:00",
+      "ultima_coleta_em": "2026-11-13T04:55:28.573594-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-11-12T22:10:09.678728-03:00",
+      "ultima_coleta_em": "2026-11-13T04:53:34.278626-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-11-12T22:09:48.331238-03:00",
+      "ultima_coleta_em": "2026-11-13T04:53:12.818825-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 7,
+      "ultima_coleta_qtd": 6,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-11-12T22:10:43.343332-03:00",
+      "ultima_coleta_em": "2026-11-13T04:54:08.116368-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -72955,6 +72955,41 @@
       "oferta_id": 65,
       "preco": 24.99,
       "registrado_em": "2026-11-12T22:14:23.298967-03:00"
+    },
+    {
+      "oferta_id": 396,
+      "preco": 14.0,
+      "registrado_em": "2026-11-13T04:53:07.456229-03:00"
+    },
+    {
+      "oferta_id": 399,
+      "preco": 24.54,
+      "registrado_em": "2026-11-13T04:53:07.456229-03:00"
+    },
+    {
+      "oferta_id": 397,
+      "preco": 22.9,
+      "registrado_em": "2026-11-13T04:53:07.456229-03:00"
+    },
+    {
+      "oferta_id": 398,
+      "preco": 21.75,
+      "registrado_em": "2026-11-13T04:53:07.456229-03:00"
+    },
+    {
+      "oferta_id": 395,
+      "preco": 21.18,
+      "registrado_em": "2026-11-13T04:53:07.456229-03:00"
+    },
+    {
+      "oferta_id": 393,
+      "preco": 15.15,
+      "registrado_em": "2026-11-13T04:53:07.456229-03:00"
+    },
+    {
+      "oferta_id": 65,
+      "preco": 24.99,
+      "registrado_em": "2026-11-13T04:57:45.468729-03:00"
     }
   ],
   "notificacoes": [
@@ -75510,6 +75545,13 @@
       "enviada_em": "2026-11-12T17:18:28.289140-03:00",
       "erro": null,
       "oferta_id": 396,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-11-13T04:53:12.818566-03:00",
+      "erro": null,
+      "oferta_id": 399,
       "sucesso": true,
       "tipo": "nova"
     }
@@ -79212,8 +79254,8 @@
       "url": "https://www.promobit.com.br/oferta/pinga-cenoura-e-oliva-oleo-50ml-lola-cosmetics-3163382/"
     },
     "337": {
-      "ativa": true,
-      "atualizada_em": "2026-11-03T14:17:40.009924-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-11-13T04:59:09.358316-03:00",
       "coletada_em": "2026-11-02T17:10:36.967524-03:00",
       "desconto_pct": 53,
       "fonte": "promobit",
@@ -79226,8 +79268,8 @@
       "url": "https://www.promobit.com.br/oferta/jaqueta-menino-bobojaco-infantil-nylon-impermeavel-forrada-tam-10-3164678/"
     },
     "338": {
-      "ativa": true,
-      "atualizada_em": "2026-11-03T06:34:59.420139-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-11-13T04:59:13.047608-03:00",
       "coletada_em": "2026-11-02T23:15:40.001458-03:00",
       "desconto_pct": 47,
       "fonte": "promobit",
@@ -79800,8 +79842,8 @@
       "url": "https://www.promobit.com.br/oferta/tenis-fila-racer-speedzone-feminino-corrida-e-maratona-3188405/"
     },
     "375": {
-      "ativa": true,
-      "atualizada_em": "2026-11-10T07:20:25.652029-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-11-13T04:59:42.372276-03:00",
       "coletada_em": "2026-11-09T17:00:00.562548-03:00",
       "desconto_pct": 51,
       "fonte": "promobit",
@@ -79828,8 +79870,8 @@
       "url": "https://www.promobit.com.br/oferta/dream-cream-mascara-de-hidratacao-450g-lola-cosmetics-3189180/"
     },
     "377": {
-      "ativa": true,
-      "atualizada_em": "2026-11-10T07:20:25.652029-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-11-13T04:59:50.012951-03:00",
       "coletada_em": "2026-11-09T17:00:00.562548-03:00",
       "desconto_pct": 62,
       "fonte": "promobit",
@@ -79842,8 +79884,8 @@
       "url": "https://www.promobit.com.br/oferta/xapadinha-mascara-capilar-disciplinante-100g-lola-cosmetics-3189078/"
     },
     "378": {
-      "ativa": true,
-      "atualizada_em": "2026-11-10T23:16:06.063868-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-11-13T04:59:53.728194-03:00",
       "coletada_em": "2026-11-09T23:35:11.112777-03:00",
       "desconto_pct": 45,
       "fonte": "promobit",
@@ -79884,8 +79926,8 @@
       "url": "https://www.promobit.com.br/oferta/tenis-unissex-mizuno-wave-rider-10millennium-2846829/"
     },
     "380": {
-      "ativa": true,
-      "atualizada_em": "2026-11-12T22:09:48.330758-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-11-13T05:00:01.180213-03:00",
       "coletada_em": "2026-11-09T23:35:11.112777-03:00",
       "desconto_pct": 54,
       "fonte": "promobit",
@@ -80081,7 +80123,7 @@
     },
     "393": {
       "ativa": true,
-      "atualizada_em": "2026-11-12T22:09:48.330758-03:00",
+      "atualizada_em": "2026-11-13T04:53:07.456229-03:00",
       "coletada_em": "2026-11-11T20:31:19.104980-03:00",
       "desconto_pct": 66,
       "fonte": "promobit",
@@ -80109,7 +80151,7 @@
     },
     "395": {
       "ativa": false,
-      "atualizada_em": "2026-11-12T22:09:48.330758-03:00",
+      "atualizada_em": "2026-11-13T04:53:07.456229-03:00",
       "coletada_em": "2026-11-12T09:30:46.461474-03:00",
       "desconto_pct": 65,
       "fonte": "promobit",
@@ -80123,7 +80165,7 @@
     },
     "396": {
       "ativa": true,
-      "atualizada_em": "2026-11-12T22:09:48.330758-03:00",
+      "atualizada_em": "2026-11-13T04:53:07.456229-03:00",
       "coletada_em": "2026-11-12T17:18:18.767517-03:00",
       "desconto_pct": 30,
       "fonte": "promobit",
@@ -80137,7 +80179,7 @@
     },
     "397": {
       "ativa": true,
-      "atualizada_em": "2026-11-12T22:09:48.330758-03:00",
+      "atualizada_em": "2026-11-13T04:53:07.456229-03:00",
       "coletada_em": "2026-11-12T17:18:18.767517-03:00",
       "desconto_pct": 54,
       "fonte": "promobit",
@@ -80151,7 +80193,7 @@
     },
     "398": {
       "ativa": false,
-      "atualizada_em": "2026-11-12T22:09:48.330758-03:00",
+      "atualizada_em": "2026-11-13T04:53:07.456229-03:00",
       "coletada_em": "2026-11-12T17:18:18.767517-03:00",
       "desconto_pct": 60,
       "fonte": "promobit",
@@ -80162,6 +80204,20 @@
       "preco_de": 54.9,
       "produto_id": 16,
       "url": "https://www.promobit.com.br/oferta/danos-vorazes-leave-in-200ml-lola-cosmetics-3205435/"
+    },
+    "399": {
+      "ativa": true,
+      "atualizada_em": "2026-11-13T04:53:07.456229-03:00",
+      "coletada_em": "2026-11-13T04:53:07.456229-03:00",
+      "desconto_pct": 30,
+      "fonte": "promobit",
+      "hash_unico": "5df1e8017ce64da08b20e9ddf5c6f4b6",
+      "id": 399,
+      "loja": "Amazon",
+      "preco_atual": 24.54,
+      "preco_de": 34.9,
+      "produto_id": 179,
+      "url": "https://www.promobit.com.br/oferta/creme-alisante-lola-cosmetics-hair-vintage-girl-100g-3208518/"
     },
     "4": {
       "ativa": false,
@@ -80557,7 +80613,7 @@
     },
     "65": {
       "ativa": true,
-      "atualizada_em": "2026-11-12T22:14:23.298967-03:00",
+      "atualizada_em": "2026-11-13T04:57:45.468729-03:00",
       "coletada_em": "2026-06-24T09:43:45.342507-03:00",
       "desconto_pct": 33,
       "fonte": "americanas",
@@ -81880,6 +81936,15 @@
       "marca": "Lola Cosmetics",
       "titulo_normalizado": "morte subita shampoo solido 100g lola cosmetics",
       "titulo_original": "Morte Súbita Shampoo Sólido 100g, Lola Cosmetics"
+    },
+    "179": {
+      "categoria": "cabelo",
+      "criado_em": "2026-11-13T04:53:07.456400-03:00",
+      "id": 179,
+      "imagem_url": "https://i.promobit.com.br/268/646418166017945442791703052659.jpg",
+      "marca": "Lola Cosmetics",
+      "titulo_normalizado": "creme alisante lola cosmetics hair vintage girl 100g",
+      "titulo_original": "Creme Alisante Lola Cosmetics Hair Vintage Girl 100g"
     },
     "18": {
       "categoria": "cabelo",
