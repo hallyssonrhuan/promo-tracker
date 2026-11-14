@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 402,
+    "oferta": 404,
     "produto": 180
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-11-14T12:04:11.769026-03:00",
+      "ultima_coleta_em": "2026-11-14T16:44:28.081377-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-11-14T12:01:15.427450-03:00",
+      "ultima_coleta_em": "2026-11-14T16:43:09.107303-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 1,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-11-14T12:01:42.346386-03:00",
+      "ultima_coleta_em": "2026-11-14T16:43:36.397176-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-11-14T11:59:28.160383-03:00",
+      "ultima_coleta_em": "2026-11-14T16:41:31.439564-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-11-14T12:00:09.719484-03:00",
+      "ultima_coleta_em": "2026-11-14T16:42:13.347419-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-11-14T11:58:23.808986-03:00",
+      "ultima_coleta_em": "2026-11-14T16:40:26.586888-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-11-14T11:58:57.004126-03:00",
+      "ultima_coleta_em": "2026-11-14T16:40:59.857574-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-11-14T11:57:02.245499-03:00",
+      "ultima_coleta_em": "2026-11-14T16:39:04.991475-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-11-14T11:56:40.838759-03:00",
+      "ultima_coleta_em": "2026-11-14T16:38:43.638515-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 3,
+      "ultima_coleta_qtd": 5,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-11-14T11:57:35.499946-03:00",
+      "ultima_coleta_em": "2026-11-14T16:39:38.245860-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -73130,6 +73130,36 @@
       "oferta_id": 65,
       "preco": 24.99,
       "registrado_em": "2026-11-14T12:01:15.427293-03:00"
+    },
+    {
+      "oferta_id": 400,
+      "preco": 16.49,
+      "registrado_em": "2026-11-14T16:38:35.158618-03:00"
+    },
+    {
+      "oferta_id": 402,
+      "preco": 26.9,
+      "registrado_em": "2026-11-14T16:38:35.158618-03:00"
+    },
+    {
+      "oferta_id": 403,
+      "preco": 24.21,
+      "registrado_em": "2026-11-14T16:38:35.158618-03:00"
+    },
+    {
+      "oferta_id": 399,
+      "preco": 24.54,
+      "registrado_em": "2026-11-14T16:38:35.158618-03:00"
+    },
+    {
+      "oferta_id": 397,
+      "preco": 22.9,
+      "registrado_em": "2026-11-14T16:38:35.158618-03:00"
+    },
+    {
+      "oferta_id": 65,
+      "preco": 24.99,
+      "registrado_em": "2026-11-14T16:43:09.107090-03:00"
     }
   ],
   "notificacoes": [
@@ -75699,6 +75729,20 @@
       "enviada_em": "2026-11-13T18:39:19.771946-03:00",
       "erro": null,
       "oferta_id": 400,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-11-14T16:38:39.770979-03:00",
+      "erro": null,
+      "oferta_id": 403,
+      "sucesso": true,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-11-14T16:38:43.638339-03:00",
+      "erro": null,
+      "oferta_id": 402,
       "sucesso": true,
       "tipo": "nova"
     }
@@ -80003,7 +80047,7 @@
       "url": "https://www.promobit.com.br/oferta/loira-de-farmacia-shampoo-matizador-250ml-lola-cosmetics-3189118/"
     },
     "376": {
-      "ativa": true,
+      "ativa": false,
       "atualizada_em": "2026-11-10T23:16:06.063868-03:00",
       "coletada_em": "2026-11-09T17:00:00.562548-03:00",
       "desconto_pct": 46,
@@ -80326,7 +80370,7 @@
     },
     "397": {
       "ativa": true,
-      "atualizada_em": "2026-11-14T11:56:40.838434-03:00",
+      "atualizada_em": "2026-11-14T16:38:35.158618-03:00",
       "coletada_em": "2026-11-12T17:18:18.767517-03:00",
       "desconto_pct": 54,
       "fonte": "promobit",
@@ -80354,7 +80398,7 @@
     },
     "399": {
       "ativa": true,
-      "atualizada_em": "2026-11-14T11:56:40.838434-03:00",
+      "atualizada_em": "2026-11-14T16:38:35.158618-03:00",
       "coletada_em": "2026-11-13T04:53:07.456229-03:00",
       "desconto_pct": 30,
       "fonte": "promobit",
@@ -80396,7 +80440,7 @@
     },
     "400": {
       "ativa": true,
-      "atualizada_em": "2026-11-14T11:56:40.838434-03:00",
+      "atualizada_em": "2026-11-14T16:38:35.158618-03:00",
       "coletada_em": "2026-11-13T18:39:14.329759-03:00",
       "desconto_pct": 63,
       "fonte": "promobit",
@@ -80421,6 +80465,34 @@
       "preco_de": 64.9,
       "produto_id": 93,
       "url": "https://www.promobit.com.br/oferta/danos-vorazes-mascara-de-tratamento-450g-lola-cosmetics-3212418/"
+    },
+    "402": {
+      "ativa": false,
+      "atualizada_em": "2026-11-14T16:38:35.158618-03:00",
+      "coletada_em": "2026-11-14T16:38:35.158618-03:00",
+      "desconto_pct": 59,
+      "fonte": "promobit",
+      "hash_unico": "a4352fa516130f74e711808f371b9261",
+      "id": 402,
+      "loja": "Amazon",
+      "preco_atual": 26.9,
+      "preco_de": 64.9,
+      "produto_id": 54,
+      "url": "https://www.promobit.com.br/oferta/dream-cream-mascara-de-hidratacao-450g-lola-cosmetics-3213878/"
+    },
+    "403": {
+      "ativa": true,
+      "atualizada_em": "2026-11-14T16:38:35.158618-03:00",
+      "coletada_em": "2026-11-14T16:38:35.158618-03:00",
+      "desconto_pct": 63,
+      "fonte": "promobit",
+      "hash_unico": "726582e6ee08690fc77d821166bd802e",
+      "id": 403,
+      "loja": "Amazon",
+      "preco_atual": 24.21,
+      "preco_de": 64.9,
+      "produto_id": 54,
+      "url": "https://www.promobit.com.br/oferta/dream-cream-mascara-de-hidratacao-450g-lola-cosmetics-3213696/"
     },
     "41": {
       "ativa": false,
@@ -80788,7 +80860,7 @@
     },
     "65": {
       "ativa": true,
-      "atualizada_em": "2026-11-14T12:01:15.427293-03:00",
+      "atualizada_em": "2026-11-14T16:43:09.107090-03:00",
       "coletada_em": "2026-06-24T09:43:45.342507-03:00",
       "desconto_pct": 33,
       "fonte": "americanas",
