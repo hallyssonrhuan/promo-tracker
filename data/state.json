@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 405,
+    "oferta": 406,
     "produto": 180
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-11-16T05:01:27.213295-03:00",
+      "ultima_coleta_em": "2026-11-16T14:41:31.287942-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-11-16T05:00:08.312374-03:00",
+      "ultima_coleta_em": "2026-11-16T14:40:09.814184-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 1,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-11-16T05:00:34.317815-03:00",
+      "ultima_coleta_em": "2026-11-16T14:40:36.135427-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-11-16T04:58:22.905804-03:00",
+      "ultima_coleta_em": "2026-11-16T14:38:14.792453-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-11-16T04:59:08.597088-03:00",
+      "ultima_coleta_em": "2026-11-16T14:38:56.813035-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-11-16T04:57:17.671714-03:00",
+      "ultima_coleta_em": "2026-11-16T14:37:11.805022-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-11-16T04:57:51.911163-03:00",
+      "ultima_coleta_em": "2026-11-16T14:37:43.208146-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-11-16T04:55:53.258373-03:00",
+      "ultima_coleta_em": "2026-11-16T14:35:48.044707-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-11-16T04:55:31.941826-03:00",
+      "ultima_coleta_em": "2026-11-16T14:35:26.410110-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 3,
+      "ultima_coleta_qtd": 4,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-11-16T04:56:28.206639-03:00",
+      "ultima_coleta_em": "2026-11-16T14:36:22.614565-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -73320,6 +73320,31 @@
       "oferta_id": 65,
       "preco": 24.99,
       "registrado_em": "2026-11-16T05:00:08.312216-03:00"
+    },
+    {
+      "oferta_id": 405,
+      "preco": 180.08,
+      "registrado_em": "2026-11-16T14:35:21.720453-03:00"
+    },
+    {
+      "oferta_id": 404,
+      "preco": 9.9,
+      "registrado_em": "2026-11-16T14:35:21.720453-03:00"
+    },
+    {
+      "oferta_id": 402,
+      "preco": 26.9,
+      "registrado_em": "2026-11-16T14:35:21.720453-03:00"
+    },
+    {
+      "oferta_id": 403,
+      "preco": 24.21,
+      "registrado_em": "2026-11-16T14:35:21.720453-03:00"
+    },
+    {
+      "oferta_id": 65,
+      "preco": 24.99,
+      "registrado_em": "2026-11-16T14:40:09.813826-03:00"
     }
   ],
   "notificacoes": [
@@ -75910,6 +75935,13 @@
       "enviada_em": "2026-11-15T06:58:48.553258-03:00",
       "erro": "telegram: chat=-1003941125017: HTTP 403 {\"ok\":false,\"error_code\":403,\"description\":\"Forbidden: bot was kicked from the channel chat\"}",
       "oferta_id": 404,
+      "sucesso": false,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-11-16T14:35:26.409907-03:00",
+      "erro": "telegram: chat=-1003941125017: HTTP 403 {\"ok\":false,\"error_code\":403,\"description\":\"Forbidden: bot was kicked from the channel chat\"}",
+      "oferta_id": 405,
       "sucesso": false,
       "tipo": "nova"
     }
@@ -80635,7 +80667,7 @@
     },
     "402": {
       "ativa": false,
-      "atualizada_em": "2026-11-16T04:55:31.941573-03:00",
+      "atualizada_em": "2026-11-16T14:35:21.720453-03:00",
       "coletada_em": "2026-11-14T16:38:35.158618-03:00",
       "desconto_pct": 59,
       "fonte": "promobit",
@@ -80649,7 +80681,7 @@
     },
     "403": {
       "ativa": true,
-      "atualizada_em": "2026-11-16T04:55:31.941573-03:00",
+      "atualizada_em": "2026-11-16T14:35:21.720453-03:00",
       "coletada_em": "2026-11-14T16:38:35.158618-03:00",
       "desconto_pct": 63,
       "fonte": "promobit",
@@ -80663,7 +80695,7 @@
     },
     "404": {
       "ativa": true,
-      "atualizada_em": "2026-11-16T04:55:31.941573-03:00",
+      "atualizada_em": "2026-11-16T14:35:21.720453-03:00",
       "coletada_em": "2026-11-15T06:58:43.337369-03:00",
       "desconto_pct": 67,
       "fonte": "promobit",
@@ -80674,6 +80706,20 @@
       "preco_de": 29.9,
       "produto_id": 174,
       "url": "https://www.promobit.com.br/oferta/ela-e-carioca-mini-proteina-capilar-90ml-lola-cosmetics-3214793/"
+    },
+    "405": {
+      "ativa": true,
+      "atualizada_em": "2026-11-16T14:35:21.720453-03:00",
+      "coletada_em": "2026-11-16T14:35:21.720453-03:00",
+      "desconto_pct": 55,
+      "fonte": "promobit",
+      "hash_unico": "0626df936d88511df35396f1a1a5f5f0",
+      "id": 405,
+      "loja": "Netshoes",
+      "preco_atual": 180.08,
+      "preco_de": 399.99,
+      "produto_id": 3,
+      "url": "https://www.promobit.com.br/oferta/tenis-de-corrida-feminino-mizuno-atlantis-2-3218369/"
     },
     "41": {
       "ativa": false,
@@ -81041,7 +81087,7 @@
     },
     "65": {
       "ativa": true,
-      "atualizada_em": "2026-11-16T05:00:08.312216-03:00",
+      "atualizada_em": "2026-11-16T14:40:09.813826-03:00",
       "coletada_em": "2026-06-24T09:43:45.342507-03:00",
       "desconto_pct": 33,
       "fonte": "americanas",
