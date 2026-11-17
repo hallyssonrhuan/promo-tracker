@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 406,
+    "oferta": 407,
     "produto": 180
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-11-16T14:41:31.287942-03:00",
+      "ultima_coleta_em": "2026-11-16T22:08:05.716885-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-11-16T14:40:09.814184-03:00",
+      "ultima_coleta_em": "2026-11-16T22:06:45.340246-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 1,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-11-16T14:40:36.135427-03:00",
+      "ultima_coleta_em": "2026-11-16T22:07:11.752554-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-11-16T14:38:14.792453-03:00",
+      "ultima_coleta_em": "2026-11-16T22:04:56.675078-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-11-16T14:38:56.813035-03:00",
+      "ultima_coleta_em": "2026-11-16T22:05:38.476033-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-11-16T14:37:11.805022-03:00",
+      "ultima_coleta_em": "2026-11-16T22:03:51.510273-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-11-16T14:37:43.208146-03:00",
+      "ultima_coleta_em": "2026-11-16T22:04:25.211207-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-11-16T14:35:48.044707-03:00",
+      "ultima_coleta_em": "2026-11-16T22:02:29.603744-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,7 +71,7 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-11-16T14:35:26.410110-03:00",
+      "ultima_coleta_em": "2026-11-16T22:02:08.194194-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 4,
       "ultima_coleta_status": "ok"
@@ -79,7 +79,7 @@
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-11-16T14:36:22.614565-03:00",
+      "ultima_coleta_em": "2026-11-16T22:03:03.017863-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -73345,6 +73345,36 @@
       "oferta_id": 65,
       "preco": 24.99,
       "registrado_em": "2026-11-16T14:40:09.813826-03:00"
+    },
+    {
+      "oferta_id": 405,
+      "preco": 180.08,
+      "registrado_em": "2026-11-16T22:02:03.913869-03:00"
+    },
+    {
+      "oferta_id": 406,
+      "preco": 19.06,
+      "registrado_em": "2026-11-16T22:02:03.913869-03:00"
+    },
+    {
+      "oferta_id": 404,
+      "preco": 9.9,
+      "registrado_em": "2026-11-16T22:02:03.913869-03:00"
+    },
+    {
+      "oferta_id": 402,
+      "preco": 26.9,
+      "registrado_em": "2026-11-16T22:02:03.913869-03:00"
+    },
+    {
+      "oferta_id": 65,
+      "preco": 24.99,
+      "registrado_em": "2026-11-16T22:06:45.339980-03:00"
+    },
+    {
+      "oferta_id": 93,
+      "preco": 46.99,
+      "registrado_em": "2026-11-16T22:08:56.468133-03:00"
     }
   ],
   "notificacoes": [
@@ -75944,6 +75974,20 @@
       "oferta_id": 405,
       "sucesso": false,
       "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-11-16T22:02:08.193986-03:00",
+      "erro": "telegram: chat=-1003941125017: HTTP 403 {\"ok\":false,\"error_code\":403,\"description\":\"Forbidden: bot was kicked from the channel chat\"}",
+      "oferta_id": 406,
+      "sucesso": false,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-11-16T22:08:56.784099-03:00",
+      "erro": "telegram: chat=-1003941125017: HTTP 403 {\"ok\":false,\"error_code\":403,\"description\":\"Forbidden: bot was kicked from the channel chat\"}",
+      "oferta_id": 93,
+      "sucesso": false,
+      "tipo": "baixou"
     }
   ],
   "ofertas": {
@@ -80667,7 +80711,7 @@
     },
     "402": {
       "ativa": false,
-      "atualizada_em": "2026-11-16T14:35:21.720453-03:00",
+      "atualizada_em": "2026-11-16T22:02:03.913869-03:00",
       "coletada_em": "2026-11-14T16:38:35.158618-03:00",
       "desconto_pct": 59,
       "fonte": "promobit",
@@ -80695,7 +80739,7 @@
     },
     "404": {
       "ativa": true,
-      "atualizada_em": "2026-11-16T14:35:21.720453-03:00",
+      "atualizada_em": "2026-11-16T22:02:03.913869-03:00",
       "coletada_em": "2026-11-15T06:58:43.337369-03:00",
       "desconto_pct": 67,
       "fonte": "promobit",
@@ -80709,7 +80753,7 @@
     },
     "405": {
       "ativa": true,
-      "atualizada_em": "2026-11-16T14:35:21.720453-03:00",
+      "atualizada_em": "2026-11-16T22:02:03.913869-03:00",
       "coletada_em": "2026-11-16T14:35:21.720453-03:00",
       "desconto_pct": 55,
       "fonte": "promobit",
@@ -80720,6 +80764,20 @@
       "preco_de": 399.99,
       "produto_id": 3,
       "url": "https://www.promobit.com.br/oferta/tenis-de-corrida-feminino-mizuno-atlantis-2-3218369/"
+    },
+    "406": {
+      "ativa": true,
+      "atualizada_em": "2026-11-16T22:02:03.913869-03:00",
+      "coletada_em": "2026-11-16T22:02:03.913869-03:00",
+      "desconto_pct": 68,
+      "fonte": "promobit",
+      "hash_unico": "93c24ad8333206b07ad81aa2a7dd3dad",
+      "id": 406,
+      "loja": "Amazon",
+      "preco_atual": 19.06,
+      "preco_de": 59.9,
+      "produto_id": 165,
+      "url": "https://www.promobit.com.br/oferta/leave-in-spray-rapunzel-milk-lola-cosmetics-250ml-3219930/"
     },
     "41": {
       "ativa": false,
@@ -81087,7 +81145,7 @@
     },
     "65": {
       "ativa": true,
-      "atualizada_em": "2026-11-16T14:40:09.813826-03:00",
+      "atualizada_em": "2026-11-16T22:06:45.339980-03:00",
       "coletada_em": "2026-06-24T09:43:45.342507-03:00",
       "desconto_pct": 33,
       "fonte": "americanas",
@@ -81521,14 +81579,14 @@
     },
     "93": {
       "ativa": true,
-      "atualizada_em": "2026-10-29T12:43:43.211371-03:00",
+      "atualizada_em": "2026-11-16T22:08:56.468100-03:00",
       "coletada_em": "2026-07-19T11:47:39.505159-03:00",
-      "desconto_pct": 0,
+      "desconto_pct": 6,
       "fonte": "americanas",
       "hash_unico": "ee197551457dac498d54dba11d718df5",
       "id": 93,
       "loja": "Americanas",
-      "preco_atual": 49.99,
+      "preco_atual": 46.99,
       "preco_de": 49.99,
       "produto_id": 66,
       "url": "https://www.americanas.com.br/creme-tratamento-lola-fortalecimento-rapunzel-450g/p"
