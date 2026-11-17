@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 410,
-    "produto": 180
+    "oferta": 411,
+    "produto": 181
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-11-17T06:04:22.268176-03:00",
+      "ultima_coleta_em": "2026-11-17T15:11:19.774186-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-11-17T06:02:40.912856-03:00",
+      "ultima_coleta_em": "2026-11-17T15:10:01.738789-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 1,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-11-17T06:03:07.154173-03:00",
+      "ultima_coleta_em": "2026-11-17T15:10:27.595288-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-11-17T06:00:50.643304-03:00",
+      "ultima_coleta_em": "2026-11-17T15:08:07.775052-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-11-17T06:01:32.524889-03:00",
+      "ultima_coleta_em": "2026-11-17T15:08:49.189404-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-11-17T05:59:47.628503-03:00",
+      "ultima_coleta_em": "2026-11-17T15:07:02.525589-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-11-17T06:00:19.594522-03:00",
+      "ultima_coleta_em": "2026-11-17T15:07:36.655274-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-11-17T05:58:24.602991-03:00",
+      "ultima_coleta_em": "2026-11-17T15:05:41.048629-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-11-17T05:58:03.037913-03:00",
+      "ultima_coleta_em": "2026-11-17T15:05:19.114237-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 6,
+      "ultima_coleta_qtd": 3,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-11-17T05:58:58.623870-03:00",
+      "ultima_coleta_em": "2026-11-17T15:06:14.222059-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -73415,6 +73415,26 @@
       "oferta_id": 93,
       "preco": 49.99,
       "registrado_em": "2026-11-17T06:05:16.794959-03:00"
+    },
+    {
+      "oferta_id": 407,
+      "preco": 20.59,
+      "registrado_em": "2026-11-17T15:05:14.737796-03:00"
+    },
+    {
+      "oferta_id": 410,
+      "preco": 20.23,
+      "registrado_em": "2026-11-17T15:05:14.737796-03:00"
+    },
+    {
+      "oferta_id": 406,
+      "preco": 19.06,
+      "registrado_em": "2026-11-17T15:05:14.737796-03:00"
+    },
+    {
+      "oferta_id": 65,
+      "preco": 23.99,
+      "registrado_em": "2026-11-17T15:10:01.738578-03:00"
     }
   ],
   "notificacoes": [
@@ -76047,6 +76067,13 @@
       "enviada_em": "2026-11-17T05:58:03.037786-03:00",
       "erro": "telegram: chat=-1003941125017: HTTP 403 {\"ok\":false,\"error_code\":403,\"description\":\"Forbidden: bot was kicked from the channel chat\"}",
       "oferta_id": 407,
+      "sucesso": false,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-11-17T15:05:19.114025-03:00",
+      "erro": "telegram: chat=-1003941125017: HTTP 403 {\"ok\":false,\"error_code\":403,\"description\":\"Forbidden: bot was kicked from the channel chat\"}",
+      "oferta_id": 410,
       "sucesso": false,
       "tipo": "nova"
     }
@@ -80799,8 +80826,8 @@
       "url": "https://www.promobit.com.br/oferta/dream-cream-mascara-de-hidratacao-450g-lola-cosmetics-3213696/"
     },
     "404": {
-      "ativa": true,
-      "atualizada_em": "2026-11-17T05:57:50.115522-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-11-17T15:11:46.707909-03:00",
       "coletada_em": "2026-11-15T06:58:43.337369-03:00",
       "desconto_pct": 67,
       "fonte": "promobit",
@@ -80828,7 +80855,7 @@
     },
     "406": {
       "ativa": true,
-      "atualizada_em": "2026-11-17T05:57:50.115522-03:00",
+      "atualizada_em": "2026-11-17T15:05:14.737796-03:00",
       "coletada_em": "2026-11-16T22:02:03.913869-03:00",
       "desconto_pct": 68,
       "fonte": "promobit",
@@ -80842,7 +80869,7 @@
     },
     "407": {
       "ativa": true,
-      "atualizada_em": "2026-11-17T05:57:50.115522-03:00",
+      "atualizada_em": "2026-11-17T15:05:14.737796-03:00",
       "coletada_em": "2026-11-17T05:57:50.115522-03:00",
       "desconto_pct": 48,
       "fonte": "promobit",
@@ -80855,8 +80882,8 @@
       "url": "https://www.promobit.com.br/oferta/danos-vorazes-shampoo-250ml-lola-cosmetics-3221409/"
     },
     "408": {
-      "ativa": true,
-      "atualizada_em": "2026-11-17T05:57:50.115522-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-11-17T15:12:01.634730-03:00",
       "coletada_em": "2026-11-17T05:57:50.115522-03:00",
       "desconto_pct": 73,
       "fonte": "promobit",
@@ -80869,8 +80896,8 @@
       "url": "https://www.promobit.com.br/oferta/meu-cacho-minha-vida-mascara-450g-lola-cosmetics-3221278/"
     },
     "409": {
-      "ativa": true,
-      "atualizada_em": "2026-11-17T05:57:50.115522-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-11-17T15:12:06.086764-03:00",
       "coletada_em": "2026-11-17T05:57:50.115522-03:00",
       "desconto_pct": 62,
       "fonte": "promobit",
@@ -80895,6 +80922,20 @@
       "preco_de": 399.99,
       "produto_id": 31,
       "url": "https://www.promobit.com.br/oferta/tenis-nike-run-swift-3-feminino-2850402/"
+    },
+    "410": {
+      "ativa": true,
+      "atualizada_em": "2026-11-17T15:05:14.737796-03:00",
+      "coletada_em": "2026-11-17T15:05:14.737796-03:00",
+      "desconto_pct": 55,
+      "fonte": "promobit",
+      "hash_unico": "34aa26c5c937961d1473cf0a573cbbe7",
+      "id": 410,
+      "loja": "Amazon",
+      "preco_atual": 20.23,
+      "preco_de": 44.9,
+      "produto_id": 180,
+      "url": "https://www.promobit.com.br/oferta/danos-vorazes-condicionador-booster-250ml-lola-cosmetics-3222947/"
     },
     "42": {
       "ativa": false,
@@ -81248,14 +81289,14 @@
     },
     "65": {
       "ativa": true,
-      "atualizada_em": "2026-11-17T06:02:40.912691-03:00",
+      "atualizada_em": "2026-11-17T15:10:01.738578-03:00",
       "coletada_em": "2026-06-24T09:43:45.342507-03:00",
-      "desconto_pct": 33,
+      "desconto_pct": 36,
       "fonte": "americanas",
       "hash_unico": "21d646ac7995f14e92b8e58d27de2a16",
       "id": 65,
       "loja": "Americanas",
-      "preco_atual": 24.99,
+      "preco_atual": 23.99,
       "preco_de": 37.29,
       "produto_id": 47,
       "url": "https://www.americanas.com.br/kit-euroderm-gelato-pistache---vanilla---body-splash-200ml---manteiga-hidratante-200ml/p"
@@ -82589,6 +82630,15 @@
       "marca": "Lola Cosmetics",
       "titulo_normalizado": "xapadinha shampoo antiquebra 250ml lola cosmetics",
       "titulo_original": "Xapadinha Shampoo Antiquebra 250ml , Lola Cosmetics"
+    },
+    "180": {
+      "categoria": "cabelo",
+      "criado_em": "2026-11-17T15:05:14.738041-03:00",
+      "id": 180,
+      "imagem_url": "https://i.promobit.com.br/268/631187015317949300157220496617.jpg",
+      "marca": "Lola Cosmetics",
+      "titulo_normalizado": "danos vorazes condicionador booster 250ml lola cosmetics",
+      "titulo_original": "Danos Vorazes Condicionador Booster 250mL Lola Cosmetics"
     },
     "19": {
       "categoria": "corrida",
