@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 413,
-    "produto": 182
+    "oferta": 414,
+    "produto": 183
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-11-17T22:00:43.471191-03:00",
+      "ultima_coleta_em": "2026-11-18T05:07:55.898841-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-11-17T21:59:25.071560-03:00",
+      "ultima_coleta_em": "2026-11-18T05:04:59.607161-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 1,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-11-17T21:59:51.173108-03:00",
+      "ultima_coleta_em": "2026-11-18T05:05:25.670451-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-11-17T21:57:30.224807-03:00",
+      "ultima_coleta_em": "2026-11-18T05:03:06.227666-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-11-17T21:58:11.857683-03:00",
+      "ultima_coleta_em": "2026-11-18T05:03:48.581963-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-11-17T21:56:27.928989-03:00",
+      "ultima_coleta_em": "2026-11-18T05:02:03.054046-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-11-17T21:56:59.095071-03:00",
+      "ultima_coleta_em": "2026-11-18T05:02:35.135638-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-11-17T21:55:06.044755-03:00",
+      "ultima_coleta_em": "2026-11-18T05:00:40.444058-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-11-17T21:54:44.669442-03:00",
+      "ultima_coleta_em": "2026-11-18T05:00:18.914842-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 5,
+      "ultima_coleta_qtd": 6,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-11-17T21:55:39.447131-03:00",
+      "ultima_coleta_em": "2026-11-18T05:01:14.284277-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -73465,6 +73465,41 @@
       "oferta_id": 65,
       "preco": 23.99,
       "registrado_em": "2026-11-17T21:59:25.071368-03:00"
+    },
+    {
+      "oferta_id": 411,
+      "preco": 239.0,
+      "registrado_em": "2026-11-18T05:00:13.924507-03:00"
+    },
+    {
+      "oferta_id": 407,
+      "preco": 20.59,
+      "registrado_em": "2026-11-18T05:00:13.924507-03:00"
+    },
+    {
+      "oferta_id": 410,
+      "preco": 20.23,
+      "registrado_em": "2026-11-18T05:00:13.924507-03:00"
+    },
+    {
+      "oferta_id": 413,
+      "preco": 16.92,
+      "registrado_em": "2026-11-18T05:00:13.924507-03:00"
+    },
+    {
+      "oferta_id": 412,
+      "preco": 14.99,
+      "registrado_em": "2026-11-18T05:00:13.924507-03:00"
+    },
+    {
+      "oferta_id": 406,
+      "preco": 19.06,
+      "registrado_em": "2026-11-18T05:00:13.924507-03:00"
+    },
+    {
+      "oferta_id": 65,
+      "preco": 23.99,
+      "registrado_em": "2026-11-18T05:04:59.606980-03:00"
     }
   ],
   "notificacoes": [
@@ -76118,6 +76153,13 @@
       "enviada_em": "2026-11-17T21:54:44.669282-03:00",
       "erro": "telegram: chat=-1003941125017: HTTP 403 {\"ok\":false,\"error_code\":403,\"description\":\"Forbidden: bot was kicked from the channel chat\"}",
       "oferta_id": 411,
+      "sucesso": false,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-11-18T05:00:18.914665-03:00",
+      "erro": "telegram: chat=-1003941125017: HTTP 403 {\"ok\":false,\"error_code\":403,\"description\":\"Forbidden: bot was kicked from the channel chat\"}",
+      "oferta_id": 413,
       "sucesso": false,
       "tipo": "nova"
     }
@@ -80899,7 +80941,7 @@
     },
     "406": {
       "ativa": true,
-      "atualizada_em": "2026-11-17T21:54:36.242377-03:00",
+      "atualizada_em": "2026-11-18T05:00:13.924507-03:00",
       "coletada_em": "2026-11-16T22:02:03.913869-03:00",
       "desconto_pct": 68,
       "fonte": "promobit",
@@ -80913,7 +80955,7 @@
     },
     "407": {
       "ativa": true,
-      "atualizada_em": "2026-11-17T21:54:36.242377-03:00",
+      "atualizada_em": "2026-11-18T05:00:13.924507-03:00",
       "coletada_em": "2026-11-17T05:57:50.115522-03:00",
       "desconto_pct": 48,
       "fonte": "promobit",
@@ -80969,7 +81011,7 @@
     },
     "410": {
       "ativa": true,
-      "atualizada_em": "2026-11-17T21:54:36.242377-03:00",
+      "atualizada_em": "2026-11-18T05:00:13.924507-03:00",
       "coletada_em": "2026-11-17T15:05:14.737796-03:00",
       "desconto_pct": 55,
       "fonte": "promobit",
@@ -80983,7 +81025,7 @@
     },
     "411": {
       "ativa": true,
-      "atualizada_em": "2026-11-17T21:54:36.242377-03:00",
+      "atualizada_em": "2026-11-18T05:00:13.924507-03:00",
       "coletada_em": "2026-11-17T21:54:36.242377-03:00",
       "desconto_pct": 35,
       "fonte": "promobit",
@@ -80997,7 +81039,7 @@
     },
     "412": {
       "ativa": true,
-      "atualizada_em": "2026-11-17T21:54:36.242377-03:00",
+      "atualizada_em": "2026-11-18T05:00:13.924507-03:00",
       "coletada_em": "2026-11-17T21:54:36.242377-03:00",
       "desconto_pct": 57,
       "fonte": "promobit",
@@ -81008,6 +81050,20 @@
       "preco_de": 34.9,
       "produto_id": 170,
       "url": "https://www.promobit.com.br/oferta/bemdita-ghee-hidratacao-banana-100g-lola-cosmetics-3224685/"
+    },
+    "413": {
+      "ativa": true,
+      "atualizada_em": "2026-11-18T05:00:13.924507-03:00",
+      "coletada_em": "2026-11-18T05:00:13.924507-03:00",
+      "desconto_pct": 66,
+      "fonte": "promobit",
+      "hash_unico": "47a8bf48ce9b1f651f2b75e86676ad01",
+      "id": 413,
+      "loja": "Amazon",
+      "preco_atual": 16.92,
+      "preco_de": 49.9,
+      "produto_id": 182,
+      "url": "https://www.promobit.com.br/oferta/dream-cream-mascara-de-hidratacao-200g-lola-cosmetics-nutricao-intensa-e-brilho-3225384/"
     },
     "42": {
       "ativa": false,
@@ -81361,7 +81417,7 @@
     },
     "65": {
       "ativa": true,
-      "atualizada_em": "2026-11-17T21:59:25.071368-03:00",
+      "atualizada_em": "2026-11-18T05:04:59.606980-03:00",
       "coletada_em": "2026-06-24T09:43:45.342507-03:00",
       "desconto_pct": 36,
       "fonte": "americanas",
@@ -82720,6 +82776,15 @@
       "marca": "Nike",
       "titulo_normalizado": "tenis nike flex experience run 12 feminino",
       "titulo_original": "Tênis Nike Flex Experience Run 12 Feminino"
+    },
+    "182": {
+      "categoria": "cabelo",
+      "criado_em": "2026-11-18T05:00:13.924827-03:00",
+      "id": 182,
+      "imagem_url": "https://i.promobit.com.br/268/962490549417949756119209849671.jpg",
+      "marca": "Lola Cosmetics",
+      "titulo_normalizado": "dream cream mascara de hidratacao 200g lola cosmetics | nutricao intensa e brilho",
+      "titulo_original": "Dream Cream Máscara de Hidratação 200g Lola Cosmetics | Nutrição intensa e brilho"
     },
     "19": {
       "categoria": "corrida",
