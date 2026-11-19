@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 417,
+    "oferta": 418,
     "produto": 184
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-11-18T20:24:09.412456-03:00",
+      "ultima_coleta_em": "2026-11-19T01:20:39.729781-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-11-18T20:22:51.696636-03:00",
+      "ultima_coleta_em": "2026-11-19T01:19:20.736151-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 1,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-11-18T20:23:17.757100-03:00",
+      "ultima_coleta_em": "2026-11-19T01:19:46.985296-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-11-18T20:20:55.768843-03:00",
+      "ultima_coleta_em": "2026-11-19T01:17:38.092494-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-11-18T20:21:37.970560-03:00",
+      "ultima_coleta_em": "2026-11-19T01:18:20.759245-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-11-18T20:19:53.546052-03:00",
+      "ultima_coleta_em": "2026-11-19T01:16:35.400892-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-11-18T20:20:24.706375-03:00",
+      "ultima_coleta_em": "2026-11-19T01:17:06.741660-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-11-18T20:18:30.981362-03:00",
+      "ultima_coleta_em": "2026-11-19T01:15:13.021323-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,7 +71,7 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-11-18T20:18:09.379817-03:00",
+      "ultima_coleta_em": "2026-11-19T01:14:51.699624-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 5,
       "ultima_coleta_status": "ok"
@@ -79,7 +79,7 @@
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-11-18T20:19:04.785443-03:00",
+      "ultima_coleta_em": "2026-11-19T01:15:46.708854-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -73570,6 +73570,36 @@
       "oferta_id": 65,
       "preco": 23.99,
       "registrado_em": "2026-11-18T20:22:51.696468-03:00"
+    },
+    {
+      "oferta_id": 416,
+      "preco": 559.99,
+      "registrado_em": "2026-11-19T01:14:45.962914-03:00"
+    },
+    {
+      "oferta_id": 417,
+      "preco": 16.15,
+      "registrado_em": "2026-11-19T01:14:45.962914-03:00"
+    },
+    {
+      "oferta_id": 410,
+      "preco": 20.23,
+      "registrado_em": "2026-11-19T01:14:45.962914-03:00"
+    },
+    {
+      "oferta_id": 412,
+      "preco": 14.99,
+      "registrado_em": "2026-11-19T01:14:45.962914-03:00"
+    },
+    {
+      "oferta_id": 406,
+      "preco": 19.06,
+      "registrado_em": "2026-11-19T01:14:45.962914-03:00"
+    },
+    {
+      "oferta_id": 65,
+      "preco": 23.99,
+      "registrado_em": "2026-11-19T01:19:20.735903-03:00"
     }
   ],
   "notificacoes": [
@@ -76237,6 +76267,13 @@
       "enviada_em": "2026-11-18T14:06:41.623278-03:00",
       "erro": "telegram: chat=-1003941125017: HTTP 403 {\"ok\":false,\"error_code\":403,\"description\":\"Forbidden: bot was kicked from the channel chat\"}",
       "oferta_id": 415,
+      "sucesso": false,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-11-19T01:14:51.699377-03:00",
+      "erro": "telegram: chat=-1003941125017: HTTP 400 {\"ok\":false,\"error_code\":400,\"description\":\"Bad Request: chat not found\"}",
+      "oferta_id": 417,
       "sucesso": false,
       "tipo": "nova"
     }
@@ -81018,7 +81055,7 @@
     },
     "406": {
       "ativa": true,
-      "atualizada_em": "2026-11-18T20:18:09.379503-03:00",
+      "atualizada_em": "2026-11-19T01:14:45.962914-03:00",
       "coletada_em": "2026-11-16T22:02:03.913869-03:00",
       "desconto_pct": 68,
       "fonte": "promobit",
@@ -81088,7 +81125,7 @@
     },
     "410": {
       "ativa": true,
-      "atualizada_em": "2026-11-18T20:18:09.379503-03:00",
+      "atualizada_em": "2026-11-19T01:14:45.962914-03:00",
       "coletada_em": "2026-11-17T15:05:14.737796-03:00",
       "desconto_pct": 55,
       "fonte": "promobit",
@@ -81116,7 +81153,7 @@
     },
     "412": {
       "ativa": true,
-      "atualizada_em": "2026-11-18T20:18:09.379503-03:00",
+      "atualizada_em": "2026-11-19T01:14:45.962914-03:00",
       "coletada_em": "2026-11-17T21:54:36.242377-03:00",
       "desconto_pct": 57,
       "fonte": "promobit",
@@ -81172,7 +81209,7 @@
     },
     "416": {
       "ativa": false,
-      "atualizada_em": "2026-11-18T20:18:09.379503-03:00",
+      "atualizada_em": "2026-11-19T01:14:45.962914-03:00",
       "coletada_em": "2026-11-18T20:18:09.379503-03:00",
       "desconto_pct": 38,
       "fonte": "promobit",
@@ -81183,6 +81220,20 @@
       "preco_de": 899.99,
       "produto_id": 37,
       "url": "https://www.promobit.com.br/oferta/tenis-adidas-adizero-drive-rc-feminino-3228545/"
+    },
+    "417": {
+      "ativa": true,
+      "atualizada_em": "2026-11-19T01:14:45.962914-03:00",
+      "coletada_em": "2026-11-19T01:14:45.962914-03:00",
+      "desconto_pct": 64,
+      "fonte": "promobit",
+      "hash_unico": "5b3fde9ee29eb30bd93a723e5a58751e",
+      "id": 417,
+      "loja": "Amazon",
+      "preco_atual": 16.15,
+      "preco_de": 44.9,
+      "produto_id": 18,
+      "url": "https://www.promobit.com.br/oferta/xapadinha-shampoo-antiquebra-250ml-lola-cosmetics-3229080/"
     },
     "42": {
       "ativa": false,
@@ -81536,7 +81587,7 @@
     },
     "65": {
       "ativa": true,
-      "atualizada_em": "2026-11-18T20:22:51.696468-03:00",
+      "atualizada_em": "2026-11-19T01:19:20.735903-03:00",
       "coletada_em": "2026-06-24T09:43:45.342507-03:00",
       "desconto_pct": 36,
       "fonte": "americanas",
