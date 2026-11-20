@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 419,
+    "oferta": 421,
     "produto": 185
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-11-20T07:22:54.634137-03:00",
+      "ultima_coleta_em": "2026-11-20T15:51:11.799462-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-11-20T07:20:51.481173-03:00",
+      "ultima_coleta_em": "2026-11-20T15:49:51.884548-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 1,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-11-20T07:21:17.810982-03:00",
+      "ultima_coleta_em": "2026-11-20T15:50:18.088956-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-11-20T07:19:04.315993-03:00",
+      "ultima_coleta_em": "2026-11-20T15:48:01.785017-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-11-20T07:19:46.445462-03:00",
+      "ultima_coleta_em": "2026-11-20T15:48:43.780269-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-11-20T07:18:01.519945-03:00",
+      "ultima_coleta_em": "2026-11-20T15:46:58.419602-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-11-20T07:18:33.081693-03:00",
+      "ultima_coleta_em": "2026-11-20T15:47:30.374555-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-11-20T07:16:38.977045-03:00",
+      "ultima_coleta_em": "2026-11-20T15:45:34.166698-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,7 +71,7 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-11-20T07:16:17.558832-03:00",
+      "ultima_coleta_em": "2026-11-20T15:45:12.709631-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 3,
       "ultima_coleta_status": "ok"
@@ -79,7 +79,7 @@
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-11-20T07:17:12.754982-03:00",
+      "ultima_coleta_em": "2026-11-20T15:46:08.891664-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -73700,6 +73700,26 @@
       "oferta_id": 65,
       "preco": 23.99,
       "registrado_em": "2026-11-20T07:20:51.480961-03:00"
+    },
+    {
+      "oferta_id": 410,
+      "preco": 20.23,
+      "registrado_em": "2026-11-20T15:45:06.113919-03:00"
+    },
+    {
+      "oferta_id": 419,
+      "preco": 20.57,
+      "registrado_em": "2026-11-20T15:45:06.113919-03:00"
+    },
+    {
+      "oferta_id": 420,
+      "preco": 21.85,
+      "registrado_em": "2026-11-20T15:45:06.113919-03:00"
+    },
+    {
+      "oferta_id": 65,
+      "preco": 23.99,
+      "registrado_em": "2026-11-20T15:49:51.884342-03:00"
     }
   ],
   "notificacoes": [
@@ -76381,6 +76401,13 @@
       "enviada_em": "2026-11-19T10:07:58.088102-03:00",
       "erro": "telegram: chat=-1003941125017: HTTP 400 {\"ok\":false,\"error_code\":400,\"description\":\"Bad Request: chat not found\"}",
       "oferta_id": 418,
+      "sucesso": false,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-11-20T15:45:12.709448-03:00",
+      "erro": "telegram: chat=-1003941125017: HTTP 400 {\"ok\":false,\"error_code\":400,\"description\":\"Bad Request: chat not found\"}",
+      "oferta_id": 419,
       "sucesso": false,
       "tipo": "nova"
     }
@@ -81232,7 +81259,7 @@
     },
     "410": {
       "ativa": true,
-      "atualizada_em": "2026-11-20T07:16:17.558375-03:00",
+      "atualizada_em": "2026-11-20T15:45:06.113919-03:00",
       "coletada_em": "2026-11-17T15:05:14.737796-03:00",
       "desconto_pct": 55,
       "fonte": "promobit",
@@ -81356,6 +81383,20 @@
       "produto_id": 184,
       "url": "https://www.promobit.com.br/oferta/tenis-feminino-asics-novablast-5-3230366/"
     },
+    "419": {
+      "ativa": true,
+      "atualizada_em": "2026-11-20T15:45:06.113919-03:00",
+      "coletada_em": "2026-11-20T15:45:06.113919-03:00",
+      "desconto_pct": 68,
+      "fonte": "promobit",
+      "hash_unico": "ac5329f8187bfb9522a2d37bf4c09f0f",
+      "id": 419,
+      "loja": "Amazon",
+      "preco_atual": 20.57,
+      "preco_de": 64.9,
+      "produto_id": 14,
+      "url": "https://www.promobit.com.br/oferta/milagre-creme-para-pentear-450g-lola-cosmetics-3235113/"
+    },
     "42": {
       "ativa": false,
       "atualizada_em": "2026-06-13T05:12:42.081924-03:00",
@@ -81369,6 +81410,20 @@
       "preco_de": 499.99,
       "produto_id": 32,
       "url": "https://www.promobit.com.br/oferta/tenis-adidas-boost-run-feminino-2850670/"
+    },
+    "420": {
+      "ativa": false,
+      "atualizada_em": "2026-11-20T15:45:06.113919-03:00",
+      "coletada_em": "2026-11-20T15:45:06.113919-03:00",
+      "desconto_pct": 66,
+      "fonte": "promobit",
+      "hash_unico": "3b0083b0df35eb3483707dfec5d8786e",
+      "id": 420,
+      "loja": "Amazon",
+      "preco_atual": 21.85,
+      "preco_de": 64.9,
+      "produto_id": 14,
+      "url": "https://www.promobit.com.br/oferta/milagre-creme-para-pentear-450g-lola-cosmetics-3234939/"
     },
     "43": {
       "ativa": false,
@@ -81708,7 +81763,7 @@
     },
     "65": {
       "ativa": true,
-      "atualizada_em": "2026-11-20T07:20:51.480961-03:00",
+      "atualizada_em": "2026-11-20T15:49:51.884342-03:00",
       "coletada_em": "2026-06-24T09:43:45.342507-03:00",
       "desconto_pct": 36,
       "fonte": "americanas",
