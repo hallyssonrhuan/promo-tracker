@@ -7,7 +7,7 @@
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-11-19T23:33:48.614998-03:00",
+      "ultima_coleta_em": "2026-11-20T07:22:54.634137-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-11-19T23:32:29.134125-03:00",
+      "ultima_coleta_em": "2026-11-20T07:20:51.481173-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 1,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-11-19T23:32:55.228251-03:00",
+      "ultima_coleta_em": "2026-11-20T07:21:17.810982-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-11-19T23:30:38.176929-03:00",
+      "ultima_coleta_em": "2026-11-20T07:19:04.315993-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-11-19T23:31:20.076596-03:00",
+      "ultima_coleta_em": "2026-11-20T07:19:46.445462-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-11-19T23:29:35.477968-03:00",
+      "ultima_coleta_em": "2026-11-20T07:18:01.519945-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-11-19T23:30:06.729809-03:00",
+      "ultima_coleta_em": "2026-11-20T07:18:33.081693-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-11-19T23:28:10.611678-03:00",
+      "ultima_coleta_em": "2026-11-20T07:16:38.977045-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,7 +71,7 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-11-19T23:27:49.225716-03:00",
+      "ultima_coleta_em": "2026-11-20T07:16:17.558832-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 3,
       "ultima_coleta_status": "ok"
@@ -79,7 +79,7 @@
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-11-19T23:28:45.757798-03:00",
+      "ultima_coleta_em": "2026-11-20T07:17:12.754982-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -73680,6 +73680,26 @@
       "oferta_id": 65,
       "preco": 23.99,
       "registrado_em": "2026-11-19T23:32:29.133904-03:00"
+    },
+    {
+      "oferta_id": 417,
+      "preco": 16.15,
+      "registrado_em": "2026-11-20T07:16:17.558375-03:00"
+    },
+    {
+      "oferta_id": 410,
+      "preco": 20.23,
+      "registrado_em": "2026-11-20T07:16:17.558375-03:00"
+    },
+    {
+      "oferta_id": 412,
+      "preco": 14.99,
+      "registrado_em": "2026-11-20T07:16:17.558375-03:00"
+    },
+    {
+      "oferta_id": 65,
+      "preco": 23.99,
+      "registrado_em": "2026-11-20T07:20:51.480961-03:00"
     }
   ],
   "notificacoes": [
@@ -80707,8 +80727,8 @@
       "url": "https://www.promobit.com.br/oferta/densidade-shampoo-250ml-lola-cosmetics-3190930/"
     },
     "379": {
-      "ativa": true,
-      "atualizada_em": "2026-11-10T23:16:06.063868-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-11-20T07:22:59.958053-03:00",
       "coletada_em": "2026-11-09T23:35:11.112777-03:00",
       "desconto_pct": 56,
       "fonte": "promobit",
@@ -81211,8 +81231,8 @@
       "url": "https://www.promobit.com.br/oferta/tenis-nike-run-swift-3-feminino-2850402/"
     },
     "410": {
-      "ativa": false,
-      "atualizada_em": "2026-11-19T23:34:28.835974-03:00",
+      "ativa": true,
+      "atualizada_em": "2026-11-20T07:16:17.558375-03:00",
       "coletada_em": "2026-11-17T15:05:14.737796-03:00",
       "desconto_pct": 55,
       "fonte": "promobit",
@@ -81239,8 +81259,8 @@
       "url": "https://www.promobit.com.br/oferta/tenis-nike-flex-experience-run-12-feminino-3224421/"
     },
     "412": {
-      "ativa": false,
-      "atualizada_em": "2026-11-19T23:34:36.145164-03:00",
+      "ativa": true,
+      "atualizada_em": "2026-11-20T07:16:17.558375-03:00",
       "coletada_em": "2026-11-17T21:54:36.242377-03:00",
       "desconto_pct": 57,
       "fonte": "promobit",
@@ -81309,8 +81329,8 @@
       "url": "https://www.promobit.com.br/oferta/tenis-adidas-adizero-drive-rc-feminino-3228545/"
     },
     "417": {
-      "ativa": false,
-      "atualizada_em": "2026-11-19T23:34:43.229027-03:00",
+      "ativa": true,
+      "atualizada_em": "2026-11-20T07:16:17.558375-03:00",
       "coletada_em": "2026-11-19T01:14:45.962914-03:00",
       "desconto_pct": 64,
       "fonte": "promobit",
@@ -81688,7 +81708,7 @@
     },
     "65": {
       "ativa": true,
-      "atualizada_em": "2026-11-19T23:32:29.133904-03:00",
+      "atualizada_em": "2026-11-20T07:20:51.480961-03:00",
       "coletada_em": "2026-06-24T09:43:45.342507-03:00",
       "desconto_pct": 36,
       "fonte": "americanas",
