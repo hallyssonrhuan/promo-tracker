@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 431,
+    "oferta": 432,
     "produto": 187
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-11-23T18:47:51.639294-03:00",
+      "ultima_coleta_em": "2026-11-24T02:38:53.845709-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,15 +15,15 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-11-23T18:46:20.769535-03:00",
+      "ultima_coleta_em": "2026-11-24T02:36:07.129543-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 1,
+      "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
     },
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-11-23T18:46:47.039871-03:00",
+      "ultima_coleta_em": "2026-11-24T02:36:33.410836-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-11-23T18:44:25.921610-03:00",
+      "ultima_coleta_em": "2026-11-24T02:34:17.732100-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-11-23T18:45:07.972256-03:00",
+      "ultima_coleta_em": "2026-11-24T02:35:00.286882-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-11-23T18:43:22.897320-03:00",
+      "ultima_coleta_em": "2026-11-24T02:33:15.079846-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-11-23T18:43:54.376688-03:00",
+      "ultima_coleta_em": "2026-11-24T02:33:46.419427-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-11-23T18:41:58.069623-03:00",
+      "ultima_coleta_em": "2026-11-24T02:31:49.971259-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-11-23T18:41:36.636351-03:00",
+      "ultima_coleta_em": "2026-11-24T02:31:28.496286-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 4,
+      "ultima_coleta_qtd": 5,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-11-23T18:42:33.351112-03:00",
+      "ultima_coleta_em": "2026-11-24T02:32:25.390700-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -74110,6 +74110,31 @@
       "oferta_id": 65,
       "preco": 23.99,
       "registrado_em": "2026-11-23T18:46:20.769250-03:00"
+    },
+    {
+      "oferta_id": 431,
+      "preco": 23.0,
+      "registrado_em": "2026-11-24T02:31:22.997756-03:00"
+    },
+    {
+      "oferta_id": 430,
+      "preco": 19.57,
+      "registrado_em": "2026-11-24T02:31:22.997756-03:00"
+    },
+    {
+      "oferta_id": 429,
+      "preco": 21.75,
+      "registrado_em": "2026-11-24T02:31:22.997756-03:00"
+    },
+    {
+      "oferta_id": 427,
+      "preco": 18.8,
+      "registrado_em": "2026-11-24T02:31:22.997756-03:00"
+    },
+    {
+      "oferta_id": 425,
+      "preco": 17.57,
+      "registrado_em": "2026-11-24T02:31:22.997756-03:00"
     }
   ],
   "notificacoes": [
@@ -76868,6 +76893,13 @@
       "enviada_em": "2026-11-23T18:41:36.636141-03:00",
       "erro": "telegram: chat=-1003941125017: HTTP 400 {\"ok\":false,\"error_code\":400,\"description\":\"Bad Request: chat not found\"}",
       "oferta_id": 430,
+      "sucesso": false,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-11-24T02:31:28.496085-03:00",
+      "erro": "telegram: chat=-1003941125017: HTTP 400 {\"ok\":false,\"error_code\":400,\"description\":\"Bad Request: chat not found\"}",
+      "oferta_id": 431,
       "sucesso": false,
       "tipo": "nova"
     }
@@ -81844,8 +81876,8 @@
       "url": "https://www.promobit.com.br/oferta/tenis-feminino-asics-novablast-5-3230366/"
     },
     "419": {
-      "ativa": true,
-      "atualizada_em": "2026-11-23T06:44:07.010496-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-11-24T02:39:21.550640-03:00",
       "coletada_em": "2026-11-20T15:45:06.113919-03:00",
       "desconto_pct": 68,
       "fonte": "promobit",
@@ -81900,8 +81932,8 @@
       "url": "https://www.promobit.com.br/oferta/tenis-nike-zoom-fly-6-3236486/"
     },
     "422": {
-      "ativa": true,
-      "atualizada_em": "2026-11-22T12:32:13.551098-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-11-24T02:39:29.027937-03:00",
       "coletada_em": "2026-11-20T21:11:30.864479-03:00",
       "desconto_pct": 33,
       "fonte": "promobit",
@@ -81943,7 +81975,7 @@
     },
     "425": {
       "ativa": true,
-      "atualizada_em": "2026-11-23T18:41:31.148150-03:00",
+      "atualizada_em": "2026-11-24T02:31:22.997756-03:00",
       "coletada_em": "2026-11-21T17:53:10.792460-03:00",
       "desconto_pct": 61,
       "fonte": "promobit",
@@ -81971,7 +82003,7 @@
     },
     "427": {
       "ativa": true,
-      "atualizada_em": "2026-11-23T18:41:31.148150-03:00",
+      "atualizada_em": "2026-11-24T02:31:22.997756-03:00",
       "coletada_em": "2026-11-21T21:43:26.262475-03:00",
       "desconto_pct": 62,
       "fonte": "promobit",
@@ -81999,7 +82031,7 @@
     },
     "429": {
       "ativa": false,
-      "atualizada_em": "2026-11-23T18:41:31.148150-03:00",
+      "atualizada_em": "2026-11-24T02:31:22.997756-03:00",
       "coletada_em": "2026-11-22T22:38:29.694543-03:00",
       "desconto_pct": 60,
       "fonte": "promobit",
@@ -82027,7 +82059,7 @@
     },
     "430": {
       "ativa": true,
-      "atualizada_em": "2026-11-23T18:41:31.148150-03:00",
+      "atualizada_em": "2026-11-24T02:31:22.997756-03:00",
       "coletada_em": "2026-11-23T18:41:31.148150-03:00",
       "desconto_pct": 64,
       "fonte": "promobit",
@@ -82038,6 +82070,20 @@
       "preco_de": 54.9,
       "produto_id": 16,
       "url": "https://www.promobit.com.br/oferta/danos-vorazes-leave-in-200ml-lola-cosmetics-3241983/"
+    },
+    "431": {
+      "ativa": true,
+      "atualizada_em": "2026-11-24T02:31:22.997756-03:00",
+      "coletada_em": "2026-11-24T02:31:22.997756-03:00",
+      "desconto_pct": 54,
+      "fonte": "promobit",
+      "hash_unico": "41df705bb2714b61cdbbfade62d66d1f",
+      "id": 431,
+      "loja": "Amazon",
+      "preco_atual": 23.0,
+      "preco_de": 49.9,
+      "produto_id": 5,
+      "url": "https://www.promobit.com.br/oferta/meu-cacho-minha-vida-condicionador-500g-lola-cosmetics-3245542/"
     },
     "44": {
       "ativa": false,
