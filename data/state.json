@@ -7,7 +7,7 @@
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-11-24T21:47:46.023672-03:00",
+      "ultima_coleta_em": "2026-11-25T06:14:51.175025-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-11-24T21:46:28.602711-03:00",
+      "ultima_coleta_em": "2026-11-25T06:13:32.059206-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 1,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-11-24T21:46:54.435745-03:00",
+      "ultima_coleta_em": "2026-11-25T06:13:58.101037-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-11-24T21:44:44.058946-03:00",
+      "ultima_coleta_em": "2026-11-25T06:11:38.111291-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-11-24T21:45:25.469941-03:00",
+      "ultima_coleta_em": "2026-11-25T06:12:20.542680-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-11-24T21:43:40.614202-03:00",
+      "ultima_coleta_em": "2026-11-25T06:10:34.754302-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-11-24T21:44:13.021277-03:00",
+      "ultima_coleta_em": "2026-11-25T06:11:06.917270-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-11-24T21:42:19.142786-03:00",
+      "ultima_coleta_em": "2026-11-25T06:09:11.946853-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,7 +71,7 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-11-24T21:41:57.785156-03:00",
+      "ultima_coleta_em": "2026-11-25T06:08:50.237152-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 4,
       "ultima_coleta_status": "ok"
@@ -79,7 +79,7 @@
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-11-24T21:42:52.316689-03:00",
+      "ultima_coleta_em": "2026-11-25T06:09:45.966586-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -74195,6 +74195,31 @@
       "oferta_id": 65,
       "preco": 21.99,
       "registrado_em": "2026-11-24T21:46:28.602550-03:00"
+    },
+    {
+      "oferta_id": 434,
+      "preco": 513.94,
+      "registrado_em": "2026-11-25T06:08:50.236846-03:00"
+    },
+    {
+      "oferta_id": 431,
+      "preco": 23.0,
+      "registrado_em": "2026-11-25T06:08:50.236846-03:00"
+    },
+    {
+      "oferta_id": 435,
+      "preco": 20.24,
+      "registrado_em": "2026-11-25T06:08:50.236846-03:00"
+    },
+    {
+      "oferta_id": 430,
+      "preco": 19.57,
+      "registrado_em": "2026-11-25T06:08:50.236846-03:00"
+    },
+    {
+      "oferta_id": 65,
+      "preco": 21.99,
+      "registrado_em": "2026-11-25T06:13:32.058964-03:00"
     }
   ],
   "notificacoes": [
@@ -81733,8 +81758,8 @@
       "url": "https://www.promobit.com.br/oferta/dream-cream-mascara-de-hidratacao-450g-lola-cosmetics-3213878/"
     },
     "403": {
-      "ativa": true,
-      "atualizada_em": "2026-11-16T14:35:21.720453-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-11-25T06:14:56.564548-03:00",
       "coletada_em": "2026-11-14T16:38:35.158618-03:00",
       "desconto_pct": 63,
       "fonte": "promobit",
@@ -82069,8 +82094,8 @@
       "url": "https://www.promobit.com.br/oferta/meu-cacho-minha-vida-shampoo-500ml-lola-cosmetics-3236765/"
     },
     "425": {
-      "ativa": true,
-      "atualizada_em": "2026-11-24T02:31:22.997756-03:00",
+      "ativa": false,
+      "atualizada_em": "2026-11-25T06:15:26.890294-03:00",
       "coletada_em": "2026-11-21T17:53:10.792460-03:00",
       "desconto_pct": 61,
       "fonte": "promobit",
@@ -82154,7 +82179,7 @@
     },
     "430": {
       "ativa": true,
-      "atualizada_em": "2026-11-24T21:41:49.667060-03:00",
+      "atualizada_em": "2026-11-25T06:08:50.236846-03:00",
       "coletada_em": "2026-11-23T18:41:31.148150-03:00",
       "desconto_pct": 64,
       "fonte": "promobit",
@@ -82168,7 +82193,7 @@
     },
     "431": {
       "ativa": true,
-      "atualizada_em": "2026-11-24T21:41:49.667060-03:00",
+      "atualizada_em": "2026-11-25T06:08:50.236846-03:00",
       "coletada_em": "2026-11-24T02:31:22.997756-03:00",
       "desconto_pct": 54,
       "fonte": "promobit",
@@ -82210,7 +82235,7 @@
     },
     "434": {
       "ativa": true,
-      "atualizada_em": "2026-11-24T21:41:49.667060-03:00",
+      "atualizada_em": "2026-11-25T06:08:50.236846-03:00",
       "coletada_em": "2026-11-24T21:41:49.667060-03:00",
       "desconto_pct": 43,
       "fonte": "promobit",
@@ -82224,7 +82249,7 @@
     },
     "435": {
       "ativa": true,
-      "atualizada_em": "2026-11-24T21:41:49.667060-03:00",
+      "atualizada_em": "2026-11-25T06:08:50.236846-03:00",
       "coletada_em": "2026-11-24T21:41:49.667060-03:00",
       "desconto_pct": 69,
       "fonte": "promobit",
@@ -82560,7 +82585,7 @@
     },
     "65": {
       "ativa": true,
-      "atualizada_em": "2026-11-24T21:46:28.602550-03:00",
+      "atualizada_em": "2026-11-25T06:13:32.058964-03:00",
       "coletada_em": "2026-06-24T09:43:45.342507-03:00",
       "desconto_pct": 41,
       "fonte": "americanas",
