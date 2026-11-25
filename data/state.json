@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 436,
-    "produto": 188
+    "oferta": 437,
+    "produto": 189
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-11-25T06:14:51.175025-03:00",
+      "ultima_coleta_em": "2026-11-25T16:16:47.259813-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-11-25T06:13:32.059206-03:00",
+      "ultima_coleta_em": "2026-11-25T16:15:27.498081-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 1,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-11-25T06:13:58.101037-03:00",
+      "ultima_coleta_em": "2026-11-25T16:15:53.798626-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-11-25T06:11:38.111291-03:00",
+      "ultima_coleta_em": "2026-11-25T16:13:33.388090-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-11-25T06:12:20.542680-03:00",
+      "ultima_coleta_em": "2026-11-25T16:14:15.606284-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-11-25T06:10:34.754302-03:00",
+      "ultima_coleta_em": "2026-11-25T16:12:30.263556-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-11-25T06:11:06.917270-03:00",
+      "ultima_coleta_em": "2026-11-25T16:13:01.986127-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-11-25T06:09:11.946853-03:00",
+      "ultima_coleta_em": "2026-11-25T16:11:05.072843-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-11-25T06:08:50.237152-03:00",
+      "ultima_coleta_em": "2026-11-25T16:10:43.596879-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 4,
+      "ultima_coleta_qtd": 3,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-11-25T06:09:45.966586-03:00",
+      "ultima_coleta_em": "2026-11-25T16:11:40.453023-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -74220,6 +74220,26 @@
       "oferta_id": 65,
       "preco": 21.99,
       "registrado_em": "2026-11-25T06:13:32.058964-03:00"
+    },
+    {
+      "oferta_id": 436,
+      "preco": 849.99,
+      "registrado_em": "2026-11-25T16:10:37.938981-03:00"
+    },
+    {
+      "oferta_id": 431,
+      "preco": 23.0,
+      "registrado_em": "2026-11-25T16:10:37.938981-03:00"
+    },
+    {
+      "oferta_id": 435,
+      "preco": 20.24,
+      "registrado_em": "2026-11-25T16:10:37.938981-03:00"
+    },
+    {
+      "oferta_id": 65,
+      "preco": 21.99,
+      "registrado_em": "2026-11-25T16:15:27.497843-03:00"
     }
   ],
   "notificacoes": [
@@ -77020,6 +77040,13 @@
       "enviada_em": "2026-11-24T21:41:57.784935-03:00",
       "erro": "telegram: chat=-1003941125017: HTTP 400 {\"ok\":false,\"error_code\":400,\"description\":\"Bad Request: chat not found\"}",
       "oferta_id": 434,
+      "sucesso": false,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-11-25T16:10:43.596669-03:00",
+      "erro": "telegram: chat=-1003941125017: HTTP 400 {\"ok\":false,\"error_code\":400,\"description\":\"Bad Request: chat not found\"}",
+      "oferta_id": 436,
       "sucesso": false,
       "tipo": "nova"
     }
@@ -82193,7 +82220,7 @@
     },
     "431": {
       "ativa": true,
-      "atualizada_em": "2026-11-25T06:08:50.236846-03:00",
+      "atualizada_em": "2026-11-25T16:10:37.938981-03:00",
       "coletada_em": "2026-11-24T02:31:22.997756-03:00",
       "desconto_pct": 54,
       "fonte": "promobit",
@@ -82249,7 +82276,7 @@
     },
     "435": {
       "ativa": true,
-      "atualizada_em": "2026-11-25T06:08:50.236846-03:00",
+      "atualizada_em": "2026-11-25T16:10:37.938981-03:00",
       "coletada_em": "2026-11-24T21:41:49.667060-03:00",
       "desconto_pct": 69,
       "fonte": "promobit",
@@ -82260,6 +82287,20 @@
       "preco_de": 64.9,
       "produto_id": 90,
       "url": "https://www.promobit.com.br/oferta/meu-cacho-minha-vida-mascara-450g-lola-cosmetics-3249716/"
+    },
+    "436": {
+      "ativa": true,
+      "atualizada_em": "2026-11-25T16:10:37.938981-03:00",
+      "coletada_em": "2026-11-25T16:10:37.938981-03:00",
+      "desconto_pct": 58,
+      "fonte": "promobit",
+      "hash_unico": "5657d627d06c7e63297bd35ba029fc92",
+      "id": 436,
+      "loja": "Nike",
+      "preco_atual": 849.99,
+      "preco_de": 1999.99,
+      "produto_id": 188,
+      "url": "https://www.promobit.com.br/oferta/nike-vaporfly-4-fem-3253511/"
     },
     "44": {
       "ativa": false,
@@ -82585,7 +82626,7 @@
     },
     "65": {
       "ativa": true,
-      "atualizada_em": "2026-11-25T06:13:32.058964-03:00",
+      "atualizada_em": "2026-11-25T16:15:27.497843-03:00",
       "coletada_em": "2026-06-24T09:43:45.342507-03:00",
       "desconto_pct": 41,
       "fonte": "americanas",
@@ -83998,6 +84039,15 @@
       "marca": "Adidas",
       "titulo_normalizado": "adidas adizero drive rc fem",
       "titulo_original": "ADIDAS ADIZERO DRIVE RC fem."
+    },
+    "188": {
+      "categoria": "corrida",
+      "criado_em": "2026-11-25T16:10:37.939038-03:00",
+      "id": 188,
+      "imagem_url": "https://i.promobit.com.br/268/447027716117956305807185920875.png",
+      "marca": "Nike",
+      "titulo_normalizado": "nike vaporfly 4 fem",
+      "titulo_original": "NIKE VAPORFLY 4 fem."
     },
     "19": {
       "categoria": "corrida",
