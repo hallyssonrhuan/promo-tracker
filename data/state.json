@@ -1,13 +1,13 @@
 {
   "_next_id": {
-    "oferta": 443,
-    "produto": 189
+    "oferta": 446,
+    "produto": 190
   },
   "fontes": {
     "amazon": {
       "ativa": true,
       "nome": "amazon",
-      "ultima_coleta_em": "2026-11-26T16:58:25.723625-03:00",
+      "ultima_coleta_em": "2026-11-26T23:34:22.061691-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -15,7 +15,7 @@
     "americanas": {
       "ativa": true,
       "nome": "americanas",
-      "ultima_coleta_em": "2026-11-26T16:56:44.850288-03:00",
+      "ultima_coleta_em": "2026-11-26T23:32:17.316513-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 1,
       "ultima_coleta_status": "ok"
@@ -23,7 +23,7 @@
     "belezanaweb": {
       "ativa": true,
       "nome": "belezanaweb",
-      "ultima_coleta_em": "2026-11-26T16:57:11.050089-03:00",
+      "ultima_coleta_em": "2026-11-26T23:32:43.338544-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -31,7 +31,7 @@
     "centauro": {
       "ativa": true,
       "nome": "centauro",
-      "ultima_coleta_em": "2026-11-26T16:54:51.177889-03:00",
+      "ultima_coleta_em": "2026-11-26T23:30:27.919484-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -39,7 +39,7 @@
     "magazineluiza": {
       "ativa": true,
       "nome": "magazineluiza",
-      "ultima_coleta_em": "2026-11-26T16:55:33.079814-03:00",
+      "ultima_coleta_em": "2026-11-26T23:31:10.280925-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -47,7 +47,7 @@
     "mercadolivre": {
       "ativa": true,
       "nome": "mercadolivre",
-      "ultima_coleta_em": "2026-11-26T16:53:47.912919-03:00",
+      "ultima_coleta_em": "2026-11-26T23:29:24.209569-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -55,7 +55,7 @@
     "netshoes": {
       "ativa": true,
       "nome": "netshoes",
-      "ultima_coleta_em": "2026-11-26T16:54:19.952926-03:00",
+      "ultima_coleta_em": "2026-11-26T23:29:55.883076-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -63,7 +63,7 @@
     "pelando": {
       "ativa": true,
       "nome": "pelando",
-      "ultima_coleta_em": "2026-11-26T16:52:24.155447-03:00",
+      "ultima_coleta_em": "2026-11-26T23:28:01.548309-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -71,15 +71,15 @@
     "promobit": {
       "ativa": true,
       "nome": "promobit",
-      "ultima_coleta_em": "2026-11-26T16:52:02.611023-03:00",
+      "ultima_coleta_em": "2026-11-26T23:27:40.107595-03:00",
       "ultima_coleta_erro": null,
-      "ultima_coleta_qtd": 6,
+      "ultima_coleta_qtd": 9,
       "ultima_coleta_status": "ok"
     },
     "zoom": {
       "ativa": true,
       "nome": "zoom",
-      "ultima_coleta_em": "2026-11-26T16:52:58.812345-03:00",
+      "ultima_coleta_em": "2026-11-26T23:28:35.366634-03:00",
       "ultima_coleta_erro": null,
       "ultima_coleta_qtd": 0,
       "ultima_coleta_status": "ok"
@@ -74335,6 +74335,56 @@
       "oferta_id": 65,
       "preco": 21.99,
       "registrado_em": "2026-11-26T16:56:44.850114-03:00"
+    },
+    {
+      "oferta_id": 443,
+      "preco": 899.99,
+      "registrado_em": "2026-11-26T23:27:30.902889-03:00"
+    },
+    {
+      "oferta_id": 444,
+      "preco": 199.99,
+      "registrado_em": "2026-11-26T23:27:30.902889-03:00"
+    },
+    {
+      "oferta_id": 439,
+      "preco": 55.0,
+      "registrado_em": "2026-11-26T23:27:30.902889-03:00"
+    },
+    {
+      "oferta_id": 440,
+      "preco": 20.93,
+      "registrado_em": "2026-11-26T23:27:30.902889-03:00"
+    },
+    {
+      "oferta_id": 431,
+      "preco": 23.0,
+      "registrado_em": "2026-11-26T23:27:30.902889-03:00"
+    },
+    {
+      "oferta_id": 445,
+      "preco": 26.9,
+      "registrado_em": "2026-11-26T23:27:30.902889-03:00"
+    },
+    {
+      "oferta_id": 441,
+      "preco": 19.86,
+      "registrado_em": "2026-11-26T23:27:30.902889-03:00"
+    },
+    {
+      "oferta_id": 442,
+      "preco": 14.14,
+      "registrado_em": "2026-11-26T23:27:30.902889-03:00"
+    },
+    {
+      "oferta_id": 435,
+      "preco": 20.24,
+      "registrado_em": "2026-11-26T23:27:30.902889-03:00"
+    },
+    {
+      "oferta_id": 65,
+      "preco": 21.99,
+      "registrado_em": "2026-11-26T23:32:17.316344-03:00"
     }
   ],
   "notificacoes": [
@@ -77177,6 +77227,20 @@
       "enviada_em": "2026-11-26T16:52:02.610835-03:00",
       "erro": "telegram: chat=-1003941125017: HTTP 400 {\"ok\":false,\"error_code\":400,\"description\":\"Bad Request: chat not found\"}",
       "oferta_id": 442,
+      "sucesso": false,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-11-26T23:27:36.008221-03:00",
+      "erro": "telegram: chat=-1003941125017: HTTP 400 {\"ok\":false,\"error_code\":400,\"description\":\"Bad Request: chat not found\"}",
+      "oferta_id": 445,
+      "sucesso": false,
+      "tipo": "nova"
+    },
+    {
+      "enviada_em": "2026-11-26T23:27:40.107367-03:00",
+      "erro": "telegram: chat=-1003941125017: HTTP 400 {\"ok\":false,\"error_code\":400,\"description\":\"Bad Request: chat not found\"}",
+      "oferta_id": 444,
       "sucesso": false,
       "tipo": "nova"
     }
@@ -82350,7 +82414,7 @@
     },
     "431": {
       "ativa": true,
-      "atualizada_em": "2026-11-26T16:51:57.430176-03:00",
+      "atualizada_em": "2026-11-26T23:27:30.902889-03:00",
       "coletada_em": "2026-11-24T02:31:22.997756-03:00",
       "desconto_pct": 54,
       "fonte": "promobit",
@@ -82406,7 +82470,7 @@
     },
     "435": {
       "ativa": true,
-      "atualizada_em": "2026-11-26T16:51:57.430176-03:00",
+      "atualizada_em": "2026-11-26T23:27:30.902889-03:00",
       "coletada_em": "2026-11-24T21:41:49.667060-03:00",
       "desconto_pct": 69,
       "fonte": "promobit",
@@ -82462,7 +82526,7 @@
     },
     "439": {
       "ativa": true,
-      "atualizada_em": "2026-11-26T16:51:57.430176-03:00",
+      "atualizada_em": "2026-11-26T23:27:30.902889-03:00",
       "coletada_em": "2026-11-26T07:48:24.310144-03:00",
       "desconto_pct": 54,
       "fonte": "promobit",
@@ -82490,7 +82554,7 @@
     },
     "440": {
       "ativa": true,
-      "atualizada_em": "2026-11-26T16:51:57.430176-03:00",
+      "atualizada_em": "2026-11-26T23:27:30.902889-03:00",
       "coletada_em": "2026-11-26T07:48:24.310144-03:00",
       "desconto_pct": 53,
       "fonte": "promobit",
@@ -82504,7 +82568,7 @@
     },
     "441": {
       "ativa": false,
-      "atualizada_em": "2026-11-26T16:51:57.430176-03:00",
+      "atualizada_em": "2026-11-26T23:27:30.902889-03:00",
       "coletada_em": "2026-11-26T16:51:57.430176-03:00",
       "desconto_pct": 67,
       "fonte": "promobit",
@@ -82518,7 +82582,7 @@
     },
     "442": {
       "ativa": true,
-      "atualizada_em": "2026-11-26T16:51:57.430176-03:00",
+      "atualizada_em": "2026-11-26T23:27:30.902889-03:00",
       "coletada_em": "2026-11-26T16:51:57.430176-03:00",
       "desconto_pct": 59,
       "fonte": "promobit",
@@ -82529,6 +82593,48 @@
       "preco_de": 34.9,
       "produto_id": 170,
       "url": "https://www.promobit.com.br/oferta/bemdita-ghee-hidratacao-banana-100g-lola-cosmetics-3257459/"
+    },
+    "443": {
+      "ativa": false,
+      "atualizada_em": "2026-11-26T23:27:30.902889-03:00",
+      "coletada_em": "2026-11-26T23:27:30.902889-03:00",
+      "desconto_pct": 61,
+      "fonte": "promobit",
+      "hash_unico": "64fe63fa615f7409f07735dfd928708d",
+      "id": 443,
+      "loja": "Nike",
+      "preco_atual": 899.99,
+      "preco_de": 2299.99,
+      "produto_id": 188,
+      "url": "https://www.promobit.com.br/oferta/nike-vaporfly-4-fem-3262428/"
+    },
+    "444": {
+      "ativa": true,
+      "atualizada_em": "2026-11-26T23:27:30.902889-03:00",
+      "coletada_em": "2026-11-26T23:27:30.902889-03:00",
+      "desconto_pct": 43,
+      "fonte": "promobit",
+      "hash_unico": "a74009fe305f0213c6a9245b43072e6b",
+      "id": 444,
+      "loja": "Netshoes",
+      "preco_atual": 199.99,
+      "preco_de": 349.99,
+      "produto_id": 189,
+      "url": "https://www.promobit.com.br/oferta/tenis-nike-run-defy-feminino-bege-verde-3262263/"
+    },
+    "445": {
+      "ativa": true,
+      "atualizada_em": "2026-11-26T23:27:30.902889-03:00",
+      "coletada_em": "2026-11-26T23:27:30.902889-03:00",
+      "desconto_pct": 59,
+      "fonte": "promobit",
+      "hash_unico": "de028c6435df07968b0da56a528f21ff",
+      "id": 445,
+      "loja": "Amazon",
+      "preco_atual": 26.9,
+      "preco_de": 64.9,
+      "produto_id": 54,
+      "url": "https://www.promobit.com.br/oferta/dream-cream-mascara-de-hidratacao-450g-lola-cosmetics-3260770/"
     },
     "45": {
       "ativa": false,
@@ -82840,7 +82946,7 @@
     },
     "65": {
       "ativa": true,
-      "atualizada_em": "2026-11-26T16:56:44.850114-03:00",
+      "atualizada_em": "2026-11-26T23:32:17.316344-03:00",
       "coletada_em": "2026-06-24T09:43:45.342507-03:00",
       "desconto_pct": 41,
       "fonte": "americanas",
@@ -84262,6 +84368,15 @@
       "marca": "Nike",
       "titulo_normalizado": "nike vaporfly 4 fem",
       "titulo_original": "NIKE VAPORFLY 4 fem."
+    },
+    "189": {
+      "categoria": "corrida",
+      "criado_em": "2026-11-26T23:27:30.903054-03:00",
+      "id": 189,
+      "imagem_url": "https://i.promobit.com.br/268/875532234617957379804341916474.png",
+      "marca": "Nike",
+      "titulo_normalizado": "tenis nike run defy feminino bege verde",
+      "titulo_original": "Tênis Nike Run Defy Feminino Bege Verde"
     },
     "19": {
       "categoria": "corrida",
